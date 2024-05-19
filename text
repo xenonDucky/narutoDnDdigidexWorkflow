@@ -1266,6 +1266,71 @@ Tsukaimon ranges between levels 1-4. To upscale a Tsukaimon perform the followin
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+\page
+
+{{monster,frame
+## Phascomon
+*D-Rank, Standard, Small Virus, Mammal/Dark, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 12 
+**Hit Points**  :: 12 (d10) 
+**Chakra Points**  :: 8 (d6)  
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +1
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|8 (-1) |14 (+2)|10 (+0)|12 (+1)|16 (+3)|
+___
+**Saving Throws** :: Str +2, Dex +0, *Con +5*, Int +1, *Wis +4*, *Cha +6*
+**Skills** ::  Persuasion +6, Illusions +4    
+**Senses**               :: passive Perception 11
+___
+***Stubborn I (Unique)*** This Digimon gains a +2 to any check or save that would force them to be moved unwillingly.
+:
+***Condition Master I (Unique)*** Mental conditions that this creature inflicts last one round longer and have the DC to end the condition increased by +1.
+
+### Jutsu  
+***Genjutsu*** +6 to hit, (**Genjutsu save DC 14**)   
+
+D-Rank (Cost 5): Hypnosis, Night: Frigid Thoughts, Psionics: Assurance!
+### Attacks
+***Slash*** *Melee Weapon Attack* +4 to hit, reach 5ft., one target. *Hit.* 1d8+1 Slashing damage.   
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Porcupamon***
+- ***Devidramon***
+ }}
+ 
+{{monster,frame
+
+### Alternative Jutsu List
+Phascomon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Any Genjutsu.*
+ }}
+ 
+\column
+
+## Phascomon
+Phascomon is a Dark Animal Digimon. It always curls up in a treetop and sleeps often. At a glance, it seems like it's harmless, but it is a fully-fledged Demon Digimon, and there have been many injuries reported from it leaping from the treetop and attacking people as soon as they let their guard down.
+## Scaling Enemy
+Phascomon ranges between levels 1-4. To upscale a Phascomon perform the following steps at each level.
+
+- **Level 2+,** Increase the Phascomon's Hit Points by 12 & Chakra Points by 6 for every level.
+- **Level 4.** The Phascomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Phascomon](https://wikimon.net/images/d/df/Phascomon2.jpg) {position:absolute,bottom:330px,left:450px,width:340px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:50px,left:40px,margin-bottom:-30px
+##### Phascomon
+[Link](https://wikimon.net/images/d/df/Phascomon2.jpg)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
 
 \page
 
@@ -15505,14 +15570,14 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Condition Master I. | (choose) conditions that this creature inflicts last one round longer and have the DC to end the condition increased by +1. (elemental, physical, mental or sensory) |
 | Condition Master II. | (choose) conditions that this creature inflicts last two rounds longer and have the DC to end the condition increased by +2. |
 | Condition Master III. | (choose) conditions that this creature inflicts last three rounds longer and have the DC to end the condition increased by +3. |
+| Corrupting Effect I. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 7 or more, they gain 1 stack of the (choose) condition. |
+| Corrupting Effect II. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 1 stack of the (choose) condition. |
+| Corrupting Effect III. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 2 stacks of the (choose) condition. |
 | Cruel I. | Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. |
 | Cruel II. | Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. |
 | Cruel III. | When this creature deals damage, it may deal additional damage equal to its Proficiency Bonus. |
 | Cunning Action I. | This Digimon may use their bonus action to take the Disengage action. |
 | Cunning Action II. | This Digimon may use their bonus action to take the Disengage, Dash or Hide actions. |
-| Corrupting Effect I. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 7 or more, they gain 1 stack of the (choose) condition. |
-| Corrupting Effect II. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 1 stack of the (choose) condition. |
-| Corrupting Effect III. | When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 2 stacks of the (choose) condition. |
 | Dangerous Armor I. | Any creature that damages this Digimon with melee attacks takes this creature’s Proficiency bonus in (choose) Damage. |
 | Dangerous Armor II. | Any creature that damages this Digimon with melee attacks takes twice this creature’s Proficiency bonus in (choose) Damage. |
 | Dangerous Armor III. | Any creature that damages this Digimon with melee attacks takes thrice this creature’s Proficiency bonus in (choose) Damage. |
