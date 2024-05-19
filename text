@@ -539,7 +539,78 @@ Biyomon ranges between levels 1-4. To upscale a Biyomon perform the following st
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+\page
 
+{{monster,frame
+## DemiDevimon
+*D-Rank, Standard, Small Virus, Devil/Dark, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15
+**Hit Points**  :: 8 (d8) 
+**Chakra Points**  :: 8 (d8)  
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|14 (+2)|10 (+0)|14 (+2)|10 (+0)|14 (+2)|
+___
+**Saving Throws** :: Str +1, *Dex +5*, Con +1, Int +3, *Wis +3*, *Cha +5* 
+**Skills** ::      Deception +5, Persuasion +5
+**Senses**               :: passive Perception 10
+___   
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+:
+***Vampirism I (Unique)*** Once per turn, when this creature deals necrotic damage to a single creature, they recover half of the total damage dealt. 
+
+### Jutsu  
+
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Corrupt Missile, Poison Stinger
+:
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)   
+
+D-Rank (Cost 5): Glamor Tounge
+### Attacks
+***Slash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage. 
+
+ }}
+
+{{monster,frame
+### Evolves Into
+- ***Devimon***
+- ***Vilemon***
+- ***Devidramon***
+ }}
+{{monster,frame
+ ### Alternative Jutsu List
+DemiDevimon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Medical Release Keyword*
+- *Any Genjutsu*  
+ }}
+
+
+
+\column
+## DemiDevimon
+DemiDevimon is an Evil Digimon. It is a tiny familiar Digimon which has an appearance like a bat. It exists to serve as a familiar for higher-class Demon Digimon like Devimon and Myotismon, but it is also said to be the one responsible for tempting Devimon, who was an angel-species Digimon, and luring it to the Dark Side.
+
+## Scaling Enemy
+DemiDevimon ranges between levels 1-4. To upscale the DemiDevimon perform the following steps at each level.
+
+- **Level 2+,** Increase DemiDevimon's Hit Points by 8 & Chakra Points by 5 for every level.
+- **Level 4.** DemiDevimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+:
+![DemiDevimon](https://upload.wikimedia.org/wikipedia/sh/thumb/f/ff/DemiDevimon.gif/1280px-DemiDevimon.gif) {position:absolute,bottom:350px,left:410px,width:390px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:300px,left:220px,margin-bottom:-30px
+##### DemiDevimon
+[Link](https://upload.wikimedia.org/wikipedia/sh/thumb/f/ff/DemiDevimon.gif/1280px-DemiDevimon.gif)
+}}
+{{pageNumber,auto}}
+{{footnote  Part I - ROOKIE}}
 \page
 
 
@@ -773,7 +844,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)|10 (+0)|
+|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1) |10 (+0)|
 ___
 **Saving Throws** :: *Str +6*, *Dex +4*, *Con +5*, Int +2, Wis +0, Cha +1
 **Skills** ::  Athletics +6, Perception +2         
