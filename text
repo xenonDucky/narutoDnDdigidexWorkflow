@@ -1268,8 +1268,6 @@ Tsukaimon ranges between levels 1-4. To upscale a Tsukaimon perform the followin
 {{footnote Part I - ROOKIE}}
 \page
 
-
-
 {{monster,frame
 ## Renamon
 *D-Rank, Standard, Medium Data, Animal/Plant, Prof +3*
@@ -1421,7 +1419,75 @@ Salamon ranges between levels 1-4. To upscale a Salamon perform the following st
 
 \page
 
+{{monster,frame
+## Syakomon
+*D-Rank, Standard, Small Virus, Crustacean/Water, Prof +3*
 
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 11 (d10) 
+**Chakra Points**  :: 7 (d6)  
+**Speed**       :: 15ft., Swim 20ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |18 (+4)|12 (+1)|14 (+2)|10 (+0)|8 (-1) |
+___
+**Saving Throws** :: *Str +2*, *Dex +7*, *Con +4*, Int +3, Wis +1, Cha +0
+**Skills** ::  Investigation +5, Stealth +7   
+**Senses**               :: passive Perception 10
+___
+***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation.
+:
+***Slime I (Unique)*** All squares within 5-Feet of this creature are considered difficult terrain.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Sharks Maw, Viscous Water Mass, Wild Bubble Wave
+
+### Attacks
+***Bash*** *Melee Weapon Attack* +7 to hit, reach 5ft., one target. *Hit.* 1d8+4 Bludgeoning damage.  
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Gesomon***
+- ***Numemon***
+- ***Shellmon***
+ }}
+{{monster,frame
+
+### Alternative Jutsu List
+Salamon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Any ranged Bukijutsu*
+ }}
+ 
+\column
+## Syakomon
+Syakomon is a Crustacean Digimon. Syakomon is concealed in a sturdy shell shaped like a clam. Its shell developed rapidly, so its insides look like an in-training slime. This cunning creature entices foes with its cute face and attacks when they get close. When the shell is closed, it has enough defensive strength to easily repel light attacks.
+
+## Scaling Enemy
+Syakomon ranges between levels 1-4. To upscale a Syakomon perform the following steps at each level.
+
+- **Level 2+,** Increase the Syakomon's Hit Points by 11 & Chakra Points by 5 for every level.
+- **Level 4.** The Syakomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Syakomon](https://www.gematsu.com/wp-content/uploads/2020/04/Digimon-Survive_2020_04-30-20_008-320x410.jpg) {position:absolute,bottom:260px,left:455px,width:300px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+##### Syakomon
+[Link](https://i.pinimg.com/originals/0d/25/81/0d2581e720898ad53392d6765fb64994.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+
+\page
 
 {{monster,frame
 ## Tentomon
