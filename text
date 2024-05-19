@@ -1266,6 +1266,7 @@ Tsukaimon ranges between levels 1-4. To upscale a Tsukaimon perform the followin
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+
 \page
 
 {{monster,frame
@@ -1416,7 +1417,74 @@ Salamon ranges between levels 1-4. To upscale a Salamon perform the following st
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+\page
 
+{{monster,frame
+## Soundbirdmon
+*D-Rank, Standard, Small Virus, Bird/Wind, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 16 
+**Hit Points**  :: 6 (d6) 
+**Chakra Points**  :: 10 (d10)  
+**Speed**       :: Fly 40ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |16 (+3)|10 (+0)|16 (+3)|10 (+0)|12 (+1)|
+___
+**Saving Throws** :: Str +0, *Dex +6*, Con +1, Int +4, *Wis +3*, *Cha +4*
+**Skills** ::  Acrobatics +6, Perception +3   
+**Senses**               :: passive Perception 13
+___
+***Quick Flyer I (Unique)*** Gains additional 20ft. of Flying Speed at the cost of 15ft. of Walking Speed.
+:
+***Corrupting Effect I (Unique)*** When this Digimon casts a jutsu that requires a Wind Release Ninjutsu saving throw, if a creature fails by 7 or more, they gain 1 stack of the Deafened condition.
+
+### Jutsu  
+***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 14**)   
+
+D-Rank (Cost 5): Buffering Airwaves, Violent Whirlwind, Zephyr Strike
+
+### Attacks
+***Bash*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage.  
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Airdramon***
+- ***Vilemon***
+- ***Boogiemon***
+ }}
+{{monster,frame
+
+### Alternative Jutsu List
+Soundbirdmon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Wind Release Keyword.*
+- *Any Sensory Ninjutsu*
+ }}
+ 
+\column
+## Soundbirdmon
+Soundbirdmon is an Avian Digimon. It is characterized by its speaker built-in wings. It is very cautious and usually keeps quiet, but when a suspicious Digimon draws near, it drives them away by crying at high volume.
+
+## Scaling Enemy
+Soundbirdmon ranges between levels 1-4. To upscale a Soundbirdmon perform the following steps at each level.
+
+- **Level 2+,** Increase the Soundbirdmon's Hit Points by 6 & Chakra Points by 6 for every level.
+- **Level 4.** The Soundbirdmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Soundbirdmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dh885r1-a6e8462d-d7fe-4782-8236-eb4c6b70181e.png/v1/fill/w_1280,h_382/soundbirdmon_by_homeosttasis_dh885r1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgyIiwicGF0aCI6IlwvZlwvYzhiNGU2NGQtMzc3Yi00NjA2LWJlYTctMWI2NTQ5M2UwZjlhXC9kaDg4NXIxLWE2ZTg0NjJkLWQ3ZmUtNDc4Mi04MjM2LWViNGM2YjcwMTgxZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.P4DiOxKdp_SRRLffamJVOZFcndwDH7jHmN_JjC4fFWY) {position:absolute,bottom:530px,left:455px,width:300px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:30px,left:30px,margin-bottom:-30px
+##### Soundbirdmon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dh885r1-a6e8462d-d7fe-4782-8236-eb4c6b70181e.png/v1/fill/w_1280,h_382/soundbirdmon_by_homeosttasis_dh885r1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgyIiwicGF0aCI6IlwvZlwvYzhiNGU2NGQtMzc3Yi00NjA2LWJlYTctMWI2NTQ5M2UwZjlhXC9kaDg4NXIxLWE2ZTg0NjJkLWQ3ZmUtNDc4Mi04MjM2LWViNGM2YjcwMTgxZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.P4DiOxKdp_SRRLffamJVOZFcndwDH7jHmN_JjC4fFWY)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
 \page
 
 {{monster,frame
@@ -1428,19 +1496,19 @@ ___
 **Armor Class** :: 19 
 **Hit Points**  :: 11 (d10) 
 **Chakra Points**  :: 7 (d6)  
-**Speed**       :: 15ft., Swim 20ft. **Initiative** +6
+**Speed**       :: 15ft., Swim 20ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1) |18 (+4)|12 (+1)|14 (+2)|10 (+0)|8 (-1) |
+|18 (+4)|8 (-1) |12 (+1)|14 (+2)|10 (+0)|8 (-1) |
 ___
-**Saving Throws** :: *Str +2*, *Dex +7*, *Con +4*, Int +3, Wis +1, Cha +0
-**Skills** ::  Investigation +5, Stealth +7   
+**Saving Throws** :: *Str +7*, Dex +0, *Con +4*, *Int +5*, Wis +1, Cha +0
+**Skills** ::  Investigation +5, Stealth +2   
 **Senses**               :: passive Perception 10
 ___
 ***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation.
 :
-***Slime I (Unique)*** All squares within 5-Feet of this creature are considered difficult terrain.
+***Alternative Defence (Unique)*** This Digimon uses its Strenth Modifier instead of Dexterity for AC calculations.
 
 ### Jutsu  
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
@@ -1461,7 +1529,7 @@ D-Rank (Cost 5): Sharks Maw, Viscous Water Mass, Wild Bubble Wave
 {{monster,frame
 
 ### Alternative Jutsu List
-Salamon may learn **3 D Rank** jutsu that meet the following requirements: 
+Syakomon may learn **3 D Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Water Release Keyword.*
 - *Any ranged Bukijutsu*
  }}
