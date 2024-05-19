@@ -79,21 +79,22 @@ This list enables users to choose a number of jutsu from a list of set requireme
 #### [Agumon](#p8) {{width:244px}}8 
 #### [Armadillomon](#p9) {{width:193px}}9 
 #### [Biyomon](#p10) {{width:231px}}10 
-#### [Gabumon](#p11){{width:230px}}11 
-#### [Goblimon](#p12){{width:225px}}12 
-#### [Gomamon](#p13){{width:226px}}13
-#### [Guilmon](#p14){{width:234px}}14 
-#### [Hawkmon](#p15){{width:227px}}15
-#### [Impmon](#p16){{width:245px}}16 
-#### [Palmon](#p17){{width:244px}}17 
-#### [Patamon](#p18){{width:235px}}18 
-#### [Renamon](#p19){{width:232px}}19 
-#### [Salamon](#p20){{width:236px}}20 
-#### [Tentomon](#p21){{width:222px}}21 
-#### [Terriermon](#p22){{width:212px}}22 
-#### [Veemon](#p23){{width:243px}}23 
-#### [Vorvomon](#p24){{width:221px}}24 
-#### [Wormmon](#p25){{width:226px}}25 
+#### [DemiDevimon](#p11) {{width:193px}}11 
+#### [Gabumon](#p12){{width:230px}}12 
+#### [Goblimon](#p13){{width:225px}}13 
+#### [Gomamon](#p14){{width:226px}}14
+#### [Guilmon](#p15){{width:234px}}15 
+#### [Hawkmon](#p16){{width:227px}}16
+#### [Impmon](#p17){{width:245px}}17 
+#### [Palmon](#p18){{width:244px}}18 
+#### [Patamon](#p19){{width:235px}}19 
+#### [Renamon](#p20){{width:232px}}20 
+#### [Salamon](#p21){{width:236px}}21 
+#### [Tentomon](#p22){{width:222px}}22 
+#### [Terriermon](#p23){{width:212px}}23 
+#### [Veemon](#p24){{width:243px}}24 
+#### [Vorvomon](#p25){{width:221px}}25 
+#### [Wormmon](#p26){{width:226px}}26 
 
 ### [Part II: Champion](#p26){{width:121px}} 26
 #### [Airdramon](#p27){{width:214px}} 27 
@@ -1135,21 +1136,24 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|14 (+2)|10 (+0)|14 (+2)|14 (+2)|12 (+1)|
+|8 (-1) |14 (+2)|10 (+0)|14 (+2)|14 (+2)|12 (+1)|
 ___
 **Saving Throws** :: Str +0, *Dex +5*, Con +1, Int +3, *Wis +5*, *Cha +4*
 **Skills** ::  Acrobatics +5, Insight +5    
 **Senses**               :: passive Perception 12
 ___
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
+***Tactician I (Unique)*** This creature gains the ability to use the Help action as a bonus action and from a range of 10-feet.
 :
 ***Reassuring Presence I (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear* condition.
 
 ### Jutsu  
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
 
-D-Rank (Cost 5): Healing Hands, Air Bullet, Zephyr Strike
+D-Rank (Cost 5): Air Bullet, Zephyr Strike
+:
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)   
 
+D-Rank (Cost 5): Confidence
 
 ### Attacks
 ***Bash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage.   
@@ -1159,7 +1163,6 @@ D-Rank (Cost 5): Healing Hands, Air Bullet, Zephyr Strike
 {{monster,frame
 ### Evolves Into
 - ***Angemon***
-- ***Devimon***
 - ***Reppamon***
 - ***Unimon***
 - ***Wizardmon***
@@ -1170,7 +1173,7 @@ D-Rank (Cost 5): Healing Hands, Air Bullet, Zephyr Strike
 ### Alternative Jutsu List
 Patamon may learn **3 D Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Wind Release Keyword*
-- *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.*
+- *Genjutsu that does not target hostile creatures or deal damage.*
  }}
  
 \column
@@ -1191,7 +1194,78 @@ Patamon ranges between levels 1-4. To upscale a Patamon perform the following st
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+\page
 
+{{monster,frame
+## Tsukaimon
+*D-Rank, Standard, Small Virus, Mammal/Dark, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 6 (d6) 
+**Chakra Points**  :: 10 (d10)  
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |14 (+2)|10 (+0)|14 (+2)|12 (+1)|14 (+2)|
+___
+**Saving Throws** :: Str +0, *Dex +5*, Con +1, Int +3, *Wis +4*, *Cha +5*
+**Skills** ::  Acrobatics +5, Insight +5    
+**Senses**               :: passive Perception 12
+___
+***Tactician I (Unique)*** This creature gains the ability to use the Help action as a bonus action and from a range of 10-feet.
+:
+***Oppressive Presence I (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the *Fear* condition.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Poisonus Blast
+:
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)   
+
+D-Rank (Cost 5): Bane, Curroption: Insolence
+### Attacks
+***Bash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage.   
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Devimon***
+- ***Devidramon***
+- ***Unimon***
+- ***Sorcerymon***
+ }}
+ 
+{{monster,frame
+
+### Alternative Jutsu List
+Tsukaimon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Medical Keyword that deals Poison damage*
+- *Genjutsu that doesn't deal damage and doesn't target friendly creatures.*
+ }}
+ 
+\column
+
+## Tsukaimon
+Tsukaimon is a Mammal Digimon. It is characterized by its big ears. Although it is thought to be a subspecies of Patamon, it has quite the opposite personality of Patamon, and loves brawling. Usually, it acts as a familiar for Devimon and others.
+## Scaling Enemy
+Tsukaimon ranges between levels 1-4. To upscale a Tsukaimon perform the following steps at each level.
+
+- **Level 2+,** Increase the Tsukaimon's Hit Points by 6 & Chakra Points by 6 for every level.
+- **Level 4.** The Tsukaimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Tsukaimon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d2b6b46e-96f0-4852-8a28-36066f6212f6/dgbnz2u-85282318-e06c-4d96-b4d2-b5257895e4d1.png/v1/fill/w_944,h_847/tsukaimon_by_squad4546_dgbnz2u-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE0OCIsInBhdGgiOiJcL2ZcL2QyYjZiNDZlLTk2ZjAtNDg1Mi04YTI4LTM2MDY2ZjYyMTJmNlwvZGdibnoydS04NTI4MjMxOC1lMDZjLTRkOTYtYjRkMi1iNTI1Nzg5NWU0ZDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RIta-i1lL9bbOWu_F8fTOzSvWkvV_Eoy42sXvaUwkuc) {position:absolute,bottom:330px,left:450px,width:340px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:50px,left:140px,margin-bottom:-30px
+##### Tsukaimon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d2b6b46e-96f0-4852-8a28-36066f6212f6/dgbnz2u-85282318-e06c-4d96-b4d2-b5257895e4d1.png/v1/fill/w_944,h_847/tsukaimon_by_squad4546_dgbnz2u-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE0OCIsInBhdGgiOiJcL2ZcL2QyYjZiNDZlLTk2ZjAtNDg1Mi04YTI4LTM2MDY2ZjYyMTJmNlwvZGdibnoydS04NTI4MjMxOC1lMDZjLTRkOTYtYjRkMi1iNTI1Nzg5NWU0ZDEucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RIta-i1lL9bbOWu_F8fTOzSvWkvV_Eoy42sXvaUwkuc)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
 \page
 
 
@@ -15166,7 +15240,7 @@ ___
 **Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))>
 **Hit Points**  :: <(X+(Con Mod)+(HP Bonus Per Level))* Level> (dX) 
 **Chakra Points**  :: <(Y/2+(Con Mod)+1)*(Level-1)+(Y+(Con Mod))> (dY)  
-**Speed**       :: 30ft. **Initiative** +<(Dex Mod+2)>
+**Speed**       :: <(Movement Speed)> **Initiative** +<(Dex Mod+2)>
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
