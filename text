@@ -384,7 +384,7 @@ A tiny dinosaur that, while still developing in power, has a ferocious personali
 ## Scaling Enemy
 Agumon ranges between levels 1-4. To upscale a Agumon perform the following steps at each level.
 
-- **Level 2+,** Increase the Agumon's Hit Points by 7 & Chakra Points by 7 for every level.
+- **Level 2+,** Increase the Agumon's Hit Points by 10 & Chakra Points by 7 for every level.
 - **Level 4.** The Agumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 ![Agumon](https://i.pinimg.com/564x/a5/0c/bf/a50cbfc7ac50eace442962b9e9a12bca.jpg) {position:absolute,bottom:360px,left:410px,width:390px,mix-blend-mode:multiply}
 
@@ -409,7 +409,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|8 (-1)|14 (+2)|12 (+1)|14 (+2)|10 (+0)|
+|14 (+2)|8 (-1) |14 (+2)|12 (+1)|14 (+2)|10 (+0)|
 ___
 **Saving Throws** :: *Str +5*, Dex +0, *Con +5*, Int +2, *Wis +5*, Cha +1 
 **Skills** ::  Insight +5, Perception +5    
@@ -1915,7 +1915,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|18 (+4)|16 (+3)|8 (-1)|14 (+2)|10 (+0)|
+|14 (+2)|18 (+4)|16 (+3)|8 (-1) |14 (+2)|10 (+0)|
 ___
 **Saving Throws** :: *Str +6*, *Dex +8*, Con +5, Int +1, *Wis +6*, Cha +2
 **Skills** ::  Acrobatics +8, Stealth +8, Martial Arts +8   
@@ -1988,8 +1988,8 @@ Apemon ranges between levels 5-8. To upscale a Apemon perform the following step
 **Level:** 5 (10XP)
 ___
 **Armor Class** :: 18 
-**Hit Points**  :: 75 (d12) 
-**Chakra Points**  :: 37 (d6)  
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
 **Speed**       :: 10ft., Fly 50ft. **Initiative** +5
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -2049,7 +2049,7 @@ A Giant Bird Digimon that is known for its superb flying speed and keen eyesight
 ## Scaling Enemy
 Aquilamon ranges between levels 5-8. To upscale a Aquilamon perform the following steps at each level.
 
-- **Level 6+,** Increase the Aquilamon's Hit Points by 15 & Chakra Points by 7 for every level.
+- **Level 6+,** Increase the Aquilamon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Aquilamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Aquilamon](https://i.pinimg.com/564x/37/23/7f/37237ff2740c08273466e85701ec1c13.jpg) {position:absolute,bottom:220px,left:340px,width:550px,mix-blend-mode:multiply}
@@ -2077,7 +2077,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|16 (+3)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|
+|8 (-1) |16 (+3)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|
 ___
 **Saving Throws** :: Str +1, *Dex +7*, Con +4, *Int +8*, Wis +2, *Cha +6*
 **Skills** :: Stealth +7, Ninshou +8, Intimidation +6  
@@ -2104,7 +2104,7 @@ C-Rank (Cost 9): Night Terrors
 
 ### Attacks
 ***Multiattack*** This creature can make two *Death Touch* attacks.      
-**Death Touch** *Melee Weapon Attack* +7 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
+**Death Touch** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
  }}
 
 {{monster,frame
@@ -15017,20 +15017,21 @@ ___
 All Digimon listed in this compendium (with few exceptions) are built around the following guidelines:
 {{classTable,frame
 ##### Digimon Guidelines
-| Digimon Stage |Level Range| Stat Total |AC Bonus|Hit & Damage Bonus| HP Bonus Per Level|Max Jutsu |
-|:-------------:|:---------:|:----------:|:-------:|:---------:|:-------:|:---------:|
-|  Rookie       |    1-4    |    72      |    —    |    —      |    —    |    D      |
-|  Champion     |    5-8    |    80      |    1    |    1      |    —    |    C      |
-|  Ultimate     |    9-12   |    88      |    2    |    2      |    1    |    B      |
-|  Mega         |    13-16  |    96      |    3    |    3      |    2    |    A      |
-|  Perfect      |    17-20  |    104     |    4    |    4      |    3    |    S      |
+| Digimon Stage|Level Range| Stat Total |AC Bonus|Hit & Damage Bonus| HP Bonus Per Level|Max Jutsu| N
+|:------------:|:--------:|:---------:|:-------:|:-------:|:-------:|:-------:|:------:|
+|  Rookie      |   1-4    |    72     |    —    |    —    |    —    |    D    |    1   |
+|  Champion    |   5-8    |    80     |    1    |    1    |    —    |    C    |    2   |
+|  Ultimate    |   9-12   |    88     |    2    |    2    |    1    |    B    |    3   |
+|  Mega        |   13-16  |    96     |    3    |    3    |    2    |    A    |    4   |
+|  Perfect     |   17-20  |    104    |    4    |    4    |    3    |    S    |    5   |
 }}
 
 Additionally, each stage has a general maximum individual stat cap, as listed below:
 
 | Digimon Stage     | Maximum Stat Total |
 |:------------------|:------------------:|
-| Rookie + Champion |  20                |
+| Rookie            |  18                |
+| Champion          |  20                |
 | Ultimate          |  22                | 
 | Mega              |  24                | 
 | Perfect           |  26                |       
@@ -15038,13 +15039,13 @@ Additionally, each stage has a general maximum individual stat cap, as listed be
 Also, movement speed is tied to Digimon Stage. Most Digimon will only use the Base Walking Speed calculation for their Movement Speed. However, if a creature has an alternative movement form (Burrowing, Flying, Swiming), they will have an Alternative Walking Speed.  Some traits can circumvent these but below are the general rules for movement speed calculation:
 {{classTable,frame
 ##### Digimon Movement Speed
-| Digimon Stage |Base Walking Speed| Alternative Movement Form |Alternative Walking Speed |
-|:-------------:|:----------------:|:-------------------------:|:------------------------:|
-|  Rookie       |       30ft.      |            20ft.          |           15ft.          |   
-|  Champion     |       35ft.      |            30ft.          |           25ft.          |  
-|  Ultimate     |       40ft.      |            35ft.          |           30ft.          |   
-|  Mega         |       40ft.      |            35ft.          |           35ft.          | 
-|  Perfect      |       45ft.      |            40ft.          |           40ft.          | 
+| Digimon Stage |Base Walking Speed|Alternative Movement Form |Alternative Walking Speed |
+|:-------------:|:----------------:|:-----------------------:|:-------------------:|
+|  Rookie       |       30ft.      |           20ft.         |         15ft.       |   
+|  Champion     |       35ft.      |           30ft.         |         25ft.       |  
+|  Ultimate     |       40ft.      |           35ft.         |         30ft.       |   
+|  Mega         |       40ft.      |           35ft.         |         35ft.       | 
+|  Perfect      |       45ft.      |           40ft.         |         40ft.       | 
 }}
 
 \column
@@ -15084,6 +15085,84 @@ As such, on level up, they gain Health Points equal to the maximum of their Heal
 {{footnote Part VI - Extras}}
 
 \page
+
+{{monster,frame
+## Custom Digimon
+*<(Max Jutsu)>-Rank, Standard, Size Attribute, Type/Element, Prof*
+
+**Level:** <(4*(N-1)+1)> (10XP)
+___
+**Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))>
+**Hit Points**  :: <(X+(Con Mod)+(HP Bonus Per Level))* Level> (dX) 
+**Chakra Points**  :: <(Y/2+(Con Mod)+1)*(Level-1)+(Y+(Con Mod))> (dY)  
+**Speed**       :: 30ft. **Initiative** +<(Dex Mod+2)>
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +<(Str Mod)+Prof>*, Dex +<(Dex Mod)+Prof/2>, *Con +0*, Int +0, *Wis +0*, Cha +0 
+**Skills** ::      Choose <(N+1)> skills and add mod+prof to them
+**Senses**               :: passive Perception <(10+Wis Mod)>
+___
+(Pick out <(N+1)> Traits)    
+***Trait Name (Unique)*** Trait Description.  
+
+### Jutsu  
+
+***Ninjutsu*** +<10+(Int Mod)+Prof+(Hit & Damage Bonus)> to hit, (**Ninjutsu save DC <8+(Int Mod)+Prof>**)   
+
+D-Rank (Cost 5): Jutsu 1   
+***Genjutsu*** +<10+max((Wis Mod),(Cha Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Genjutsu save DC <8+max((Wis Mod),(Cha Mod))+Prof>**)   
+
+C-Rank (Cost 9): Jutsu 2   
+***Taijutsu*** +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Taijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
+
+B-Rank (Cost 14): Jutsu 3  
+***Bukijutsu*** +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Bukijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
+
+A-Rank (Cost 20): Jutsu 4
+### Attacks
+***Attack Name*** *Melee Weapon Attack* +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, reach 5ft., one target. *Hit.* <(Weapon Damage)>+<max((Str Mod),(Dex Mod))+(Hit & Damage Bonus)> (choose) damage. 
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***Lower Evolution 1***
+### Evolves Into
+- ***Higher Evolution 1***
+- ***Higher Evolution 2***
+ }}
+{{monster,frame
+ ### Alternative Jutsu List
+Digimon may learn jutsu that meet the following requirements: 
+- *Ninjutsu with the (choose) Release Keyword*
+- *Bukijutsu with the (choose) Weapon Component*  
+ }}
+
+
+
+\column
+## Custom Digimon
+This is a part of the official digimon wiki decription of the Digimon.
+
+## Scaling Enemy
+Digimon ranges between levels <(Level Range)>. To upscale the Digimon perform the following steps at each level.
+
+- **Level <(4*(N-1)+2)>.** The Digimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level <(4*(N-1)+2)>+,** Increase the Digimon's Hit Points by <(X+(Con Mod)+(HP Bonus Per Level))> & Chakra Points by <(Y/2+(Con Mod)+1) for every level.
+:
+![Digiegg](https://wikimon.net/images/3/3d/Digitama.jpg) {position:absolute,bottom:250px,left:410px,width:390px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:400px,left:220px,margin-bottom:-30px
+##### Digiegg
+[Link](https://wikimon.net/images/3/3d/Digitama.jpg)
+}}
+{{pageNumber,auto}}
+{{footnote Part VI - Extras}}
+
+\page
 ### Traits
 Each trait listed within this document has a certain rank assigned to it. Digimon can only gain a rank that would be equal to or lower than their Max Jutsu Rank. 
 
@@ -15097,7 +15176,7 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 
 {{classTable,frame
 ##### Digimon Trait Limit
-| Digimon Stage |Number of Traits|
+| Digimon Stage |Number of Traits  |
 |:-------------:|:----------------:|
 |  Rookie       |         2        |
 |  Champion     |         3        |
