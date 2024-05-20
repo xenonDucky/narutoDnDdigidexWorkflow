@@ -588,7 +588,7 @@ D-Rank (Cost 5): Glamor Tounge
 {{monster,frame
  ### Alternative Jutsu List
 DemiDevimon may learn **3 D Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Medical Release Keyword*
+- *Ninjutsu with the Medical Release Keyword that deals damage*
 - *Any Genjutsu*  
  }}
 
@@ -1303,6 +1303,7 @@ D-Rank (Cost 5): Hypnosis, Night: Frigid Thoughts, Psionics: Assurance!
 {{monster,frame
 ### Evolves Into
 - ***Porcupamon***
+- ***MadLeomon***
 - ***Devidramon***
  }}
  
@@ -1505,7 +1506,7 @@ ___
 ___
 ***Quick Flyer I (Unique)*** Gains additional 20ft. of Flying Speed at the cost of 15ft. of Walking Speed.
 :
-***Corrupting Effect I (Unique)*** When this Digimon casts a jutsu that requires a Wind Release Ninjutsu saving throw, if a creature fails by 7 or more, they gain 1 stack of the Deafened condition.
+***Sonic Waves (Unique)*** Creatures that fail a saving throw against a Wind Release Ninjutsu that this creature casts, suffer the deafened condition for the next minute.
 
 ### Jutsu  
 ***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 14**)   
@@ -1559,8 +1560,8 @@ Soundbirdmon ranges between levels 1-4. To upscale a Soundbirdmon perform the fo
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 19 
-**Hit Points**  :: 11 (d10) 
-**Chakra Points**  :: 7 (d6)  
+**Hit Points**  :: 9 (d8) 
+**Chakra Points**  :: 9 (d8)  
 **Speed**       :: 15ft., Swim 20ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -1606,7 +1607,7 @@ Syakomon is a Crustacean Digimon. Syakomon is concealed in a sturdy shell shaped
 ## Scaling Enemy
 Syakomon ranges between levels 1-4. To upscale a Syakomon perform the following steps at each level.
 
-- **Level 2+,** Increase the Syakomon's Hit Points by 11 & Chakra Points by 5 for every level.
+- **Level 2+,** Increase the Syakomon's Hit Points by 9 & Chakra Points by 6 for every level.
 - **Level 4.** The Syakomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Syakomon](https://www.gematsu.com/wp-content/uploads/2020/04/Digimon-Survive_2020_04-30-20_008-320x410.jpg) {position:absolute,bottom:260px,left:455px,width:300px,mix-blend-mode:multiply}
@@ -2825,9 +2826,7 @@ ___
 |16 (+3)|8 (-1)|16 (+3)|16 (+3)|14 (+2)|10 (+0)|
 ___
 **Saving Throws** :: *Str +7*, Dex +1, *Con +7*, *Int +7*, Wis +4, Cha +2
-**Skills** ::  Investigation +7, Perception +6, Insight +6      
-**Damage Resistance** :: Bludgeoning, Piercing, Slashing        
-**Damage Immunity** :: Poison       
+**Skills** ::  Investigation +7, Perception +6, Insight +6            
 **Damage Vulnerablity** :: Lightning, Acid         
 **Senses**               :: passive Perception 16
 ___
@@ -2835,7 +2834,7 @@ ___
 :
 ***Alternative Focus (Unique)*** When this Digimon would deal *lightning* damage, it instead deals *sound* damage.
 :
-***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Lightning Release Ninjutsu saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Deafened* condition.
+***Sonic Waves (Unique)*** Creatures that fail a saving throw against a Lightning Release Ninjutsu that this creature casts, suffer the deafened condition for the next minute.
 
 ### Jutsu  
 
@@ -15761,6 +15760,7 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Slime I. | All squares within 5-Feet of this creature are considered difficult terrain. |
 | Slime II. | All squares within 5-Feet of this creature are considered difficult terrain. Creatures who end their turn in this area need to make a Dexterity saving throw vs this Digimon’s highest jutsu Save DC or become restrained. |
 | Soothing Hand  | When this Digimon restores HP to a creature, add double the Digimon’s proficiency bonus to the total healing. |
+| Sonic Waves  | Creatures that fail a saving throw against a (choose) Release Ninjutsu that this creature casts, suffer the deafened condition for the next minute. |
 | Steady I. | This Digimon (and its Tamer) are immune from being surprised in combat. |
 | Steady II. | This Digimon (and its Tamer) are immune from being surprised in combat. Additionally, it adds its full proficency bonus to their initiative roll. |
 | Steady III. | This Digimon (and its Tamer) are immune from being surprised in combat. Additionally, it adds its full proficency bonus to their initiative roll. Additionally, they may, as a reaction to a surprise attack roll, gain +4 to their AC until the beginning of their next turn. |
