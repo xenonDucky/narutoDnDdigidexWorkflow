@@ -685,6 +685,73 @@ Gabumon ranges between levels 1-4. To upscale a Gabumon perform the following st
 
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+\page
+
+{{monster,frame
+## Ghostmon
+*D-Rank, Standard, Small Data, Ghost/Fire, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 9 (d8) 
+**Chakra Points**  :: 9 (d8)  
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |14 (+2)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|
+___
+**Saving Throws** :: Str +0, *Dex +5*, *Con +4*, Int +3, *Wis +3*, Cha +3
+**Skills** ::  Stealth +5, Illusions +3         
+**Senses**               :: passive Perception 10
+___
+***Ghostly Form (Unique)*** This creature can move through solid objects so as long as they do not end their turn within a solid object. 
+:
+***Corrupting Effect I (Unique)*** When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 7 or more, they gain 1 stack of the *Confused* condition.
+
+### Jutsu  
+
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Absorb Heat, Flame Bolt  
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)
+
+D-Rank (Cost 5): Frenzy: Blue
+### Attacks
+***Unarmed Strike*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Fire damage. 
+
+ }}
+{{monster,frame
+### Evolves Into
+- ***Bakemon***
+- ***Meramon***
+- ***Wizardmon***
+- ***Sorcerymon***
+- ***Soulmon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Ghostmon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Fire Release Keyword*
+- *Genjutsu that doesn't deal any damage*   
+ }}
+\column
+## Ghostmon
+Ghostmon is a Ghost Digimon. It is often witnessed flying over graveyards. Although it does not like to show itself due to its timidness and shyness, it is a kind-hearted Digimon that helps those in need without them noticing by becoming transparent.
+## Scaling Enemy
+Ghostmon ranges between levels 1-4. To upscale a Ghostmon perform the following steps at each level.
+- **Level 2+,** Increase the Ghostmon's Hit Points by 9 & Chakra Points by 6 for every level.
+- **Level 4.** The Ghostmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Ghostmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65010c88-0c13-46f8-a9f0-9276a55e242a/dfel0lz-725c108a-083c-40be-834d-d8b866cefde9.png/v1/fill/w_1024,h_1178/ghostmon_by_joneoyvilde03_dfel0lz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE3OCIsInBhdGgiOiJcL2ZcLzY1MDEwYzg4LTBjMTMtNDZmOC1hOWYwLTkyNzZhNTVlMjQyYVwvZGZlbDBsei03MjVjMTA4YS0wODNjLTQwYmUtODM0ZC1kOGI4NjZjZWZkZTkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fVbo64B33pGIdsf8x9ISgz4DE5izoZY2uIvMfwNAzMM) {position:absolute,bottom:240px,left:410px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:60px,left:90px,margin-bottom:-30px
+##### Ghostmon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/65010c88-0c13-46f8-a9f0-9276a55e242a/dfel0lz-725c108a-083c-40be-834d-d8b866cefde9.png/v1/fill/w_1024,h_1178/ghostmon_by_joneoyvilde03_dfel0lz-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE3OCIsInBhdGgiOiJcL2ZcLzY1MDEwYzg4LTBjMTMtNDZmOC1hOWYwLTkyNzZhNTVlMjQyYVwvZGZlbDBsei03MjVjMTA4YS0wODNjLTQwYmUtODM0ZC1kOGI4NjZjZWZkZTkucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.fVbo64B33pGIdsf8x9ISgz4DE5izoZY2uIvMfwNAzMM)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
 
 \page
 
@@ -701,7 +768,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|16 (+3)|8 (-1)|10 (+0)|8 (-1)|
+|16 (+3)|14 (+2)|16 (+3)|8 (-1) |10 (+0)|8 (-1)|
 ___
 **Saving Throws** :: *Str +6*, *Dex +5*, Con +4, Int +0, *Wis +3*, Cha +0
 **Skills** ::  Athletics +6, Martial Arts +6         
@@ -2426,24 +2493,24 @@ ___
 ___
 **Saving Throws** :: Str +1, *Dex +7*, Con +4, *Int +8*, Wis +2, *Cha +6*
 **Skills** :: Stealth +7, Ninshou +8, Intimidation +6  
-**Damage Immunity** :: Non-Chakra Enhanced Bludgeoning, Slashing, Piercing 
+**Damage Immunity** :: Bludgeoning, Slashing, Piercing 
 **Senses**               :: passive Perception 10
 ___
 ***Ghostly Form (Unique)*** This creature can move through solid objects so long as they do not end their turn within a solid object.
 :
-***Oppressive Presence I (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the *Fear* condition.
+***Unique Body II (Unique)*** This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to Lightning damage.
 :
-***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Confused* condition.
+***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Wisdom saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Confused* condition.
 
 ### Jutsu  
 ***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 16**) 
 
-D-Rank (Cost 5): Corrupt Missile, Grim Mask
+D-Rank (Cost 5): Grim Mask
 
-C-Rank (Cost 9): Grim Blade             
+C-Rank (Cost 9): Corrupt Wave           
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
 
-D-Rank (Cost 5): Cause Fear
+D-Rank (Cost 5): Cause Fear, Psionics: Confusion!
 
 C-Rank (Cost 9): Night Terrors 
 
@@ -2466,7 +2533,7 @@ C-Rank (Cost 9): Night Terrors
 ### Alternative Jutsu List
 Bakemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu that deals necrotic damage.*
-- *Genjutsu that inflicts the *fear* condition.*
+- *Genjutsu that inflicts the *fear* or confusion condition.*
 
   }}
 
