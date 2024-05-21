@@ -685,8 +685,79 @@ Gabumon ranges between levels 1-4. To upscale a Gabumon perform the following st
 
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
-\page
 
+\page
+{{monster,frame
+## Gazimon
+*D-Rank, Standard, Small Visur, Beast/Dark, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 9 (d8) 
+**Chakra Points**  :: 9 (d8)  
+**Speed**       :: 30ft., Burrow 10ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|14 (+2)|12 (+1)|14 (+2)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +4*, *Dex +5*, Con +2, Int +3, Wis +1, *Cha +3* 
+**Skills** ::  Insight +3, Sleight of Hand +5    
+**Senses**               :: passive Perception 10
+___
+***Dirty Tactics I (Unique)*** When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
+:
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Burrowing Speed.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Acid String, Headhunter Technique    
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
+
+D-Rank (Cost 5): 1-Strike Slash
+
+### Attacks
+***Slash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage. 
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***BlackGarurumon***
+- ***Devidramon***
+- ***Garurumon***
+- ***Drimogemon***
+- ***BlackGatomon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Gazimon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Medical Release Keyword that deals Acid damage*
+- *Ninjutsu with the Earth Release Keyword that has to do with burrowing*
+- *Bukijutsu with the Slashing Weapon Component*   
+ }}
+\column
+## Gazimon
+Gazimon is a Mammal Digimon. It is a Digimon with large, sharp claws. It is bipedal, which is rare amongst Mammal types; the claws on its forelegs likely evolved to allow its forelegs to be used as arms, therefore resulting in its bipedalism. It has an extremely aggressive temperament despite its small size, and it never warms up to humans. Although the claws on its forelegs are very effective at attacking, they are also surprisingly suited to digging holes, which it always does as it enjoys watching other Digimon fall into its pitfalls due to its mischievous personality. 
+## Scaling Enemy
+Gazimon ranges between levels 1-4. To upscale a Gazimon perform the following steps at each level.
+
+- **Level 2+,** Increase the Gazimon's Hit Points by 9 & Chakra Points by 6 for every level.
+- **Level 4.** The Gazimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Gazimon](https://static.wikia.nocookie.net/digimon-adventure5140/images/b/b5/Normal_raster_2_13Dgaz.png/) {position:absolute,bottom:px,left:410px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:190px,margin-bottom:-30px
+##### Gazimon
+[Link](https://static.wikia.nocookie.net/digimon-adventure5140/images/b/b5/Normal_raster_2_13Dgaz.png/)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
 {{monster,frame
 ## Ghostmon
 *D-Rank, Standard, Small Data, Ghost/Fire, Prof +3*
