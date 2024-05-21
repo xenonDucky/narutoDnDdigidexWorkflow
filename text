@@ -1054,7 +1054,7 @@ ___
 **Armor Class** :: 15 
 **Hit Points**  :: 8 (d8) 
 **Chakra Points**  :: 8 (d8)  
-**Speed**       :: Fly 15ft., Swim 20ft. **Initiative** +4
+**Speed**       :: Fly 25ft., Swim 20ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1062,12 +1062,11 @@ ___
 ___
 **Saving Throws** :: Str +0, *Dex +5*, Con +1, *Int +6*, Wis +1, *Cha +5*
 **Skills** ::  Persuasion +5, Performance +5    
-**Resistances** :: Lightning
 **Senses**               :: passive Perception 10
 ___
 ***Aquatic (Unique)*** This Digimon can breathe water and air. If this digimon has their Swimming Speed higher than Waliking Speed. Replace all of their Walking Speed with Flying Speed. 
 :
-***Lightning Resistant I (Unique)*** This creature is resistant to *Lightning* damage.
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Flying Speed.
 
 ### Jutsu  
 ***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 14**)   
@@ -1075,7 +1074,7 @@ ___
 D-Rank (Cost 5): Guiding Bolt, Lightning Knuckle  
 ***Taijutsu*** +6 to hit, (**Taijutsu save DC 14**)
 
-D-Rank (Cost 5): Graceful Cat
+D-Rank (Cost 5): Butterfly Kick
 
 
 ### Attacks
@@ -1094,7 +1093,7 @@ D-Rank (Cost 5): Graceful Cat
 ### Alternative Jutsu List
 Jellymon may learn **3 D Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Lightning Release Keyword*
-- *Jutsu that inceease movement speed.*
+- *Any Taijutsu*
  }}
 \column
 ## Jellymon
@@ -3409,12 +3408,15 @@ C-Rank (Cost 9): Corruption: Cruelty
 
  }}
  
+\column
+
 {{monster,frame
 ### Alternative Jutsu List
 Devimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu that deals Necrotic Damage*
 - *All Genjutsu*
-  }}
+}}
+
 ## Devimon
 An evil and cunning Digimon that possess a powerful intellect. Its crimson eyes enable it to manipulate the minds of those who are lesser than it. It is bitter rivals with Angemon who belongs to the same species that Devimon originates from.
 ## Scaling Enemy
@@ -3798,16 +3800,17 @@ D-Rank (Cost 5): 3-Lateral Slash
 - ***Chirinmon***
 - ***Gigadramon***
 - ***Triceramon***
-
- }}
+}}
  
 {{monster,frame
 ### Alternative Jutsu List
 Flarerizamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Fire Release Keyword.*
 - *Bukijutsu with the Slashing Weapon Component.*
-  }}
+}}
   
+\column
+
 ## Flarerizamon
 A Digimon whose entire body is wrapped in flames. Its personality matches its fiery exterior with its short-temper. Interestingly, its skin combusts from the high-temperature that its body produces. It is protected from burns due to the natural regenerative capabilities of its skin.
 ## Scaling Enemy
@@ -3867,11 +3870,7 @@ D-Rank (Cost 5): Iron Knuckle
 ### Attacks
 ***Multiattack*** This creature can make two *Ice Punch* attacks.      
 **Ice Punch** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Cold damage.
-
- 
-
- }}
-
+}}
 
 {{monster,frame
 ### Evolves From
@@ -3880,9 +3879,10 @@ D-Rank (Cost 5): Iron Knuckle
 - ***Crescemon***
 - ***Pandamon***
 - ***Panjyamon***
-
- }}
+}}
  
+\column
+
 {{monster,frame
 ### Alternative Jutsu List
 Frigimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
@@ -4030,8 +4030,7 @@ C-Rank (Cost 9): Cypress Impact, Multishot Bow Technique
 **Slam** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.        
 **Vulcan** *Ranged Weapon Attack* +11 to hit, range 60/120ft., one target. *Hit.* 1d6+7 Piercing damage.
 
-
- }}
+}}
 
 {{monster,frame
 
@@ -4041,15 +4040,16 @@ C-Rank (Cost 9): Cypress Impact, Multishot Bow Technique
 - ***Antylamon***
 - ***Mamemon***
 - ***Rapidmon***
-
- }}
+}}
 
 {{monster,frame
 ### Alternative Jutsu List
 Gargomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Bukijutsu with the Bludgeoning Weapon Component*
 - *Bukijutsu that requires a Ranged Weapon.*
-  }}
+}}
+  
+\column
 ## Gargomon
 A Beast Digimon that is particularly skilled in hunting down its foes. It uses its swift movements and large gauntlets to fire steel projectiles towards its opponents. Gargomon is normally a cheerful individual however, if angered, it is willing to go to extreme measures to punish those who have wronged it.
 ## Scaling Enemy
@@ -4164,7 +4164,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|16 (+3)|14 (+2)|14 (+2)|16 (+3)|12 (+1)|
+|8 (-1) |16 (+3)|14 (+2)|14 (+2)|16 (+3)|12 (+1)|
 ___
 **Saving Throws** :: Str +1, *Dex +7*, Con +4, Int +4, *Wis +7*, *Cha +5*
 **Skills** ::  Acrobatics +8, Stealth +8, Medicine +7  
@@ -4194,7 +4194,7 @@ C-Rank (Cost 9): Front Beheading
 
 ### Attacks
 ***Multiattack*** This creature can make three *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d4+4 Slashing damage.
+**Slash** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d4+3 Slashing damage.
  }}
 
 
@@ -4228,6 +4228,87 @@ Gatomon ranges between levels 5-8. To upscale a Gatomon perform the following st
 {{artist,position:relative,top:70px,left:120px,margin-bottom:-30px
 ##### Gatomon
 [Link](https://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Gesomon
+*C-Rank, Standard, Large Virus, Mollusk/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 25ft., Swim 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: *Str +7*, Dex +4, *Con +5*, Int +4, *Wis +5*, Cha +2
+**Skills** ::  Acrobatics +6, Martial Arts +7, Survival +5  
+**Senses**               :: passive Perception 11
+___
+***Savage Flurry I (Unique)*** This Digimon gains additional two attacks as part of the Multiattack feature.
+:
+***Feint II (Unique)*** Melee attacks against this creature suffer a -2 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may use its reaction to make a weapon attack against the triggering creature.
+:
+***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
+
+### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**)
+
+D-Rank (Cost 5): Hidden Mist                             
+***Taijutsu*** +8 to hit, (**Taijutsu save DC 15**) 
+
+D-Rank (Cost 5): Deep Dive, Draw! 
+
+C-Rank (Cost 9): 10-Count, Scattering Wave  
+
+
+### Attacks
+***Multiattack*** This creature can make three *Tentacle* attacks.      
+**Tentacle** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage.
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Salamon***
+### Evolves Into
+- ***ShellNumemon***
+- ***WereSeadramon***
+- ***MarineDevimon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Gatomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Taijutsu with the Bludgeoning Weapon Component*
+- *Ninjutsu with the Water Release Keyword.* 
+}}
+
+\column
+
+## Gesomon
+Gesomon is a Mollusk Digimon. It has the shape of a squid and inhabits the depths of the Net Ocean. Although it is feared as the "White Demon of the Depths", it is highly intelligent and will not harm Digimon outside of its territory. However, if they seem to cross into its territory even for a moment, it will attack them like a fierce, raging god.
+## Scaling Enemy
+Gesomon ranges between levels 5-8. To upscale a Gesomon perform the following steps at each level.
+
+- **Level 6+,** Increase the Gesomon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The Gesomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Gesomon](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.png) {position:absolute,bottom:160px,left:380px,width:460px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:120px,left:250px,margin-bottom:-30px
+##### Gesomon
+[Link](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.pnghttps://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -4297,6 +4378,7 @@ GeoGreymon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following
 - *Bukijutsu with the Slashing Weapon Component.*
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
+  
 ## GeoGreymon
 A unique variant of the Greymon species. It is a thinner, more agile dinosaur that possesses a higher battle drive than its original species. GeoGreymon's leaner design enables it to easily pursue fleeing enemies but leaves it more vulnerable to prolonged combat.
 ## Scaling Enemy
@@ -15663,20 +15745,20 @@ ___
 
 ### Jutsu  
 
-***Ninjutsu*** +<10+(Int Mod)+Prof+(Hit & Damage Bonus)> to hit, (**Ninjutsu save DC <8+(Int Mod)+Prof>**)   
+***Ninjutsu*** +<(Int Mod)+Prof+(Hit & Damage Bonus)> to hit, (**Ninjutsu save DC <8+(Int Mod)+Prof>**)   
 
 D-Rank (Cost 5): Jutsu 1   
-***Genjutsu*** +<10+max((Wis Mod),(Cha Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Genjutsu save DC <8+max((Wis Mod),(Cha Mod))+Prof>**)   
+***Genjutsu*** +<(max((Wis Mod),(Cha Mod)))+Prof+(Hit & Damage Bonus)> to hit, (**Genjutsu save DC <8+max((Wis Mod),(Cha Mod))+Prof>**)   
 
 C-Rank (Cost 9): Jutsu 2   
-***Taijutsu*** +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Taijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
+***Taijutsu*** +<(max((Str Mod),(Dex Mod)))+Prof+(Hit & Damage Bonus)> to hit, (**Taijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
 
 B-Rank (Cost 14): Jutsu 3  
-***Bukijutsu*** +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, (**Bukijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
+***Bukijutsu*** +<(max((Str Mod),(Dex Mod)))+Prof+(Hit & Damage Bonus)> to hit, (**Bukijutsu save DC <8+max((Str Mod),(Dex Mod))+Prof>**)
 
 A-Rank (Cost 20): Jutsu 4
 ### Attacks
-***Attack Name*** *Melee Weapon Attack* +<10+max((Str Mod),(Dex Mod))+Prof+(Hit & Damage Bonus)> to hit, reach 5ft., one target. *Hit.* <(Weapon Damage)>+<max((Str Mod),(Dex Mod))+(Hit & Damage Bonus)> (choose) damage. 
+***Attack Name*** *Melee Weapon Attack* +<(max((Str Mod),(Dex Mod)))+Prof+(Hit & Damage Bonus)> to hit, reach 5ft., one target. *Hit.* <(Weapon Damage)>+<max((Str Mod),(Dex Mod))+(Hit & Damage Bonus)> (choose) damage. 
 
  }}
 
