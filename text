@@ -1046,6 +1046,77 @@ Guilmon ranges between levels 1-4.   To upscale a Guilmon perform the   followin
 \page
 
 {{monster,frame
+## Jellymon
+*D-Rank, Standard, Small Data, Mollusk/Lightning, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 8 (d8) 
+**Chakra Points**  :: 8 (d8)  
+**Speed**       :: Fly 15ft., Swim 20ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |14 (+2)|10 (+0)|16 (+3)|10 (+0)|14 (+2)|
+___
+**Saving Throws** :: Str +0, *Dex +5*, Con +1, *Int +6*, Wis +1, *Cha +5*
+**Skills** ::  Persuasion +5, Performance +5    
+**Resistances** :: Lightning
+**Senses**               :: passive Perception 10
+___
+***Aquatic (Unique)*** This Digimon can breathe water and air. If this digimon has their Swimming Speed higher than Waliking Speed. Replace all of their Walking Speed with Flying Speed. 
+:
+***Lightning Resistant I (Unique)*** This creature is resistant to *Lightning* damage.
+
+### Jutsu  
+***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 14**)   
+
+D-Rank (Cost 5): Guiding Bolt, Lightning Knuckle  
+***Taijutsu*** +6 to hit, (**Taijutsu save DC 14**)
+
+D-Rank (Cost 5): Graceful Cat
+
+
+### Attacks
+***Tentacle*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Lightning damage.       
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Gesomon***
+- ***Shellmon***
+- ***Witchmon***
+- ***Kabuterimon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Jellymon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Lightning Release Keyword*
+- *Jutsu that inceease movement speed.*
+ }}
+\column
+## Jellymon
+Jellymon is a Mollusk Digimon. It is a Digimon with a squishy head like a jellyfish. Its whole body is flexible, which allows it to retract its body into its head, and it usually lives with just its head showing. When it is just its head, it is light enough to fly just by being blown by the wind. It prefers beautiful environments and actions, and once it sees foul behavior, it frees its body in anger and turns into its Battle Mode. It has countless tentacles.
+## Scaling Enemy
+Jellymon ranges between levels 1-4. To upscale a Jellymon perform the following steps at each level.
+- **Level 2+,** Increase the Jellymon's Hit Points by 8 & Chakra Points by 5 for every level.
+
+- **Level 4.** The Jellymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Jellymon](https://static.wikia.nocookie.net/digimon/images/8/8d/Jellymon_t.gif/) {position:absolute,bottom:150px,left:450px,width:290px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:40px,left:190px,margin-bottom:-30px
+##### Jellymon
+[Link](https://static.wikia.nocookie.net/digimon/images/8/8d/Jellymon_t.gif/)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+\page
+
+{{monster,frame
 ## Hawkmon
 *D-Rank, Standard, Small Free, Bird/Wind, Prof +3*
 
@@ -1117,6 +1188,7 @@ Hawkmon ranges between levels 1-4. To upscale a Hawkmon perform the following st
 
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+
 \page
 {{monster,frame
 ## Impmon
