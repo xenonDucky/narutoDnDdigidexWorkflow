@@ -3315,8 +3315,8 @@ C-Rank (Cost 9): Corruption: Cruelty
 - ***Impmon*** 
 - ***DemiDevimon***
 ### Evolves Into
-- ***BlueMeramon***
-- ***Myotismon***
+- ***Mephistomon***
+- ***NeoDevimon***
 - ***SkullSatamon***
 }}
 
@@ -3396,8 +3396,8 @@ C-Rank (Cost 9): Corruption: Baleful Inceptions
 - ***Impmon*** 
 - ***DemiDevimon***
 ### Evolves Into
-- ***BlueMeramon***
-- ***Myotismon***
+- ***MarineDevimon***
+- ***NeoDevimon***
 - ***SkullSatamon***
 }}
 
@@ -6221,7 +6221,7 @@ C-Rank (Cost 9): Dragon Tail Foot, Shadow Dancing Leaf
 
 ### Attacks
 ***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
-**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
+**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
 
  }}
 
@@ -6258,6 +6258,89 @@ Peckmon ranges between levels 5-8. To upscale a Peckmon perform the following st
 {{artist,position:relative,top:10px,left:260px,margin-bottom:-30px
 ##### Peckmon
 [Link](https://i.pinimg.com/564x/75/ea/19/75ea19e2696b6797be302ee0678fd2e2.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Porcupamon
+*C-Rank, Standard, Medium Vaccine, Puppet/Dark, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 84 (d10) 
+**Chakra Points**  :: 48 (d8)  
+**Speed**       :: 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|18 (+4)|8 (-1) |10 (+0)|14 (+2)|
+___
+**Saving Throws** :: *Str +7*, Dex +4, *Con +8*, Int +1, Wis +2, *Cha +6* 
+**Skills** ::  Performance +6, Intimidation +6, Stealth +6          
+**Senses**               :: passive Perception 10
+___
+***Durable I (Unique)*** This creature has its Hit Points increased by 20%.
+:
+***Oppressive Presence I (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear condition.
+:
+***Dangerous Armor I (Unique)*** Any creature that damages this Digimon with melee attacks takes this creature’s Proficiency bonus in *Piercing* Damage.
+
+### Jutsu  
+***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
+
+D-Rank (Cost 5): Cause Fear, Weapons of Darkness    
+
+C-Rank (Cost 9): Night Terrors  
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): Clawing Swift Fang
+
+C-Rank (Cost 9): Rakshasa’s Palm
+
+### Attacks     
+**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 2d12+3 Slashing damage.
+}}
+
+{{monster,frame
+
+### Evolves From
+- ***Phascomon*** 
+
+### Evolves Into
+- ***WaruMoznaemon***
+- ***Astamon***
+- ***Pandamon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Porcupamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Any Genjutsu*
+- *Any Taijutsu*
+- *Bukijutsu with the Slashing or Bludgeoning Weapon Component*
+}}
+
+\column
+
+## Porcupamon
+Its body is covered in a special razor material, and although its wickedly-dressed suit is an extreme adaptation, it is thought to be camouflage in order to stay alive in the violent Dark Area.
+## Scaling Enemy
+Porcupamon ranges between levels 5-8. To upscale a Porcupamon perform the following steps at each level.
+
+- **Level 6+,** Increase the Porcupamon's Hit Points by 17 & Chakra Points by 9 for every level.
+- **Level 7.** The Porcupamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Porcupamon](https://wikimon.net/images/thumb/5/53/Porcupamon_new_century.png/513px-Porcupamon_new_century.png) {position:absolute,bottom:120px,left:410px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:160px,left:40px,margin-bottom:-30px
+##### Porcupamon
+[Link](https://wikimon.net/images/thumb/5/53/Porcupamon_new_century.png/513px-Porcupamon_new_century.png)
 }}
 
 {{pageNumber,auto}}
