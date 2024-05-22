@@ -2777,83 +2777,83 @@ Birdramon ranges between levels 5-8. To upscale a Birdramon perform the followin
 
 \page
 {{monster,frame
-## BlackGatomon
-*C-Rank, Standard, Small Virus, Demon Beast/Dark, Prof +4*
+## Boogiemon
+*C-Rank, Standard, Medium Virus, Devil/Fire, Prof +4*
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 19 
-**Hit Points**  :: 60 (d10) 
-**Chakra Points**  :: 38 (d8)  
-**Speed**       :: 35ft. **Initiative** +6
+**Armor Class** :: 18 
+**Hit Points**  :: 45 (d8) 
+**Chakra Points**  :: 39 (d10)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +5
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|18 (+4)|14 (+2)|12 (+1)|12 (+1)|14 (+2)|
+|16 (+3)|16 (+3)|12 (+1)|14 (+2)|10 (+0)|12 (+1)|
 ___
-**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +5*, Wis +3, *Cha +6*
-**Skills** ::  Acrobatics +8, Stealth +8, Perception +5   
-**Senses**               :: passive Perception 15
+**Saving Throws** :: *Str +7*, *Dex +7*, Con +3, Int +4, Wis +3, *Cha +5*
+**Skills** ::  Athletics +7, Stealth +7, Perception +4   
+**Senses**               :: passive Perception 14
 ___
-***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
+***Stealth Expert II (Unique)*** If this creature is hidden, their first attack per round does not reveal their position. Additionally, they can use their bonus action to take the Hide action.
 :
-***Cruel I (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
 :
-***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+***Cunning Action I (Unique)*** This Digimon may use their bonus action to take the Disengage action.
 
 ### Jutsu  
-***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**)
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 13**)
 
-D-Rank (Cost 5): Healing Aura                     
-***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
+D-Rank (Cost 5): Ash Cloud, Blazing Ember, Hellfire Rejection  
 
-D-Rank (Cost 5): Hypnosis                   
-***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+C-Rank (Cost 9): SA: Darkness, Living Weapon, Heated Sight    
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
 
-D-Rank (Cost 5): Multipoint Strike 
+D-Rank (Cost 5): 3-Point Pierce, BOF: Unknowing 
 
-C-Rank (Cost 9): Afterglow, Crescent Moon Beheading        
+C-Rank (Cost 9): BOF: Undulation, Crescent Moon Penetration        
 
 ### Attacks
-***Multiattack*** This creature can make three *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d4+4 Slashing damage.
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Trident** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Piercing damage.
 
  }}
- 
-
 
 {{monster,frame
 ### Evolves From
-- ***Renamon*** 
-- ***Salamon***
+- ***Impmon*** 
+- ***SoundBirdmon***
+- ***DemiDevimon***
 ### Evolves Into
-- ***Cyberdramon***
-- ***Knightmon***
-- ***LadyDevimon***
-
- }}
+- ***Mephistomon***
+- ***SkullSatamon***
+- ***NeoDevimon***
+}}
 
 {{monster,frame
 ### Alternative Jutsu List
-BlackGatomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+Boogiemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Bukijutsu with the Slashing Weapon Component*
 - *Genjutsu with the Visual Component*
 - *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.* 
-  }}
+}}
   
-## BlackGatomon
-A virus type variant of Gatomon that has a pitch black fur coat. BlackGatomon is both malicious and prideful; not above bullying weaker Digimon just to feel a sense of power. This mutation of Gatomon is quite rare, leading to a low population.
+\column
+
+## Boogiemon
+Numerous tattoos containing evil incantations are carved onto its body, and it is apparently capable of casting as many spells as it has tattoos. Rather than fight head-on, it is a coward that usually lies in wait and launches ambush attacks on the enemy from the darkness.
+
 ## Scaling Enemy
-BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the following steps at each level.
+Boogiemon ranges between levels 5-8. To upscale a Boogiemon perform the following steps at each level.
 
-- **Level 6+,** Increase the BlackGatomon's Hit Points by 12 & Chakra Points by 7 for every level.
-- **Level 7.** The BlackGatomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 6+,** Increase the Boogiemon's Hit Points by 9 & Chakra Points by 7 for every level.
+- **Level 7.** The Boogiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![BlackGatomon](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg) {position:absolute,bottom:130px,left:430px,width:350px,mix-blend-mode:multiply}
+![Boogiemon](https://d.furaffinity.net/art/proxae/1487379005/1487379005.proxae_oogie_boogie_by_proxae-dawn51a.png) {position:absolute,bottom:170px,left:370px,width:500px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:380px,left:180px,margin-bottom:-30px
-##### BlackGatomon
-[Link](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg)
+{{artist,position:relative,top:140px,left:210px,margin-bottom:-30px
+##### Boogiemon
+[Link](https://d.furaffinity.net/art/proxae/1487379005/1487379005.proxae_oogie_boogie_by_proxae-dawn51a.png)
 }}
 
 {{pageNumber,auto}}
