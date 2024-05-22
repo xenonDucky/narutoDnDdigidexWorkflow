@@ -2700,7 +2700,7 @@ Bakemon ranges between levels 5-8. To upscale a Bakemon perform the following st
 \page
 {{monster,frame
 ## Birdramon
-*C-Rank, Standard, Large Vaccine, Bird/Fire, Prof +4*
+*C-Rank, Standard, Huge Vaccine, Bird/Fire, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -2769,87 +2769,6 @@ Birdramon ranges between levels 5-8. To upscale a Birdramon perform the followin
 
 {{artist,position:relative,top:400px,left:200px,margin-bottom:-30px
 ##### Birdramon
-[Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part II - CHAMPION}}
-
-
-\page
-{{monster,frame
-## BlackGarurumon
-*C-Rank, Standard, Large Virus, Beast/Fire, Prof +4*
-
-**Level:** 5 (10XP)
-___
-**Armor Class** :: 19 
-**Hit Points**  :: 75 (d12) 
-**Chakra Points**  :: 37 (d6)  
-**Speed**       :: 45ft. **Initiative** +6
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|18 (+4)|16 (+3)|10 (+0)|12 (+1)|10 (+0)|
-___
-**Saving Throws** :: *Str +6*, *Dex +8*, *Con +7*, Int +2, Wis +3, Cha +2
-**Skills** ::  Acrobatics +8, Perception +5, Martial Arts +8 
-**Damage Immunity** :: Cold      
-**Senses**               :: passive Perception 15
-___
-***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
-:
-***Cruel I (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
-:
-***Lone Wolf II (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +4 to all attack and damage rolls.
-
-### Jutsu  
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**) 
-
-D-Rank (Cost 5): Flame Bolt           
-***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
-
-D-Rank (Cost 5): 1-Strike Slash, 2-Point Penetrate
-
-C-Rank (Cost 9): Afterglow, Falling Blade    
-
-### Attacks
-***Multiattack*** This creature can make two *Bite* attacks.      
-**Bite** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Piercing damage.
-
- }}
-
-
-{{monster,frame
-### Evolves From
-- ***Gabumon*** 
-### Evolves Into
-- ***BlueMeramon***
-- ***Monzaemon***
-- ***ShadowWereGarurumon***
-
- }}
- 
-{{monster,frame
-### Alternative Jutsu List
-BlackGarurumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword*
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Bukijutsu with the Piercing Weapon Component.*
-  }}
-  
-## BlackGarurumon
-A Beast Digimon that is covered in black and white fur. It has a coat that is harder than steel and is sharper than most blades. It is a precise and deadly hunter that strikes with swift efficiency. Like Garurumon, BlackGarurumon has a keen sense of loyalty to its perceived master. However, BlackGarurumon is often quite wild with its antics, resulting in many individuals claiming that Digimon of this species are completely feral.  
-## Scaling Enemy
-BlackGarurumon ranges between levels 5-8. To upscale a BlackGarurumon perform the following steps at each level.
-
-- **Level 6+,** Increase the BlackGarurumon's Hit Points by 15 & Chakra Points by 7 for every level.
-- **Level 7.** The BlackGarurumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-
-![BlackGarurumon](https://wikimon.net/images/archive/4/42/20190325121727%21Garurumon_black.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:350px,left:160px,margin-bottom:-30px
-##### BlackGarurumon
 [Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
 }}
 
@@ -4149,6 +4068,87 @@ Garurumon ranges between levels 5-8. To upscale a Garurumon perform the followin
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
+
+\page
+{{monster,frame
+## BlackGarurumon
+*C-Rank, Standard, Medium Virus, Beast/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 75 (d12) 
+**Chakra Points**  :: 37 (d6)  
+**Speed**       :: 45ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|18 (+4)|16 (+3)|10 (+0)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: *Str +6*, *Dex +8*, *Con +7*, Int +2, Wis +3, Cha +2
+**Skills** ::  Acrobatics +8, Perception +5, Martial Arts +8 
+**Damage Immunity** :: Cold      
+**Senses**               :: passive Perception 15
+___
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
+:
+***Cruel I (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+:
+***Lone Wolf II (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +4 to all attack and damage rolls.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**) 
+
+D-Rank (Cost 5): Flame Bolt           
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): 1-Strike Slash, 2-Point Penetrate
+
+C-Rank (Cost 9): Afterglow, Falling Blade    
+
+### Attacks
+***Multiattack*** This creature can make two *Bite* attacks.      
+**Bite** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Piercing damage.
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Gabumon*** 
+### Evolves Into
+- ***BlueMeramon***
+- ***Monzaemon***
+- ***ShadowWereGarurumon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+BlackGarurumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Bukijutsu with the Piercing Weapon Component.*
+  }}
+  
+## BlackGarurumon
+A Beast Digimon that is covered in black and white fur. It has a coat that is harder than steel and is sharper than most blades. It is a precise and deadly hunter that strikes with swift efficiency. Like Garurumon, BlackGarurumon has a keen sense of loyalty to its perceived master. However, BlackGarurumon is often quite wild with its antics, resulting in many individuals claiming that Digimon of this species are completely feral.  
+## Scaling Enemy
+BlackGarurumon ranges between levels 5-8. To upscale a BlackGarurumon perform the following steps at each level.
+
+- **Level 6+,** Increase the BlackGarurumon's Hit Points by 15 & Chakra Points by 7 for every level.
+- **Level 7.** The BlackGarurumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![BlackGarurumon](https://wikimon.net/images/archive/4/42/20190325121727%21Garurumon_black.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:350px,left:160px,margin-bottom:-30px
+##### BlackGarurumon
+[Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
 \page
 
 {{monster,frame
@@ -4234,6 +4234,90 @@ Gatomon ranges between levels 5-8. To upscale a Gatomon perform the following st
 {{footnote Part II - CHAMPION}}
 
 \page
+{{monster,frame
+## BlackGatomon
+*C-Rank, Standard, Small Virus, Demon Beast/Dark, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 35ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|18 (+4)|14 (+2)|12 (+1)|12 (+1)|14 (+2)|
+___
+**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +5*, Wis +3, *Cha +6*
+**Skills** ::  Acrobatics +8, Stealth +8, Perception +5   
+**Senses**               :: passive Perception 15
+___
+***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
+:
+***Cruel I (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+:
+***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+
+### Jutsu  
+***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**)
+
+D-Rank (Cost 5): Healing Aura                     
+***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
+
+D-Rank (Cost 5): Hypnosis                   
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): Multipoint Strike 
+
+C-Rank (Cost 9): Afterglow, Crescent Moon Beheading        
+
+### Attacks
+***Multiattack*** This creature can make three *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d4+4 Slashing damage.
+
+ }}
+ 
+
+
+{{monster,frame
+### Evolves From
+- ***Renamon*** 
+- ***Salamon***
+### Evolves Into
+- ***Cyberdramon***
+- ***Knightmon***
+- ***LadyDevimon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+BlackGatomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Bukijutsu with the Slashing Weapon Component*
+- *Genjutsu with the Visual Component*
+- *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.* 
+  }}
+  
+## BlackGatomon
+A virus type variant of Gatomon that has a pitch black fur coat. BlackGatomon is both malicious and prideful; not above bullying weaker Digimon just to feel a sense of power. This mutation of Gatomon is quite rare, leading to a low population.
+## Scaling Enemy
+BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the following steps at each level.
+
+- **Level 6+,** Increase the BlackGatomon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The BlackGatomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![BlackGatomon](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg) {position:absolute,bottom:130px,left:430px,width:350px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:380px,left:180px,margin-bottom:-30px
+##### BlackGatomon
+[Link](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
 
 {{monster,frame
 ## Gesomon
@@ -4309,89 +4393,6 @@ Gesomon ranges between levels 5-8. To upscale a Gesomon perform the following st
 {{artist,position:relative,top:120px,left:250px,margin-bottom:-30px
 ##### Gesomon
 [Link](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.pnghttps://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part II - CHAMPION}}
-
-
-\page
-
-{{monster,frame
-## GeoGreymon
-*C-Rank, Standard, Large Vaccine, Reptile/Fire, Prof +4*
-
-**Level:** 5 (10XP)
-___
-**Armor Class** :: 19 
-**Hit Points**  :: 60 (d10) 
-**Chakra Points**  :: 38 (d8)       
-**Speed**       :: 35ft. **Initiative** +4
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|14 (+2)|14 (+2)|16 (+3)|10 (+0)|8 (-1)|
-___
-**Saving Throws** :: *Str +8*, *Dex +6*, Con +4, *Int +7*, Wis +2, Cha +1
-**Skills** ::  Athletics +8, Martial Arts +8, Survival +4 
-**Senses**               :: passive Perception 10
-___
-***Blood Fury I (Unique)*** When this Digimon is bloodied (below 50% of their maximum HP), they become enraged, gaining 5ft. of movement speed and +2 to all attack rolls but suffering a -2 AC penalty.
-:
-***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation. This is already added to its stat block.    
-:
-***Rivalry (Unique)*** As a Bonus Action this Digimon can mark a single Hostile Creature as their Rival. While a creature is marked as this creature’s Rival, this creature gains +3 to all attack rolls to hit their Rival, however suffer a -3 penalty to all attack rolls to hit any other target. They can use this feature a number of times equal to their Proficiency Bonus per rest.
-
-### Jutsu  
-***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
-
-D-Rank (Cost 5): Fireball, Phoenix Fire
-
-C-Rank (Cost 9): Great Fireball           
-***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
-
-D-Rank (Cost 5): 1-Strike Slash
-
-C-Rank (Cost 9): Nobunaga's Fury
-### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
-
- }}
-
-
-{{monster,frame
-### Evolves From
-- ***Agumon*** 
-- ***Guilmon***
-### Evolves Into
-- ***Gigadramon***
-- ***RizeGreymon***
-- ***SkullGreymon***
-
- }}
- 
-{{monster,frame
-### Alternative Jutsu List
-GeoGreymon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Bukijutsu with the Piercing Weapon Component.*
-  }}
-  
-## GeoGreymon
-A unique variant of the Greymon species. It is a thinner, more agile dinosaur that possesses a higher battle drive than its original species. GeoGreymon's leaner design enables it to easily pursue fleeing enemies but leaves it more vulnerable to prolonged combat.
-## Scaling Enemy
-GeoGreymon ranges between levels 5-8. To upscale a GeoGreymon perform the following steps at each level.
-
-- **Level 6+,** Increase the GeoGreymon's Hit Points by 12 & Chakra Points by 7 for every level.
-- **Level 7.** The GeoGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-
-![GeoGreymon](https://i.pinimg.com/564x/77/29/bc/7729bc5bbe4ac513f22f37fb44c1b6d2.jpg) {position:absolute,bottom:40px,left:390px,width:450px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:440px,left:100px,margin-bottom:-30px
-##### GeoGreymon
-[Link](https://i.pinimg.com/564x/77/29/bc/7729bc5bbe4ac513f22f37fb44c1b6d2.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -4636,6 +4637,87 @@ Greymon (Virus) ranges between levels 5-8. To upscale a Greymon (Virus) perform 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
+\page
+
+{{monster,frame
+## GeoGreymon
+*C-Rank, Standard, Large Vaccine, Reptile/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)       
+**Speed**       :: 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|14 (+2)|14 (+2)|16 (+3)|10 (+0)|8 (-1)|
+___
+**Saving Throws** :: *Str +8*, *Dex +6*, Con +4, *Int +7*, Wis +2, Cha +1
+**Skills** ::  Athletics +8, Martial Arts +8, Survival +4 
+**Senses**               :: passive Perception 10
+___
+***Blood Fury I (Unique)*** When this Digimon is bloodied (below 50% of their maximum HP), they become enraged, gaining 5ft. of movement speed and +2 to all attack rolls but suffering a -2 AC penalty.
+:
+***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation. This is already added to its stat block.    
+:
+***Rivalry (Unique)*** As a Bonus Action this Digimon can mark a single Hostile Creature as their Rival. While a creature is marked as this creature’s Rival, this creature gains +3 to all attack rolls to hit their Rival, however suffer a -3 penalty to all attack rolls to hit any other target. They can use this feature a number of times equal to their Proficiency Bonus per rest.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Fireball, Phoenix Fire
+
+C-Rank (Cost 9): Great Fireball           
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
+
+D-Rank (Cost 5): 1-Strike Slash
+
+C-Rank (Cost 9): Nobunaga's Fury
+### Attacks
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Agumon*** 
+- ***Guilmon***
+### Evolves Into
+- ***Gigadramon***
+- ***RizeGreymon***
+- ***SkullGreymon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+GeoGreymon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Bukijutsu with the Piercing Weapon Component.*
+  }}
+  
+## GeoGreymon
+A unique variant of the Greymon species. It is a thinner, more agile dinosaur that possesses a higher battle drive than its original species. GeoGreymon's leaner design enables it to easily pursue fleeing enemies but leaves it more vulnerable to prolonged combat.
+## Scaling Enemy
+GeoGreymon ranges between levels 5-8. To upscale a GeoGreymon perform the following steps at each level.
+
+- **Level 6+,** Increase the GeoGreymon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The GeoGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![GeoGreymon](https://i.pinimg.com/564x/77/29/bc/7729bc5bbe4ac513f22f37fb44c1b6d2.jpg) {position:absolute,bottom:40px,left:390px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:440px,left:100px,margin-bottom:-30px
+##### GeoGreymon
+[Link](https://i.pinimg.com/564x/77/29/bc/7729bc5bbe4ac513f22f37fb44c1b6d2.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 
 \page
 
@@ -5290,6 +5372,90 @@ Kyubimon ranges between levels 5-8. To upscale a Kyubimon perform the following 
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Youkomon
+*C-Rank, Standard, Medium Data, Beast/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 50 (d8) 
+**Chakra Points**  :: 44 (d10)  
+**Speed**       :: 45ft. **Initiative** +5  
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|
+___
+**Saving Throws** :: Str +2, *Dex +7*, Con +4, *Int +8*, Wis +2, *Cha +6* 
+**Skills** ::  Acrobatics +7, Illusions +6, Stealth +7             
+**Senses**               :: passive Perception 10
+___
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
+:
+***Cunning Action II (Unique)*** This Digimon may use their Bonus Action to take the Disengage, Dash or Hide actions.
+:
+***Calm II (Unique)*** This creature is resistant to any effect that would cause Charm, Fear or Berserk.
+
+### Jutsu  
+
+***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 16**)
+
+D-Rank (Cost 5): Fox Fire, Scorching Ray
+
+C-Rank (Cost 9): Blue Fire Ember, Heavenly Prison     
+***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
+
+D-Rank (Cost 5): Color Spray
+
+
+### Attacks
+***Multiattack*** This creature can make two *Slam* attacks.      
+**Slam** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
+
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Renamon*** 
+### Evolves Into
+- ***Doumon***
+- ***ShadowWereGarurumon***
+- ***SkullMeramon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Youkomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Genjutsu with the Auditory Component.*
+- *Genjutsu with the Visual Component.*
+  }}
+\column
+## Youkomon
+A mythical Beast Digimon that takes the appearance of a gigantic blue fox with nine tails. It is often associated with great danger and destruction. Unlike Kyubimon, this association is spot on with Youkomon very often bringing destruction and decay. While it still possessed some trickery, Youkomon relies moreso on its natural spiritual power to destroy its foes.
+## Scaling Enemy
+Youkomon ranges between levels 5-8. To upscale a Youkomon perform the following steps at each level.
+
+- **Level 6+,** Increase the Youkomon's Hit Points by 10 & Chakra Points by 8 for every level.
+- **Level 7.** The Youkomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Youkomon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss) {position:absolute,bottom:140px,left:380px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:30px,left:290px,margin-bottom:-30px
+##### Youkomon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
 
 \page
 
@@ -6104,87 +6270,6 @@ Reppamon ranges between levels 5-8. To upscale a Reppamon perform the following 
 {{artist,position:relative,top:40px,left:260px,margin-bottom:-30px
 ##### Reppamon
 [Link](https://i.pinimg.com/564x/ee/2b/1a/ee2b1a6df1bb6d33c3f655984686d397.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part II - CHAMPION}}
-
-\page
-
-{{monster,frame
-## Sorcerimon
-*C-Rank, Standard, Medium Vaccine, Demon/Light, Prof +4*
-
-**Level:** 5 (10XP)
-___
-**Armor Class** :: 16 
-**Hit Points**  :: 40 (d6) 
-**Chakra Points**  :: 50 (d12)  
-**Speed**       :: 35ft. **Initiative** +3
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|6 (-2)|12 (+1)|14 (+2)|20 (+5)|12 (+1)|16 (+3)|
-___
-**Saving Throws** :: Str +0, Dex +3, Con +4, *Int +9*, *Wis +5*, *Cha +7* 
-**Skills** ::  Ninshou +9, Investigation +9, Chakra Control +6               
-**Senses**               :: passive Perception 11
-___
-***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
-:
-***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
-:
-***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
-
-### Jutsu  
-***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)      
-D-Rank (Cost 5): Lightning Ball, Rock Shuriken, Slicing 
-
-Airwaves, Water Pillar Thrust, Water Shield, Water Shuriken       
-C-Rank (Cost 9): Lightning Rope, Raging Tide, Sand Coffin 
-
-Binding, Vaccum Shield
-
-### Attacks
-***Multiattack*** This creature can make two *Staff* attacks.      
-**Staff** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Salamon*** 
-
-### Evolves Into
-- ***Antylamon***
-- ***Piximon***
-- ***Wisemon***
-
- }}
- 
-{{monster,frame
-### Alternative Jutsu List
-Sorcerimon may learn **3 D Rank**, **2 C Rank** and **6** other jutsu that meet the following requirements: 
-- *Ninjutsu with the Water Release Keyword.*
-- *Ninjutsu with the Wind Release Keyword.*
-- *Ninjutsu with the Earth Release Keyword.*
-- *Ninjutsu with the Lightning Release Keyword.*
-  }}
-\column
-## Sorcerimon
-A Demon Digimon that resembles a man dressed in white clothes. It exudes a mystical aura. Sorcerimon has the ability to tap into most elemental releases and use its mystical power in ways that other Digimon can only dream of. It is companions to Wizardmon, with whom it shares many similar abilities. 
-## Scaling Enemy
-Sorcerimon ranges between levels 5-8. To upscale a Sorcerimon perform the following steps at each level.
-
-- **Level 6+,** Increase the Sorcerimon's Hit Points by 8 & Chakra Points by 9 for every level.
-- **Level 7.** The Sorcerimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-
-![Sorcerimon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk0tg4-0bdb7513-3865-4ec3-b350-c40f51df902c.png/v1/fit/w_375,h_405/sorcerymon_by_homeosttasis_dfk0tg4-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4MyIsInBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMHRnNC0wYmRiNzUxMy0zODY1LTRlYzMtYjM1MC1jNDBmNTFkZjkwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4zLhTg8tVbeiySm7x9KjK_NEwvViaHfY62-DKza7ELc) {position:absolute,bottom:170px,left:330px,width:500px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:70px,left:260px,margin-bottom:-30px
-##### Sorcerimon
-[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk0tg4-0bdb7513-3865-4ec3-b350-c40f51df902c.png/v1/fit/w_375,h_405/sorcerymon_by_homeosttasis_dfk0tg4-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4MyIsInBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMHRnNC0wYmRiNzUxMy0zODY1LTRlYzMtYjM1MC1jNDBmNTFkZjkwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4zLhTg8tVbeiySm7x9KjK_NEwvViaHfY62-DKza7ELc)
 }}
 
 {{pageNumber,auto}}
@@ -7337,6 +7422,87 @@ Wizardmon ranges between levels 5-8. To upscale a Sorcerimon perform the followi
 \page
 
 {{monster,frame
+## Sorcerimon
+*C-Rank, Standard, Medium Vaccine, Demon/Light, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 16 
+**Hit Points**  :: 40 (d6) 
+**Chakra Points**  :: 50 (d12)  
+**Speed**       :: 35ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|6 (-2)|12 (+1)|14 (+2)|20 (+5)|12 (+1)|16 (+3)|
+___
+**Saving Throws** :: Str +0, Dex +3, Con +4, *Int +9*, *Wis +5*, *Cha +7* 
+**Skills** ::  Ninshou +9, Investigation +9, Chakra Control +6               
+**Senses**               :: passive Perception 11
+___
+***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
+:
+***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
+:
+***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
+
+### Jutsu  
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)      
+D-Rank (Cost 5): Lightning Ball, Rock Shuriken, Slicing 
+
+Airwaves, Water Pillar Thrust, Water Shield, Water Shuriken       
+C-Rank (Cost 9): Lightning Rope, Raging Tide, Sand Coffin 
+
+Binding, Vaccum Shield
+
+### Attacks
+***Multiattack*** This creature can make two *Staff* attacks.      
+**Staff** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Salamon*** 
+
+### Evolves Into
+- ***Antylamon***
+- ***Piximon***
+- ***Wisemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Sorcerimon may learn **3 D Rank**, **2 C Rank** and **6** other jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Ninjutsu with the Wind Release Keyword.*
+- *Ninjutsu with the Earth Release Keyword.*
+- *Ninjutsu with the Lightning Release Keyword.*
+  }}
+\column
+## Sorcerimon
+A Demon Digimon that resembles a man dressed in white clothes. It exudes a mystical aura. Sorcerimon has the ability to tap into most elemental releases and use its mystical power in ways that other Digimon can only dream of. It is companions to Wizardmon, with whom it shares many similar abilities. 
+## Scaling Enemy
+Sorcerimon ranges between levels 5-8. To upscale a Sorcerimon perform the following steps at each level.
+
+- **Level 6+,** Increase the Sorcerimon's Hit Points by 8 & Chakra Points by 9 for every level.
+- **Level 7.** The Sorcerimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Sorcerimon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk0tg4-0bdb7513-3865-4ec3-b350-c40f51df902c.png/v1/fit/w_375,h_405/sorcerymon_by_homeosttasis_dfk0tg4-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4MyIsInBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMHRnNC0wYmRiNzUxMy0zODY1LTRlYzMtYjM1MC1jNDBmNTFkZjkwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4zLhTg8tVbeiySm7x9KjK_NEwvViaHfY62-DKza7ELc) {position:absolute,bottom:170px,left:330px,width:500px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:70px,left:260px,margin-bottom:-30px
+##### Sorcerimon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk0tg4-0bdb7513-3865-4ec3-b350-c40f51df902c.png/v1/fit/w_375,h_405/sorcerymon_by_homeosttasis_dfk0tg4-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4MyIsInBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMHRnNC0wYmRiNzUxMy0zODY1LTRlYzMtYjM1MC1jNDBmNTFkZjkwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4zLhTg8tVbeiySm7x9KjK_NEwvViaHfY62-DKza7ELc)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
 ## Woodmon
 *C-Rank, Standard, Medium Virus, Plant/Grass, Prof +4*
 
@@ -7415,89 +7581,6 @@ Woodmon ranges between levels 5-8. To upscale a Woodmon perform the following st
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
-\page
-
-{{monster,frame
-## Youkomon
-*C-Rank, Standard, Medium Data, Beast/Fire, Prof +4*
-
-**Level:** 5 (10XP)
-___
-**Armor Class** :: 18 
-**Hit Points**  :: 50 (d8) 
-**Chakra Points**  :: 44 (d10)  
-**Speed**       :: 45ft. **Initiative** +5  
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|16 (+3)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|
-___
-**Saving Throws** :: Str +2, *Dex +7*, Con +4, *Int +8*, Wis +2, *Cha +6* 
-**Skills** ::  Acrobatics +7, Illusions +6, Stealth +7             
-**Senses**               :: passive Perception 10
-___
-***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
-:
-***Cunning Action II (Unique)*** This Digimon may use their Bonus Action to take the Disengage, Dash or Hide actions.
-:
-***Calm II (Unique)*** This creature is resistant to any effect that would cause Charm, Fear or Berserk.
-
-### Jutsu  
-
-***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 16**)
-
-D-Rank (Cost 5): Fox Fire, Scorching Ray
-
-C-Rank (Cost 9): Blue Fire Ember, Heavenly Prison     
-***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
-
-D-Rank (Cost 5): Color Spray
-
-
-### Attacks
-***Multiattack*** This creature can make two *Slam* attacks.      
-**Slam** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
-
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Renamon*** 
-### Evolves Into
-- ***Doumon***
-- ***ShadowWereGarurumon***
-- ***SkullMeramon***
-
- }}
- 
-{{monster,frame
-### Alternative Jutsu List
-Youkomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword.*
-- *Genjutsu with the Auditory Component.*
-- *Genjutsu with the Visual Component.*
-  }}
-\column
-## Youkomon
-A mythical Beast Digimon that takes the appearance of a gigantic blue fox with nine tails. It is often associated with great danger and destruction. Unlike Kyubimon, this association is spot on with Youkomon very often bringing destruction and decay. While it still possessed some trickery, Youkomon relies moreso on its natural spiritual power to destroy its foes.
-## Scaling Enemy
-Youkomon ranges between levels 5-8. To upscale a Youkomon perform the following steps at each level.
-
-- **Level 6+,** Increase the Youkomon's Hit Points by 10 & Chakra Points by 8 for every level.
-- **Level 7.** The Youkomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-
-![Youkomon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss) {position:absolute,bottom:140px,left:380px,width:450px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:30px,left:290px,margin-bottom:-30px
-##### Youkomon
-[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part II - CHAMPION}}
-
 
 \page
 {{frontCover}}
@@ -8084,86 +8167,6 @@ BlackKingNumemon ranges between levels 9-12. To upscale a BlackKingNumemon perfo
 {{artist,position:relative,top:300px,left:200px,margin-bottom:-30px
 ##### BlackKingNumemon
 [Link](https://wikimon.net/images/thumb/5/5b/Blackkingnumemon.jpg/320px-Blackkingnumemon.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-
-
-\page
-
-{{monster,frame
-## BlackWarGrowlmon
-*B-Rank, Standard, Large Virus, Machine Dragon/Fire, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 22 
-**Hit Points**  :: 162 (d12) 
-**Chakra Points**  :: 83 (d6)  
-**Speed**       :: 40ft. **Initiative** +4
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|20 (+5)|12 (+1)|20 (+5)|16 (+3)|8 (-1)|10 (+0)|
-___
-**Saving Throws** :: *Str +10* Dex +3, *Con +10*, *Int +8*, Wis +1, Cha +2
-**Skills** ::  Athletics +10, Chakra Control +10, Martial Arts +10, Survival +4  
-**Senses**               :: passive Perception 13
-___
-***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
-:
-***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
-:
-***Blood Fury III (Unique)*** When this Digimon is below 50% of their maximum HP, they become enraged, gaining 15ft. of movement speed and +4 to all attack rolls but suffering a -2 AC penalty.
-:
-***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
-
-Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
-### Jutsu  
-***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**) 
-
-C-Rank (Cost 9): Great Fireball           
-***Bukijutsu*** +12 to hit, (**Bukijutsu save DC 18**) 
- 
- C-Rank (Cost 9): BOF: Undulation, Heaven Cutter
- 
- B-Rank (Cost 14): BOF: Rengoku, Counter Strike
-
-### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage. 
-
- }}
-{{monster,frame
-
-### Evolves From
-- ***Growlmon***
-
-### Evolves Into
-- ***ChaosGallantmon***
-- ***Megidramon***
-
- }}
-{{monster,frame
-### Alternative Jutsu List
-BlackWarGrowlmon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
-  }}
-## BlackWarGrowlmon
-A Machine Dragon Digimon that is a darker version of WargGrowlmon. As its upperbody has been completely metallized with Chrome Digizoid, it is a lot hardier than Growlmon. However, it is even more barbaric on the battlefield with little concern for its own safety so long as it strikes down the enemy targets.
-## Scaling Enemy
-BlackWarGrowlmon ranges between levels 9-12. To upscale a BlackWarGrowlmon perform the following steps at each level.
-
-- **Level 10.** The BlackWarGrowlmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the BlackWarGrowlmon's Hit Points by 18 & Chakra Points by 9 for every level.
-
-![BlackWarGrowlmon](https://i.pinimg.com/564x/d5/a3/78/d5a3783cf8e13389d651ea864259a145.jpg) {position:absolute,bottom:60px,left:370px,width:500px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:460px,left:60px,margin-bottom:-30px
-##### BlackWarGrowlmon
-[Link](https://i.pinimg.com/564x/d5/a3/78/d5a3783cf8e13389d651ea864259a145.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -8904,7 +8907,6 @@ Deramon ranges between levels 9-12. To upscale a Deramon perform the following s
 
 \page
 
-
 {{monster,frame
 ## Digitamamon
 *B-Rank, Standard, Small Data, Beast/Neutral, Prof +5*
@@ -9065,173 +9067,6 @@ Dinobeemon ranges between levels 9-12. To upscale a Dinobeemon perform the follo
 \page
 
 {{monster,frame
-## DoruGreymon
-*B-Rank, Standard, Huge Data, Beast Dragon/Fire, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 22   **DR**  10 (All)
-**Hit Points**  :: 144 (d10) 
-**Chakra Points**  :: 93 (d8)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|12 (+1)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
-___
-**Saving Throws** :: *Str +9*, Dex +3, *Con +9*, Int +6, *Wis +5*, Cha +2
-**Skills** ::  Athletics +9, Survival +5, Chakra Control +10, Perception +5 
-**Senses**               :: passive Perception 15
-___
-***Mystical Scale II (Unique)*** This Digimon gains advantage on any saving throw to prevent or to end Physical conditions. Additionally, this Digimon cannot take damage from any Physical condition.
-:
-***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
-:
-***Tanky Resilience III (Unique)*** This Digimon gains 15 Damage Reduction to all sources. This is already added to its stat block.
-:
-***Gekirin III (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 4 chakra. When they do so, the jutsu deals an additional four damage dice.
-### Jutsu  
-
-
-***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
-
-C-Rank (Cost 9): Dragon Flame Bombs
-
-B-Rank (Cost 14): Great Flame Bomb            
-***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**) 
-
-D-Rank (Cost 5): BOA: Scorch
-
-C-Rank (Cost 9): BOA: Chimney Clearing
-
-B-Rank (Cost 14): BOA: Dust
-
-### Attacks    
-**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Slashing damage. 
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Garurumon***
-- ***Strikedramon***
-
-### Evolves Into
-- ***Alphamon***
-- ***Dorugoramon***
-
- }}
-
-{{monster,frame
-### Alternative Jutsu List
-DoruGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword*
-- *Bukijutsu that requires a ranged weapon.*
-- *Bukijutsu with the Slashing Weapon Component.*
-  }}
-## DoruGreymon
-A Digimon that possessed both the qualities of a Dragon and a Beast. It is a massive Digimon that possesses the qualities of a legendary Dragon that has hibernated for centuries. DoruGreymon's thick coat protects it against all minor attacks.  
-## Scaling Enemy
-DoruGreymon ranges between levels 9-12. To upscale a DoruGreymon perform the following steps at each level.
-
-- **Level 10.** The DoruGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the DoruGreymon's Hit Points by 16 & Chakra Points by 10 for every level.
-
-![DoruGreymon](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg) {position:absolute,bottom:80px,left:230px,width:580px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:60px,left:290px,margin-bottom:-30px
-##### DoruGreymon
-[Link](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-
-\page
-
-{{monster,frame
-## Doumon
-*B-Rank, Standard, Medium Data, Demon/Dark, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 20 
-**Hit Points**  :: 108 (d8) 
-**Chakra Points**  :: 85 (d10)  
-**Speed**       :: 40ft.   **Initiative** +5
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|16 (+3)|16 (+3)|20 (+5)|10 (+0)|18 (+4)|
-___
-**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +10*, Wis +2, *Cha +9*
-**Skills** ::  Acrobatics +8, Illusions +10 Stealth +8 Chakra Control +8
-**Senses**               :: passive Perception 10
-___
-***Calm III (Unique)*** This creature gains an additional 20ft of movement. This is already added to the stat block.
-:
-***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
-:
-***Efficient Seals III (Unique)*** All Fuinjutsu have their costs reduced by 3 Chakra Points.
-:
-***Summoner III (Unique)***  You have 3 extra bonus actions you can use to for commanding summoned creatures. Additionally, you can focus on 3 extra jutsus that summon constructs.
-### Jutsu  
-
-***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
-
-C-Rank (Cost 6): BIA: Bear, BIA: Lion, SA: Darkness, SA: Chakra Dispel, SA: Curse
-
-B-Rank (Cost 11): BIA: Tiger, BIA: Lycanthrope, SA: Circle of Authority  
-***Genjutsu*** +11 to hit, (**Genjutsu save DC 17**)        
-
-C-Rank (Cost 6): Illusory Bamboozlement
-
-B-Rank (Cost 14): Labyrinthine Howl
- 
-### Attacks      
-***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
-**Unarmed Strike** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Bludgeoning damage. 
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Youkomon***
-
-
-### Evolves Into
-- ***Kuzuhamon***
-- ***Murmukusmon***
-
- }}
-{{monster,frame
-### Alternative Jutsu List
-Doumon may learn **3 C Rank (Or Lower)**, **2 B Rank** and **6** other jutsu that meet the following requirements:  
-- *Ninjutsu with the Fuinjutsu keyword.*
-- *Any Genjutsu.*
-  }}
-## Doumon
-A Demon Digimon that possesses a keen knowledge of Genjutsu and Fuinjutsu. Its ability to manipulate chakra is legendary. Doumon tends to live within darkened areas and curse those who approach it with hostile intentions. 
-## Scaling Enemy
-Doumon ranges between levels 9-12. To upscale a Doumon perform the following steps at each level.
-
-- **Level 10.** The Doumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the Doumon's Hit Points by 11 & Chakra Points by 8 for every level.
-
-![Doumon](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHd8eUBOTZ7cDHw-P0FMRhfDGN3Fr-L57meBt3LFRTEn_32loM) {position:absolute,bottom:60px,left:410px,width:400px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:50px,left:210px,margin-bottom:-30px
-##### Doumon
-[Link](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHd8eUBOTZ7cDHw-P0FMRhfDGN3Fr-L57meBt3LFRTEn_32loM)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-
-\page
-
-{{monster,frame
 ## Etemon
 *B-Rank, Standard, Medium Virus, Puppet/Dark, Prof +5*
 
@@ -9319,7 +9154,7 @@ Etemon ranges between levels 9-12. To upscale a Etemon perform the following ste
 
 {{monster,frame
 ## Garudamon
-*B-Rank, Standard, Colossus Vaccine, Bird/Fire, Prof +5*
+*B-Rank, Standard, Gargantuan Vaccine, Bird/Fire, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -9390,88 +9225,6 @@ Garudamon ranges between levels 9-12. To upscale a Garudamon perform the followi
 {{artist,position:relative,top:0px,left:200px,margin-bottom:-30px
 ##### Garudamon
 [Link](https://i.pinimg.com/564x/92/bd/a4/92bda48f7a3fc1d2eda5c5e2b4a7b907.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-
-
-\page
-
-{{monster,frame
-## Gigadramon
-*B-Rank, Standard, Large Virus, Dragon/Wind, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 25  
-**Hit Points**  :: 126 (d10) 
-**Chakra Points**  :: 75 (d8)  
-**Speed**       :: 5ft., Fly 65ft. **Initiative** +6
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|12 (+1)|18 (+4)|16 (+3)|20 (+5)|14 (+2)|8 (-1)|
-___
-**Saving Throws** :: Str +3, *Dex +9*, Con +5, *Int +10*, *Wis +7*, Cha +1
-**Skills** ::  Acrobatics +9, Chakra Control +8, Investigation +10, Perception +7
-**Senses**               :: passive Perception 22
-___
-***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
-:
-***Quick Flyer II (Unique)*** Gains additional 30ft. of Flying Speed at the cost of 20ft. of Walking Speed. Already added to stat block.
-:
-***Keen Eye II (Unique)*** This Digimon gains an additional +5 to Passive Perception and Passive Insight. Additionally, it can take the Search action as a Bonus Action.
-:
-***Powerful Air III (Unique)*** All jutsu with the Wind Release keyword deal an additional three damage die.
-### Jutsu  
-***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
-
-C-Rank (Cost 9): Great Breakthrough, Fire Dragon Bullet, Vacuum Barrier
-
-B-Rank (Cost 14): Gale Blade, Great Flame Bomb            
-
-### Attacks    
-***Multiattack*** This creature can make two *Slash* attacks.        
-**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Slashing damage.  
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Birdramon***
-- ***Devidramon***
-- ***Flarerizamon***
-- ***GeoGreymon***
-- ***Kuwagamon***
-- ***Tankmon***
-
-### Evolves Into
-- ***Megidramon***
-- ***MetalSeadramon***
-
- }}
-
-{{monster,frame
-### Alternative Jutsu List
-Gigadramon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword*
-- *Ninjutsu with the Wind Release Keyword*
-  }}
-## Gigadramon
-An Android Dragon Digimon that possesses a malicious nature. It was developed at the same time as Megadramon and possesses many similarities to it. As Gigadramon possesses both advanced machinery and its ferocious dragon nature, it is a threat on any battlefield. Unlike Megadramon, Gigadramon specialises in wind based attacks.
-## Scaling Enemy
-Gigadramon ranges between levels 9-12. To upscale a Gigadramon perform the following steps at each level.
-
-- **Level 10.** The Gigadramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the Gigadramon's Hit Points by 14 & Chakra Points by 8 for every level.
-
-![Gigadramon](https://i.pinimg.com/564x/f7/4f/17/f74f17ebc71ed27feef1d20d06baf6be.jpg) {position:absolute,bottom:80px,left:360px,width:480px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:50px,left:60px,margin-bottom:-30px
-##### Gigadramon
-[Link](https://i.pinimg.com/564x/f7/4f/17/f74f17ebc71ed27feef1d20d06baf6be.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -11014,6 +10767,87 @@ Megadramon ranges between levels 9-12. To upscale a Megadramon perform the follo
 \page
 
 {{monster,frame
+## Gigadramon
+*B-Rank, Standard, Large Virus, Dragon/Wind, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 25  
+**Hit Points**  :: 126 (d10) 
+**Chakra Points**  :: 75 (d8)  
+**Speed**       :: 5ft., Fly 65ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|18 (+4)|16 (+3)|20 (+5)|14 (+2)|8 (-1)|
+___
+**Saving Throws** :: Str +3, *Dex +9*, Con +5, *Int +10*, *Wis +7*, Cha +1
+**Skills** ::  Acrobatics +9, Chakra Control +8, Investigation +10, Perception +7
+**Senses**               :: passive Perception 22
+___
+***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
+:
+***Quick Flyer II (Unique)*** Gains additional 30ft. of Flying Speed at the cost of 20ft. of Walking Speed. Already added to stat block.
+:
+***Keen Eye II (Unique)*** This Digimon gains an additional +5 to Passive Perception and Passive Insight. Additionally, it can take the Search action as a Bonus Action.
+:
+***Powerful Air III (Unique)*** All jutsu with the Wind Release keyword deal an additional three damage die.
+### Jutsu  
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
+
+C-Rank (Cost 9): Great Breakthrough, Fire Dragon Bullet, Vacuum Barrier
+
+B-Rank (Cost 14): Gale Blade, Great Flame Bomb            
+
+### Attacks    
+***Multiattack*** This creature can make two *Slash* attacks.        
+**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Slashing damage.  
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Birdramon***
+- ***Devidramon***
+- ***Flarerizamon***
+- ***GeoGreymon***
+- ***Kuwagamon***
+- ***Tankmon***
+
+### Evolves Into
+- ***Megidramon***
+- ***MetalSeadramon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Gigadramon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Ninjutsu with the Wind Release Keyword*
+  }}
+## Gigadramon
+An Android Dragon Digimon that possesses a malicious nature. It was developed at the same time as Megadramon and possesses many similarities to it. As Gigadramon possesses both advanced machinery and its ferocious dragon nature, it is a threat on any battlefield. Unlike Megadramon, Gigadramon specialises in wind based attacks.
+## Scaling Enemy
+Gigadramon ranges between levels 9-12. To upscale a Gigadramon perform the following steps at each level.
+
+- **Level 10.** The Gigadramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Gigadramon's Hit Points by 14 & Chakra Points by 8 for every level.
+
+![Gigadramon](https://i.pinimg.com/564x/f7/4f/17/f74f17ebc71ed27feef1d20d06baf6be.jpg) {position:absolute,bottom:80px,left:360px,width:480px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:50px,left:60px,margin-bottom:-30px
+##### Gigadramon
+[Link](https://i.pinimg.com/564x/f7/4f/17/f74f17ebc71ed27feef1d20d06baf6be.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
 ## MegaKabuterimon
 *B-Rank, Standard, Large Vaccine, Insect/Plant, Prof +5*
 
@@ -11567,6 +11401,261 @@ MetalGreymon (Virus) ranges between levels 9-12. To upscale a MetalGreymon (Viru
 
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+
+\page
+{{monster,frame
+## SkullGreymon
+*B-Rank, Standard, Huge Virus, Undead/Dark, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 20 
+**Hit Points**  :: 180 (d12) 
+**Chakra Points**  :: 101 (d6)  
+**Speed**       :: 40ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|24 (+7)|14 (+2)|24 (+7)|6 (-2) |8 (-1) |18 (+4)|
+___
+**Saving Throws** :: *Str +12*, Dex +4, *Con +12* Int +0, Wis +1, *Cha +9*
+**Skills** ::  Athletics +12, Martial Arts +12, Chakra Control +11, Intimidation +9    
+**Senses**               :: passive Perception 10
+___
+***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
+:
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. This is already added to the Stat Block.
+:
+***Alternative Offense II (Unique)*** This Digimon uses its Strength Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
+:
+***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack.
+
+Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends. 
+### Jutsu  
+***Ninjutsu*** +14 to hit, (**Ninjutsu save DC 20**) 
+
+C-Rank (Cost 9): Great Fireball 
+
+B-Rank (Cost 14): Great Flame Bomb         
+***Bukijutsu*** +14 to hit, (**Bukijutsu save DC 20**) 
+
+C-Rank (Cost 9): Heaven Cutter, Shockwave Slash
+
+B-Rank (Cost 14): Ichimonji        
+### Attacks
+**Slash** *Melee Weapon Attack* +14 to hit, reach 5ft., one target. *Hit.* 5d10+9 Slashing damage.
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+SkullGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+  }}
+{{monster,frame
+
+### Evolves From
+- ***Ankylomon***
+- ***GeoGreymon***
+- ***Greymon***
+- ***Growlmon***
+- ***Vilemon***
+
+### Evolves Into
+- ***Machinedramon***
+- ***Titamon***
+
+ }}
+ 
+## SkullGreymon
+An Undead Digimon formed by dark energies pulsing through a member of the Greymon species. Completely corrupted by the darkness, SkullGreymon seeks only to fight and, despite its lack in intelligence, its sheer power still makes it a formidable threat.
+## Scaling Enemy
+SkullGreymon ranges between levels 9-12. To upscale a SkullGreymon perform the following steps at each level.
+
+- **Level 10.** The SkullGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the SkullGreymon's Hit Points by 20 & Chakra Points by 11 for every level.
+
+![SkullGreymon](https://i.pinimg.com/564x/83/62/10/836210ddf40664ba2638a6ca2a4fd788.jpg) {position:absolute,bottom:15px,left:430px,width:380px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:410px,left:80px,margin-bottom:-30px
+##### SkullGreymon
+[Link](https://i.pinimg.com/564x/83/62/10/836210ddf40664ba2638a6ca2a4fd788.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## RizeGreymon
+*B-Rank, Standard, Huge Vaccine, Machine Dragon/Fire, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 23 
+**Hit Points**  :: 126 (d10) 
+**Chakra Points**  :: 75 (d8)  
+**Speed**       :: 30ft., Fly 35ft.   **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|16 (+3)|16 (+3)|18 (+4)|10 (+0)|8 (-1)|
+___
+**Saving Throws** :: *Str +10*, *Dex +8*, Con +5, *Int +9*, Wis +2, Cha +1
+**Skills** ::  Chakra Control +8, Athletics +10, Survival +5, Martial Arts +10
+**Senses**               :: passive Perception 10
+___
+***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
+:
+***Powerful Fire III (Unique)*** All Ninjutsu with the Fire Release keyword deal three additional damage dice.
+:
+***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
+:
+***Ranged Specialist II (Unique)*** This Digimon gains an additional +2 to all ranged attacks and damage rolls.
+### Jutsu  
+
+***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
+
+C-Rank (Cost 9): Great Fireball  
+
+B-Rank (Cost 14): Sunbeam      
+***Bukijutsu*** +14 to hit, (**Bukijutsu save DC 18**) 
+
+D-Rank (Cost 5): BOA: Scorch
+
+C-Rank (Cost 9): BOA: Chimney Clearing 
+
+B-Rank (Cost 14): BOA: Dust 
+### Attacks      
+***Multiattack*** This creature can make two *Slash* or *Digizoid Blaster* attacks.      
+**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage.  
+**Digizoid Blaster** *Ranged Weapon Attack* +15 to hit, range 60/120ft., one target. *Hit.* 1d10+10 Fire damage.
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Diatrymon***
+- ***GeoGreymon***
+
+
+### Evolves Into
+- ***Gaiomon***
+- ***ShineGreymon***
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+RizeGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements:  
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Bukijutsu that requires a Ranged Weapon.*
+  }}
+## RizeGreymon
+A Machine Dragon Digimon that has over half of its body covered in high-tech machinery. Despite its large size, it is able to fly into the sky and launch blasts of energy with its Chrome Digizoid cannon.  
+## Scaling Enemy
+RizeGreymon ranges between levels 9-12. To upscale a Paildramon perform the following steps at each level.
+
+- **Level 10.** The RizeGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the RizeGreymon's Hit Points by 14 & Chakra Points by 8 for every level.
+
+![RizeGreymon](https://wikimon.net/images/7/76/RizeGreymon_New_Century.png) {position:absolute,bottom:30px,left:460px,width:340px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:20px,left:0px,margin-bottom:-30px
+##### RizeGreymon
+[Link](https://wikimon.net/images/7/76/RizeGreymon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## DoruGreymon
+*B-Rank, Standard, Huge Data, Beast Dragon/Fire, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 22   **DR**  10 (All)
+**Hit Points**  :: 144 (d10) 
+**Chakra Points**  :: 93 (d8)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|12 (+1)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +9*, Dex +3, *Con +9*, Int +6, *Wis +5*, Cha +2
+**Skills** ::  Athletics +9, Survival +5, Chakra Control +10, Perception +5 
+**Senses**               :: passive Perception 15
+___
+***Mystical Scale II (Unique)*** This Digimon gains advantage on any saving throw to prevent or to end Physical conditions. Additionally, this Digimon cannot take damage from any Physical condition.
+:
+***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
+:
+***Tanky Resilience III (Unique)*** This Digimon gains 15 Damage Reduction to all sources. This is already added to its stat block.
+:
+***Gekirin III (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 4 chakra. When they do so, the jutsu deals an additional four damage dice.
+### Jutsu  
+
+
+***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
+
+C-Rank (Cost 9): Dragon Flame Bombs
+
+B-Rank (Cost 14): Great Flame Bomb            
+***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**) 
+
+D-Rank (Cost 5): BOA: Scorch
+
+C-Rank (Cost 9): BOA: Chimney Clearing
+
+B-Rank (Cost 14): BOA: Dust
+
+### Attacks    
+**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Slashing damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Garurumon***
+- ***Strikedramon***
+
+### Evolves Into
+- ***Alphamon***
+- ***Dorugoramon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+DoruGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu that requires a ranged weapon.*
+- *Bukijutsu with the Slashing Weapon Component.*
+  }}
+## DoruGreymon
+A Digimon that possessed both the qualities of a Dragon and a Beast. It is a massive Digimon that possesses the qualities of a legendary Dragon that has hibernated for centuries. DoruGreymon's thick coat protects it against all minor attacks.  
+## Scaling Enemy
+DoruGreymon ranges between levels 9-12. To upscale a DoruGreymon perform the following steps at each level.
+
+- **Level 10.** The DoruGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the DoruGreymon's Hit Points by 16 & Chakra Points by 10 for every level.
+
+![DoruGreymon](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg) {position:absolute,bottom:80px,left:230px,width:580px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:60px,left:290px,margin-bottom:-30px
+##### DoruGreymon
+[Link](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
 \page
 {{monster,frame
 ## MetalTyrannomon
@@ -11804,6 +11893,82 @@ Monzaemon ranges between levels 9-12. To upscale a Monzaemon perform the followi
 {{artist,position:relative,top:30px,left:250px,margin-bottom:-30px
 ##### Monzaemon
 [Link](https://wikimon.net/images/3/3e/Monzaemon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## Pandamon
+*B-Rank, Standard, Large Data, Puppet/Earth, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 168 (d10) 
+**Chakra Points**  :: 84 (d8)  
+**Speed**       :: 40ft.   **Initiative** +7
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|20 (+5)|18 (+4)|10 (+0)|14 (+2)|12 (+1)|
+___
+**Saving Throws** :: Str +4, *Dex +10*, *Con +9*, Int +2, *Wis +7*, Cha +3
+**Skills** ::  Acrobatics +10, Deception +6 Martial Arts +10 Insight +7 
+**Damage Resistance** :: Bludgeoning, Piercing, Slashing      
+**Condition Resistance** :: Mental
+**Senses**               :: passive Perception 12
+___
+***Calm III (Unique)*** This creature is immune to any effect that would cause Charm, Fear or Berserk.
+:
+***Durable II (Unique)*** This creature has its Hit Points increased by 25%.
+:
+***Lone Wolf III (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +6 to all attack and damage rolls.
+:
+***Efficient Pugilist III (Unique)*** All Taijutsu have their costs reduced by 3 Chakra Points.
+### Jutsu   
+***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**)        
+
+C-Rank (Cost 6): 10-Count, Rakshasa's Palm, Rakshasa's Sole 
+
+B-Rank (Cost 11): Leaf Hot Wind, Leaf Hurricane Bullet
+ 
+### Attacks      
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
+**Unarmed Strike** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage. 
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Frigimon***
+- ***Gatomon***
+
+### Evolves Into
+- ***BranchoLeomon***
+- ***Marsmon***
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Pandamon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements:  
+- *Any Taijutsu.*
+  }}
+## Pandamon
+A Puppet Digimon that is extremely rare and often wanders the world on its own. While it appears to have a stoic nature, deep down it craves the attention that Digimon, like Monzaemon, receive. Pandamon is an expert martial artist.
+## Scaling Enemy
+Pandamon ranges between levels 9-12. To upscale a Pandamon perform the following steps at each level.
+
+- **Level 10.** The Pandamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Pandamon's Hit Points by 18 & Chakra Points by 9 for every level.
+
+![Pandamon](https://wikimon.net/images/1/1a/Pandamon_New_Century.png) {position:absolute,bottom:200px,left:330px,width:480px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:400px,left:170px,margin-bottom:-30px
+##### Pandamon
+[Link](https://wikimon.net/images/1/1a/Pandamon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -12123,81 +12288,6 @@ Paildramon ranges between levels 9-12. To upscale a Paildramon perform the follo
 {{artist,position:relative,top:80px,left:20px,margin-bottom:-30px
 ##### Paildramon
 [Link](https://wikimon.net/images/3/32/Paildramon_New_Century.png)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-\page
-
-{{monster,frame
-## Pandamon
-*B-Rank, Standard, Large Data, Puppet/Earth, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 19 
-**Hit Points**  :: 168 (d10) 
-**Chakra Points**  :: 84 (d8)  
-**Speed**       :: 40ft.   **Initiative** +7
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|20 (+5)|18 (+4)|10 (+0)|14 (+2)|12 (+1)|
-___
-**Saving Throws** :: Str +4, *Dex +10*, *Con +9*, Int +2, *Wis +7*, Cha +3
-**Skills** ::  Acrobatics +10, Deception +6 Martial Arts +10 Insight +7 
-**Damage Resistance** :: Bludgeoning, Piercing, Slashing      
-**Condition Resistance** :: Mental
-**Senses**               :: passive Perception 12
-___
-***Calm III (Unique)*** This creature is immune to any effect that would cause Charm, Fear or Berserk.
-:
-***Durable II (Unique)*** This creature has its Hit Points increased by 25%.
-:
-***Lone Wolf III (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +6 to all attack and damage rolls.
-:
-***Efficient Pugilist III (Unique)*** All Taijutsu have their costs reduced by 3 Chakra Points.
-### Jutsu   
-***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**)        
-
-C-Rank (Cost 6): 10-Count, Rakshasa's Palm, Rakshasa's Sole 
-
-B-Rank (Cost 11): Leaf Hot Wind, Leaf Hurricane Bullet
- 
-### Attacks      
-***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
-**Unarmed Strike** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage. 
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Frigimon***
-- ***Gatomon***
-
-### Evolves Into
-- ***BranchoLeomon***
-- ***Marsmon***
-
- }}
-{{monster,frame
-### Alternative Jutsu List
-Pandamon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements:  
-- *Any Taijutsu.*
-  }}
-## Pandamon
-A Puppet Digimon that is extremely rare and often wanders the world on its own. While it appears to have a stoic nature, deep down it craves the attention that Digimon, like Monzaemon, receive. Pandamon is an expert martial artist.
-## Scaling Enemy
-Pandamon ranges between levels 9-12. To upscale a Pandamon perform the following steps at each level.
-
-- **Level 10.** The Pandamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the Pandamon's Hit Points by 18 & Chakra Points by 9 for every level.
-
-![Pandamon](https://wikimon.net/images/1/1a/Pandamon_New_Century.png) {position:absolute,bottom:200px,left:330px,width:480px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:400px,left:170px,margin-bottom:-30px
-##### Pandamon
-[Link](https://wikimon.net/images/1/1a/Pandamon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -12690,90 +12780,6 @@ Rapidmon ranges between levels 9-12. To upscale a Rapidmon perform the following
 
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
-\page
-
-{{monster,frame
-## RizeGreymon
-*B-Rank, Standard, Huge Vaccine, Machine Dragon/Fire, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 23 
-**Hit Points**  :: 126 (d10) 
-**Chakra Points**  :: 75 (d8)  
-**Speed**       :: 30ft., Fly 35ft.   **Initiative** +5
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|20 (+5)|16 (+3)|16 (+3)|18 (+4)|10 (+0)|8 (-1)|
-___
-**Saving Throws** :: *Str +10*, *Dex +8*, Con +5, *Int +9*, Wis +2, Cha +1
-**Skills** ::  Chakra Control +8, Athletics +10, Survival +5, Martial Arts +10
-**Senses**               :: passive Perception 10
-___
-***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
-:
-***Powerful Fire III (Unique)*** All Ninjutsu with the Fire Release keyword deal three additional damage dice.
-:
-***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
-:
-***Ranged Specialist II (Unique)*** This Digimon gains an additional +2 to all ranged attacks and damage rolls.
-### Jutsu  
-
-***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
-
-C-Rank (Cost 9): Great Fireball  
-
-B-Rank (Cost 14): Sunbeam      
-***Bukijutsu*** +14 to hit, (**Bukijutsu save DC 18**) 
-
-D-Rank (Cost 5): BOA: Scorch
-
-C-Rank (Cost 9): BOA: Chimney Clearing 
-
-B-Rank (Cost 14): BOA: Dust 
-### Attacks      
-***Multiattack*** This creature can make two *Slash* or *Digizoid Blaster* attacks.      
-**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage.  
-**Digizoid Blaster** *Ranged Weapon Attack* +15 to hit, range 60/120ft., one target. *Hit.* 1d10+10 Fire damage.
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Diatrymon***
-- ***GeoGreymon***
-
-
-### Evolves Into
-- ***Gaiomon***
-- ***ShineGreymon***
-
- }}
-{{monster,frame
-### Alternative Jutsu List
-RizeGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements:  
-- *Ninjutsu with the Fire Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Bukijutsu that requires a Ranged Weapon.*
-  }}
-## RizeGreymon
-A Machine Dragon Digimon that has over half of its body covered in high-tech machinery. Despite its large size, it is able to fly into the sky and launch blasts of energy with its Chrome Digizoid cannon.  
-## Scaling Enemy
-RizeGreymon ranges between levels 9-12. To upscale a Paildramon perform the following steps at each level.
-
-- **Level 10.** The RizeGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the RizeGreymon's Hit Points by 14 & Chakra Points by 8 for every level.
-
-![RizeGreymon](https://wikimon.net/images/7/76/RizeGreymon_New_Century.png) {position:absolute,bottom:30px,left:460px,width:340px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:20px,left:0px,margin-bottom:-30px
-##### RizeGreymon
-[Link](https://wikimon.net/images/7/76/RizeGreymon_New_Century.png)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
 
 \page
 
@@ -12926,82 +12932,6 @@ Scorpiomon ranges between levels 9-12. To upscale a Scorpiomon perform the follo
 [Link](https://wikimon.net/images/6/6a/Anomalocarimon_New_Century.png)
 }}
 
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-\page
-{{monster,frame
-## ShadowWereGarurumon
-*B-Rank, Standard, Medium Virus, Beast/Earth, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 23 
-**Hit Points**  :: 135 (d10) 
-**Chakra Points**  :: 84 (d8)  
-**Speed**       :: 40ft. **Initiative** +8
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|22 (+6)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
-___
-**Saving Throws** :: Str +6, *Dex +11*, Con +5, *Int +5*, *Wis +6*, Cha +2
-**Skills** ::  Acrobatics +11 Perception +6 Stealth+11 Martial Arts +11                  
-**Senses**               :: passive Perception 16
-___
-***Lone Wolf III (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +6 to all attack and damage rolls.
-:
-***Feint III (Unique)*** Melee attacks against this creature suffer a -3 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may make a weapon attack against the triggering creature.
-:
-***Cruel II (Unique)*** When this creature deals damage to a single hostile creature, it may deal additional damage equal to its Proficiency Bonus.
-:
-***Melee Expert II (Unique)*** This Digimon gains an additional +2 to all melee attack and damage rolls. This has **not** already been added to the Stat Block.
-
-### Jutsu       
-***Taijutsu*** +13 to hit, (**Taijutsu save DC 19**) 
-
-C-Rank (Cost 9): 10-Count, Early Sacrifice, Fist Slam
-
-B-Rank (Cost 14): Machine Gun Punch!, Piston Fist
-
-### Attacks
-***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
-**Unarmed Strike** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+8 Bludgeoning damage.
-
- }}
-
-{{monster,frame
-### Evolves From
-- ***BlackGarurumon*** 
-- ***Dokugumon*** 
-- ***Gaogamon***
-- ***Youkomon*** 
-### Evolves Into
-- ***Minervamon***
-- ***ShadowMetalGarurumon***
-
- }}
-
-{{monster,frame
-### Alternative Jutsu List
-ShadowWereGarurumon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword*
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Any Taijutsu.*
-  }}
-## ShadowWereGarurumon
-A Beast Digimon who is now bipedal. It has traded a large amount of the speed it had as Garurumon in order to have more dexterity. ShadowWereGarurumon is an expert martial artists who specialises in close combat. Compared to its Vaccine counterpart, this Digimon is a much dirtier fighter. 
-## Scaling Enemy
-ShadowWereGarurumon ranges between levels 9-12. To upscale a ShadowWereGarurumon perform the following steps at each level.
-
-- **Level 10.** The ShadowWereGarurumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the ShadowWereGarurumon's Hit Points by 15 & Chakra Points by 9 for every level.
-
-![ShadowWereGarurumon](https://wikimon.net/images/7/75/Were_Garurumon_%28Black%29_New_Century.png) {position:absolute,bottom:30px,left:400px,width:400px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:390px,left:100px,margin-bottom:-30px
-##### ShadowWereGarurumon
-[Link](https://wikimon.net/images/7/75/Were_Garurumon_%28Black%29_New_Century.png)
-}}
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
 
@@ -13247,88 +13177,6 @@ Sinduramon ranges between levels 9-12. To upscale a Sinduramon perform the follo
 ##### Sinduramon
 [Link](https://wikimon.net/images/5/51/Sinduramon_new_century.png)
 }}
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-\page
-{{monster,frame
-## SkullGreymon
-*B-Rank, Standard, Huge Virus, Undead/Dark, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 20 
-**Hit Points**  :: 180 (d12) 
-**Chakra Points**  :: 101 (d6)  
-**Speed**       :: 40ft. **Initiative** +4
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|14 (+2)|24 (+7)|6 (-2) |8 (-1) |18 (+4)|
-___
-**Saving Throws** :: *Str +12*, Dex +4, *Con +12* Int +0, Wis +1, *Cha +9*
-**Skills** ::  Athletics +12, Martial Arts +12, Chakra Control +11, Intimidation +9    
-**Senses**               :: passive Perception 10
-___
-***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
-:
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. This is already added to the Stat Block.
-:
-***Alternative Offense II (Unique)*** This Digimon uses its Strength Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
-:
-***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack.
-
-Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends. 
-### Jutsu  
-***Ninjutsu*** +14 to hit, (**Ninjutsu save DC 20**) 
-
-C-Rank (Cost 9): Great Fireball 
-
-B-Rank (Cost 14): Great Flame Bomb         
-***Bukijutsu*** +14 to hit, (**Bukijutsu save DC 20**) 
-
-C-Rank (Cost 9): Heaven Cutter, Shockwave Slash
-
-B-Rank (Cost 14): Ichimonji        
-### Attacks
-**Slash** *Melee Weapon Attack* +14 to hit, reach 5ft., one target. *Hit.* 5d10+9 Slashing damage.
-
- }}
-{{monster,frame
-### Alternative Jutsu List
-SkullGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
-  }}
-{{monster,frame
-
-### Evolves From
-- ***Ankylomon***
-- ***GeoGreymon***
-- ***Greymon***
-- ***Growlmon***
-- ***Vilemon***
-
-### Evolves Into
-- ***Machinedramon***
-- ***Titamon***
-
- }}
- 
-## SkullGreymon
-An Undead Digimon formed by dark energies pulsing through a member of the Greymon species. Completely corrupted by the darkness, SkullGreymon seeks only to fight and, despite its lack in intelligence, its sheer power still makes it a formidable threat.
-## Scaling Enemy
-SkullGreymon ranges between levels 9-12. To upscale a SkullGreymon perform the following steps at each level.
-
-- **Level 10.** The SkullGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the SkullGreymon's Hit Points by 20 & Chakra Points by 11 for every level.
-
-![SkullGreymon](https://i.pinimg.com/564x/83/62/10/836210ddf40664ba2638a6ca2a4fd788.jpg) {position:absolute,bottom:15px,left:430px,width:380px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:410px,left:80px,margin-bottom:-30px
-##### SkullGreymon
-[Link](https://i.pinimg.com/564x/83/62/10/836210ddf40664ba2638a6ca2a4fd788.jpg)
-}}
-
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
 
@@ -13665,6 +13513,87 @@ Taomon ranges between levels 9-12. To upscale a Taomon perform the following ste
 {{footnote Part III - Ultimate}}
 
 \page
+
+{{monster,frame
+## Doumon
+*B-Rank, Standard, Medium Data, Demon/Dark, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 20 
+**Hit Points**  :: 108 (d8) 
+**Chakra Points**  :: 85 (d10)  
+**Speed**       :: 40ft.   **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|16 (+3)|20 (+5)|10 (+0)|18 (+4)|
+___
+**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +10*, Wis +2, *Cha +9*
+**Skills** ::  Acrobatics +8, Illusions +10 Stealth +8 Chakra Control +8
+**Senses**               :: passive Perception 10
+___
+***Calm III (Unique)*** This creature gains an additional 20ft of movement. This is already added to the stat block.
+:
+***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
+:
+***Efficient Seals III (Unique)*** All Fuinjutsu have their costs reduced by 3 Chakra Points.
+:
+***Summoner III (Unique)***  You have 3 extra bonus actions you can use to for commanding summoned creatures. Additionally, you can focus on 3 extra jutsus that summon constructs.
+### Jutsu  
+
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
+
+C-Rank (Cost 6): BIA: Bear, BIA: Lion, SA: Darkness, SA: Chakra Dispel, SA: Curse
+
+B-Rank (Cost 11): BIA: Tiger, BIA: Lycanthrope, SA: Circle of Authority  
+***Genjutsu*** +11 to hit, (**Genjutsu save DC 17**)        
+
+C-Rank (Cost 6): Illusory Bamboozlement
+
+B-Rank (Cost 14): Labyrinthine Howl
+ 
+### Attacks      
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
+**Unarmed Strike** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Bludgeoning damage. 
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Youkomon***
+
+
+### Evolves Into
+- ***Kuzuhamon***
+- ***Murmukusmon***
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Doumon may learn **3 C Rank (Or Lower)**, **2 B Rank** and **6** other jutsu that meet the following requirements:  
+- *Ninjutsu with the Fuinjutsu keyword.*
+- *Any Genjutsu.*
+  }}
+## Doumon
+A Demon Digimon that possesses a keen knowledge of Genjutsu and Fuinjutsu. Its ability to manipulate chakra is legendary. Doumon tends to live within darkened areas and curse those who approach it with hostile intentions. 
+## Scaling Enemy
+Doumon ranges between levels 9-12. To upscale a Doumon perform the following steps at each level.
+
+- **Level 10.** The Doumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Doumon's Hit Points by 11 & Chakra Points by 8 for every level.
+
+![Doumon](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHd8eUBOTZ7cDHw-P0FMRhfDGN3Fr-L57meBt3LFRTEn_32loM) {position:absolute,bottom:60px,left:410px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:50px,left:210px,margin-bottom:-30px
+##### Doumon
+[Link](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHd8eUBOTZ7cDHw-P0FMRhfDGN3Fr-L57meBt3LFRTEn_32loM)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
 {{monster,frame
 ## Triceramon
 *B-Rank, Standard, Huge Data, Reptile/Earth, Prof +5*
@@ -13994,8 +13923,87 @@ WarGrowlmon ranges between levels 9-12. To upscale a WarGrowlmon perform the fol
 }}
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+
 \page
 
+{{monster,frame
+## BlackWarGrowlmon
+*B-Rank, Standard, Large Virus, Machine Dragon/Fire, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 22 
+**Hit Points**  :: 162 (d12) 
+**Chakra Points**  :: 83 (d6)  
+**Speed**       :: 40ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|12 (+1)|20 (+5)|16 (+3)|8 (-1)|10 (+0)|
+___
+**Saving Throws** :: *Str +10* Dex +3, *Con +10*, *Int +8*, Wis +1, Cha +2
+**Skills** ::  Athletics +10, Chakra Control +10, Martial Arts +10, Survival +4  
+**Senses**               :: passive Perception 13
+___
+***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
+:
+***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+:
+***Blood Fury III (Unique)*** When this Digimon is below 50% of their maximum HP, they become enraged, gaining 15ft. of movement speed and +4 to all attack rolls but suffering a -2 AC penalty.
+:
+***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
+
+Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
+### Jutsu  
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**) 
+
+C-Rank (Cost 9): Great Fireball           
+***Bukijutsu*** +12 to hit, (**Bukijutsu save DC 18**) 
+ 
+ C-Rank (Cost 9): BOF: Undulation, Heaven Cutter
+ 
+ B-Rank (Cost 14): BOF: Rengoku, Counter Strike
+
+### Attacks
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage. 
+
+ }}
+{{monster,frame
+
+### Evolves From
+- ***Growlmon***
+
+### Evolves Into
+- ***ChaosGallantmon***
+- ***Megidramon***
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+BlackWarGrowlmon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+  }}
+## BlackWarGrowlmon
+A Machine Dragon Digimon that is a darker version of WargGrowlmon. As its upperbody has been completely metallized with Chrome Digizoid, it is a lot hardier than Growlmon. However, it is even more barbaric on the battlefield with little concern for its own safety so long as it strikes down the enemy targets.
+## Scaling Enemy
+BlackWarGrowlmon ranges between levels 9-12. To upscale a BlackWarGrowlmon perform the following steps at each level.
+
+- **Level 10.** The BlackWarGrowlmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the BlackWarGrowlmon's Hit Points by 18 & Chakra Points by 9 for every level.
+
+![BlackWarGrowlmon](https://i.pinimg.com/564x/d5/a3/78/d5a3783cf8e13389d651ea864259a145.jpg) {position:absolute,bottom:60px,left:370px,width:500px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:460px,left:60px,margin-bottom:-30px
+##### BlackWarGrowlmon
+[Link](https://i.pinimg.com/564x/d5/a3/78/d5a3783cf8e13389d651ea864259a145.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
 
 {{monster,frame
 ## WereGarurumon
@@ -14073,6 +14081,84 @@ WereGarurumon ranges between levels 9-12. To upscale a WereGarurumon perform the
 }}
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+
+\page
+{{monster,frame
+## ShadowWereGarurumon
+*B-Rank, Standard, Medium Virus, Beast/Earth, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 23 
+**Hit Points**  :: 135 (d10) 
+**Chakra Points**  :: 84 (d8)  
+**Speed**       :: 40ft. **Initiative** +8
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|22 (+6)|18 (+4)|10 (+0)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: Str +6, *Dex +11*, Con +5, *Int +5*, *Wis +6*, Cha +2
+**Skills** ::  Acrobatics +11 Perception +6 Stealth+11 Martial Arts +11                  
+**Senses**               :: passive Perception 16
+___
+***Lone Wolf III (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +6 to all attack and damage rolls.
+:
+***Feint III (Unique)*** Melee attacks against this creature suffer a -3 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may make a weapon attack against the triggering creature.
+:
+***Cruel II (Unique)*** When this creature deals damage to a single hostile creature, it may deal additional damage equal to its Proficiency Bonus.
+:
+***Melee Expert II (Unique)*** This Digimon gains an additional +2 to all melee attack and damage rolls. This has **not** already been added to the Stat Block.
+
+### Jutsu       
+***Taijutsu*** +13 to hit, (**Taijutsu save DC 19**) 
+
+C-Rank (Cost 9): 10-Count, Early Sacrifice, Fist Slam
+
+B-Rank (Cost 14): Machine Gun Punch!, Piston Fist
+
+### Attacks
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
+**Unarmed Strike** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+8 Bludgeoning damage.
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***BlackGarurumon*** 
+- ***Dokugumon*** 
+- ***Gaogamon***
+- ***Youkomon*** 
+### Evolves Into
+- ***Minervamon***
+- ***ShadowMetalGarurumon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+ShadowWereGarurumon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Any Taijutsu.*
+  }}
+## ShadowWereGarurumon
+A Beast Digimon who is now bipedal. It has traded a large amount of the speed it had as Garurumon in order to have more dexterity. ShadowWereGarurumon is an expert martial artists who specialises in close combat. Compared to its Vaccine counterpart, this Digimon is a much dirtier fighter. 
+## Scaling Enemy
+ShadowWereGarurumon ranges between levels 9-12. To upscale a ShadowWereGarurumon perform the following steps at each level.
+
+- **Level 10.** The ShadowWereGarurumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the ShadowWereGarurumon's Hit Points by 15 & Chakra Points by 9 for every level.
+
+![ShadowWereGarurumon](https://wikimon.net/images/7/75/Were_Garurumon_%28Black%29_New_Century.png) {position:absolute,bottom:30px,left:400px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:390px,left:100px,margin-bottom:-30px
+##### ShadowWereGarurumon
+[Link](https://wikimon.net/images/7/75/Were_Garurumon_%28Black%29_New_Century.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
 
 \page
 
