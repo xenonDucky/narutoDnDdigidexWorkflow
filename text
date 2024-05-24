@@ -747,11 +747,11 @@ Gazimon ranges between levels 1-4. To upscale a Gazimon perform the following st
 - **Level 2+,** Increase the Gazimon's Hit Points by 9 & Chakra Points by 6 for every level.
 - **Level 4.** The Gazimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gazimon](https://static.wikia.nocookie.net/digimon-adventure5140/images/b/b5/Normal_raster_2_13Dgaz.png/) {position:absolute,bottom:px,left:410px,width:420px,mix-blend-mode:multiply}
+![Gazimon](https://wikimon.net/images/thumb/9/96/Gazimon.gif/600px-Gazimon.gif) {position:absolute,bottom:px,left:310px,width:600px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:80px,left:190px,margin-bottom:-30px
+{{artist,position:relative,top:280px,left:200px,margin-bottom:-30px
 ##### Gazimon
-[Link](https://static.wikia.nocookie.net/digimon-adventure5140/images/b/b5/Normal_raster_2_13Dgaz.png/)
+[Link](https://wikimon.net/images/thumb/9/96/Gazimon.gif/600px-Gazimon.gif)
 }}
 
 {{pageNumber,auto}}
@@ -1104,11 +1104,11 @@ Jellymon ranges between levels 1-4. To upscale a Jellymon perform the following 
 
 - **Level 4.** The Jellymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Jellymon](https://static.wikia.nocookie.net/digimon/images/8/8d/Jellymon_t.gif/) {position:absolute,bottom:150px,left:450px,width:290px,mix-blend-mode:multiply}
+![Jellymon](https://wikimon.net/images/thumb/9/92/Jellymon.gif/419px-Jellymon.gif) {position:absolute,bottom:150px,left:450px,width:290px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:190px,margin-bottom:-30px
 ##### Jellymon
-[Link](https://static.wikia.nocookie.net/digimon/images/8/8d/Jellymon_t.gif/)
+[Link](https://wikimon.net/images/thumb/9/92/Jellymon.gif/419px-Jellymon.gif)
 }}
 
 {{pageNumber,auto}}
@@ -1819,11 +1819,11 @@ Syakomon ranges between levels 1-4. To upscale a Syakomon perform the following 
 - **Level 2+,** Increase the Syakomon's Hit Points by 9 & Chakra Points by 6 for every level.
 - **Level 4.** The Syakomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Syakomon](https://www.gematsu.com/wp-content/uploads/2020/04/Digimon-Survive_2020_04-30-20_008-320x410.jpg) {position:absolute,bottom:260px,left:455px,width:300px,mix-blend-mode:multiply}
+![Syakomon](https://wikimon.net/images/e/ed/Syakomon.gif) {position:absolute,bottom:260px,left:440px,width:360px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+{{artist,position:relative,top:230px,left:270px,margin-bottom:-30px
 ##### Syakomon
-[Link](https://i.pinimg.com/originals/0d/25/81/0d2581e720898ad53392d6765fb64994.jpg)
+[Link](https://wikimon.net/images/e/ed/Syakomon.gif)
 }}
 
 {{pageNumber,auto}}
@@ -2165,7 +2165,7 @@ D-Rank (Cost 5): Iron Web Deflection, Wire Trap
 As an action, the restrained creature can make a Strength check vs this summons Save DC, freeing themselves on a success. The webbing can also be attack and destroyed. (AC 10, 5 HP, Vulnerability to fire damage; Immune to Bludgeoning, poison, and psychic damage.)
 
  }}
-:::
+
 {{monster,frame
 ### Evolves Into
 - ***Devimon***
@@ -4613,6 +4613,9 @@ Greymon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following re
 - *Bukijutsu with the Slashing Weapon Component.*
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
+  
+\column
+
 ## Greymon
 A large reptile Digimon that bears a striking resemblance to a dinosaur. Its head it covered by a hard, chitin-like armor that is uses both offensively and defensively. It has a keen intellect and works well with its allies; being able to formulate plans on the fly.
 ## Scaling Enemy
@@ -4693,6 +4696,9 @@ Greymon (Virus) may learn **3 D Rank** and **2 C Rank** jutsu that meet the foll
 - *Bukijutsu with the Slashing Weapon Component.*
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
+  
+\column
+
 ## Greymon (Virus)
 A large reptile Digimon that bears a striking resemblance to a dinosaur. Its head it covered by a hard, chitin-like armor that is uses both offensively and defensively. Unlike its Vaccine variant, Greymon (Virus) is ferocious to the point where, even if it has a Partner, it comes across as completely wild. It still retains keen intellect and, in some ways, is actually smarter than its Vaccine cousin.
 ## Scaling Enemy
@@ -5756,6 +5762,8 @@ Meicoomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following 
 - *Any Taijutsu.*
   }}
 
+\column
+
 ## Meicoomon
 A newly discovered Digimon that is quite unique in that it has been quite difficult to identify its type. It bears a striking resemblance to the household cat, yet it is larger. Despite its cute appearance, it possesses extremely sharp claws and a temper that makes it quite threatening as an adversary.
 ## Scaling Enemy
@@ -6086,6 +6094,9 @@ Numemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following re
 - *Ninjutsu that deal Poison damage.*
 - *Ninjutsu that inflict the Envenomed condition.*
   }}
+  
+\column
+  
 ## Numemon
 A Mollusk Digimon that, while slug-like in nature, is better known for its association with poop. It likes to live in dark and gloomy environments. While it lacks offensive capacity, its disguisting smell and rancid body provokes creatures to put an end to it. While many Tamers think that Numemon is a failed evolution, it takes a true genius to unravel this creature's potential.
 ## Scaling Enemy
@@ -6496,6 +6507,9 @@ Starmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following re
 - *Genjutsu with the Auditory Component.*
 - *Genjutsu with the Visual Component.*
   }}
+  
+\column
+  
 ## Starmon
 A Mutant Digimon that takes on the appearance an anthorpomorphic shuriken. It has a strong sense of justice and fights with a burning spirit. The tattered yellow scarf it wears marks Starmon's combat history. Such is its fighting will that it can hypnotize its foes with just a glance. 
 ## Scaling Enemy
@@ -7057,6 +7071,9 @@ Tyrannomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following
 - *Ninjutsu with the Fire Release Keyword.*
 - *Bukijutsu with the Slashing Weapon Component* 
   }}
+  
+\column
+  
 ## Tyrannomon
 An ancient Reptile Digimon that resembles a dinosaur. It has been around since prehistoric times. Tyrannomon has an intelligent yet docile personality that makes it ideal for less skilled tamers. It is an iconic Digimon.
 ## Scaling Enemy
@@ -7139,6 +7156,9 @@ Unimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following req
 - *Ninjutsu with the Wind Release Keyword.*
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
+  
+\column
+  
 ## Unimon
 A Mythical Digimon that combines the features of a unicorn and a pegasus. It is a holy creature that uses its gigantic wings to patrol the world for evil. When seeing evil, it will charge into combat without a single thought. Unimon's temperament can be quite wild but, if a tamer proves themselves worthy, it will follow any command.
 ## Scaling Enemy
@@ -7391,8 +7411,11 @@ Vilemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following re
 - *All Genjutsu.*
 - *Bukijutsu with the Slashing Weapon Component.*
   }}
+  
+\column
+  
 ## Vilemon
-An Evil Digimon that abhors losing. Due to this, it tends to pick on the weak and defenseless in order to feel better. Vilemon rarely engages in direct combat and instead uses stealth to take care of its foes from the shadows. 
+Vilemon is an Evil Digimon. It abhors losing, so it is a coward that torments the weak with pricks, without getting into direct combat.
 ## Scaling Enemy
 Vilemon ranges between levels 5-8. To upscale a Vilemon perform the following steps at each level.
 
@@ -7496,7 +7519,7 @@ Waspmon ranges between levels 5-8. To upscale a Waspmon perform the following st
 
 {{monster,frame
 ## Wizardmon
-*C-Rank, Standard, Medium Data, Demon/Dark, Prof +4*
+*C-Rank, Standard, Medium Data, Demon/Earth, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -7507,7 +7530,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|6 (-2)|12 (+1)|14 (+2)|20 (+5)|16 (+3)|12 (+1)|
+|6 (-2) |12 (+1)|14 (+2)|20 (+5)|16 (+3)|12 (+1)|
 ___
 **Saving Throws** :: Str +0, Dex +3, Con +4, *Int +9*, *Wis +7*, *Cha +5* 
 **Skills** ::  Ninshou +9, Investigation +9, Chakra Control +6               
@@ -7515,21 +7538,22 @@ ___
 ___
 ***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
 :
-***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
+***Enduring I (Unique)*** This Digimon gains 40% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
 :
 ***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
 
 ### Jutsu  
 
 ***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)      
-D-Rank (Cost 5): Blue Fire, Flame Bolt, Flame Strike, Lightning 
 
-Ball, Rock Shuriken, Slicing Airwaves     
-C-Rank (Cost 9): Burning Gaze, Lightning Rope, 
+D-Rank (Cost 5): Blue Fire, Flame Bolt, Bedrock Coffin, Banquet of Lightning 
 
-Sand Coffin Binding, Vaccum Shield
+C-Rank (Cost 9): Flaming Trap, Geo Progeniture, Terrashield, Lightning Current
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**)      
 
+D-Rank (Cost 5): Mind Blank    
 
+C-Rank (Cost 9): Blur
 ### Attacks
 ***Multiattack*** This creature can make two *Staff* attacks.      
 **Staff** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
@@ -7551,12 +7575,14 @@ Sand Coffin Binding, Vaccum Shield
  
 {{monster,frame
 ### Alternative Jutsu List
-Wizardmon may learn **3 D Rank**, **2 C Rank** and **6** other jutsu that meet the following requirements: 
+Wizardmon may learn **3 D Rank**, **2 C Rank** and **5** other jutsu that meet the following requirements: 
 - *Ninjutsu with the Fire Release Keyword.*
-- *Ninjutsu with the Wind Release Keyword.*
 - *Ninjutsu with the Earth Release Keyword.*
 - *Ninjutsu with the Lightning Release Keyword.*
+- *Any Genjutsu*
   }}
+
+\column
 
 ## Wizardmon
 A Demon Digimon that resembles a man dressed in black clothes. It exudes a mystical aura. Wizard has the ability to tap into most elemental releases and use its mystical power in ways that other Digimon can only dream of. It is companions to Sorcerimon, with whom it shares many similar abilities. 
@@ -7580,7 +7606,7 @@ Wizardmon ranges between levels 5-8. To upscale a Sorcerimon perform the followi
 
 {{monster,frame
 ## Sorcerimon
-*C-Rank, Standard, Medium Vaccine, Demon/Light, Prof +4*
+*C-Rank, Standard, Medium Vaccine, Demon/Water, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -7591,27 +7617,24 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|6 (-2)|12 (+1)|14 (+2)|20 (+5)|12 (+1)|16 (+3)|
+|6 (-2) |12 (+1)|14 (+2)|20 (+5)|16 (+3)|12 (+1)|
 ___
-**Saving Throws** :: Str +0, Dex +3, Con +4, *Int +9*, *Wis +5*, *Cha +7* 
+**Saving Throws** :: Str +0, Dex +3, Con +4, *Int +9*, *Wis +7*, *Cha +5* 
 **Skills** ::  Ninshou +9, Investigation +9, Chakra Control +6               
-**Senses**               :: passive Perception 11
+**Senses**               :: passive Perception 13
 ___
-***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
+***Elemental Versatility I (Unique)*** This creature gains access to an additional Nature Release.
 :
 ***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
 :
 ***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
 
 ### Jutsu  
-***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)      
-D-Rank (Cost 5): Lightning Ball, Rock Shuriken, Slicing 
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)     
 
-Airwaves, Water Pillar Thrust, Water Shield, Water Shuriken       
-C-Rank (Cost 9): Lightning Rope, Raging Tide, Sand Coffin 
-
-Binding, Vaccum Shield
-
+D-Rank (Cost 5): ED: Thirst, Sensing Water Sphere, Rising Rock Technique, Water Blending, Healing Aura
+    
+C-Rank (Cost 9): CD: Spill, Heavenly Mirror of Pain, Hiding in Mist, Water Trumpet, Aura of Purity
 ### Attacks
 ***Multiattack*** This creature can make two *Staff* attacks.      
 **Staff** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
@@ -7632,13 +7655,14 @@ Binding, Vaccum Shield
  
 {{monster,frame
 ### Alternative Jutsu List
-Sorcerimon may learn **3 D Rank**, **2 C Rank** and **6** other jutsu that meet the following requirements: 
+Sorcerimon may learn **3 D Rank**, **2 C Rank** and **5** other jutsu that meet the following requirements: 
 - *Ninjutsu with the Water Release Keyword.*
-- *Ninjutsu with the Wind Release Keyword.*
+- *Ninjutsu with the Medical Keyword that can aid an ally.*
 - *Ninjutsu with the Earth Release Keyword.*
-- *Ninjutsu with the Lightning Release Keyword.*
   }}
+  
 \column
+
 ## Sorcerimon
 A Demon Digimon that resembles a man dressed in white clothes. It exudes a mystical aura. Sorcerimon has the ability to tap into most elemental releases and use its mystical power in ways that other Digimon can only dream of. It is companions to Wizardmon, with whom it shares many similar abilities. 
 ## Scaling Enemy
@@ -7652,6 +7676,162 @@ Sorcerimon ranges between levels 5-8. To upscale a Sorcerimon perform the follow
 {{artist,position:relative,top:70px,left:260px,margin-bottom:-30px
 ##### Sorcerimon
 [Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk0tg4-0bdb7513-3865-4ec3-b350-c40f51df902c.png/v1/fit/w_375,h_405/sorcerymon_by_homeosttasis_dfk0tg4-375w.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTM4MyIsInBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMHRnNC0wYmRiNzUxMy0zODY1LTRlYzMtYjM1MC1jNDBmNTFkZjkwMmMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.4zLhTg8tVbeiySm7x9KjK_NEwvViaHfY62-DKza7ELc)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Witchmon
+*C-Rank, Standard, Medium Data, Demon/Wind, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 40 (d6) 
+**Chakra Points**  :: 50 (d12)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|6 (-2) |14 (+2)|14 (+2)|20 (+5)|12 (+1)|14 (+2)|
+___
+**Saving Throws** :: Str +0, Dex +4, Con +4, *Int +9*, *Wis +5*, *Cha +6* 
+**Skills** ::  Ninshou +9, Crafting +9, Chakra Control +6               
+**Senses**               :: passive Perception 11
+___
+***Elemental Versatility I (Unique)*** This creature gains access to an additional Nature Release.
+:
+***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
+:
+***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
+
+### Jutsu  
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)     
+
+D-Rank (Cost 5): Dust Wind, Counter Breeze, Passing Typhoon, Sensing Water Sphere, Tsunami Mallet
+    
+C-Rank (Cost 9): 1000 Blades of the Wind, Lions Roar, Water Trumpet, Poison Mist Technique, Roar of Atlantis
+### Attacks
+***Multiattack*** This creature can make two *Staff* attacks.      
+**Unarmed Slap** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Salamon*** 
+
+### Evolves Into
+- ***Antylamon***
+- ***Piximon***
+- ***Wisemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Witchmon may learn **3 D Rank**, **2 C Rank** and **6** other jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Ninjutsu with the Wind Release Keyword.*
+- *Ninjutsu with the Medical Keyword has deals poison damage.*
+  }}
+  
+\column
+
+## Witchmon
+A Digimon which has the appearance of a witch, it came along from "Witchelny", the Digital World of another dimension, in pursuit of its rival, Wizarmon. It mastered the sorcery of wind and water, and in order to gain an advantage on Wizarmon, who aims to become a great wizard, it followed and diligently trains in this Digital World. It's a little cruel, it has great pride, and it despises customs and rules. 
+## Scaling Enemy
+Witchmon ranges between levels 5-8. To upscale a Witchmon perform the following steps at each level.
+
+- **Level 6+,** Increase the Witchmon's Hit Points by 8 & Chakra Points by 9 for every level.
+- **Level 7.** The Witchmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Witchmon](https://wikimon.net/images/7/7c/Witchmon_New_Century.png) {position:absolute,bottom:170px,left:380px,width:460px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:70px,left:100px,margin-bottom:-30px
+##### Witchmon
+[Link](https://wikimon.net/images/7/7c/Witchmon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## FlameWizarmon
+*C-Rank, Standard, Medium Virus, Demon/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 40 (d6) 
+**Chakra Points**  :: 50 (d12)  
+**Speed**       :: 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|6 (-2) |14 (+2)|14 (+2)|20 (+5)|14 (+2)|12 (+1)|
+___
+**Saving Throws** :: Str +0, Dex +4, Con +4, *Int +9*, *Wis +6*, *Cha +5* 
+**Skills** ::  Ninshou +9, Crafting +9, Chakra Control +6               
+**Senses**               :: passive Perception 12
+___
+***Elemental Versatility I (Unique)*** This creature gains access to an additional Nature Release.
+:
+***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
+:
+***Knowledgeable I (Unique)*** This jutsu gains access to additional 3 jutsu compared to other Digimon at the same stage.
+
+### Jutsu  
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 17**)     
+
+D-Rank (Cost 5): Wildfire, Spark, Green Fire, Blue Fire
+    
+C-Rank (Cost 9): White Fire Ember, Dance of Fire, Explosive Clone, Great Fireball
+### Attacks
+***Multiattack*** This creature can make two *Staff* attacks.      
+**Match** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Salamon*** 
+
+### Evolves Into
+- ***Antylamon***
+- ***Piximon***
+- ***Wisemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+FlameWizarmon may learn **3 D Rank**, **2 C Rank** and **3** other jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+  }}
+  
+\column
+
+## FlameWizarmon
+It is full of confidence and shows its true face, the exact opposite of Wizarmon, who is shy and does not show its uncovered face. It wields two matchstick-like staffs, which further enhance the effectiveness of its fire sorcery. 
+## Scaling Enemy
+FlameWizarmon ranges between levels 5-8. To upscale a FlameWizarmon perform the following steps at each level.
+
+- **Level 6+,** Increase the FlameWizarmon's Hit Points by 8 & Chakra Points by 9 for every level.
+- **Level 7.** The FlameWizarmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![FlameWizarmon](https://wikimon.net/images/0/00/Flawizarmon.png) {position:absolute,bottom:100px,left:420px,width:350px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:70px,left:260px,margin-bottom:-30px
+##### FlameWizarmon
+[Link](https://wikimon.net/images/0/00/Flawizarmon.png)
 }}
 
 {{pageNumber,auto}}
