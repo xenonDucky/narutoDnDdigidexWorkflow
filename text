@@ -1267,7 +1267,7 @@ ___
 **Armor Class** :: 14 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 20ft. **Initiative** +3
+**Speed**       :: 25ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1277,7 +1277,7 @@ ___
 **Skills** ::  Nature +5, Illusions +5         
 **Senses**               :: passive Perception 10
 ___
-***Rooted I (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly, but has their speed reduced by 10ft.  
+***Rooted I (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  
 :
 ***Inflicting Weapon I (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon's highest jutsu Save DC. On a failure, they gain 1 stack of the *Envenomed* condition.
 
@@ -1751,7 +1751,7 @@ Soundbirdmon ranges between levels 1-4. To upscale a Soundbirdmon perform the fo
 - **Level 2+,** Increase the Soundbirdmon's Hit Points by 6 & Chakra Points by 6 for every level.
 - **Level 4.** The Soundbirdmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Soundbirdmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dh885r1-a6e8462d-d7fe-4782-8236-eb4c6b70181e.png/v1/fill/w_1280,h_382/soundbirdmon_by_homeosttasis_dh885r1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgyIiwicGF0aCI6IlwvZlwvYzhiNGU2NGQtMzc3Yi00NjA2LWJlYTctMWI2NTQ5M2UwZjlhXC9kaDg4NXIxLWE2ZTg0NjJkLWQ3ZmUtNDc4Mi04MjM2LWViNGM2YjcwMTgxZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.P4DiOxKdp_SRRLffamJVOZFcndwDH7jHmN_JjC4fFWY) {position:absolute,bottom:530px,left:455px,width:300px,mix-blend-mode:multiply}
+![Soundbirdmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dh885r1-a6e8462d-d7fe-4782-8236-eb4c6b70181e.png/v1/fill/w_1280,h_382/soundbirdmon_by_homeosttasis_dh885r1-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzgyIiwicGF0aCI6IlwvZlwvYzhiNGU2NGQtMzc3Yi00NjA2LWJlYTctMWI2NTQ5M2UwZjlhXC9kaDg4NXIxLWE2ZTg0NjJkLWQ3ZmUtNDc4Mi04MjM2LWViNGM2YjcwMTgxZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.P4DiOxKdp_SRRLffamJVOZFcndwDH7jHmN_JjC4fFWY) {position:absolute,bottom:500px,left:407px,width:400px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:30px,left:30px,margin-bottom:-30px
 ##### Soundbirdmon
@@ -1768,20 +1768,20 @@ Soundbirdmon ranges between levels 1-4. To upscale a Soundbirdmon perform the fo
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 19 
-**Hit Points**  :: 9 (d8) 
-**Chakra Points**  :: 9 (d8)  
+**Armor Class** :: 17 
+**Hit Points**  :: 8 (d8) 
+**Chakra Points**  :: 8 (d8)  
 **Speed**       :: 15ft., Swim 20ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|8 (-1) |12 (+1)|14 (+2)|10 (+0)|8 (-1) |
+|18 (+4)|8 (-1) |10 (+0)|14 (+2)|8 (-1) |12 (+1)|
 ___
-**Saving Throws** :: *Str +7*, Dex +0, *Con +4*, *Int +5*, Wis +1, Cha +0
+**Saving Throws** :: *Str +6*, Dex +0, *Con +4*, *Int +5*, Wis +0, Cha +2
 **Skills** ::  Investigation +5, Stealth +2   
-**Senses**               :: passive Perception 10
+**Senses**               :: passive Perception 9
 ___
-***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation.
+***Ironclad Defense (Unique)*** If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
 :
 ***Alternative Defence (Unique)*** This Digimon uses its Strenth Modifier instead of Dexterity for AC calculations.
 
@@ -1799,7 +1799,9 @@ D-Rank (Cost 5): Sharks Maw, Viscous Water Mass, Wild Bubble Wave
 ### Evolves Into
 - ***Gesomon***
 - ***Numemon***
+- ***KaratukiNumemon***
 - ***Shellmon***
+- ***Octomon***
  }}
 {{monster,frame
 
@@ -1816,7 +1818,7 @@ Syakomon is concealed in a sturdy shell shaped like a clam. Its shell developed 
 ## Scaling Enemy
 Syakomon ranges between levels 1-4. To upscale a Syakomon perform the following steps at each level.
 
-- **Level 2+,** Increase the Syakomon's Hit Points by 9 & Chakra Points by 6 for every level.
+- **Level 2+,** Increase the Syakomon's Hit Points by 8 & Chakra Points by 5 for every level.
 - **Level 4.** The Syakomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Syakomon](https://wikimon.net/images/e/ed/Syakomon.gif) {position:absolute,bottom:260px,left:440px,width:360px,mix-blend-mode:multiply}
@@ -3765,7 +3767,7 @@ ___
 :
 ***Fire Resistant II (Unique)*** This creature is immune to *Fire* damage.
 :
-***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d8hp. It can only gain the benefit of this feature if it is above 0hp and in combat.
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
 
 ### Jutsu  
 
@@ -4392,7 +4394,6 @@ BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the fo
 {{footnote Part II - CHAMPION}}
 
 \page
-
 {{monster,frame
 ## Gesomon
 *C-Rank, Standard, Large Virus, Mollusk/Water, Prof +4*
@@ -4416,7 +4417,7 @@ ___
 :
 ***Feint II (Unique)*** Melee attacks against this creature suffer a -2 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may use its reaction to make a weapon attack against the triggering creature.
 :
-***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
 
 ### Jutsu  
 ***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**)
@@ -4437,10 +4438,10 @@ C-Rank (Cost 9): 10-Count, Scattering Wave
 
 {{monster,frame
 ### Evolves From
-- ***Salamon***
+- ***Syakomon***
 ### Evolves Into
-- ***ShellNumemon***
-- ***WereSeadramon***
+- ***Dagomon***
+- ***WaruSeadramon***
 - ***MarineDevimon***
 
  }}
@@ -6112,6 +6113,83 @@ Numemon ranges between levels 5-8. To upscale a Numemon perform the following st
 {{footnote Part II - CHAMPION}}
 
 \page
+{{monster,frame
+## Octomon
+*C-Rank, Standard, Medium Virus, Mollusk/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 50 (d8) 
+**Chakra Points**  :: 44 (d10)  
+**Speed**       :: 25ft., Swim 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|14 (+2)|14 (+2)|14 (+2)|18 (+4)|10 (+0)|
+___
+**Saving Throws** :: Str +2, Dex +4, Con +4, *Int +6*, *Wis +8*, *Cha +4*
+**Skills** ::  Illusions +8, Insight +8, Investegation +6  
+**Senses**               :: passive Perception 14
+___
+***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
+:
+***Mind Master (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration.
+:
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+
+### Jutsu  
+***Genjutsu*** +9 to hit, (**Genjutsu save DC 16**)
+
+D-Rank (Cost 5): Color Spray, Share Thoughts, Suppress Focus   
+
+C-Rank (Cost 9): Ringing Bell Distortion  
+***Bukijutsu*** +7 to hit, (**Bukijutsu save DC 15**) 
+
+C-Rank (Cost 9): BOE: Invasive 
+### Attacks
+***Multiattack*** This creature can make two *Sword* or *Smoke Gun* attacks.  
+**Sword** *Melee Weapon Attack* +7 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage.  
+**Smoke Gun** *Ranged Weapon Attack* +8 to hit, range 60/120ft., one target. *Hit.* 1d12+3 Poison damage.
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Syakomon***
+### Evolves Into
+- ***MarineDevimon***
+- ***Vademon***
+- ***Dagomon***
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Octomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Bukijutsu with the Slashing Weapon Components*
+- *Any Genjutsu* 
+}}
+
+\column
+## Octomon
+A Mollusk Digimon that was discovered from the virus used by a fiendish hacker to crash a rival's research computer. It has a nasty habit of collecting things; the tips of its tentacles are affixed with claws obtained from a Devidramon's data, and it is clad throughout with Digi-Treasure which it gathered from the bottom of the Net Ocean.
+## Scaling Enemy
+Octomon ranges between levels 5-8. To upscale a Octomon perform the following steps at each level.
+
+- **Level 6+,** Increase the Octomon's Hit Points by 10 & Chakra Points by 8 for every level.
+- **Level 7.** The Octomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Octomon](https://wikimon.net/images/2/26/Octmon_New_Century.png) {position:absolute,bottom:180px,left:390px,width:440px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:230px,margin-bottom:-30px
+##### Octomon
+[Link](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.pnghttps://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
 
 {{monster,frame
 ## Ogremon
@@ -6134,7 +6212,7 @@ ___
 ___
 ***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
 :
-***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
 :
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 
@@ -6442,6 +6520,160 @@ Reppamon ranges between levels 5-8. To upscale a Reppamon perform the following 
 \page
 
 {{monster,frame
+## Shellmon
+*C-Rank, Standard, Large Data, Mollusk/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 20 
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
+**Speed**       :: 20ft., Swim 25ft. **Initiative** +1
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|8 (-1) |16 (+3)|18 (+4)|8 (-1) |10 (+0)|
+___
+**Saving Throws** :: *Str +9*, Dex +1, *Con +7*, *Int +8*, Wis +1, Cha +2 
+**Skills** ::  Nature +7, Athletics +9. Survival +3           
+**Senses**               :: passive Perception 9
+___
+***Alternative Defence (Unique)*** This Digimon uses its Strength Modifier instead of Dexterity for AC calculations.
+:
+***Ironclad Defense (Unique)*** If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
+:
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft.
+
+### Jutsu  
+***Ninjutsu*** +9 to hit, (**Taijutsu save DC 16**) 
+
+D-Rank (Cost 5): Hidden Mist, Starch Syrup Gun
+
+C-Rank (Cost 9): Ranging Tide, Water Prison  
+***Taijutsu*** +10 to hit, (**Taijutsu save DC 17**) 
+
+D-Rank (Cost 5): Deep Dive
+### Attacks
+**Unarmed Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 2d12+6 Bludgeoning damage.
+}}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Syakomon*** 
+
+### Evolves Into
+- ***Scorpiomon***
+- ***MegaSeadramon***
+- ***Zudomon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Shellmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Any Taijutsu.*
+  }}
+\column
+## Shellmon
+Although it has a turtle-like appearance when settled inside its shell, it actually has a soft body like that of a mollusk. Because its body rapidly gets bigger as it grows, it switches homes each time until it reaches the size of a small mountain. Not only that, it has a habit of settling into anything it is able to fit its body into. Since it has low intelligence and a belligerent personality, one must take caution when coming across a Shellmon. 
+## Scaling Enemy
+Shellmon ranges between levels 5-8. To upscale a Shellmon perform the following steps at each level.
+
+- **Level 6+,** Increase the Shellmon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The Shellmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Shellmon](https://wikimon.net/images/9/99/Shellmon_New_Century.png) {position:absolute,bottom:160px,left:390px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:100px,left:280px,margin-bottom:-30px
+##### Shellmon
+[Link](https://wikimon.net/images/9/99/Shellmon_New_Century.pnghttps://i.pinimg.com/564x/87/da/14/87da14a2ab3bc9c1f8f3f8722cc993e6.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## MoriShellmon
+*C-Rank, Standard, Large Data, Mollusk/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 20 
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
+**Speed**       :: 20ft., Burrow 25ft. **Initiative** +1
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|8 (-1) |16 (+3)|8 (-1) |18 (+4)|10 (+0)|
+___
+**Saving Throws** :: *Str +9*, Dex +1, *Con +7*, Int +1, *Wis +8*, Cha +2 
+**Skills** ::  Nature +3, Athletics +9. Survival +8           
+**Senses**               :: passive Perception 14
+___
+***Alternative Defence (Unique)*** This Digimon uses its Strength Modifier instead of Dexterity for AC calculations.
+:
+***Ironclad Defense (Unique)*** If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
+:
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft.
+
+### Jutsu  
+***Genjutsu*** +9 to hit, (**Genjutsu save DC 16**) 
+
+C-Rank (Cost 9): Circular Movement, Fog of War  
+***Taijutsu*** +10 to hit, (**Taijutsu save DC 17**) 
+
+D-Rank (Cost 5): Deep Dive, Hammer, Swallow Dance
+### Attacks
+**Unarmed Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 2d12+6 Bludgeoning damage.
+}}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Syakomon*** 
+
+### Evolves Into
+- ***Scorpiomon***
+- ***Deramon***
+- ***Cherrymon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+MoriShellmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Any Taijutsu.*
+  }}
+\column
+## MoriShellmon
+A companion of Shellmon that lives in swampland deep in the forest. The color of its body and its habitat are different to Shellmon's, and it is thought that the color of its body changes depending on where it lives. Although it usually stays inside its hard shell, it has an aggressive personality like the belligerent Shellmon, and because of its large body and strength, it is unwise to approach MoriShellmon's territory and make it angry. 
+## Scaling Enemy
+MoriShellmon ranges between levels 5-8. To upscale a MoriShellmon perform the following steps at each level.
+
+- **Level 6+,** Increase the MoriShellmon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The Shellmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![MoriShellmon](https://wikimon.net/images/e/ed/Morishellmon.jpg) {position:absolute,bottom:160px,left:400px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:160px,margin-bottom:-30px
+##### MoriShellmon
+[Link](https://wikimon.net/images/e/ed/Morishellmon.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
 ## Starmon
 *C-Rank, Standard, Medium Data, Mutant/Neutral, Prof +4*
 
@@ -6454,9 +6686,9 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|12 (+1)|18 (+4)|16 (+3)|10 (+0)|10 (+0)|14 (+2)|
+|12 (+1)|18 (+4)|16 (+3)|10 (+0)|14 (+2)|10 (+0)|
 ___
-**Saving Throws** :: *Str +5*, *Dex +8*, *Con +8*, Int +2, *Wis +4*, *Cha +6* 
+**Saving Throws** :: *Str +5*, *Dex +8*, *Con +8*, Int +2, *Wis +6*, *Cha +4* 
 **Skills** ::  Acrobatics +8, Martial Arts +8, Persuasion +6               
 **Senses**               :: passive Perception 10
 ___
@@ -6467,7 +6699,6 @@ ___
 ***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
 
 ### Jutsu  
-
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
 
 D-Rank (Cost 5): Compelled Duel, Hypnosis
@@ -6532,7 +6763,7 @@ Starmon ranges between levels 5-8. To upscale a Starmon perform the following st
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 22 
+**Armor Class** :: 19 
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8)  
 **Speed**       :: 25ft., Fly 30ft. **Initiative** +6
@@ -6543,7 +6774,7 @@ ___
 ___
 **Saving Throws** :: *Str +6*, *Dex +8*, *Con +7*, Int +2, Wis +3, Cha +2 
 **Skills** ::  Stealth +8, Acrobatics +8. Survival +5           
-**Senses**               :: passive Perception 12
+**Senses**               :: passive Perception 11
 ___
 ***Stealth Expert I (Unique)*** If this creature is hidden, their first attack per round does not reveal their position. 
 :
@@ -7279,7 +7510,7 @@ ___
 **Skills** ::  Athletics +7, Survival +5, Nature +5          
 **Senses**               :: passive Perception 11
 ___
-***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their speed reduced by 5ft.  
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. 
 :
 ***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
 :
@@ -7858,7 +8089,7 @@ ___
 ___
 ***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block. 
 :
-***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their speed reduced by 5ft.
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft.
 :
 ***Plant Power II (Unique)*** This Digimon gains resistance to *Cold* damage, but vulnerability to *Fire* damage. When hit by a jutsu that deals *Cold* or *Earth* damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast.
 
@@ -8529,11 +8760,11 @@ ___
 **Damage Vulnerability** :: Fire  
 **Senses**               :: passive Perception 11
 ___
-***Rooted III (Unique)*** This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked *prone*, but has their speed reduced by 10ft.  
+***Rooted III (Unique)*** This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked *prone*, but has their movement speed reduced by 10ft.  
 :
 ***Inflicting Weapon III (Unique)*** Whenever this Digimon lands a weapon attack roll, or a creature hits it with a melee attack roll, the target must make a Constitution Saving throw vs this Digimon's highest jutsu Save DC. On a failure, they gain 2 stacks of the *Envenomed* condition.
 :
-***Regeneration II (Unique)*** At the start of this creatures turn, it recovers 2d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat.
+***Regeneration II (Unique)*** At the start of this creatures turn, it recovers 2d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat.
 :
 ***Plant Power III (Unique)*** This Digimon gains resistance to *Cold* damage, but vulnerability to *Fire* damage. When hit by a jutsu that deals *Cold* or *Earth* damage, until the end of this Digimon’s next turn, they deal an additional two damage die for the first jutsu that they cast.
 ### Jutsu  
@@ -8788,7 +9019,7 @@ ___
 :
 ***Oppressive Presence III (Unique)*** Hostile creatures within 20ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
-***Rooted III (Unique)*** This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked *prone*, but has their speed reduced by 10ft.  
+***Rooted III (Unique)*** This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked *prone*, but has their movement speed reduced by 10ft.  
 
 ### Jutsu  
 
@@ -10228,7 +10459,7 @@ ___
 :
 ***Sacrificial Aura I (Unique)*** All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one.
 :
-***Ironclad Defense (Unique)*** If this Digimon is in the same space that they started their turn in, and has not moved, they gain +2 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
+***Ironclad Defense (Unique)*** If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
 ### Jutsu  
          
 ***Bukijutsu*** +12 to hit, (**Bukijutsu save DC 18**) 
@@ -12332,7 +12563,7 @@ ___
 :
 ***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
 :
-***Regeneration II (Unique)*** At the start of this creatures turn, it recovers 2d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat.
+***Regeneration II (Unique)*** At the start of this creatures turn, it recovers 2d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat.
 :
 ***Holy Ring II (Unique)*** As a bonus action, this Digimon may target a creature within 30ft of it. This creature recovers 2d6 health points. This feature can be used a number of times equal to its proficiency bonus per rest.
 ### Jutsu  
@@ -16348,7 +16579,7 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Inflicting Weapon I.  | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the (choose) condition.  |
 | Inflicting Weapon II.  | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the (choose) condition.  |
 |Inflicting Weapon III.  | Whenever this Digimon lands a weapon attack roll or a creature hits it with a melee attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the (choose) condition.  |
-| Ironclad Defense | If this Digimon is in the same space that they started their turn in, and has not moved, they gain +2 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus. |
+| Ironclad Defense | If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus. |
 }}
 
 {{pageNumber,auto}}
@@ -16437,17 +16668,17 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Relentless I. | This creature has advantage on all saves that would cause Stunned, Restrained or Weakened conditions. |
 | Relentless II. | This creature has advantage on all saves that would cause Restrained condition. |
 | Relentless III. | This creature is immune to the Stunned, Restrained and Weakened conditions. |
-| Regeneration I.  | At the start of this creatures turn, it recovers 1d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat. |
-| Regeneration II. | At the start of this creatures turn, it recovers 2d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat. |
-| Regeneration III. | At the start of this creatures turn, it recovers 3d6 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat. |
+| Regeneration I.  | At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat. |
+| Regeneration II. | At the start of this creatures turn, it recovers 2d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat. |
+| Regeneration III. | At the start of this creatures turn, it recovers 3d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0 HP and in combat. |
 | Resistant I. | This creature is resistant to (choose) damage. |
 | Resistant II. | This creature is resistant to (choose) damage and resistant to (choose another) damage. |
 | Resistant II. | This creature is immune to (choose) damage. |
 | Resistant III. | This creature is immune to (choose) damage and resistant to (choose another) damage. |
 | Rivalry | As a Bonus Action this Digimon can mark a single Hostile Creature as their Rival. While a creature is marked as this creature’s Rival, this creature gains +X to all attack rolls to hit their Rival, however suffer a -X penalty to all attack rolls to hit any other target. They can use this feature a number of times equal to their Proficiency Bonus per rest. |
-| Rooted I.  | This Digimon has advantage on all saves that would force them to move unwillingly, but has their speed reduced by 5ft.  |
-| Rooted II. | This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their speed reduced by 5ft. |
-| Rooted III. | This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked prone, but has their speed reduced by 10ft. |
+| Rooted I.  | This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  |
+| Rooted II. | This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. |
+| Rooted III. | This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 10ft. |
 | Sacrificial Aura I. | All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 | Sacrificial Aura II. | All hostile creatures within 15-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 }}
