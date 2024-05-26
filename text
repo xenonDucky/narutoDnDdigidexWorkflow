@@ -3020,7 +3020,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|8 (-1)|18 (+4)|12 (+1)|14 (+2)|10 (+0)|
+|18 (+4)|8 (-1) |18 (+4)|12 (+1)|14 (+2)|10 (+0)|
 ___
 **Saving Throws** :: *Str +8*, Dex +1, *Con +8*, Int +3, *Wis +6*, Cha +2
 **Skills** ::  Athletics +8, Insight +6, Perception +6   
@@ -3254,7 +3254,89 @@ Aquilamon ranges between levels 5-8. To upscale a Aquilamon perform the followin
 
 {{monster,frame
 ## Bakemon
-*C-Rank, Standard, Small Virus, Undead/Dark, Prof +4*
+*C-Rank, Standard, Small Virus, Ghost/Dark, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 50 (d8) 
+**Chakra Points**  :: 44 (d10)  
+**Speed**       :: 25ft., fly 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |16 (+3)|14 (+2)|16 (+3)|10 (+0)|16 (+3)|
+___
+**Saving Throws** :: Str +1, *Dex +7*, Con +4, *Int +7*, Wis +2, *Cha +7*
+**Skills** :: Stealth +7, Ninshou +8, Intimidation +6  
+**Damage Resistances** :: Bludgeoning, Slashing, Piercing
+**Damage Vulnerability** :: Lightning
+**Senses**               :: passive Perception 10
+___
+***Ghostly Form (Unique)*** This creature can move through solid objects so long as they do not end their turn within a solid object.
+:
+***Unique Body II (Unique)*** This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to Lightning damage.
+:
+***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Wisdom saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Confused* condition.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Grim Mask
+
+C-Rank (Cost 9): Corrupt Wave           
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**) 
+
+D-Rank (Cost 5): Cause Fear, Psionics: Confusion!
+
+C-Rank (Cost 9): Night Terrors 
+
+### Attacks
+***Multiattack*** This creature can make two *Death Touch* attacks.      
+**Death Touch** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
+ }}
+
+{{monster,frame
+### Evolves From
+- ***Ghostmon*** 
+### Evolves Into
+- ***Mummymon***
+- ***Phantomon***
+- ***Pumpkinmon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Bakemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu that deals necrotic damage.*
+- *Genjutsu that inflicts the *fear* or confusion condition.*
+}}
+
+\column
+
+## Bakemon
+A Ghost Digimon that possesses a wicked nature. Despite its ghostly appearance, the white cloth on Bakemon is not the actual Digimon. Instead, its body is nothing more than a black void. It often relies on dark magic and curses to combat its foes.
+## Scaling Enemy
+Bakemon ranges between levels 5-8. To upscale a Bakemon perform the following steps at each level.
+
+- **Level 6+,** Increase the Bakemon's Hit Points by 10 & Chakra Points by 8 for every level.
+- **Level 7.** The Bakemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Bakemon](https://i.pinimg.com/564x/4d/cb/43/4dcb4348ab56dffb2785de7edb6aeb8c.jpg) {position:absolute,bottom:160px,left:400px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:70px,left:80px,margin-bottom:-30px
+##### Bakemon
+[Link](https://i.pinimg.com/564x/4d/cb/43/4dcb4348ab56dffb2785de7edb6aeb8c.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+\page
+
+{{monster,frame
+## Soulmon
+*C-Rank, Standard, Small Virus, Ghost/Dark, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -3268,28 +3350,26 @@ ___
 |8 (-1) |16 (+3)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|
 ___
 **Saving Throws** :: Str +1, *Dex +7*, Con +4, *Int +8*, Wis +2, *Cha +6*
-**Skills** :: Stealth +7, Ninshou +8, Intimidation +6  
-**Damage Immunity** :: Bludgeoning, Slashing, Piercing 
+**Skills** :: Stealth +7, Chakra Control +6, Intimidation +6  
+**Damage Resistances** :: Bludgeoning, Slashing, Piercing 
+**Damage Vulnerability** :: Lightning
 **Senses**               :: passive Perception 10
 ___
 ***Ghostly Form (Unique)*** This creature can move through solid objects so long as they do not end their turn within a solid object.
 :
 ***Unique Body II (Unique)*** This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to Lightning damage.
 :
-***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Wisdom saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Confused* condition.
+***Powerful Decay II (Unique)*** All Ninjutsu with the Medical Release keyword deal two additional damage dice.
 
 ### Jutsu  
 ***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 16**) 
 
-D-Rank (Cost 5): Grim Mask
+D-Rank (Cost 5): Grim Mask, Currupt Missile
 
-C-Rank (Cost 9): Corrupt Wave           
+C-Rank (Cost 9): Corrupt Wave, Vampiric Touch           
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
 
-D-Rank (Cost 5): Cause Fear, Psionics: Confusion!
-
-C-Rank (Cost 9): Night Terrors 
-
+D-Rank (Cost 5): Cause Fear
 ### Attacks
 ***Multiattack*** This creature can make two *Death Touch* attacks.      
 **Death Touch** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
@@ -3297,7 +3377,7 @@ C-Rank (Cost 9): Night Terrors
 
 {{monster,frame
 ### Evolves From
-- ***Impmon*** 
+- ***Ghostmon*** 
 ### Evolves Into
 - ***Mummymon***
 - ***Phantomon***
@@ -3307,25 +3387,27 @@ C-Rank (Cost 9): Night Terrors
  
 {{monster,frame
 ### Alternative Jutsu List
-Bakemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+Soulmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu that deals necrotic damage.*
 - *Genjutsu that inflicts the *fear* or confusion condition.*
+}}
 
-  }}
+\column
 
-## Bakemon
-A Ghost Digimon that possesses a wicked nature. Despite its ghostly appearance, the white cloth on Bakemon is not the actual Digimon. Instead, its body is nothing more than a black void. It often relies on dark magic and curses to combat its foes.
+## Soulmon
+A Ghost Digimon constructed from a cursed virus program. As it was a Bakemon that took in data of mages that appear in fantasy stories, the black hat it wears raises its magical power. Because of that, its attacks that make use of curses or magic are tremendously powerful.
+
 ## Scaling Enemy
-Bakemon ranges between levels 5-8. To upscale a Bakemon perform the following steps at each level.
+Soulmon ranges between levels 5-8. To upscale a Soulmon perform the following steps at each level.
 
-- **Level 6+,** Increase the Bakemon's Hit Points by 10 & Chakra Points by 8 for every level.
-- **Level 7.** The Bakemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 6+,** Increase the Soulmon's Hit Points by 10 & Chakra Points by 8 for every level.
+- **Level 7.** Soulmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Bakemon](https://i.pinimg.com/564x/4d/cb/43/4dcb4348ab56dffb2785de7edb6aeb8c.jpg) {position:absolute,bottom:160px,left:400px,width:400px,mix-blend-mode:multiply}
+![Soulmon](https://wikimon.net/images/thumb/f/fb/Soulmon_DSAM_Model.png/573px-Soulmon_DSAM_Model.png) {position:absolute,bottom:160px,left:410px,width:390px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:40px,left:280px,margin-bottom:-30px
-##### Bakemon
-[Link](https://i.pinimg.com/564x/4d/cb/43/4dcb4348ab56dffb2785de7edb6aeb8c.jpg)
+{{artist,position:relative,top:140px,left:280px,margin-bottom:-30px
+##### Soulmon
+[Link](https://wikimon.net/images/thumb/f/fb/Soulmon_DSAM_Model.png/573px-Soulmon_DSAM_Model.png)
 }}
 
 {{pageNumber,auto}}
