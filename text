@@ -1588,11 +1588,11 @@ Impmon ranges between levels 1-4. To upscale a Impmon perform the following step
 - **Level 2+,** Increase the Impmon's Hit Points by 9 & Chakra Points by 6 for every level.
 - **Level 4.** The Impmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Impmon](https://i.pinimg.com/564x/3a/27/69/3a2769e1e4ea7a175ef9d55c48f92b7b.jpg) {position:absolute,bottom:px,left:460px,width:320px,mix-blend-mode:multiply}
+![Impmon](https://wikimon.net/images/thumb/e/e4/Impmon4.png/422px-Impmon4.png) {position:absolute,bottom:px,left:450px,width:320px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:90px,left:30px,margin-bottom:-30px
+{{artist,position:relative,top:110px,left:30px,margin-bottom:-30px
 ##### Impmon
-[Link](https://i.pinimg.com/564x/3a/27/69/3a2769e1e4ea7a175ef9d55c48f92b7b.jpg)
+[Link](https://wikimon.net/images/thumb/e/e4/Impmon4.png/422px-Impmon4.png)
 }}
 
 {{pageNumber,auto}}
@@ -1629,23 +1629,18 @@ ___
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
 
 D-Rank (Cost 5): Venom Shock  
-:
 ***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)
 
 D-Rank (Cost 5): Dancing Petals, Calming Petals
 
 ### Attacks
-***Lash*** *Melee Weapon Attack* +4 to hit, reach 10ft., one target. *Hit.* 1d6+1 Slashing damage. 
+***Lash*** *Melee Weapon Attack* +4 to hit, reach 10ft., one target. *Hit.* 1d6+1 Poison damage. 
+}}
 
- }}
-:::
 {{monster,frame
 ### Evolves Into
-- ***Ogremon***
 - ***Sunflowmon***
 - ***Togemon***
-- ***Vegiemon***
-- ***Woodmon***
  }}
 {{monster,frame
 ### Alternative Jutsu List
@@ -1655,18 +1650,87 @@ Palmon may learn **3 D Rank** jutsu that meet the following requirements:
  }}
 \column
 ## Palmon
-The tropical flower blooming on Palmon's head, and its ability to stand motionless for long periods of time, means it is often mistaken for vegetation. During the day, it's flower will open up and it will use its arms to engage in photosynthesis, burying its root-like feed into the ground. If threatened, Palmon's claw-like hands are able to shoot out ivy laced with a powerful toxin.
+The tropical flower blooming on Palmon's head, and its ability to stand motionless for long periods of time, means it is often mistaken for vegetation. During the day, it's flower will open up and it will use its arms to engage in photosynthesis, burying its root-like feed into the ground. As for the flower on its head, when it is joyful or happy, it will waft about a sweet fragrance, but when it is angered or senses danger, it releases a foul stench that will drive off even large Digimon.
 ## Scaling Enemy
 Palmon ranges between levels 1-4. To upscale a Palmon perform the following steps at each level.
 
 - **Level 2+,** Increase the Palmon's Hit Points by 9 & Chakra Points by 6 for every level.
 - **Level 4.** The Palmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
- ![Palmon](https://i.pinimg.com/564x/3a/00/e6/3a00e65a45cdf396de5dc726de451816.jpg) {position:absolute,bottom:280px,left:450px,width:360px,mix-blend-mode:multiply}
+ ![Palmon](https://wikimon.net/images/thumb/f/fe/Palmon_New_Century.png/438px-Palmon_New_Century.png) {position:absolute,bottom:180px,left:450px,width:320px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:130px,margin-bottom:-30px
 ##### Palmon
-[Link](https://i.pinimg.com/564x/3a/00/e6/3a00e65a45cdf396de5dc726de451816.jpg)
+[Link](https://wikimon.net/images/thumb/f/fe/Palmon_New_Century.png/438px-Palmon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## Alraumon
+*D-Rank, Standard, Small Data, Plant/Grass, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 14 
+**Hit Points**  :: 9 (d8) 
+**Chakra Points**  :: 9 (d8)  
+**Speed**       :: 25ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|12 (+1)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|
+___
+**Saving Throws** :: Str +1, Dex +2, *Con +4*, *Int +5*, Wis +1, *Cha +5*
+**Skills** ::  Nature +5, Illusions +5         
+**Senses**               :: passive Perception 10
+___
+***Rooted I (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  
+:
+***Inflicting Weapon I (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon's highest jutsu Save DC. On a failure, they gain 1 stack of the *Dazzled* condition.
+
+
+### Jutsu  
+      
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Necrosis  
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)
+
+D-Rank (Cost 5): Anxious Petals, Dancing Petals
+
+### Attacks
+***Lash*** *Melee Weapon Attack* +4 to hit, reach 10ft., one target. *Hit.* 1d6+1 Poison damage. 
+}}
+
+{{monster,frame
+### Evolves Into
+- ***Vegiemon***
+- ***Woodmon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Alraumon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu that deal Necrotic damage*
+- *Genjutsu with the Inhale Component*
+ }}
+\column
+## Alraumon
+A Plant Digimon that accomplished an evolution just like Palmon. It seems that, at noon, it opens up its arms and the flower on its head to perform photosynthesis. The aroma emitted from the flower on its head is definitely inherited from Palmon, so as usual it is intensely foul.
+## Scaling Enemy
+Alraumon ranges between levels 1-4. To upscale a Alraumon perform the following steps at each level.
+
+- **Level 2+,** Increase the Alraumon's Hit Points by 9 & Chakra Points by 6 for every level.
+- **Level 4.** The Alraumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+ ![Alraumon](https://wikimon.net/images/b/bb/Alraumon_crusader.jpg) {position:absolute,bottom:180px,left:420px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:40px,left:80px,margin-bottom:-30px
+##### Alraumon
+[Link](https://wikimon.net/images/b/bb/Alraumon_crusader.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -1710,7 +1774,7 @@ D-Rank (Cost 5): Confidence
 ***Bash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage.   
 
  }}
-:
+
 {{monster,frame
 ### Evolves Into
 - ***Angemon***
@@ -1782,7 +1846,7 @@ D-Rank (Cost 5): Bane, Curroption: Insolence
 ***Bash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage.   
 
  }}
-:
+
 {{monster,frame
 ### Evolves Into
 - ***Devimon***
@@ -1850,7 +1914,7 @@ D-Rank (Cost 5): Hypnosis, Night: Frigid Thoughts, Psionics: Assurance!
 ***Slash*** *Melee Weapon Attack* +4 to hit, reach 5ft., one target. *Hit.* 1d8+1 Slashing damage.   
 
  }}
-:
+
 {{monster,frame
 ### Evolves Into
 - ***Porcupamon***
