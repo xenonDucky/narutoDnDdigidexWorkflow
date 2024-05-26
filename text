@@ -2537,7 +2537,7 @@ Veemon ranges between levels 1-4. To upscale a Veemon perform the following step
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15    **DR**  5 (All) 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
 **Speed**       :: 15ft., Fly 20ft. **Initiative** +2
@@ -2550,7 +2550,7 @@ ___
 **Skills** ::  Athletics +5, Chakra Control +5            
 **Senses**               :: passive Perception 10
 ___
-***Alternative Defence I (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.    
+***Phoenix Feathers I (Unique)*** If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 1 HP. This feature can only activated once per rest.    
 :
 ***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation. This is already added to its stat block.
 
@@ -2594,6 +2594,78 @@ Vorvomon ranges between levels 1-4. To upscale a Vorvomon perform the following 
 {{artist,position:relative,top:290px,left:30px,margin-bottom:-30px
 ##### Vorvomon
 [Link](https://i.pinimg.com/564x/a5/ed/54/a5ed54697b857a8a8b41b389d5f8c8f4.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## Jazamon
+*D-Rank, Standard, Small Data, Dragon/Metal, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 17    **DR**  5 (All)
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|14 (+2)|10 (+0)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +5*, *Dex +5*, *Con +5*, Int +1, Wis +1, Cha +1
+**Skills** ::  Athletics +5, Perception +3            
+**Senses**               :: passive Perception 13
+___
+***Tanky Resilience I (Unique)*** This Digimon gains 5 Damage Reduction to all sources.    
+:
+***Natural Armor I (Unique)*** This creature adds an additional +2 to AC calculation. This is already added to its stat block.
+
+### Jutsu 
+***Taijutsu*** +5 to hit, (**Taijutsu save DC 13**)             
+
+D-Rank (Cost 5): Crane Wing Formation  
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)             
+
+D-Rank (Cost 5): FS: Cross Cut, FS: Straight Line
+
+### Attacks
+***Peck*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Piercing damage. 
+
+ }}
+
+{{monster,frame
+### Evolves Into
+- ***Birdramon***
+- ***Coredramon (Blue)***
+- ***Coredramon (Green)***
+- ***Larvorvomon***
+- ***Tyrannomon***
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Jazamon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Fire Release Keyword*
+- *Ninjutsu with the Earth Release Keyword*
+  }}
+\column
+## Jazamon
+A Machine Digimon shaped like a bird. Although it is capable of gliding from high places using its wings, it is unable to uplift itself by flapping them. As it is quite timid and very cautious, it is wary of objects that move in its surroundings regardless of whether it is day or night.
+## Scaling Enemy
+Jazamon ranges between levels 1-4. To upscale a Jazamon perform the following steps at each level.
+
+- **Level 2+,** Increase the Jazamon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The Jazamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Jazamon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/080f1219-58fb-4e92-85c2-723dcb8e7a7e/df3encm-f580957d-2099-412e-ad9d-ab7fc7588887.png/v1/fill/w_1024,h_986/jazamon_fanart_by_riderb0y_df3encm-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg2IiwicGF0aCI6IlwvZlwvMDgwZjEyMTktNThmYi00ZTkyLTg1YzItNzIzZGNiOGU3YTdlXC9kZjNlbmNtLWY1ODA5NTdkLTIwOTktNDEyZS1hZDlkLWFiN2ZjNzU4ODg4Ny5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CmnmWPgXeQKBBovwJFVgyOwBiG2GYLKkP6AD1JSRPk0) {position:absolute,bottom:250px,left:390px,width:440px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:230px,left:260px,margin-bottom:-30px
+##### Jazamon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/080f1219-58fb-4e92-85c2-723dcb8e7a7e/df3encm-f580957d-2099-412e-ad9d-ab7fc7588887.png/v1/fill/w_1024,h_986/jazamon_fanart_by_riderb0y_df3encm-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTg2IiwicGF0aCI6IlwvZlwvMDgwZjEyMTktNThmYi00ZTkyLTg1YzItNzIzZGNiOGU3YTdlXC9kZjNlbmNtLWY1ODA5NTdkLTIwOTktNDEyZS1hZDlkLWFiN2ZjNzU4ODg4Ny5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.CmnmWPgXeQKBBovwJFVgyOwBiG2GYLKkP6AD1JSRPk0)
 }}
 
 {{pageNumber,auto}}
