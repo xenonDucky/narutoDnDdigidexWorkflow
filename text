@@ -2319,33 +2319,33 @@ Tentomon ranges between levels 1-4. To upscale a Tentomon perform the following 
 
 {{monster,frame
 ## Terriermon
-*D-Rank, Standard, Small Vaccine, Beast/Wind, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 16 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft. **Initiative** +5
+**Speed**       :: 30ft. **Initiative** +6
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|14 (+2)|12 (+1)|12 (+1)|14 (+2)|12 (+1)|
+|8 (-1) |16 (+3)|12 (+1)|14 (+2)|10 (+0)|12 (+1)|
 ___
-**Saving Throws** :: Str +0, *Dex +5*, Con +2, Int +2, *Wis +5*, *Cha +4*
-**Skills** ::  Acrobatics +5, Persuasion +4    
-**Senses**               :: passive Perception 12
+**Saving Throws** :: Str +0, *Dex +6*, Con +2, Int +3, *Wis +3*, *Cha +4*
+**Skills** ::  Acrobatics +6, Deception +4    
+**Senses**               :: passive Perception 10
 ___
 ***Always Ready I (Unique)*** This Digimon adds its full Proficiency Bonus to their Initiative roll.
 :
 ***Gliding (Unique)*** This Digimon is immune to fall damage.
 
 ### Jutsu  
-***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
 
 D-Rank (Cost 5): Zephyr Strike, Violent Whirlwind, Raging Gale 
 ### Attacks
-***Bash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage.   
+***Bash*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage.   
 
  }}
 
@@ -2383,8 +2383,76 @@ Terriermon ranges between levels 1-4. To upscale a Terriermon perform the follow
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+
 \page
 
+{{monster,frame
+## Lopmon
+*D-Rank, Standard, Small Data, Beast/Water, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 16 
+**Hit Points**  :: 9 (d8) 
+**Chakra Points**  :: 9 (d8)  
+**Speed**       :: 30ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |16 (+3)|12 (+1)|14 (+2)|10 (+0)|12 (+1)|
+___
+**Saving Throws** :: Str +0, *Dex +6*, Con +2, Int +3, *Wis +3*, *Cha +4*
+**Skills** ::  Acrobatics +6, Persuasion +4    
+**Senses**               :: passive Perception 10
+___
+***Elemental Versatility I (Unique)*** This creature gains access to an additional Nature Release.
+:
+***Gliding (Unique)*** This Digimon is immune to fall damage.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Water Shuriken, Zephyr Strike, Raging Gale 
+### Attacks
+***Bash*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage.   
+
+ }}
+
+:
+{{monster,frame
+### Evolves Into
+- ***Turiemon***
+- ***Wendimon***
+- ***Bitmon***
+- ***Lekismon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Lopmon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Ninjutsu with the Wind Release Keyword.*
+  }}
+  
+ 
+\column
+## Lopmon
+While Terriermon has only one horn growing from its head and has a calm but robust personality, Lopmon has three horns growing from its head and has the personality of a lonely crybaby.   
+## Scaling Enemy
+Lopmon ranges between levels 1-4. To upscale a Lopmon perform the following steps at each level.
+
+- **Level 2+,** Increase the Lopmon's Hit Points by 9 & Chakra Points by 6 for every level.
+- **Level 4.** The Lopmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Lopmon](https://wikimon.net/images/thumb/e/ec/Lopmon_Newcentury.png/471px-Lopmon_Newcentury.png) {position:absolute,bottom:190px,left:430px,width:360px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:120px,left:60px,margin-bottom:-30px
+##### Lopmon
+[Link](https://wikimon.net/images/thumb/e/ec/Lopmon_Newcentury.png/471px-Lopmon_Newcentury.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
 
 
 {{monster,frame
