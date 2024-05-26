@@ -335,23 +335,20 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|11 (+0)|14 (+2)|12 (+1)|10 (+0)|11 (+0)|
+|14 (+2)|10 (+0)|14 (+2)|12 (+1)|10 (+0)|12 (+1)|
 ___
-**Saving Throws** :: *Str +5*, Dex +1, *Con +5*, Int +2, Wis +1, *Cha +3* 
+**Saving Throws** :: *Str +5*, Dex +1, *Con +5*, Int +2, Wis +1, *Cha +4* 
 **Skills** ::  Athletics +5, Survival +3    
 **Senses**               :: passive Perception 10
 ___
-***Dramon Claws I (Unique)*** This Digimon gains +2 to attack and damage rolls to any creature that classifies as a Dragon, Dinosaur or Reptile.    
+***Calm I (Unique)*** This creature is resistant to any effect that would cause Fear.    
 :
-***Reckless I (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have advantage until the start of its next turn.  
+***Powerful Fire I (Unique)*** All Ninjutsu with the Fire Release keyword deal an additional damage die.  
 
 ### Jutsu  
-   
-
-
 ***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
 
-D-Rank (Cost 5): Fireball, Phoenix Fire    
+D-Rank (Cost 5): Fireball, Flame Bolt    
 :
 ***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
 
@@ -365,8 +362,7 @@ D-Rank (Cost 5): 1-Strike Slash
  ### Evolves Into
 - ***GeoGreymon***
 - ***Greymon***
-- ***Meramon***
-- ***Tuskmon***
+- ***Greymon (Virus)***
 - ***Tyrannomon***
  }}
 {{monster,frame
@@ -387,7 +383,7 @@ Agumon ranges between levels 1-4. To upscale a Agumon perform the following step
 
 - **Level 2+,** Increase the Agumon's Hit Points by 10 & Chakra Points by 7 for every level.
 - **Level 4.** The Agumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-![Agumon](https://i.pinimg.com/564x/a5/0c/bf/a50cbfc7ac50eace442962b9e9a12bca.jpg) {position:absolute,bottom:360px,left:410px,width:390px,mix-blend-mode:multiply}
+![Agumon](https://i.pinimg.com/564x/a5/0c/bf/a50cbfc7ac50eace442962b9e9a12bca.jpg) {position:absolute,bottom:360px,left:400px,width:410px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:290px,left:220px,margin-bottom:-30px
 ##### Agumon
@@ -395,6 +391,216 @@ Agumon ranges between levels 1-4. To upscale a Agumon perform the following step
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## BlackAgumon
+*D-Rank, Standard, Small Virus, Reptile/Fire, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 13 
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 30ft. **Initiative** +2
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|10 (+0)|14 (+2)|12 (+1)|10 (+0)|12 (+1)|
+___
+**Saving Throws** :: *Str +5*, Dex +1, *Con +5*, Int +2, Wis +1, *Cha +4* 
+**Skills** ::  Athletics +5, Intimidation +4    
+**Senses**               :: passive Perception 10
+___
+***Calm I (Unique)*** This creature is resistant to any effect that would cause Fear.    
+:
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.  
+
+### Jutsu  
+***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
+
+D-Rank (Cost 5): Phoenix Fire    
+:
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
+
+D-Rank (Cost 5): 1-Strike Slash, FS: Straight Line
+### Attacks
+***Slash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage. 
+
+ }}
+:
+{{monster,frame
+ ### Evolves Into
+- ***Greymon (Virus)***
+- ***Greymon***
+- ***Tuskmon***
+- ***DarkTyrannomon***
+ }}
+{{monster,frame
+ ### Alternative Jutsu List
+BlackAgumon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component*  
+ }}
+
+
+
+\column
+## BlackAgumon
+A tiny dinosaur that, while still developing in power, has a ferocious personality. It is said that BlackAgumon do not experience fear. It seeks to demonstrate its power in battle in order to grow strong and Digivolve into a great and powerful Digimon.
+
+## Scaling Enemy
+BlackAgumon ranges between levels 1-4. To upscale a BlackAgumon perform the following steps at each level.
+
+- **Level 2+,** Increase the BlackAgumon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The BlackAgumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+![BlackAgumon](https://wikimon.net/images/6/6f/Agumonblack_Newcentury.png) {position:absolute,bottom:260px,left:410px,width:390px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:290px,left:260px,margin-bottom:-30px
+##### BlackAgumon
+[Link](https://wikimon.net/images/6/6f/Agumonblack_Newcentury.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## SnowAgumon
+*D-Rank, Standard, Small Vaccine, Reptile/Water, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 14 
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 30ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|12 (+1)|14 (+2)|12 (+1)|10 (+0)|12 (+1)|
+___
+**Saving Throws** :: *Str +4*, Dex +2, *Con +5*, Int +2, Wis +1, *Cha +4* 
+**Skills** ::  Stealth +4, Survival +3    
+**Senses**               :: passive Perception 10
+___
+***Calm I (Unique)*** This creature is resistant to any effect that would cause Fear.    
+:
+***Powerful Water I (Unique)*** All Ninjutsu with the Water Release keyword deal an additional damage die.  
+
+### Jutsu  
+***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
+
+D-Rank (Cost 5): Water Claws, Sharks Maw    
+:
+***Bukijutsu*** +4 to hit, (**Bukijutsu save DC 12**)
+
+D-Rank (Cost 5): 1-Strike Slash
+### Attacks
+***Slash*** *Melee Weapon Attack* +4 to hit, reach 5ft., one target. *Hit.* 1d8+1 Slashing damage. 
+
+ }}
+:
+{{monster,frame
+ ### Evolves Into
+- ***Yukidarumon***
+- ***Mojyamon***
+- ***Paledramon***
+- ***Icemon***
+ }}
+{{monster,frame
+ ### Alternative Jutsu List
+SnowAgumon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component*  
+ }}
+
+
+
+\column
+## SnowAgumon
+Due to the mischievousness it inherited from Agumon, it is always happily excited like a child when it snows. Because the color of its body is identical to that of snow, in battle it is able to approach the enemy to attack without being exposed.
+
+## Scaling Enemy
+SnowAgumon ranges between levels 1-4. To upscale a SnowAgumon perform the following steps at each level.
+
+- **Level 2+,** Increase the SnowAgumon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The SnowAgumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+![SnowAgumon](https://wikimon.net/images/thumb/b/b2/Yukiagumon_Newcentury.png/410px-Yukiagumon_Newcentury.png) {position:absolute,bottom:120px,left:410px,width:390px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:90px,left:20px,margin-bottom:-30px
+##### SnowAgumon
+[Link](https://wikimon.net/images/thumb/b/b2/Yukiagumon_Newcentury.png/410px-Yukiagumon_Newcentury.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## BushiAgumon
+*D-Rank, Standard, Small Vaccine, Reptile/Fire, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|12 (+1)|
+___
+**Saving Throws** :: Str +1, *Dex +5*, *Con +5*, Int +2, Wis +1, *Cha +4* 
+**Skills** ::  Acrobatics +5, Intimidation +4    
+**Senses**               :: passive Perception 10
+___
+***Calm I (Unique)*** This creature is resistant to any effect that would cause Fear.    
+:
+***Powerful Warrior I (Unique)*** All Bukijutsu with the deal an additional damage die.  
+### Jutsu  
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
+
+D-Rank (Cost 5): 1-Strike Slash, Blunt Tip, Hidden Weapon
+### Attacks
+***Sword*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage. 
+
+ }}
+:
+{{monster,frame
+ ### Evolves Into
+- ***GeoGreymon***
+- ***Greymon***
+- ***Musyamon***
+- ***Buraimon***
+ }}
+{{monster,frame
+ ### Alternative Jutsu List
+BushiAgumon may learn **3 D Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component*  
+ }}
+
+\column
+## BushiAgumon
+A wandering super-swordsman. The family crest adorning its chest is proof of its status as a super-swordsman, at least according to Bushi Agumon itself, though there's no denying that its swordsmanship is first-rate. However, the meaning behind its 'super-swordsman' title is a mystery.
+
+## Scaling Enemy
+BushiAgumon ranges between levels 1-4. To upscale a BushiAgumon perform the following steps at each level.
+
+- **Level 2+,** Increase the BushiAgumon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The BushiAgumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+![BushiAgumon](https://wikimon.net/images/8/83/BushiAgumon.jpg) {position:absolute,bottom:230px,left:410px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:190px,left:80px,margin-bottom:-30px
+##### BushiAgumon
+[Link](https://wikimon.net/images/6/6f/Agumonblack_Newcentury.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
 \page
 
 {{monster,frame
@@ -16390,7 +16596,7 @@ ___
 **Skills** ::      Choose <(N+1)> skills and add mod+prof to them
 **Senses**               :: passive Perception <(10+Wis Mod)>
 ___
-(Pick out <(N+1)> Traits)    
+(Pick out <(Number of Traits)> Traits)    
 ***Trait Name (Unique)*** Trait Description.  
 
 ### Jutsu  
