@@ -818,9 +818,8 @@ DemiDevimon ranges between levels 1-4. To upscale the DemiDevimon perform the fo
 }}
 {{pageNumber,auto}}
 {{footnote  Part I - ROOKIE}}
+
 \page
-
-
 
 {{monster,frame
 ## Gabumon
@@ -828,14 +827,14 @@ DemiDevimon ranges between levels 1-4. To upscale the DemiDevimon perform the fo
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 13 
+**Armor Class** :: 14 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +2
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|14 (+2)|11 (+0)|14 (+2)|13 (+1)|10 (+0)|10 (+0)|
+|14 (+2)|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|
 ___
 **Saving Throws** :: *Str +5*, Dex +1, *Con +5*, Int +2, *Wis +3*, Cha +1 
 **Skills** ::  Athletics +5, Survival +3    
@@ -849,7 +848,6 @@ ___
 ***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
 
 D-Rank (Cost 5): Blue Fire, Flame Bolt    
-:
 ***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
 
 D-Rank (Cost 5): 2-Point Penetrate
@@ -862,16 +860,15 @@ D-Rank (Cost 5): 2-Point Penetrate
 {{monster,frame
 ### Evolves Into
 - ***BlackGarurumon***
-- ***Frigimon***
 - ***Garurumon***
-- ***Numemon***
-- ***Veedramon***
+- ***Lizardmon***
  }}
 {{monster,frame
 ### Alternative Jutsu List
 Gabumon may learn **3 D Rank** jutsu that meet the following requirements:
 - *Ninjutsu with the Fire Release Keyword*
 - *Bukijutsu with the Piercing Weapon Component*   
+- *Bukijutsu with the Slashing Weapon Component* 
  }}
 \column
 ## Gabumon
@@ -882,11 +879,150 @@ Gabumon ranges between levels 1-4. To upscale a Gabumon perform the following st
 - **Level 2+,** Increase the Gabumon's Hit Points by 10 & Chakra Points by 7 for every level.
 - **Level 4.** The Gabumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gabumon](https://i.pinimg.com/564x/9b/26/ba/9b26bac726848aacb2793f8c0fde1b87.jpg) {position:absolute,bottom:px,left:380px,width:420px,mix-blend-mode:multiply}
+![Gabumon](https://wikimon.net/images/b/bc/Gabumon_New_Century.png) {position:absolute,bottom:240px,left:400px,width:410px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:80px,left:100px,margin-bottom:-30px
 ##### Gabumon
 [Link](https://i.pinimg.com/564x/9b/26/ba/9b26bac726848aacb2793f8c0fde1b87.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## BlackGabumon
+*D-Rank, Standard, Small Data, Reptile/Fire, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 14 
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 30ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|12 (+1)|14 (+2)|12 (+1)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +5*, Dex +2, *Con +5*, Int +2, *Wis +3*, Cha +1 
+**Skills** ::  Athletics +5, Intimidation +3    
+**Senses**               :: passive Perception 10
+___
+***Charger I (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone.    
+:
+***Cruel I (Unique)***  Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+
+### Jutsu  
+***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
+
+D-Rank (Cost 5): Flame Bolt    
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
+
+D-Rank (Cost 5): 2-Point Penetrate, 1-Strike Slash
+
+### Attacks
+***Horn Jab*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Piercing damage. 
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***BlackGarurumon***
+- ***Garurumon***
+- ***DarkLizardmon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Gabumon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Piercing Weapon Component*   
+- *Bukijutsu with the Slashing Weapon Component* 
+ }}
+\column
+## BlackGabumon
+BlackGabumon is a Reptile Digimon that is extremely timid and shy. Because it is wearing the fur pelt of BlackGarurumon, who is feared by other Digimon, it fills the role of safeguarding itself as a result of protecting its body. When it is wearing the fur pelt, its personality does a complete 180° shift.  
+## Scaling Enemy
+BlackGabumon ranges between levels 1-4. To upscale a BlackGabumon perform the following steps at each level.
+
+- **Level 2+,** Increase the BlackGabumon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The BlackGabumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![BlackGabumon](https://wikimon.net/images/b/b0/Gabumonblack_Newcentury.png) {position:absolute,bottom:250px,left:400px,width:410px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:20px,left:100px,margin-bottom:-30px
+##### BlackGabumon
+[Link](https://wikimon.net/images/b/b0/Gabumonblack_Newcentury.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## Psychemon
+*D-Rank, Standard, Small Data, Reptile/Dark, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 14 
+**Hit Points**  :: 10 (d8) 
+**Chakra Points**  :: 10 (d8)  
+**Speed**       :: 30ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|12 (+1)|14 (+2)|10 (+0)|14 (+2)|10 (+0)|
+___
+**Saving Throws** :: Str +2, Dex +2, *Con +5*, Int +1, *Wis +5*, *Cha +3* 
+**Skills** ::  Illusions +5, Survival +5    
+**Senses**               :: passive Perception 12
+___
+***Charger I (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone.    
+:
+***Corrupting Effect I (Unique)*** When this Digimon casts a jutsu that requires a *Intelligence* saving throw, if a creature fails by 7 or more, they gain 1 stack of the *Confused* condition.
+
+### Jutsu  
+***Genjutsu*** +5 to hit, (**Genjutsu save DC 13**)   
+
+D-Rank (Cost 5): Color Spray, Frenzy: Purple   
+***Bukijutsu*** +4 to hit, (**Bukijutsu save DC 12**)
+
+D-Rank (Cost 5): 2-Point Penetrate
+### Attacks
+***Horn Jab*** *Melee Weapon Attack* +4 to hit, reach 5ft., one target. *Hit.* 1d8+1 Piercing damage. 
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Bakemon***
+- ***Gururumon***
+- ***MoriShellmon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Psychemon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Any Genjutsu*
+- *Bukijutsu with the Piercing Weapon Component*   
+- *Bukijutsu with the Slashing Weapon Component* 
+ }}
+\column
+## Psychemon
+A Digimon characterized by its perturbing, flashy colors. It is said to be a variant of Gabumon. Although it has a personality that is as bright and showy as the colors on its body, it apparently turns cowardly when its fur pelt is removed, just like Gabumon.  
+## Scaling Enemy
+Psychemon ranges between levels 1-4. To upscale a Psychemon perform the following steps at each level.
+
+- **Level 2+,** Increase the Psychemon's Hit Points by 10 & Chakra Points by 7 for every level.
+- **Level 4.** The Psychemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Psychemon](https://wikimon.net/images/thumb/7/7a/Psychemonxwhunters.png/510px-Psychemonxwhunters.png) {position:absolute,bottom:140px,left:400px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:200px,left:240px,margin-bottom:-30px
+##### Psychemon
+[Link](https://wikimon.net/images/5/5f/Pyschemon3.jpg)
 }}
 
 {{pageNumber,auto}}
