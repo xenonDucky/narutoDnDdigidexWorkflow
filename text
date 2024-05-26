@@ -3416,7 +3416,7 @@ Soulmon ranges between levels 5-8. To upscale a Soulmon perform the following st
 \page
 {{monster,frame
 ## Birdramon
-*C-Rank, Standard, Huge Vaccine, Bird/Fire, Prof +4*
+*C-Rank, Standard, Large Vaccine, Bird/Fire, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -3452,7 +3452,6 @@ C-Rank (Cost 9): Fire Dragon Bullet, Great Breakthrough
 **Fiery Slam** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 2d12+4 Fire damage.
 
  }}
-:
 
 {{monster,frame
 ### Evolves From
@@ -3493,22 +3492,103 @@ Birdramon ranges between levels 5-8. To upscale a Birdramon perform the followin
 
 \page
 {{monster,frame
+## Saberdramon
+*C-Rank, Standard, Large Virus, Bird/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|16 (+3)|16 (+3)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: Str +2, *Dex +7*, Con +5, *Int +7*, *Wis +5*, Cha +2
+**Skills** ::  Acrobatics +7, Perception +5, Ninshou +7       
+**Senses**               :: passive Perception 15
+___
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+:
+***Dangerous Armor I (Unique)*** Any creature that damages this Digimon with melee attacks takes this creature’s Proficiency bonus in *Fire* Damage.
+:
+***Phoenix Feathers II (Unique)*** If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 10% of its HP. This feature can only activated once per rest.
+
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Phoenix Fire
+
+C-Rank (Cost 9): Fire Dragon Bullet   
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): FS: Cross Cut, FS: Straight Line
+
+C-Rank (Cost 9): FS: Penetrate
+
+### Attacks     
+**Fiery Slam** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 2d12+4 Fire damage.
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***SoundBirdmon***
+- ***Biyomon***
+### Evolves Into
+- ***Garudamon***
+- ***Gigadramon***
+- ***HippoGryphonmon***
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Saberdramon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Ninjutsu with the Wind Release Keyword.*
+  }}
+  
+\column
+## Saberdramon
+A Giant Bird Digimon shrouded in black flames. Its appearance bares a striking resemblance to the phoenix of myth. Due to the roughness of its temperament, for which it continues counterattacks against enemies to a ferocious degree, it's difficult to even approach it.
+
+## Scaling Enemy
+Saberdramon ranges between levels 5-8. To upscale a Saberdramon perform the following steps at each level.
+
+- **Level 6+,** Increase the Saberdramon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The Saberdramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Saberdramon](https://wikimon.net/images/5/59/Sabirdramon.jpg) {position:absolute,bottom:190px,left:350px,width:540px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:400px,left:260px,margin-bottom:-30px
+##### Saberdramon
+[Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+{{monster,frame
 ## Boogiemon
 *C-Rank, Standard, Medium Virus, Devil/Fire, Prof +4*
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 
-**Hit Points**  :: 45 (d8) 
-**Chakra Points**  :: 39 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +5
+**Armor Class** :: 17 
+**Hit Points**  :: 50 (d8) 
+**Chakra Points**  :: 44 (d10)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|16 (+3)|12 (+1)|14 (+2)|10 (+0)|12 (+1)|
+|16 (+3)|14 (+2)|14 (+2)|14 (+2)|10 (+0)|12 (+1)|
 ___
-**Saving Throws** :: *Str +7*, *Dex +7*, Con +3, Int +4, Wis +3, *Cha +5*
-**Skills** ::  Athletics +7, Stealth +7, Perception +4   
+**Saving Throws** :: *Str +7*, *Dex +6*, Con +4, Int +4, Wis +2, *Cha +5*
+**Skills** ::  Athletics +7, Stealth +6, Perception +4   
 **Senses**               :: passive Perception 14
 ___
 ***Stealth Expert II (Unique)*** If this creature is hidden, their first attack per round does not reveal their position. Additionally, they can use their bonus action to take the Hide action.
@@ -3531,7 +3611,7 @@ C-Rank (Cost 9): BOF: Undulation, Crescent Moon Penetration
 
 ### Attacks
 ***Multiattack*** This creature can make two *Slash* attacks.      
-**Trident** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Piercing damage.
+**Trident** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Piercing damage.
 
  }}
 
@@ -3561,7 +3641,7 @@ Numerous tattoos containing evil incantations are carved onto its body, and it i
 ## Scaling Enemy
 Boogiemon ranges between levels 5-8. To upscale a Boogiemon perform the following steps at each level.
 
-- **Level 6+,** Increase the Boogiemon's Hit Points by 9 & Chakra Points by 7 for every level.
+- **Level 6+,** Increase the Boogiemon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Boogiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Boogiemon](https://d.furaffinity.net/art/proxae/1487379005/1487379005.proxae_oogie_boogie_by_proxae-dawn51a.png) {position:absolute,bottom:70px,left:370px,width:500px,mix-blend-mode:multiply}
