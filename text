@@ -2847,14 +2847,14 @@ ___
 **Armor Class** :: 18 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +2
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|10 (+0)|16 (+3)|16 (+3)|16 (+3)|12 (+1)|
+|10 (+0)|12 (+1)|16 (+3)|16 (+3)|16 (+3)|10 (+0)|
 ___
-**Saving Throws** :: Str +2, Dex +2, Con +5, *Int +7*, *Wis +7*, *Cha +5*
-**Skills** ::  Chakra Control +7, Medicine +7, Persuasion +5   
+**Saving Throws** :: Str +2, Dex +3, Con +5, *Int +7*, *Wis +7*, *Cha +4*
+**Skills** ::  Chakra Control +7, History +7, Insight +7   
 **Senses**               :: passive Perception 13
 ___
 ***Alternative Defence (Unique)*** This creature uses its Wisdom Modifier for AC calculations instead of Dexterity.
@@ -2864,20 +2864,26 @@ ___
 ***Reassuring Presence II (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 
 ### Jutsu  
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 15**) 
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
 
-D-Rank (Cost 5): Healing Hands, Air Bullet, Lightning Ball                                     
+D-Rank (Cost 5): Chakra Bolt                                     
 
-C-Rank (Cost 9): Lightning Fang, Vacuum Shield
+C-Rank (Cost 9): Rasengan  
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**) 
 
+D-Rank (Cost 5): Compelled Duel                                 
 
+C-Rank (Cost 9): Battle Sense  
+***Bukijutsu*** +6 to hit, (**Bukijutsu save DC 13**) 
+
+D-Rank (Cost 5): Monkey Kings Fang                                 
 ### Attacks
 ***Multiattack*** This creature can make two *Angel Rod* attacks.    
-**Angel Rod** *Melee Weapon Attack* +5 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
+**Angel Rod** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
 
 
  }}
-:
+
 {{monster,frame
 ### Evolves From
 - ***Patamon*** 
@@ -2890,10 +2896,10 @@ C-Rank (Cost 9): Lightning Fang, Vacuum Shield
 {{monster,frame
 ### Alternative Jutsu List
 Angemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Wind Release Keyword.*
-- *Ninjutsu with the Lightning Release Keyword.*
-- *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.* 
-  }}
+- *Ninjutsu that deals force damage*
+- *Genjutsu that doesn't deal damage*
+- *Bukijutsu that requires a Bludgeoning Weapon component*
+}}
   
 
 
@@ -2913,6 +2919,86 @@ Angemon ranges between levels 5-8. To upscale a Angemon perform the following st
 {{artist,position:relative,top:430px,left:190px,margin-bottom:-30px
 ##### Angemon
 [Link](https://i.pinimg.com/564x/db/2f/e2/db2fe227d4206bbece4f11d445f21758.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Pidmon
+*C-Rank, Standard, Medium Vaccine, Angel/Fire, Prof +4*
+
+**Armor Class** :: 18 
+**Hit Points**  :: 55 (d8) 
+**Chakra Points**  :: 49 (d10)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|16 (+3)|16 (+3)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: Str +2, Dex +5, Con +5, *Int +7*, *Wis +5*, *Cha +4*
+**Skills** ::  Chakra Control +7, History +7, Insight +7   
+**Senses**               :: passive Perception 11
+___
+***Potential II (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +2 to all attack rolls.
+:
+***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
+:
+***Reassuring Presence I (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear* condition.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Pheonix Fire                                     
+
+C-Rank (Cost 9): Heavenly Prison   
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): BOF: Unknowing, Dragon Fly Dash   
+
+C-Rank (Cost 9): Monkey Kings Arrogance  
+### Attacks
+***Multiattack*** This creature can make two *Angel Rod* attacks.    
+**Angel Rod** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
+}}
+
+{{monster,frame
+### Evolves From
+- ***Patamon*** 
+### Evolves Into
+- ***HippoGryphonmon***
+- ***MagnaAngemon***
+- ***SaviorHuckmon***
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Pidmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword damage*
+- *Bukijutsu that requires a Bludgeoning Weapon component*damage.* 
+  }}
+  
+
+
+\column
+## Pidmon
+An Angel Digimon with two wings, whose body is clad in shining white cloth. Although it is a being of perfected virtue like Angemon, its rank is below Angemon's. However, its power is on par with Angemon, and it is a being that destroys evil, wielding its Holy Rod. 
+
+## Scaling Enemy
+Pidmon ranges between levels 5-8. To upscale a Pidmon perform the following steps at each level.
+
+- **Level 6+,** Increase the Pidmon's Hit Points by 11 & Chakra Points by 8 for every level.
+- **Level 7.** The Pidmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+
+![Pidmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0da18a8c-a7fa-43a7-99c0-12018a85ef9e/dbyul03-ec3b2b76-faad-4e9d-a793-975fa517e394.jpg/v1/fill/w_835,h_957,q_70,strp/piddomon_by_ayhelenk_dbyul03-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkYTE4YThjLWE3ZmEtNDNhNy05OWMwLTEyMDE4YTg1ZWY5ZVwvZGJ5dWwwMy1lYzNiMmI3Ni1mYWFkLTRlOWQtYTc5My05NzVmYTUxN2UzOTQuanBnIiwiaGVpZ2h0IjoiPD0xMDMxIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8wZGExOGE4Yy1hN2ZhLTQzYTctOTljMC0xMjAxOGE4NWVmOWVcL2F5aGVsZW5rLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.AGCghXFZPdiafECNaAsB209jb_NJkq1ZSi3YSrdnmak) {position:absolute,bottom:40px,left:360px,width:550px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:330px,left:90px,margin-bottom:-30px
+##### Pidmon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0da18a8c-a7fa-43a7-99c0-12018a85ef9e/dbyul03-ec3b2b76-faad-4e9d-a793-975fa517e394.jpg/v1/fill/w_835,h_957,q_70,strp/piddomon_by_ayhelenk_dbyul03-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzBkYTE4YThjLWE3ZmEtNDNhNy05OWMwLTEyMDE4YTg1ZWY5ZVwvZGJ5dWwwMy1lYzNiMmI3Ni1mYWFkLTRlOWQtYTc5My05NzVmYTUxN2UzOTQuanBnIiwiaGVpZ2h0IjoiPD0xMDMxIiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC8wZGExOGE4Yy1hN2ZhLTQzYTctOTljMC0xMjAxOGE4NWVmOWVcL2F5aGVsZW5rLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.AGCghXFZPdiafECNaAsB209jb_NJkq1ZSi3YSrdnmak)
 }}
 
 {{pageNumber,auto}}
@@ -3825,15 +3911,15 @@ ___
 **Armor Class** :: 18 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +2
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|10 (+0)|16 (+3)|16 (+3)|12 (+1)|16 (+3)|
+|10 (+0)|12 (+1)|16 (+3)|16 (+3)|10 (+0)|16 (+3)|
 ___
-**Saving Throws** :: Str +2, Dex +2,*Con +7*, *Int +7*, Wis +3, *Cha +7*
+**Saving Throws** :: Str +2, Dex +3,*Con +7*, *Int +7*, Wis +2, *Cha +7*
 **Skills** ::  Chakra Control +7, Intimidation +7, Deception +7  
-**Senses**               :: passive Perception 11
+**Senses**               :: passive Perception 10
 ___
 ***Alternative Defence I (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity.
 :
@@ -3855,7 +3941,7 @@ C-Rank (Cost 9): Corruption: Cruelty
 
 ### Attacks
 ***Multiattack*** This creature can make two *Dark Claw* attacks.      
-**Dark Claw** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
+**Dark Claw** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+2 Necrotic damage.
 }}
 
 {{monster,frame
@@ -3906,15 +3992,15 @@ ___
 **Armor Class** :: 18 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +2
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|10 (+0)|16 (+3)|16 (+3)|12 (+1)|16 (+3)|
+|10 (+0)|12 (+1)|16 (+3)|16 (+3)|10 (+0)|16 (+3)|
 ___
-**Saving Throws** :: Str +2, Dex +2,*Con +7*, *Int +7*, Wis +3, *Cha +7*
+**Saving Throws** :: Str +2, Dex +3,*Con +7*, *Int +7*, Wis +2, *Cha +7*
 **Skills** ::  Chakra Control +7, Intimidation +7, Deception +7  
-**Senses**               :: passive Perception 11
+**Senses**               :: passive Perception 10
 ___
 ***Alternative Defence I (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity.
 :
@@ -3936,7 +4022,7 @@ C-Rank (Cost 9): Corruption: Baleful Inceptions
 
 ### Attacks
 ***Multiattack*** This creature can make two *Dark Claw* attacks.      
-**Dark Claw** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+4 Necrotic damage.
+**Dark Claw** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+2 Necrotic damage.
 }}
 
 {{monster,frame
