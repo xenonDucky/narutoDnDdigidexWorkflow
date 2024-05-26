@@ -492,7 +492,7 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
 
-D-Rank (Cost 5): Water Claws, Sharks Maw    
+D-Rank (Cost 5): Water Claws, Water Blending    
 :
 ***Bukijutsu*** +4 to hit, (**Bukijutsu save DC 12**)
 
@@ -1170,7 +1170,7 @@ Ghostmon ranges between levels 1-4. To upscale a Ghostmon perform the following 
 
 {{monster,frame
 ## Goblimon
-*D-Rank, Standard, Small Virus, Beast/Earth, Prof +3*
+*D-Rank, Standard, Small Virus, Goblin/Earth, Prof +3*
 
 **Level:** 1 (10XP)
 ___
@@ -1181,11 +1181,11 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|16 (+3)|8 (-1) |10 (+0)|8 (-1)|
+|16 (+3)|14 (+2)|16 (+3)|10 (+0)|8 (-1) |8 (-1) |
 ___
-**Saving Throws** :: *Str +6*, *Dex +5*, Con +4, Int +0, *Wis +3*, Cha +0
-**Skills** ::  Athletics +6, Martial Arts +6         
-**Senses**               :: passive Perception 10
+**Saving Throws** :: *Str +6*, *Dex +5*, *Con +6*, Int +1, Wis +0, Cha +0
+**Skills** ::  Athletics +6, Stealth +5         
+**Senses**               :: passive Perception 9
 ___
 ***Haymaker I (Unique)*** This Digimon gains a +1 to their Critical Threat Range on all weapon attack rolls.  
 :
@@ -1193,24 +1193,22 @@ ___
 
 ### Jutsu  
 
-***Ninjutsu*** +2 to hit, (**Ninjutsu save DC 10**)   
+***Ninjutsu*** +3 to hit, (**Ninjutsu save DC 11**)   
 
-D-Rank (Cost 5): Fireball
-:
+D-Rank (Cost 5): Fireball  
 ***Bukijutsu*** +6 to hit, (**Bukijutsu save DC 14**)
 
-D-Rank (Cost 5): 2-Cross Strike, BOB: Fang
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
 ### Attacks
 ***Club*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage. 
 
  }}
 {{monster,frame
 ### Evolves Into
-- ***Bakemon***
-- ***Coredramon (Green)***
 - ***Ogremon***
-- ***Nanimon***
-- ***Tyrannomon***
+- ***Coredramon (Green)***
+- ***Hyugamon***
+- ***Fugamon***
  }}
 {{monster,frame
 ### Alternative Jutsu List
@@ -1231,6 +1229,141 @@ Goblimon ranges between levels 1-4. To upscale a Goblimon perform the following 
 {{artist,position:relative,top:60px,left:90px,margin-bottom:-30px
 ##### Goblimon
 [Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pdee-b438d94d-afe4-4951-bab8-abb3a97cbf0a.png/v1/fill/w_563,h_705/goburimon_new_century_by_doruflaymdragon_df2pdee-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA1IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZGVlLWI0MzhkOTRkLWFmZTQtNDk1MS1iYWI4LWFiYjNhOTdjYmYwYS5wbmciLCJ3aWR0aCI6Ijw9NTYzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.AVbRYRxiC68vAzOpdFSOQrt0C2W-PXSzB_anmwGopDE)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## SnowGoblimon
+*D-Rank, Standard, Small Virus, Goblin/Water, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 13 (d10) 
+**Chakra Points**  :: 9 (d6)  
+**Speed**       :: 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|16 (+3)|10 (+0)|8 (-1) |8 (-1) |
+___
+**Saving Throws** :: *Str +6*, *Dex +5*, *Con +6*, Int +1, Wis +0, Cha +0
+**Skills** ::  Athletics +6, Stealth +5         
+**Senses**               :: passive Perception 9
+___
+***Haymaker I (Unique)*** This Digimon gains a +1 to their Critical Threat Range on all weapon attack rolls.  
+:
+***Cunning Action I (Unique)*** This Digimon may use their bonus action to take the Disengage action.
+
+### Jutsu  
+
+***Ninjutsu*** +3 to hit, (**Ninjutsu save DC 11**)   
+
+D-Rank (Cost 5): Piranha Swarm  
+***Bukijutsu*** +6 to hit, (**Bukijutsu save DC 14**)
+
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+### Attacks
+***Club*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage. 
+
+ }}
+{{monster,frame
+### Evolves Into
+- ***Hyougamon***
+- ***Ogremon***
+- ***Coredramon (Blue)***
+- ***IceDevimon***
+- ***Mojiyamon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+SnowGoblimon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Water Release Keyword*
+- *Bukijutsu with the Bludgeoning Weapon Component.*   
+ }}
+\column
+## SnowGoblimon
+A Goburimon that was brought up in a cold country of snow. Since it wears a warm hat and vest, the cold doesn't bother it in the slightest. The skin on the soles of its feet has thickened enough for it to walk barefooted on snow.
+## Scaling Enemy
+SnowGoblimon ranges between levels 1-4. To upscale a SnowGoblimon perform the following steps at each level.
+- **Level 2+,** Increase the SnowGoblimon's Hit Points by 13 & Chakra Points by 7 for every level.
+- **Level 4.** The SnowGoblimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![SnowGoblimon](https://wikimon.net/images/2/2b/Snowgoburimon.jpg) {position:absolute,bottom:240px,left:390px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:160px,left:290px,margin-bottom:-30px
+##### SnowGoblimon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pdee-b438d94d-afe4-4951-bab8-abb3a97cbf0a.png/v1/fill/w_563,h_705/goburimon_new_century_by_doruflaymdragon_df2pdee-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzA1IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZGVlLWI0MzhkOTRkLWFmZTQtNDk1MS1iYWI4LWFiYjNhOTdjYmYwYS5wbmciLCJ3aWR0aCI6Ijw9NTYzIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.AVbRYRxiC68vAzOpdFSOQrt0C2W-PXSzB_anmwGopDE)
+}}
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
+
+\page
+
+{{monster,frame
+## Shamamon
+*D-Rank, Standard, Small Virus, Goblin/Earth, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 15 
+**Hit Points**  :: 12 (d10) 
+**Chakra Points**  :: 8 (d6)  
+**Speed**       :: 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|14 (+2)|14 (+2)|8 (-1) |8 (-1) |
+___
+**Saving Throws** :: *Str +5*, *Dex +5*, Con +3, *Int +5*, Wis +0, Cha +0
+**Skills** ::  Athletics +5, Chakra Control +5         
+**Senses**               :: passive Perception 9
+___
+***Haymaker I (Unique)*** This Digimon gains a +1 to their Critical Threat Range on all weapon attack rolls.  
+:
+***Cunning Action I (Unique)*** This Digimon may use their bonus action to take the Disengage action.
+
+### Jutsu  
+
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
+
+D-Rank (Cost 5): Fireball  
+***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
+
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+### Attacks
+***Club*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Bludgeoning damage. 
+
+ }}
+{{monster,frame
+### Evolves Into
+- ***Fugamon***
+- ***Coredramon (Green)***
+- ***Ogremon***
+- ***FlameWizarmon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+Shamamon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Bludgeoning Weapon Component.*   
+ }}
+\column
+## Shamamon
+A Goburimon whose duty is to listen to the will of God, and convey that to its clan. It performs a mysterious dance during its rituals, and it is said that once it gets fired up to the maximum, it becomes able to hear the prophecies of God.
+## Scaling Enemy
+Shamamon ranges between levels 1-4. To upscale a Shamamon perform the following steps at each level.
+- **Level 2+,** Increase the Goblimon's Hit Points by 12 & Chakra Points by 6 for every level.
+- **Level 4.** The Goblimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Shamamon](https://wikimon.net/images/thumb/1/14/ShamamonDMO.png/462px-ShamamonDMO.png) {position:absolute,bottom:180px,left:400px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:180px,left:290px,margin-bottom:-30px
+##### Shamamon
+[Link](https://wikimon.net/images/thumb/1/14/ShamamonDMO.png/462px-ShamamonDMO.png)
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
@@ -4444,7 +4577,7 @@ Drimogemon ranges between levels 5-8. To upscale a Drimogemon perform the follow
 - **Level 6+,** Increase the Drimogemon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Drimogemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Drimogemon](https://i.pinimg.com/564x/11/c8/8e/11c88e7d4530b194b73145d59bffc95b.jpg) {position:absolute,bottom:250px,left:350px,width:480px,mix-blend-mode:multiply}
+![Drimogemon](https://wikimon.net/images/thumb/4/41/Drimogemon.gif/600px-Drimogemon.gif) {position:absolute,bottom:250px,left:390px,width:450px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
 ##### Drimogemon
@@ -5226,7 +5359,7 @@ C-Rank (Cost 9): 10-Count, Scattering Wave
 
 ### Attacks
 ***Multiattack*** This creature can make three *Tentacle* attacks.      
-**Tentacle** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Bludgeoning damage.
+**Tentacle** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
  }}
 
 
@@ -6471,6 +6604,8 @@ Leomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following req
 - *Ninjutsu with the Fire Release Keyword.*
 - *Bukijutsu with the Slashing Weapon Component*
   }}
+  
+\column
 
 ## Leomon
 Often called the 'King of Beasts', Leomon is a ferocious yet noble Digimon. Its strong sense of justice often leads it into combat against evil-doers where it uses its unique Beast Sword to overwhelm its foes. Unfortunately, its nobility often leads to it sacrificing its health for its allies which has had disasterous consequences for its species.
@@ -7182,7 +7317,7 @@ D-Rank (Cost 5): Clawing Swift Fang
 C-Rank (Cost 9): Rakshasa’s Palm
 
 ### Attacks     
-**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 2d12+3 Slashing damage.
+**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 2d12+4 Slashing damage.
 }}
 
 {{monster,frame
