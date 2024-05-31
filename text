@@ -6567,7 +6567,7 @@ ___
 :
 ***Sacrificial Aura I (Unique)*** All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one.
 :
-***Haymaker I (Unique)*** This Digimon gains a +1 to their Critical Threat Range on all weapon and jutsu attack rolls.
+***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 ### Jutsu  
 
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
@@ -6621,6 +6621,92 @@ Leomon ranges between levels 5-8. To upscale a Leomon perform the following step
 
 {{artist,position:relative,top:80px,left:30px,margin-bottom:-30px
 ##### Leomon
+[Link](https://i.pinimg.com/originals/ab/3f/c4/ab3fc4ef3a6999bd742d29f8a2d64ccd.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+
+{{monster,frame
+## MadLeomon
+*C-Rank, Standard, Medium Vaccine, Beast/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 75 (d12) 
+**Chakra Points**  :: 37 (d6)  
+**Speed**       :: 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|16 (+3)|16 (+3)|10 (+0)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +5, Int +2, *Wis +4*, Cha +2
+**Skills** ::  Athletics +8, Acrobatics +7, Martial Arts +8             
+**Senses**               :: passive Perception 10
+___
+***Lone Wolf II (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +4 to all attack and damage rolls.
+:
+***Blood Fury II (Unique)*** When this Digimon below 50% of their maximum HP, they become enraged, gaining 10ft. of movement speed and +3 to all attack rolls but suffering a -2 AC penalty.
+:
+***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
+### Jutsu  
+
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+
+D-Rank (Cost 5): Blazing Hands   
+***Bukijutsu*** +9 to hit, (**Genjutsu save DC 16**) 
+
+D-Rank (Cost 5): 1-Strike Slash,  BOB: Fanh
+
+C-Rank (Cost 9): BOB: Devour, Front Beheading
+
+### Attacks
+***Multiattack*** This creature can make two *Beast Sword* attacks.      
+**Chainsaw** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
+
+
+ }}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Gomamon*** 
+### Evolves Into
+- ***Grademon***
+- ***GrapLeomon***
+- ***Panjyamon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+MadLeomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component*
+  }}
+  
+\column
+
+## MadLeomon
+Often called the 'King of Beasts', Leomon is a ferocious yet noble Digimon. Its strong sense of justice often leads it into combat against evil-doers where it uses its unique Beast Sword to overwhelm its foes. Unfortunately, its nobility often leads to it sacrificing its health for its allies which has had disasterous consequences for its species.
+
+## Scaling Enemy
+MadLeomon ranges between levels 5-8. To upscale a MadLeomon perform the following steps at each level.
+
+- **Level 6+,** Increase the MadLeomon's Hit Points by 15 & Chakra Points by 7 for every level.
+- **Level 7.** The MadLeomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+
+![MadLeomon](https://wikimon.net/images/5/5d/Mad_Leomon_Armed_Mode_DMO.png) {position:absolute,bottom:140px,left:380px,width:500px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:30px,margin-bottom:-30px
+##### MadLeomon
 [Link](https://i.pinimg.com/originals/ab/3f/c4/ab3fc4ef3a6999bd742d29f8a2d64ccd.jpg)
 }}
 
@@ -8277,7 +8363,7 @@ ___
 :
 ***Charger I (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone.
 :
-***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+***Inflicting Weapon II (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the *Bruised* condition.
 
 ### Jutsu  
 ***Taijutsu*** +10 to hit, (**Taijutsu save DC 17**) 
@@ -8354,7 +8440,7 @@ ___
 :
 ***Always Ready II (Unique)*** This Digimon adds its full Proficiency Bonus to their Initiative roll. This Digimon may Digivolve into this evolution from a lower stage as a free action when intiative is rolled.
 :
-***Potential II (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +2 to all attack rolls.
+***Overwhelming Fire II (Unique)*** *Fire* damage from this creature ignores DR and resistances.
 
 ### Jutsu  
 ***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
@@ -8436,7 +8522,7 @@ ___
 ___
 ***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity. 
 :
-***Always Ready II (Unique)*** This Digimon adds its full Proficiency Bonus to their Initiative roll. This Digimon may Digivolve into this evolution from a lower stage as a free action when intiative is rolled.
+***Overwhelming Fire II (Unique)*** *Fire* damage from this creature ignores DR and resistances.
 :
 ***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
 
