@@ -6572,7 +6572,7 @@ ___
 
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
 
-D-Rank (Cost 5): Flame Bolt    
+D-Rank (Cost 5): Blazing Hands   
 ***Bukijutsu*** +9 to hit, (**Genjutsu save DC 16**) 
 
 D-Rank (Cost 5): 1-Strike Slash,  Weapon Deflect
@@ -6581,7 +6581,7 @@ C-Rank (Cost 9): Heaven Cutter, Shockwave Slash
 
 ### Attacks
 ***Multiattack*** This creature can make two *Beast Sword* attacks.      
-**Beast Sword** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d10+5 Slashing damage.
+**Beast Sword** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
 
 
  }}
@@ -7133,11 +7133,11 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|16 (+3)|18 (+4)|8 (-1)|14 (+2)|6 (-2)|
+|18 (+4)|16 (+3)|18 (+4)|10 (+0)|10 (+0)|8 (-1) |
 ___
-**Saving Throws** :: *Str +8*, *Dex +7*, Con +6, Int +1, *Wis +6*, Cha +0
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +6, Int +2, *Wis +4*, Cha +1
 **Skills** ::  Athletics +8, Survival +6, Martial Arts +8     
-**Senses**               :: passive Perception 12
+**Senses**               :: passive Perception 10
 ___
 ***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
 :
@@ -7145,16 +7145,18 @@ ___
 :
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 
-### Jutsu  
+### Jutsu 
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+
+D-Rank (Cost 5): Blazing Hands 
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
-D-Rank (Cost 5): 2-Cross Strike, BOB: Fang, Weapon Deflect
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
 
 C-Rank (Cost 9): BOB: Devour, Earth Breaker
-
 ### Attacks
 ***Multiattack*** This creature can make two *Bone Club* attacks.      
-**Bone Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d10+5 Bludgeoning damage.
+**Bone Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
 
  }}
 
@@ -7162,8 +7164,9 @@ C-Rank (Cost 9): BOB: Devour, Earth Breaker
 {{monster,frame
 
 ### Evolves From
-- ***Palmon***
-- ***Terriermon***
+- ***Goblimon***
+- ***SnowGoblimon***
+- ***Shamamon***
 
 ### Evolves Into
 - ***Arukenimon***
@@ -7175,7 +7178,8 @@ C-Rank (Cost 9): BOB: Devour, Earth Breaker
 {{monster,frame
 ### Alternative Jutsu List
 Ogremon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Bukijutsu with the Bludgeoning Weapon Component.*
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Bludgeoning Weapon Component*
   }}
 \column
 ## Ogremon
@@ -7191,6 +7195,167 @@ Ogremon ranges between levels 5-8. To upscale a Ogremon perform the following st
 {{artist,position:relative,top:50px,left:260px,margin-bottom:-30px
 ##### Ogremon
 [Link](https://i.pinimg.com/564x/5e/d9/6a/5ed96a90e48d3017da7cba18fb680c5c.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Hyougamon
+*C-Rank, Standard, Medium Virus, Beast/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 80 (d12) 
+**Chakra Points**  :: 42 (d6)  
+**Speed**       :: 35ft. **Initiative** +7
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|16 (+3)|18 (+4)|10 (+0)|10 (+0)|8 (-1) |
+___
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +6, Int +2, *Wis +4*, Cha +1
+**Skills** ::  Athletics +8, Survival +6, Martial Arts +8     
+**Senses**               :: passive Perception 10
+___
+***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
+:
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+:
+***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+
+D-Rank (Cost 5): Water Palm Blade  
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+
+C-Rank (Cost 9): BOW: Wheel, Earth Breaker
+### Attacks
+***Multiattack*** This creature can make two *Bone Club* attacks.      
+**Ice Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
+
+ }}
+
+
+{{monster,frame
+
+### Evolves From
+- ***SnowGoblimon***
+- ***Goblimon***
+
+### Evolves Into
+- ***Arukenimon***
+- ***Digitamamon***
+- ***Etemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Hyougamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword*
+- *Bukijutsu with the Bludgeoning Weapon Component*
+  }}
+\column
+## Hyougamon
+A species of Orgemon that inhabits cold places. It is very territorial, and will attack in rage the moment anyone takes even a step into its territory. 
+## Scaling Enemy
+Hyougamon ranges between levels 5-8. To upscale a Ogremon perform the following steps at each level.
+
+- **Level 6+,** Increase the Hyougamon's Hit Points by 16 & Chakra Points by 8 for every level.
+- **Level 7.** The Hyougamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Hyougamon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a8bdb58-77a6-4e26-8199-69eceb7a288e/debmyvq-6687921d-e6fc-4c27-928c-368f72b829e7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhOGJkYjU4LTc3YTYtNGUyNi04MTk5LTY5ZWNlYjdhMjg4ZVwvZGVibXl2cS02Njg3OTIxZC1lNmZjLTRjMjctOTI4Yy0zNjhmNzJiODI5ZTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.86NkdLfO6Y1tn1b-07I5KzikpV2o1YASlzCFhvRPaKg) {position:absolute,bottom:130px,left:370px,width:460px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:210px,left:295px,margin-bottom:-30px
+##### Hyougamon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4a8bdb58-77a6-4e26-8199-69eceb7a288e/debmyvq-6687921d-e6fc-4c27-928c-368f72b829e7.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRhOGJkYjU4LTc3YTYtNGUyNi04MTk5LTY5ZWNlYjdhMjg4ZVwvZGVibXl2cS02Njg3OTIxZC1lNmZjLTRjMjctOTI4Yy0zNjhmNzJiODI5ZTcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.86NkdLfO6Y1tn1b-07I5KzikpV2o1YASlzCFhvRPaKg)
+}}
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Fugamon
+*C-Rank, Standard, Medium Virus, Beast/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 80 (d12) 
+**Chakra Points**  :: 42 (d6)  
+**Speed**       :: 35ft. **Initiative** +7
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|16 (+3)|18 (+4)|10 (+0)|10 (+0)|8 (-1) |
+___
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +6, Int +2, *Wis +4*, Cha +1
+**Skills** ::  Athletics +8, Survival +6, Martial Arts +8     
+**Senses**               :: passive Perception 10
+___
+***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
+:
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+:
+***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
+
+### Jutsu  
+***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+
+D-Rank (Cost 5): Lightning Ball  
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+
+C-Rank (Cost 9): BOW: Claws, Earth Breaker
+### Attacks
+***Multiattack*** This creature can make two *Bone Club* attacks.      
+**Bone Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
+
+ }}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Shamamon***
+- ***Goblimon***
+
+### Evolves Into
+- ***Arukenimon***
+- ***Digitamamon***
+- ***Etemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Fugamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Lightning Release Keyword*
+- *Bukijutsu with the Bludgeoning Weapon Component*
+  }}
+\column
+## Fugamon
+A Digimon whose form resembles that of the Oni from Eastern legends. It belongs to the same family as Orgemon, sporting the same violent, battle-loving personality. The attacks dealt using its well-developed muscles pack extraordinary power, and bring about absolute destruction.
+## Scaling Enemy
+Fugamon ranges between levels 5-8. To upscale a Fugamon perform the following steps at each level.
+
+- **Level 6+,** Increase the Fugamon's Hit Points by 16 & Chakra Points by 8 for every level.
+- **Level 7.** The Fugamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Fugamon](https://wikimon.net/images/3/35/Fugamon_New_Century.png) {position:absolute,bottom:50px,left:410px,width:400px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:50px,left:260px,margin-bottom:-30px
+##### Fugamon
+[Link](https://wikimon.net/images/3/35/Fugamon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
