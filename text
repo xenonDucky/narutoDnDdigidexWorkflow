@@ -8844,6 +8844,172 @@ Veedramon ranges between levels 5-8. To upscale a Veedramon perform the followin
 
 {{monster,frame
 ## Vegiemon
+*C-Rank, Standard, Small Virus, Plant/Grass, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 50 (d10) 
+**Chakra Points**  :: 28 (d8)  
+**Speed**       :: 30ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|10 (+0)|16 (+3)|12 (+1)|16 (+3)|
+___ 
+**Saving Throws** :: Str +2, *Dex +7*, Con +4, *Int +7*, Wis +3, *Cha +7*
+**Skills** ::  Sleight of Hand +7, Deception +7, Nature +7          
+**Senses**               :: passive Perception 11
+___
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. 
+:
+***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
+:
+***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+C-Rank (Cost 9): Stinking Cloud, Spore Caller  
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**)
+
+D-Rank (Cost 5): Lotus: Reviled Petals  
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**)
+
+D-Rank (Cost 5): Dancin Fools Whip, Toads Whipping Tounge
+### Attacks
+***Multiattack*** This creature can make two *Lash* attacks.      
+**Lash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d6+4 Bludgeoning damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Palmon***
+
+### Evolves Into
+- ***Blossomon***
+- ***Digitamamon***
+- ***Vademon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Vegiemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Jutsu that deals Poison damage*
+- *Genjutsu with the Inhale keyword*
+- *Bukijutsu with the Whip Weapon*
+  }}
+  
+\column
+
+## Vegiemon
+A Plant Digimon that, unlike other Digimon of a similar type, is carnivorous. It is a fierce and brutal Digimon that uses its vines to strike and grapple its foes. It can produce a range of scents that can either attract or repel other creatures. 
+## Scaling Enemy
+Vegiemon ranges between levels 5-8. To upscale a Vegiemon perform the following steps at each level.
+
+- **Level 6+,** Increase the Vegiemon's Hit Points by 10 & Chakra Points by 5 for every level.
+- **Level 7.** The Vegiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Vegiemon](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg) {position:absolute,bottom:70px,left:360px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+##### Vegiemon
+[Link](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Weedmon
+*C-Rank, Standard, Small Virus, Plant/Grass, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 50 (d10) 
+**Chakra Points**  :: 28 (d8)  
+**Speed**       :: 30ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|10 (+0)|16 (+3)|12 (+1)|16 (+3)|
+___ 
+**Saving Throws** :: Str +2, *Dex +7*, Con +4, *Int +7*, Wis +3, *Cha +7*
+**Skills** ::  Stealth +7, Deception +7, Nature +7           
+**Senses**               :: passive Perception 11
+___
+***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. 
+:
+***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
+:
+***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+C-Rank (Cost 9): Stinking Cloud, Spore Caller  
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**)
+
+D-Rank (Cost 5): Lotus: Calming Petals, Lotus: Gloomy Petals  
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**)
+
+D-Rank (Cost 5): Dancin Fools Whip
+### Attacks
+***Multiattack*** This creature can make two *Lash* attacks.      
+**Lash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d6+4 Bludgeoning damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Palmon***
+
+### Evolves Into
+- ***Blossomon***
+- ***Digitamamon***
+- ***Vademon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Weedmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Jutsu that deals Poison damage*
+- *Genjutsu with the Inhale keyword*
+- *Bukijutsu with the Whip Weapon*
+  }}
+  
+\column
+
+## Weedmon
+A subspecies of the Vegimon species whose body is completely green. Unlike Vegimon, it does not ripen and turn red; in turn, it has obtained the vitality of a weed, allowing it to survive no matter how many times it is cut or beaten.
+## Scaling Enemy
+Weedmon ranges between levels 5-8. To upscale a Weedmon perform the following steps at each level.
+
+- **Level 6+,** Increase the Weedmon's Hit Points by 10 & Chakra Points by 5 for every level.
+- **Level 7.** The Weedmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Weedmon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk11vf-612e5a7f-1b1e-4d7f-9c6a-45cafa1bb05c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMTF2Zi02MTJlNWE3Zi0xYjFlLTRkN2YtOWM2YS00NWNhZmExYmIwNWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OJGivwZ46p_pFxD6Tpl_I-Sg1gqbPKwCWk9v0o6hd-8) {position:absolute,bottom:170px,left:400px,width:410px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+##### Weedmon
+[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c8b4e64d-377b-4606-bea7-1b65493e0f9a/dfk11vf-612e5a7f-1b1e-4d7f-9c6a-45cafa1bb05c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4YjRlNjRkLTM3N2ItNDYwNi1iZWE3LTFiNjU0OTNlMGY5YVwvZGZrMTF2Zi02MTJlNWE3Zi0xYjFlLTRkN2YtOWM2YS00NWNhZmExYmIwNWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OJGivwZ46p_pFxD6Tpl_I-Sg1gqbPKwCWk9v0o6hd-8)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## RedVegiemon
 *C-Rank, Standard, Medium Virus, Plant/Grass, Prof +4*
 
 **Level:** 5 (10XP)
@@ -8855,13 +9021,13 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|6 (-2)|
+|16 (+3)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|6 (-2) |
 ___ 
 **Saving Throws** :: Str +5, *Dex +7*, *Con +8*, *Int +5*, Wis +3, Cha +0
-**Skills** ::  Athletics +7, Survival +5, Nature +5          
+**Skills** ::  Athletics +7, Martial Arts +7, Nature +5          
 **Senses**               :: passive Perception 11
 ___
-***Rooted II (Unique)*** This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. 
+***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
 :
 ***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
 :
@@ -8870,18 +9036,18 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**) 
 
-D-Rank (Cost 5): Poison Stinger
+C-Rank (Cost 9): Stinking Cloud     
+***Taijutsu*** +8 to hit, (**Taijutsu save DC 15**)
 
-C-Rank (Cost 9): Stinking Cloud      
+D-Rank (Cost 5): Hammer
+
+C-Rank (Cost 9): Break Spiral  
 ***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**)
 
-D-Rank (Cost 5): 1-Strike Slash, BOR: Plum
-
-C-Rank (Cost 9): BOR: Hanagoromo
-
+D-Rank (Cost 5): Chain Pull, Chained Embrace
 ### Attacks
 ***Multiattack*** This creature can make two *Lash* attacks.      
-**Lash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d6+4 Slashing damage. 
+**Lash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage. 
 
 On hit, apply the *Grappled* condition. This creature can only *Grapple* one creature at a time through this effect.
 
@@ -8901,24 +9067,27 @@ On hit, apply the *Grappled* condition. This creature can only *Grapple* one cre
  
 {{monster,frame
 ### Alternative Jutsu List
-Vegiemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Jutsu that deals Poison damage.*
-- *Bukijutsu with the Slashing Weapon Component.*
-  }}
+RedVegiemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Jutsu that deals Poison damage*
+- *Bukijutsu with the Bludgeoning Weapon Component*
+- *Any Taijutsu*
 
-## Vegiemon
-A Plant Digimon that, unlike other Digimon of a similar type, is carnivorous. It is a fierce and brutal Digimon that uses its vines to strike and grapple its foes. It can produce a range of scents that can either attract or repel other creatures. 
+}}
+  
+
+## RedVegiemon
+This red, ripened form is Vegimon's true form, and it is possible that the harsher environments found on the Folder Continent caused Vegimon to take on this original form. Its personality has turned even more devious and cunning. 
 ## Scaling Enemy
-Vegiemon ranges between levels 5-8. To upscale a Vegiemon perform the following steps at each level.
+RedVegiemon ranges between levels 5-8. To upscale a RedVegiemon perform the following steps at each level.
 
-- **Level 6+,** Increase the Vegiemon's Hit Points by 16 & Chakra Points by 8 for every level.
-- **Level 7.** The Vegiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 6+,** Increase the RedVegiemon's Hit Points by 16 & Chakra Points by 8 for every level.
+- **Level 7.** The RedVegiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Vegiemon](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg) {position:absolute,bottom:70px,left:360px,width:450px,mix-blend-mode:multiply}
+![RedVegiemon](https://wikimon.net/images/9/95/RedVegimon_New_Century.png) {position:absolute,bottom:40px,left:420px,width:380px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
-##### Vegiemon
-[Link](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg)
+{{artist,position:relative,top:250px,left:30px,margin-bottom:-30px
+##### RedVegiemon
+[Link](https://wikimon.net/images/9/95/RedVegimon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
