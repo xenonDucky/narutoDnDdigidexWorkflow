@@ -8403,10 +8403,94 @@ Tyrannomon ranges between levels 5-8. To upscale a Tyrannomon perform the follow
 - **Level 6+,** Increase the Tyrannomon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Tyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Tyrannomon](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg) {position:absolute,bottom:60px,left:300px,width:600px,mix-blend-mode:multiply}
+![Tyrannomon](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg) {position:absolute,bottom:160px,left:310px,width:600px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:250px,margin-bottom:-30px
 ##### Tyrannomon
+[Link](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## DarkTyrannomon
+*C-Rank, Standard, Large Virus, Reptile/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
+**Speed**       :: 35ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|10 (+0)|16 (+3)|14 (+2)|12 (+1)|12 (+1)|
+___
+**Saving Throws** :: *Str +7*, Dex +2, *Con +7*, Int +4, *Wis +5*, Cha +3
+**Skills** ::  Perception +5, Athletics +7, Ninshou +6           
+**Senses**               :: passive Perception 15
+___
+***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity. 
+:
+***Always Ready II (Unique)*** This Digimon adds its full Proficiency Bonus to their Initiative roll. This Digimon may Digivolve into this evolution from a lower stage as a free action when intiative is rolled.
+:
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+
+### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
+
+D-Rank (Cost 5): Fireball
+
+C-Rank (Cost 9): Fire Dragon Bullet           
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): 1-Strike Slash, Crippling Strike
+
+C-Rank (Cost 9): Heaven Cutter
+
+### Attacks
+**Slash** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 2d12+4 Slashing damage.
+}}
+
+{{monster,frame
+
+### Evolves From
+- ***Agumon***
+- ***Guilmon***
+
+ 
+### Evolves Into
+- ***Megadramon***
+- ***MetalTyrannomon***
+- ***Triceramon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+DarkTyrannomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component* 
+  }}
+  
+\column
+  
+## DarkTyrannomon
+A Dinosaur Digimon whose body was corroded by a vicious computer virus. Although it was originally a Tyranomon-species Digimon, it was infected by a vicious computer virus, causing a bug in its flesh's configuration data and transforming it into a frenzied Digimon. 
+## Scaling Enemy
+DarkTyrannomon ranges between levels 5-8. To upscale a DarkTyrannomon perform the following steps at each level.
+
+- **Level 6+,** Increase the DarkTyrannomon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The DarkTyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![DarkTyrannomon](https://wikimon.net/images/3/3a/Dark_Tyranomon_New_Century.png) {position:absolute,bottom:160px,left:400px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:40px,left:250px,margin-bottom:-30px
+##### DarkTyrannomon
 [Link](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg)
 }}
 
@@ -8436,7 +8520,7 @@ ___
 ___
 ***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls. 
 :
-***Charger I (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone.
+***Charger II (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. Additionally, this creature cannot provoke attacks of opportunity through its movement.
 :
 ***Greater Movement II (Unique)*** This creature gains an additional 20ft of Walking Speed. Already added to stat block. 
 
@@ -8444,12 +8528,14 @@ ___
 
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**)
 
-D-Rank (Cost 5): Air Bullet, Blurring Winds                           
+D-Rank (Cost 5): Air Bullet, Dust Wind
+
+C-Rank (Cost 9): Wind Friction Shatter   
 ***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**)
 
 D-Rank (Cost 5): 2-Point Penetrate 
 
-C-Rank (Cost 9): Afterglow, Murderous Stabbing Link
+C-Rank (Cost 9): Afterglow
 
 ### Attacks
 ***Multiattack*** This creature can make two *Horn Jab* attacks.      
@@ -8478,7 +8564,6 @@ Unimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following req
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
   
-\column
   
 ## Unimon
 A Mythical Digimon that combines the features of a unicorn and a pegasus. It is a holy creature that uses its gigantic wings to patrol the world for evil. When seeing evil, it will charge into combat without a single thought. Unimon's temperament can be quite wild but, if a tamer proves themselves worthy, it will follow any command.
@@ -8493,6 +8578,92 @@ Unimon ranges between levels 5-8. To upscale a Unimon perform the following step
 {{artist,position:relative,top:400px,left:250px,margin-bottom:-30px
 ##### Unimon
 [Link](https://i.pinimg.com/564x/a3/47/49/a347490c1a66134acc9e31643ccbf770.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## ShimaUnimon
+*C-Rank, Standard, Medium Vaccine, Mythical/Lightning, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 55ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|18 (+4)|14 (+2)|14 (+2)|12 (+1)|12 (+1)|
+___
+**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +6*, *Wis +5*, Cha +3
+**Skills** ::  Athletics +4, Ninshou +7, Perception +5         
+**Senses**               :: passive Perception 15
+___
+***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls. 
+:
+***Charger II (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. Additionally, this creature cannot provoke attacks of opportunity through its movement.
+:
+***Greater Movement II (Unique)*** This creature gains an additional 20ft of Walking Speed. Already added to stat block. 
+
+### Jutsu  
+
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**)
+
+D-Rank (Cost 5): Guiding Bolt           
+
+C-Rank (Cost 9): Overdrive  
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
+
+D-Rank (Cost 5): 2-Point Penetrate, BOT: Flash 
+
+C-Rank (Cost 9): Afterglow
+
+### Attacks
+***Multiattack*** This creature can make two *Horn Jab* attacks.      
+**Horn Jab** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Piercing damage.
+
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Biyomon***
+- ***Patamon***
+- ***Terriermon***
+### Evolves Into
+- ***HippoGryphonmon***
+- ***Parrotmon***
+- ***Piximon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+ShimaUnimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Lightning Release Keyword.*
+- *Bukijutsu with the Piercing Weapon Component.*
+  }}
+  
+  
+## ShimaUnimon
+A subspecies of Unimon that has stripes all over its body. Because the data of the Unicorn is more highly expressed in its body, it lacks the wings of the Pegasus. For that reason, it is unable to fly in the air, but it races across the land with its powerful legs. Also, its Unicorn horn is sharper than Unimon's, and its lethal potential has increased.
+## Scaling Enemy
+ShimaUnimon ranges between levels 5-8. To upscale a ShimaUnimon perform the following steps at each level.
+
+- **Level 6+,** Increase the ShimaUnimon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The ShimaUnimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![ShimaUnimon](https://wikimon.net/images/c/c6/ShimaUnimon_DSAM_Model.png) {position:absolute,bottom:90px,left:410px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:100px,left:250px,margin-bottom:-30px
+##### ShimaUnimon
+[Link](https://wikimon.net/images/c/c6/ShimaUnimon_DSAM_Model.png)
 }}
 
 {{pageNumber,auto}}
@@ -8676,15 +8847,15 @@ Vegiemon ranges between levels 5-8. To upscale a Vegiemon perform the following 
 **Level:** 5 (10XP)
 ___
 **Armor Class** :: 17 
-**Hit Points**  :: 60 (d10) 
-**Chakra Points**  :: 38 (d8)  
+**Hit Points**  :: 40 (d8) 
+**Chakra Points**  :: 34 (d10)  
 **Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|18 (+4)|14 (+2)|12 (+1)|10 (+0)|16 (+3)|
+|10 (+0)|18 (+4)|10 (+0)|12 (+1)|12 (+1)|18 (+4)|
 ___
-**Saving Throws** :: Str +2, *Dex +8*, Con +4, *Int +5*, Wis +2, *Cha +7*
+**Saving Throws** :: Str +2, *Dex +8*, Con +2, *Int +5*, Wis +3, *Cha +8*
 **Skills** ::  Stealth +8, Sleight of Hand +8, Illusions +7
 **Senses**               :: passive Perception 10
 ___
@@ -8697,7 +8868,7 @@ ___
 ### Jutsu  
 
 
-***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**) 
+***Genjutsu*** +9 to hit, (**Genjutsu save DC 16**) 
 
 D-Rank (Cost 5): Cloak of Shadows, Hypnosis
 
@@ -8740,7 +8911,7 @@ Vilemon is an Evil Digimon. It abhors losing, so it is a coward that torments th
 ## Scaling Enemy
 Vilemon ranges between levels 5-8. To upscale a Vilemon perform the following steps at each level.
 
-- **Level 6+,** Increase the Vilemon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 6+,** Increase the Vilemon's Hit Points by 8 & Chakra Points by 6 for every level.
 - **Level 7.** The Vilemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Vilemon](https://i.pinimg.com/564x/c0/b3/22/c0b322a7e4b8da9ac157947901c62960.jpg) {position:absolute,bottom:270px,left:370px,width:450px,mix-blend-mode:multiply}
