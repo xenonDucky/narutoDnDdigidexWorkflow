@@ -3777,11 +3777,11 @@ Boogiemon ranges between levels 5-8. To upscale a Boogiemon perform the followin
 - **Level 6+,** Increase the Boogiemon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Boogiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Boogiemon](https://d.furaffinity.net/art/proxae/1487379005/1487379005.proxae_oogie_boogie_by_proxae-dawn51a.png) {position:absolute,bottom:70px,left:370px,width:500px,mix-blend-mode:multiply}
+![Boogiemon](https://i.pinimg.com/originals/46/48/cf/4648cf5f84f32563201af1da495f76cf.jpg) {position:absolute,bottom:70px,left:400px,width:400px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:80px,left:210px,margin-bottom:-30px
+{{artist,position:relative,top:80px,left:110px,margin-bottom:-30px
 ##### Boogiemon
-[Link](https://d.furaffinity.net/art/proxae/1487379005/1487379005.proxae_oogie_boogie_by_proxae-dawn51a.png)
+[Link](https://i.pinimg.com/originals/46/48/cf/4648cf5f84f32563201af1da495f76cf.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -5226,7 +5226,7 @@ Gatomon ranges between levels 5-8. To upscale a Gatomon perform the following st
 - **Level 6+,** Increase the Gatomon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Gatomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gatomon](https://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg) {position:absolute,bottom:60px,left:380px,width:460px,mix-blend-mode:multiply}
+![Gatomon](https://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg) {position:absolute,bottom:60px,left:400px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:70px,left:120px,margin-bottom:-30px
 ##### Gatomon
@@ -5310,9 +5310,9 @@ BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the fo
 - **Level 6+,** Increase the BlackGatomon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The BlackGatomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![BlackGatomon](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg) {position:absolute,bottom:130px,left:430px,width:350px,mix-blend-mode:multiply}
+![BlackGatomon](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg) {position:absolute,bottom:130px,left:400px,width:420px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:380px,left:180px,margin-bottom:-30px
+{{artist,position:relative,top:180px,left:160px,margin-bottom:-30px
 ##### BlackGatomon
 [Link](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg)
 }}
@@ -6148,9 +6148,9 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|12 (+1)|18 (+4)|14 (+2)|12 (+1)|14 (+2)|10 (+0)|
+|10 (+0)|18 (+4)|14 (+2)|14 (+2)|14 (+2)|10 (+0)|
 ___
-**Saving Throws** :: *Str +5*, *Dex +8*, Con +4, *Int +5*, Wis +4, Cha +2
+**Saving Throws** :: *Str +4*, *Dex +8*, Con +4, *Int +6*, Wis +4, Cha +2
 **Skills** ::  Acrobatics +8. Perception +6, Martial Arts +8             
 **Senses**               :: passive Perception 17, passive Insight 17
 ___
@@ -6161,18 +6161,17 @@ ___
 ***Keen Eye II (Unique)*** This Digimon gains an additional +5 to Passive Perception and Passive Insight. Additionally, it can take the Search action as a Bonus Action.
 
 ### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
 
+D-Rank (Cost 5): Peacock Whirlwind  
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
 
-D-Rank (Cost 5): Unbound Laughter
-
-C-Rank (Cost 9): Hypnotic Patterns
+C-Rank (Cost 9): Hypnotic Patterns  
 ***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
 
-D-Rank (Cost 5): 1-Strike Slash, Praying Strike
+D-Rank (Cost 5): Ostrich Whirlwind, Praying Strike
 
-C-Rank (Cost 9): Front Beheading
-
+C-Rank (Cost 9): Falcon Drop
 ### Attacks
 ***Multiattack*** This creature can make two *Peck* attacks.      
 **Feather Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
@@ -6193,8 +6192,9 @@ C-Rank (Cost 9): Front Beheading
 {{monster,frame
 ### Alternative Jutsu List
 Kokatorimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Taijutsu that makes a melee attack roll.*
+- *Ninjutsu with the Wind Release Keyword*
+- *Genjutsu with the Visual Keyword*
+- *Taijutsu that makes a melee attack roll*
   }}
 \column
 ## Kokatorimon
@@ -6210,6 +6210,87 @@ Kokatorimon ranges between levels 5-8. To upscale a Kokatorimon perform the foll
 {{artist,position:relative,top:440px,left:60px,margin-bottom:-30px
 ##### Kokatorimon
 [Link](https://i.pinimg.com/564x/5b/43/38/5b43383d3cfcb9fbf720566fbfaa479d.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+\page
+
+{{monster,frame
+## Akatorimon
+*C-Rank, Standard, Medium Data, Bird/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 45ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|18 (+4)|14 (+2)|14 (+2)|14 (+2)|10 (+0)|
+___
+**Saving Throws** :: *Str +4*, *Dex +8*, Con +4, *Int +6*, Wis +4, Cha +2
+**Skills** ::  Acrobatics +8. Perception +6, Martial Arts +8             
+**Senses**               :: passive Perception 17, passive Insight 17
+___
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
+:
+***Basilisk (Unique)*** When a creature is Incapacitated by this Digimon's effects, it instead Petrifies it.
+:
+***Phoenix Feathers II (Unique)*** If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 10% of its HP. This feature can only activated once per rest.
+
+### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
+
+D-Rank (Cost 5): Pheonix Fire  
+***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**) 
+
+C-Rank (Cost 9): Hypnotic Patterns  
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
+
+D-Rank (Cost 5): Ostrich Whirlwind, Praying Strike
+
+C-Rank (Cost 9): Falcon Drop
+### Attacks
+***Multiattack*** This creature can make two *Peck* attacks.      
+**Feather Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Biyomon*** 
+### Evolves Into
+- ***LadyDevimon***
+- ***Megadramon***
+- ***Sinduramon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Kokatorimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Genjutsu with the Visual Keyword*
+- *Taijutsu that makes a melee attack roll*
+  }}
+\column
+## Akatorimon
+A Cockatrimon-species Digimon that developed its legs to make up for being unable to fly. Because it consumes more energy than meets the eye moving its large body, it apparently detests violent battles.
+## Scaling Enemy
+Akatorimon ranges between levels 5-8. To upscale a Kokatorimon perform the following steps at each level.
+
+- **Level 6+,** Increase the Akatorimon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The Akatorimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Akatorimon](https://wikimon.net/images/6/6d/Akatoimon_rearise.png) {position:absolute,bottom:220px,left:360px,width:460px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:440px,left:60px,margin-bottom:-30px
+##### Akatorimon
+[Link](https://wikimon.net/images/6/6d/Akatoimon_rearise.png)
 }}
 
 {{pageNumber,auto}}
