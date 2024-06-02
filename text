@@ -4834,8 +4834,8 @@ DarkLizamon ranges between levels 5-8. To upscale a DarkLizamon perform the foll
 \page
 
 {{monster,frame
-## Frigimon
-*C-Rank, Standard, Medium Vaccine, Ice/Water, Prof +4*
+## Yukidarumon
+*C-Rank, Standard, Medium Vaccine, Golem/Water, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -4853,7 +4853,7 @@ ___
 **Damage Immunity** :: Cold      
 **Senses**               :: passive Perception 9
 ___
-***Dangerous Aura I (Unique)*** Any creature ends its turn within 5ft of this Digimon takes this creature’s Proficiency bonus in *Cold* Damage.
+***Dangerous Armor I (Unique)*** Any creature that damages this Digimon with melee attacks takes this creature’s Proficiency bonus in *Cold* Damage.
 :
 ***Cold Resistant II (Unique)*** This creature is immune to *Cold* damage.
 :
@@ -4888,27 +4888,104 @@ D-Rank (Cost 5): Iron Knuckle
 
 {{monster,frame
 ### Alternative Jutsu List
-Frigimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+Yukidarumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Water Release Keyword.*
 - *Taijutsu that require a melee attack roll.*
   }}
-## Frigimon
+## Yukidarumon
 A Digimon whose body is covered in ice and snow. Its skin is cold to the touch. Yet, despite this cold exterior, Frigimon is a warm-hearted, friendly and gentle creature. It dislikes fighting and would much rather relax or 'chill'. 
 ## Scaling Enemy
-Frigimon ranges between levels 5-8. To upscale a Frigimon perform the following steps at each level.
+Yukidarumon ranges between levels 5-8. To upscale a Yukidarumon perform the following steps at each level.
 
-- **Level 6+,** Increase the Frigimon's Hit Points by 14 & Chakra Points by 9 for every level.
-- **Level 7.** The Frigimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 6+,** Increase the Yukidarumon's Hit Points by 14 & Chakra Points by 9 for every level.
+- **Level 7.** The Yukidarumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Frigimon](https://i.pinimg.com/originals/d4/7f/4d/d47f4d5c0be0ec8a5a45c4b3a5b98829.jpg) {position:absolute,bottom:120px,left:390px,width:460px,mix-blend-mode:multiply}
+![Yukidarumon](https://wikimon.net/images/b/b2/Yukidarumon_New_Century.png) {position:absolute,bottom:120px,left:400px,width:410px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:370px,left:40px,margin-bottom:-30px
-##### Frigimon
-[Link](https://i.pinimg.com/originals/d4/7f/4d/d47f4d5c0be0ec8a5a45c4b3a5b98829.jpg)
+{{artist,position:relative,top:70px,left:0px,margin-bottom:-30px
+##### Yukidarumon
+[Link](https://wikimon.net/images/b/b2/Yukidarumon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
+\page
+
+{{monster,frame
+## Tuchidarumon
+*C-Rank, Standard, Medium Data, Golem/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 16 
+**Hit Points**  :: 70 (d10) 
+**Chakra Points**  :: 48 (d8)  
+**Speed**       :: 35ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|12 (+1)|18 (+4)|16 (+3)|8 (-1)|10 (+0)|
+___
+**Saving Throws** :: *Str +7*, Dex +3, *Con +8*, *Int +7*, Wis +1, Cha +2
+**Skills** ::  Athletics +7, Chakra Control +8. Ninshou +7          
+**Damage Immunity** :: Earth      
+**Senses**               :: passive Perception 9
+___
+***Dangerous Armor I (Unique)*** Any creature that damages this Digimon with melee attacks takes this creature’s Proficiency bonus in *Earth* Damage.
+:
+***Earth Resistant II (Unique)*** This creature is immune to *Cold* damage.
+:
+***Powerful Earth I (Unique)*** All Ninjutsu with the *Cold* Release keyword deal an additional damage die.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**)
+
+D-Rank (Cost 5): Mud Wave, Earth Flow River, Stone Fist
+
+C-Rank (Cost 9): Mud Wolf           
+***Taijutsu*** +8 to hit, (**Taijutsu save DC 15**)
+
+C-Rank (Cost 9): Elementia
+### Attacks
+***Multiattack*** This creature can make two *Ice Punch* attacks.      
+**Mud Punch** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Earth damage.
+}}
+
+{{monster,frame
+### Evolves From
+- ***Gabumon***
+### Evolves Into
+- ***Crescemon***
+- ***Pandamon***
+- ***Panjyamon***
+}}
+ 
+\column
+
+{{monster,frame
+### Alternative Jutsu List
+Tuchidarumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Water Release Keyword.*
+- *Taijutsu that require a melee attack roll.*
+  }}
+## Tuchidarumon
+A Digimon whose body is covered in ice and snow. Its skin is cold to the touch. Yet, despite this cold exterior, Frigimon is a warm-hearted, friendly and gentle creature. It dislikes fighting and would much rather relax or 'chill'. 
+## Scaling Enemy
+Tuchidarumon ranges between levels 5-8. To upscale a Tuchidarumon perform the following steps at each level.
+
+- **Level 6+,** Increase the Tuchidarumon's Hit Points by 14 & Chakra Points by 9 for every level.
+- **Level 7.** The Tuchidarumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Tuchidarumon](https://wikimon.net/images/6/69/Tuchidarumon_new_century.png) {position:absolute,bottom:120px,left:400px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:290px,left:240px,margin-bottom:-30px
+##### Tuchidarumon
+[Link](https://wikimon.net/images/6/69/Tuchidarumon_new_century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
 \page
 
 {{monster,frame
