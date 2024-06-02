@@ -4671,7 +4671,7 @@ ExVeemon ranges between levels 5-8. To upscale a ExVeemon perform the following 
 \page
 
 {{monster,frame
-## Flarerizamon
+## FlareLizamon
 *C-Rank, Standard, Medium Data, Dragon/Fire, Prof +4*
 
 **Level:** 5 (10XP)
@@ -4726,25 +4726,106 @@ D-Rank (Cost 5): 3-Lateral Slash
  
 {{monster,frame
 ### Alternative Jutsu List
-Flarerizamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+FlareLizamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Fire Release Keyword.*
 - *Bukijutsu with the Slashing Weapon Component.*
 }}
   
 \column
 
-## Flarerizamon
+## FlareLizamon
 A Digimon whose entire body is wrapped in flames. Its personality matches its fiery exterior with its short-temper. Interestingly, its skin combusts from the high-temperature that its body produces. It is protected from burns due to the natural regenerative capabilities of its skin.
 ## Scaling Enemy
-Flarerizamon ranges between levels 5-8. To upscale a Flarerizamon perform the following steps at each level.
+FlareLizamon ranges between levels 5-8. To upscale a FlareLizamon perform the following steps at each level.
 
-- **Level 6+,** Increase the Flarerizamon's Hit Points by 14 & Chakra Points by 9 for every level.
-- **Level 7.** The Flarerizamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-![Flarerizamon](https://wikimon.net/images/4/48/Flarelizarmon.gif) {position:absolute,bottom:220px,left:440px,width:360px,mix-blend-mode:multiply}
+- **Level 6+,** Increase the FlareLizamon's Hit Points by 14 & Chakra Points by 9 for every level.
+- **Level 7.** The FlareLizamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+![FlareLizamon](https://wikimon.net/images/4/48/Flarelizarmon.gif) {position:absolute,bottom:220px,left:440px,width:360px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:420px,left:50px,margin-bottom:-30px
-##### Flarerizamon
+##### FlareLizamon
 [Link](https://i.pinimg.com/564x/04/6d/f4/046df46c75f352627e195bbc65b9440e.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## DarkLizamon
+*C-Rank, Standard, Medium Virus, Dragon/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 70 (d10) 
+**Chakra Points**  :: 48 (d8)  
+**Speed**       :: 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|18 (+4)|16 (+3)|8 (-1)|8 (-1)|
+___
+**Saving Throws** :: Str +5, *Dex +6*, *Con +8*, *Int +7*, Wis +1, Cha +1
+**Skills** ::  Athletics +7, Chakra Control +8, Ninshou +7             
+**Senses**               :: passive Perception 9
+___
+***Dangerous Aura I (Unique)*** Any creature ends its turn within 5ft of this Digimon takes this creature’s Proficiency bonus in *Fire* Damage.
+:
+***Overwhelming Fire II (Unique)*** *Fire* damage from this creature ignores DR and resistances.
+:
+***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
+
+### Jutsu  
+
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Erupting Flame, Hellfire Rejection
+
+C-Rank (Cost 9): Dragon Flame Bombs, Flame Armor        
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): 3-Lateral Slash   
+### Attacks
+***Multiattack*** This creature can make two *Fire Claw* attacks.      
+**Fire Claw** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Fire damage.
+
+
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Guilmon*** 
+### Evolves Into
+- ***Chirinmon***
+- ***Gigadramon***
+- ***Triceramon***
+}}
+ 
+{{monster,frame
+### Alternative Jutsu List
+DarkLizamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+}}
+  
+\column
+
+## DarkLizamon
+A Digimon whose whole body is covered in flames of darkness that burn quietly. As it is the form of a FlareLizamon that evolved into a Virus-type, it has a cool-headed personality.
+## Scaling Enemy
+DarkLizamon ranges between levels 5-8. To upscale a DarkLizamon perform the following steps at each level.
+
+- **Level 6+,** Increase the DarkLizamon's Hit Points by 14 & Chakra Points by 9 for every level.
+- **Level 7.** The DarkLizamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+![DarkLizamon](https://wikimon.net/images/a/a7/Darklizamon_new_century.png) {position:absolute,bottom:220px,left:440px,width:360px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:520px,left:50px,margin-bottom:-30px
+##### DarkLizamon
+[Link](https://wikimon.net/images/a/a7/Darklizamon_new_century.png)
 }}
 
 {{pageNumber,auto}}
