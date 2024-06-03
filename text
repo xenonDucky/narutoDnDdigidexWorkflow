@@ -5238,13 +5238,12 @@ ___
 |12 (+1)|18 (+4)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|
 ___
 **Saving Throws** :: Str +3, *Dex +8*, Con +4, *Int +6*, *Wis +5*, Cha +2
-**Skills** ::  Acrobatics +8, Perception +5, Stealth +8        
-**Damage Immunity** :: Cold          
+**Skills** ::  Acrobatics +8, Perception +5, Stealth +8                 
 **Senses**               :: passive Perception 15
 ___
 ***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
 :
-***Lone Wolf II (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +4 to all attack and damage rolls
+***Lone Wolf II (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +4 to all attack and damage rolls.
 :
 ***Sharp Weapons I (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the Bleeding condition.
 
@@ -5302,6 +5301,87 @@ Garurumon ranges between levels 5-8. To upscale a Garurumon perform the followin
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
+\page
+
+{{monster,frame
+## Gururumon
+*C-Rank, Standard, Medium Vaccine, Beast/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 45ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|18 (+4)|14 (+2)|14 (+2)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: Str +3, *Dex +8*, Con +4, *Int +6*, *Wis +5*, Cha +2
+**Skills** ::  Acrobatics +8, Perception +5, Stealth +8        
+**Damage Immunity** :: Cold          
+**Senses**               :: passive Perception 15
+___
+***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
+:
+***Cold Resistant II (Unique)*** This creature is immune to *Cold* damage.
+:
+***Sharp Weapons I (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the Bleeding condition.
+
+### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
+
+D-Rank (Cost 5): Wild Bubble Wave, Sharks Maw                              
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): 2-Point Penetrate
+
+C-Rank (Cost 9): Afterglow, Crescent Moon Beheading   
+
+
+### Attacks
+***Multiattack*** This creature can make two *Bite* attacks.      
+**Bite** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Piercing damage.
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Gabumon*** 
+### Evolves Into
+- ***DoruGreymon***
+- ***Panjyamon***
+- ***WereGarurumon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Gururumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Bukijutsu with the Piercing Weapon Component.*
+  }}
+\column
+## Gururumon
+A Beast Digimon that is very similar to Garurumon. As a fiendish Digimon that lives in the dark, it is a nuisance who causes trouble everywhere. Its Special Move is high-temperature flames spewed from its mouth.
+## Scaling Enemy
+Gururumon ranges between levels 5-8. To upscale a Gururumon perform the following steps at each level.
+
+- **Level 6+,** Increase the Gururumon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The Gururumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Gururumon](https://i.pinimg.com/originals/9f/78/2a/9f782a1c49f09afed60bf463b353e7f3.jpg) {position:absolute,bottom:200px,left:380px,width:460px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:0px,left:40px,margin-bottom:-30px
+##### Gururumon
+[Link](https://i.pinimg.com/originals/9f/78/2a/9f782a1c49f09afed60bf463b353e7f3.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 {{monster,frame
 ## BlackGarurumon
@@ -5363,7 +5443,9 @@ BlackGarurumon may learn **3 D Rank** and **2 C Rank** jutsu that meet the follo
 - *Bukijutsu with the Slashing Weapon Component.*
 - *Bukijutsu with the Piercing Weapon Component.*
   }}
-  
+
+\column
+
 ## BlackGarurumon
 A Beast Digimon that is covered in black and white fur. It has a coat that is harder than steel and is sharper than most blades. It is a precise and deadly hunter that strikes with swift efficiency. Like Garurumon, BlackGarurumon has a keen sense of loyalty to its perceived master. However, BlackGarurumon is often quite wild with its antics, resulting in many individuals claiming that Digimon of this species are completely feral.  
 ## Scaling Enemy
