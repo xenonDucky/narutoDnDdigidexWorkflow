@@ -8664,7 +8664,7 @@ ___
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|14 (+2)|18 (+4)|12 (+1)|10 (+0)|8 (-1)|
+|18 (+4)|14 (+2)|18 (+4)|12 (+1)|10 (+0)|8 (-1) |
 ___
 **Saving Throws** :: *Str +8*, Dex +4, *Con +8*, *Int +5*, Wis +2, Cha +1
 **Skills** ::  Athletics +8, Martial Arts +8, Nature +5       
@@ -8730,6 +8730,84 @@ Togemon ranges between levels 5-8. To upscale a Togemon perform the following st
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
+\page
+
+{{monster,frame
+## Ponchomon
+*C-Rank, Standard, Medium Virus, Ghost/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 70 (d10) 
+**Chakra Points**  :: 48 (d8)  
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|14 (+2)|18 (+4)|10 (+0)|12 (+1)|8 (-1) |
+___
+**Saving Throws** :: *Str +8*, Dex +4, *Con +8*, Int +2, *Wis +5*, Cha +1
+**Skills** ::  Athletics +8, Martial Arts +8, Nature +5       
+**Senses**               :: passive Perception 10
+___
+***Ghostly Form (Unique)*** This creature can move through solid objects so as long as they do not end their turn within a solid object. 
+:
+***Dangerous Armor II (Unique)*** Any creature that damages this Digimon with melee attacks takes twice this creature’s Proficiency bonus in *Piercing* Damage.
+:
+***Feint II (Unique)*** Melee attacks against this creature suffer a -2 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may use its reaction to make a weapon attack against the triggering creature.
+
+### Jutsu           
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
+
+D-Rank (Cost 5): Avalanche Dance, Wild Dance  
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
+
+D-Rank (Cost 5): DP: Neutral Stance  
+
+C-Rank (Cost 9): DP: Preparation, DP: Flamenco
+### Attacks
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
+**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Palmon***
+- ***Ghostmon***
+
+### Evolves Into
+- ***Blossomon***
+- ***LadyDevimon***
+- ***Lillymon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Ponchomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Any Taijutsu with Dance in the name*
+- *Any Bukijutsu with Dance in the name*
+  }}
+## Ponchomon
+ It is said to be a Digimon that was generated from a "Latin music distribution program" that exists on the Network. It looks as if it has a cheerful personality, but its facial expression can't be read, and it is eerie to other Digimon. Because all of its actions are performed with a Latin rhythm, it views Digimon that can't keep up with the beat as its enemies.
+## Scaling Enemy
+Ponchomon ranges between levels 5-8. To upscale a Ponchomon perform the following steps at each level.
+
+- **Level 6+,** Increase the Ponchomon's Hit Points by 18 & Chakra Points by 9 for every level.
+- **Level 7.** The Ponchomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Ponchomon](https://wikimon.net/images/9/98/Ponchomon_New_Century.png) {position:absolute,bottom:160px,left:390px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:40px,left:30px,margin-bottom:-30px
+##### Ponchomon
+[Link](https://wikimon.net/images/9/98/Ponchomon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 
 {{monster,frame
