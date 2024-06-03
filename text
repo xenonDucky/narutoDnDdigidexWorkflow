@@ -4093,11 +4093,11 @@ Coredramon (Blue) ranges between levels 5-8. To upscale a Coredramon (Blue) perf
 - **Level 6+,** Increase the Coredramon (Blue)'s Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Coredramon (Blue)'s Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Coredramon (Blue)](https://i.pinimg.com/564x/47/02/48/470248d63ec050b51ce400e42329e162.jpg) {position:absolute,bottom:130px,left:400px,width:440px,mix-blend-mode:multiply}
+![Coredramon (Blue)](https://wikimon.net/images/b/b3/Coredramon_blue.jpg) {position:absolute,bottom:130px,left:400px,width:440px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:0px,left:0px,margin-bottom:-30px
 ##### Coredramon (Blue)
-[Link](https://i.pinimg.com/564x/47/02/48/470248d63ec050b51ce400e42329e162.jpg)
+[Link](https://wikimon.net/images/b/b3/Coredramon_blue.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -4175,11 +4175,11 @@ Coredramon (Green) ranges between levels 5-8. To upscale a Coredramon (Green) pe
 - **Level 6+,** Increase the Coredramon (Green)'s Hit Points by 14 & Chakra Points by 9 for every level.
 - **Level 7.** The Coredramon (Green)'s Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Coredramon (Green)](https://i.pinimg.com/564x/f6/ff/e7/f6ffe74be203f786c8ad0e671eb39cd8.jpg) {position:absolute,bottom:90px,left:380px,width:440px,mix-blend-mode:multiply}
+![Coredramon (Green)](https://wikimon.net/images/9/92/Coredramon_green.jpg) {position:absolute,bottom:90px,left:380px,width:440px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:20px,left:240px,margin-bottom:-30px
 ##### Coredramon (Green)
-[Link](https://i.pinimg.com/564x/f6/ff/e7/f6ffe74be203f786c8ad0e671eb39cd8.jpg)
+[Link](https://wikimon.net/images/9/92/Coredramon_green.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -4584,14 +4584,14 @@ Dokugumon ranges between levels 5-8. To upscale a Dokugumon perform the followin
 
 {{monster,frame
 ## Drimogemon
-*C-Rank, Standard, Large Data, Beast/Earth, Prof +4*
+*C-Rank, Standard, Medium Data, Beast/Earth, Prof +4*
 
 **Level:** 5 (10XP)
 ___
 **Armor Class** :: 17 
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8)  
-**Speed**       :: 25ft., Burrow 30ft. **Initiative** +4
+**Speed**       :: 25ft., Burrow 50ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -4603,9 +4603,9 @@ ___
 ___
 ***Mole Senses (Unique)*** This creature gains Tremor Sense 30ft.
 :
-***Overwhelming II (Unique)*** Piercing damage from this creature ignores DR and resistances.
+***Overwhelming Drill II (Unique)*** Piercing damage from this creature ignores DR and resistances.
 :
-***Efficient Earth I (Unique)*** All Ninjutsu with the Earth Release keyword have their costs reduced by 1 Chakra Point.
+***Greater Movement II (Unique)*** This creature gains an additional 20ft of *Burrowing* Speed.
 
 ### Jutsu  
 ***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**)
@@ -4615,7 +4615,7 @@ D-Rank (Cost 5): Earthen Tremor, Headhunter Technique
 C-Rank (Cost 9): Rending Drill Fang     
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
 
-D-Rank (Cost 5): Spinning Top
+D-Rank (Cost 5): BOD: Sokusei
 
 C-Rank (Cost 9): Murderous Stabbing Link     
 
@@ -4642,18 +4642,97 @@ Drimogemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following
   }}
 \column
 ## Drimogemon
-A Digimon that is rarely encountered, yet not due to a lack of population. Rather, Drimogemon spend most of their lives digging deep underground. It is often shy, yet can be quite mischievous. Its unique lifestyle means that it is adept at manipulating the earth around it.
+A Digimon that moves underground at high speeds with the gigantic drill attached to its snout. It is an extremely rare Digimon to come across because it is always digging deep underground. Although it has a meek, shy personality, it is fairly mischievous, and sometimes it takes the favorite bones that Garurumon has buried underground and hides them in different locations.
 ## Scaling Enemy
 Drimogemon ranges between levels 5-8. To upscale a Drimogemon perform the following steps at each level.
 
 - **Level 6+,** Increase the Drimogemon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Drimogemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Drimogemon](https://wikimon.net/images/thumb/4/41/Drimogemon.gif/600px-Drimogemon.gif) {position:absolute,bottom:250px,left:390px,width:450px,mix-blend-mode:multiply}
+![Drimogemon](https://wikimon.net/images/thumb/4/41/Drimogemon.gif/600px-Drimogemon.gif) {position:absolute,bottom:150px,left:390px,width:450px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+{{artist,position:relative,top:100px,left:30px,margin-bottom:-30px
 ##### Drimogemon
 [Link](https://i.pinimg.com/564x/11/c8/8e/11c88e7d4530b194b73145d59bffc95b.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+\page
+
+{{monster,frame
+## NiseDrimogemon
+*C-Rank, Standard, Medium Data, Beast/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
+**Speed**       :: 25ft., Burrow 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|14 (+2)|16 (+3)|14 (+2)|10 (+0)|8 (-1)|
+___
+**Saving Throws** :: *Str +8*, Dex +4, *Con +7*, *Int +6*, Wis +2, Cha +1
+**Skills** ::  Athletics +8, Nature +6, Chakra Control +7
+**Damage Resistances** :: Bludgeoning, Earth
+**Senses**               :: passive Perception 10, Tremor Sense 30ft.
+___
+***Mole Senses (Unique)*** This creature gains Tremor Sense 30ft.
+:
+***Overwhelming Drill II (Unique)*** Piercing damage from this creature ignores DR and resistances.
+:
+***Earth Resistant II (Unique)*** This creature is resistant to *Earth* damage and resistant to Bludgeoning damage.
+
+### Jutsu  
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**)
+
+D-Rank (Cost 5): Earthen Tremor, Headhunter Technique
+
+C-Rank (Cost 9): Rending Drill Fang     
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
+
+D-Rank (Cost 5): BOD: Sokusei
+
+C-Rank (Cost 9): Murderous Stabbing Link     
+
+### Attacks     
+**Drill Attack** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 2d12+5 Piercing damage.
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***Armadillomon*** 
+### Evolves Into
+- ***Andromon***
+- ***Giromon***
+- ***Mammothmon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+NiseDrimogemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Earth Release Keyword.*
+- *Bukijutsu with the Piercing Weapon Component.*
+  }}
+\column
+## NiseDrimogemon
+As a Digimon just like Drimogemon, it was given the name "Nise" due to its suspicious mustache. If this Digimon were to have been discovered earlier, Drimogemon would have ended up being called "Nise". For that reason, it refers to itself as Drimogemon and calls the digimon he hates the most NiseDrimogemon. 
+## Scaling Enemy
+NiseDrimogemon ranges between levels 5-8. To upscale a NiseDrimogemon perform the following steps at each level.
+
+- **Level 6+,** Increase the NiseDrimogemon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The NiseDrimogemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![NiseDrimogemon](https://i.pinimg.com/originals/ea/ab/52/eaab52fd64f578447e9602752740450f.jpg) {position:absolute,bottom:250px,left:390px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
+##### NiseDrimogemon
+[Link](https://i.pinimg.com/originals/ea/ab/52/eaab52fd64f578447e9602752740450f.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -5320,12 +5399,12 @@ ___
 ___
 **Saving Throws** :: Str +3, *Dex +8*, Con +4, *Int +6*, *Wis +5*, Cha +2
 **Skills** ::  Acrobatics +8, Perception +5, Stealth +8        
-**Damage Immunity** :: Cold          
+**Damage Resistances** :: Cold, Fire          
 **Senses**               :: passive Perception 15
 ___
 ***Greater Movement I (Unique)*** This creature gains an additional 10ft of Walking Speed. This is already added to the stat block.
 :
-***Cold Resistant II (Unique)*** This creature is immune to *Cold* damage.
+***Cold Resistant II (Unique)*** This creature is resistant to *Cold* damage and resistant to *Fire* damage.
 :
 ***Sharp Weapons I (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the Bleeding condition.
 
@@ -5454,11 +5533,11 @@ BlackGarurumon ranges between levels 5-8. To upscale a BlackGarurumon perform th
 - **Level 6+,** Increase the BlackGarurumon's Hit Points by 15 & Chakra Points by 7 for every level.
 - **Level 7.** The BlackGarurumon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![BlackGarurumon](https://wikimon.net/images/archive/4/42/20190325121727%21Garurumon_black.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
+![BlackGarurumon](https://wikimon.net/images/1/13/Garurumon_%28Black%29_New_Century.png) {position:absolute,bottom:220px,left:370px,width:440px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:380px,left:160px,margin-bottom:-30px
 ##### BlackGarurumon
-[Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
+[Link](https://wikimon.net/images/1/13/Garurumon_%28Black%29_New_Century.png)
 }}
 
 {{pageNumber,auto}}
