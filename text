@@ -1434,11 +1434,11 @@ Gomamon ranges between levels 1-4. To upscale a Gomamon perform the following st
 - **Level 2+,** Increase the Gomamon's Hit Points by 10 & Chakra Points by 7 for every level.
 - **Level 4.** The Gomamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gomamon](https://i.pinimg.com/originals/3c/35/f6/3c35f6fcc3a8556170a0220c870ab84f.jpg) {position:absolute,bottom:320px,left:430px,width:340px,mix-blend-mode:multiply}
+![Gomamon](https://wikimon.net/images/f/ff/Gomamon_Newcentury.png) {position:absolute,bottom:160px,left:430px,width:340px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:130px,left:260px,margin-bottom:-30px
+{{artist,position:relative,top:330px,left:280px,margin-bottom:-30px
 ##### Gomamon
-[Link](https://i.pinimg.com/originals/3c/35/f6/3c35f6fcc3a8556170a0220c870ab84f.jpg)
+[Link](https://wikimon.net/images/f/ff/Gomamon_Newcentury.png)
 }}
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
@@ -1509,15 +1509,87 @@ Guilmon ranges between levels 1-4.   To upscale a Guilmon perform the   followin
 
 ![Guilmon](https://i.pinimg.com/564x/40/4e/67/404e67dcf77ef97b231ce696da5b7142.jpg) {position:absolute,bottom:210px,left:450px,width:300px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:0px,left:30px,margin-bottom:-30px
+{{artist,position:relative,top:100px,left:30px,margin-bottom:-30px
 ##### Guilmon
-[digimon.fandom.com](https://i.pinimg.com/564x/40/4e/67/404e67dcf77ef97b231ce696da5b7142.jpg)
+[Link](https://i.pinimg.com/564x/40/4e/67/404e67dcf77ef97b231ce696da5b7142.jpg)
 }}
 
 {{pageNumber,auto}}
 {{footnote Part I - ROOKIE}}
 
+\page
 
+{{monster,frame
+## BlackGuilmon
+*D-Rank, Standard, Small Virus, Reptile/Fire, Prof +3*
+
+**Level:** 1 (10XP)
+___
+**Armor Class** :: 14 
+**Hit Points**  :: 12 (d10) 
+**Chakra Points**  :: 8 (d6)  
+**Speed**       :: 30ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1) |10 (+0)|
+___
+**Saving Throws** :: *Str +6*, *Dex +4*, *Con +5*, Int +2, Wis +0, Cha +1
+**Skills** ::  Athletics +6, Perception +2         
+**Senses**               :: passive Perception 12
+___
+***Berserker I (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add 1/3 of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
+
+Additionally, they gain resistance to non-chakra enhanced bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends. 
+:
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+
+### Jutsu        
+
+***Ninjutsu*** +4 to hit, (**Ninjutsu save DC 12**)   
+
+D-Rank (Cost 5): Fireball   
+:
+***Bukijutsu*** +6 to hit, (**Bukijutsu save DC 14**)
+
+D-Rank (Cost 5): BOF: Unknowing, Devils Gambit
+
+### Attacks
+***Slash*** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+3 Slashing damage. 
+
+ }}
+:
+{{monster,frame
+### Evolves Into
+- ***Flarerizamon***
+- ***GeoGreymon***
+- ***Greymon (Virus)***
+- ***Growlmon***
+- ***Tyrannomon***
+ }}
+{{monster,frame
+### Alternative Jutsu List
+BlackGuilmon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu with the Fire Release Keyword*
+- *Bukijutsu with the Slashing Weapon Component*    
+ }}
+\column
+## BlackGuilmon
+BlackGuilmon is a youthful dinosaur that has extreme combat potential. Despite acting quite childish, if threatened, it reveals its nature as a bloodthirsty beast. The marking on its abdomen is a symbol representing its inherent potential to either become a powerful threat to, or protector of, the world.
+## Scaling Enemy
+BlackGuilmon ranges between levels 1-4. To upscale a BlackGuilmon perform the following steps at each level.
+- **Level 2+,** Increase the BlackGuilmon's Hit Points by 12 & Chakra Points by 6 for every level.
+- **Level 4.** The BlackGuilmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![BlackGuilmon](https://i.pinimg.com/originals/76/34/ea/7634eab511a236b6e2ed4101df8a8d6e.jpg) {position:absolute,bottom:210px,left:410px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:120px,left:30px,margin-bottom:-30px
+##### BlackGuilmon
+[Link](https://i.pinimg.com/originals/76/34/ea/7634eab511a236b6e2ed4101df8a8d6e.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part I - ROOKIE}}
 \page
 
 {{monster,frame
@@ -1579,11 +1651,11 @@ Jellymon ranges between levels 1-4. To upscale a Jellymon perform the following 
 
 - **Level 4.** The Jellymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Jellymon](https://wikimon.net/images/thumb/9/92/Jellymon.gif/419px-Jellymon.gif) {position:absolute,bottom:150px,left:450px,width:290px,mix-blend-mode:multiply}
+![Jellymon](https://i.pinimg.com/originals/63/30/12/633012751496779bf2bd52e58627284d.jpg) {position:absolute,bottom:150px,left:390px,width:440px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:190px,margin-bottom:-30px
 ##### Jellymon
-[Link](https://wikimon.net/images/thumb/9/92/Jellymon.gif/419px-Jellymon.gif)
+[Link](https://i.pinimg.com/originals/63/30/12/633012751496779bf2bd52e58627284d.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -2960,11 +3032,11 @@ Airdramon ranges between levels 5-8. To upscale a Airdramon perform the followin
 - **Level 6+,** Increase the Airdramon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Airdramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Airdramon](https://i.pinimg.com/originals/90/91/62/909162f40e78099d9139c3364edc052e.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
+![Airdramon](https://wikimon.net/images/8/83/Airdramon_re.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:30px,left:20px,margin-bottom:-30px
 ##### Airdramon
-[Link](https://i.pinimg.com/originals/90/91/62/909162f40e78099d9139c3364edc052e.jpg)
+[Link](https://wikimon.net/images/8/83/Airdramon_re.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -3613,11 +3685,11 @@ Birdramon ranges between levels 5-8. To upscale a Birdramon perform the followin
 - **Level 6+,** Increase the Birdramon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Birdramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Birdramon](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg) {position:absolute,bottom:110px,left:230px,width:750px,mix-blend-mode:multiply}
+![Birdramon](https://wikimon.net/images/0/05/Birdramon.png) {position:absolute,bottom:310px,left:230px,width:750px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:400px,left:200px,margin-bottom:-30px
 ##### Birdramon
-[Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
+[Link](https://wikimon.net/images/0/05/Birdramon.png)
 }}
 
 {{pageNumber,auto}}
@@ -4360,7 +4432,7 @@ IceDevimon ranges between levels 5-8. To upscale a IceDevimon perform the follow
 \page
 {{monster,frame
 ## Diatrymon
-*C-Rank, Standard, Large Vaccine, Bird/Wind, Prof +4*
+*C-Rank, Standard, Medium Vaccine, Bird/Wind, Prof +4*
 
 **Level:** 5 (10XP)
 ___
@@ -4422,11 +4494,11 @@ Diatrymon ranges between levels 5-8. To upscale a Diatrymon perform the followin
 - **Level 6+,** Increase the Diatrymon's Hit Points by 16 & Chakra Points by 8 for every level.
 - **Level 7.** The Diatrymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Diatrymon](https://i.pinimg.com/564x/9b/11/3b/9b113ba51eac7bc2f0d6fd1ec86aacff.jpg) {position:absolute,bottom:230px,left:380px,width:480px,mix-blend-mode:multiply}
+![Diatrymon](https://wikimon.net/images/b/b7/Diatrymon_battle_survive.png) {position:absolute,bottom:230px,left:370px,width:450px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:20px,left:230px,margin-bottom:-30px
 ##### Diatrymon
-[Link](https://i.pinimg.com/564x/77/fb/b6/77fbb6c270370b1076c54128e8359fe5.jpg)
+[Link](https://wikimon.net/images/b/b7/Diatrymon_battle_survive.png)
 }}
 
 {{pageNumber,auto}}
@@ -4740,11 +4812,11 @@ FlareLizamon ranges between levels 5-8. To upscale a FlareLizamon perform the fo
 
 - **Level 6+,** Increase the FlareLizamon's Hit Points by 14 & Chakra Points by 9 for every level.
 - **Level 7.** The FlareLizamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-![FlareLizamon](https://wikimon.net/images/4/48/Flarelizarmon.gif) {position:absolute,bottom:220px,left:440px,width:360px,mix-blend-mode:multiply}
+![FlareLizamon](https://i.pinimg.com/originals/2b/99/a9/2b99a9028763ffbd2254052c820c8d47.webp) {position:absolute,bottom:220px,left:440px,width:360px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:420px,left:50px,margin-bottom:-30px
 ##### FlareLizamon
-[Link](https://i.pinimg.com/564x/04/6d/f4/046df46c75f352627e195bbc65b9440e.jpg)
+[Link](https://i.pinimg.com/originals/2b/99/a9/2b99a9028763ffbd2254052c820c8d47.webp)
 }}
 
 {{pageNumber,auto}}
@@ -5060,7 +5132,7 @@ Gaogamon ranges between levels 5-8. To upscale a Gaogamon perform the following 
 - **Level 6+,** Increase the Gaogamon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The Gaogamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gaogamon](https://i.pinimg.com/564x/32/c3/26/32c326328d30261aa7066acff6d5b509.jpg) {position:absolute,bottom:230px,left:410px,width:480px,mix-blend-mode:multiply}
+![Gaogamon](https://wikimon.net/images/c/c2/Gaogamon_New_Century.png) {position:absolute,bottom:130px,left:410px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:70px,left:20px,margin-bottom:-30px
 ##### Gaogamon
@@ -5138,11 +5210,11 @@ Gargomon ranges between levels 5-8. To upscale a Gargomon perform the following 
 - **Level 6+,** Increase the Gargomon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The Gargomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gargomon](https://i.pinimg.com/564x/f6/a9/cb/f6a9cbbca8043c3b1c3f177a5a38c908.jpg) {position:absolute,bottom:60px,left:340px,width:480px,mix-blend-mode:multiply}
+![Gargomon](https://wikimon.net/images/4/41/Galgomon_New_Century.png) {position:absolute,bottom:200px,left:340px,width:480px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:140px,margin-bottom:-30px
 ##### Gargomon
-[Link](https://i.pinimg.com/564x/f6/a9/cb/f6a9cbbca8043c3b1c3f177a5a38c908.jpg)
+[Link](https://wikimon.net/images/4/41/Galgomon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -5302,7 +5374,7 @@ BlackGarurumon ranges between levels 5-8. To upscale a BlackGarurumon perform th
 
 ![BlackGarurumon](https://wikimon.net/images/archive/4/42/20190325121727%21Garurumon_black.jpg) {position:absolute,bottom:200px,left:380px,width:500px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:350px,left:160px,margin-bottom:-30px
+{{artist,position:relative,top:380px,left:160px,margin-bottom:-30px
 ##### BlackGarurumon
 [Link](https://i.pinimg.com/originals/35/11/ec/3511eca08f3fc25ab9ead791597ba3de.jpg)
 }}
@@ -5468,15 +5540,97 @@ BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the fo
 - **Level 6+,** Increase the BlackGatomon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The BlackGatomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![BlackGatomon](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg) {position:absolute,bottom:130px,left:400px,width:420px,mix-blend-mode:multiply}
+![BlackGatomon](https://i.pinimg.com/originals/68/32/e3/6832e3ae5841db7e1848ee8e09a925b8.jpg) {position:absolute,bottom:130px,left:400px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:180px,left:160px,margin-bottom:-30px
 ##### BlackGatomon
-[Link](https://i.pinimg.com/564x/c4/fb/77/c4fb777dc85cd23602827ff5e63cd391.jpg)
+[Link](https://i.pinimg.com/originals/68/32/e3/6832e3ae5841db7e1848ee8e09a925b8.jpg)
 }}
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
+
+\page
+
+{{monster,frame
+## Meicoomon
+*C-Rank, Standard, Small Free, Beast/Neutral, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 70 (d12) 
+**Chakra Points**  :: 32 (d6)  
+**Speed**       :: 35ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|20 (+5)|14 (+2)|10 (+0)|14 (+2)|12 (+1)|
+___
+**Saving Throws** :: Str +2, *Dex +9*, Con +4, Int +2, *Wis +6*, *Cha +5*
+**Skills** ::  Acrobatics +9, Perception +6, Martial Arts +9     
+**Senses**               :: passive Perception 16
+___
+***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+:
+***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
+:
+***Berserker I (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add 1/3 of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
+
+Additionally, they gain resistance to non-chakra enhanced bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
+### Jutsu  
+
+***Taijutsu*** +10 to hit, (**Taijutsu save DC 17**) 
+
+D-Rank (Cost 5): Iron Strike, Noble Impact, Multipoint Strike
+
+C-Rank (Cost 9): Afterglow, Crescent Moon Beheading
+
+### Attacks
+***Multiattack*** This creature can make three *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d4+6 Slashing damage.
+
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Salamon*** 
+### Evolves Into
+- ***Antylamon***
+- ***Meicrackmon***
+- ***Meicrackmon VM***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Meicoomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Bukijutsu with the Slashing Weapon Component.*
+- *Any Taijutsu.*
+  }}
+
+\column
+
+## Meicoomon
+A newly discovered Digimon that is quite unique in that it has been quite difficult to identify its type. It bears a striking resemblance to the household cat, yet it is larger. Despite its cute appearance, it possesses extremely sharp claws and a temper that makes it quite threatening as an adversary.
+## Scaling Enemy
+Meicoomon ranges between levels 5-8. To upscale a Meicoomon perform the following steps at each level.
+
+- **Level 6+,** Increase the Meicoomon's Hit Points by 14 & Chakra Points by 6 for every level.
+- **Level 7.** The Meicoomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Meicoomon](https://wikimon.net/images/a/a1/Meicoomon_new_century.png) {position:absolute,bottom:210px,left:400px,width:430px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:90px,left:70px,margin-bottom:-30px
+##### Meicoomon
+[Link](https://wikimon.net/images/a/a1/Meicoomon_new_century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+
 
 \page
 {{monster,frame
@@ -5548,11 +5702,11 @@ Gesomon ranges between levels 5-8. To upscale a Gesomon perform the following st
 - **Level 6+,** Increase the Gesomon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The Gesomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Gesomon](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.png) {position:absolute,bottom:160px,left:380px,width:460px,mix-blend-mode:multiply}
+![Gesomon](https://wikimon.net/images/8/87/Gesomon_New_Century.png) {position:absolute,bottom:160px,left:380px,width:460px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:120px,left:250px,margin-bottom:-30px
 ##### Gesomon
-[Link](https://wikimon.net/images/thumb/8/87/Gesomon_New_Century.png/400px-Gesomon_New_Century.pnghttps://i.pinimg.com/564x/a5/e5/a0/a5e5a04d410c213d22ba875e2da41bf9.jpg)
+[Link](https://wikimon.net/images/8/87/Gesomon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -5625,11 +5779,11 @@ Golemon ranges between levels 5-8. To upscale a Golemon perform the following st
 - **Level 6+,** Increase the Golemon's Hit Points by 17 & Chakra Points by 9 for every level.
 - **Level 7.** The Golemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Golemon](https://i.pinimg.com/564x/39/12/59/391259b02441da99ac43759560fa6d59.jpg) {position:absolute,bottom:250px,left:330px,width:490px,mix-blend-mode:multiply}
+![Golemon](https://i.pinimg.com/originals/a4/c2/f0/a4c2f0c804fa59782cea9b69869f56da.webp) {position:absolute,bottom:220px,left:370px,width:460px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:350px,left:40px,margin-bottom:-30px
+{{artist,position:relative,top:430px,left:140px,margin-bottom:-30px
 ##### Golemon
-[Link](https://i.pinimg.com/564x/39/12/59/391259b02441da99ac43759560fa6d59.jpg)
+[Link](https://i.pinimg.com/originals/a4/c2/f0/a4c2f0c804fa59782cea9b69869f56da.webp)
 }}
 
 {{pageNumber,auto}}
@@ -6280,11 +6434,11 @@ Kiwimon ranges between levels 5-8. To upscale a Kiwimon perform the following st
 - **Level 6+,** Increase the Kiwimon's Hit Points by 15 & Chakra Points by 7 for every level.
 - **Level 7.** The Kiwimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Kiwimon](https://i.pinimg.com/564x/b2/cd/be/b2cdbea44f7276913d402a2f548471d9.jpg) {position:absolute,bottom:90px,left:360px,width:460px,mix-blend-mode:multiply}
+![Kiwimon](https://wikimon.net/images/8/82/Kiwimon.gif) {position:absolute,bottom:230px,left:390px,width:420px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:370px,left:80px,margin-bottom:-30px
+{{artist,position:relative,top:190px,left:280px,margin-bottom:-30px
 ##### Kiwimon
-[Link](https://i.pinimg.com/564x/b2/cd/be/b2cdbea44f7276913d402a2f548471d9.jpg)
+[Link](https://wikimon.net/images/8/82/Kiwimon.gif)
 }}
 
 {{pageNumber,auto}}
@@ -6444,7 +6598,7 @@ Akatorimon ranges between levels 5-8. To upscale a Kokatorimon perform the follo
 - **Level 6+,** Increase the Akatorimon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The Akatorimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Akatorimon](https://wikimon.net/images/6/6d/Akatoimon_rearise.png) {position:absolute,bottom:220px,left:360px,width:460px,mix-blend-mode:multiply}
+![Akatorimon](https://wikimon.net/images/6/6d/Akatoimon_rearise.png) {position:absolute,bottom:220px,left:380px,width:430px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:440px,left:60px,margin-bottom:-30px
 ##### Akatorimon
@@ -6519,11 +6673,11 @@ Kuwagamon ranges between levels 5-8. To upscale a Kuwagamon perform the followin
 - **Level 6+,** Increase the Kuwagamon's Hit Points by 16 & Chakra Points by 8 for every level.
 - **Level 7.** The Kuwagamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Kuwagamon](https://wikimon.net/images/2/20/Kuwagamon.jpg) {position:absolute,bottom:180px,left:330px,width:560px,mix-blend-mode:multiply}
+![Kuwagamon](https://wikimon.net/images/a/a3/Kuwagamon_New_Century.png) {position:absolute,bottom:180px,left:390px,width:480px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:440px,left:60px,margin-bottom:-30px
+{{artist,position:relative,top:460px,left:0px,margin-bottom:-30px
 ##### Kuwagamon
-[Link](https://wikimon.net/images/2/20/Kuwagamon.jpg)
+[Link](https://wikimon.net/images/a/a3/Kuwagamon_New_Century.pnghttps://wikimon.net/images/2/20/Kuwagamon.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -6531,7 +6685,6 @@ Kuwagamon ranges between levels 5-8. To upscale a Kuwagamon perform the followin
 
 
 \page
-
 
 {{monster,frame
 ## Kyubimon
@@ -6606,7 +6759,7 @@ Kyubimon ranges between levels 5-8. To upscale a Kyubimon perform the following 
 - **Level 6+,** Increase the Kyubimon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Kyubimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Kyubimon](https://i.pinimg.com/564x/a5/8b/09/a58b099e071596dcb913512d62e87905.jpg) {position:absolute,bottom:110px,left:340px,width:500px,mix-blend-mode:multiply}
+![Kyubimon](https://i.pinimg.com/564x/a5/8b/09/a58b099e071596dcb913512d62e87905.jpg) {position:absolute,bottom:110px,left:380px,width:450px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:530px,left:160px,margin-bottom:-30px
 ##### Kyubimon
@@ -6689,11 +6842,11 @@ Youkomon ranges between levels 5-8. To upscale a Youkomon perform the following 
 - **Level 6+,** Increase the Youkomon's Hit Points by 10 & Chakra Points by 8 for every level.
 - **Level 7.** The Youkomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Youkomon](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss) {position:absolute,bottom:140px,left:380px,width:450px,mix-blend-mode:multiply}
+![Youkomon](https://wikimon.net/images/e/ee/Youkomon_New_Century.jpg) {position:absolute,bottom:140px,left:380px,width:450px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:30px,left:290px,margin-bottom:-30px
+{{artist,position:relative,top:360px,left:290px,margin-bottom:-30px
 ##### Youkomon
-[Link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/83039cba-8002-4bf5-911e-339539fc2acf/df2pe6a-9f8393a5-7934-4fcf-8110-25ba81666edd.png/v1/fill/w_325,h_400/youkomon_new_century_by_doruflaymdragon_df2pe6a-400t.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTk5IiwicGF0aCI6IlwvZlwvODMwMzljYmEtODAwMi00YmY1LTkxMWUtMzM5NTM5ZmMyYWNmXC9kZjJwZTZhLTlmODM5M2E1LTc5MzQtNGZjZi04MTEwLTI1YmE4MTY2NmVkZC5wbmciLCJ3aWR0aCI6Ijw9NDg3In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.OzMGfiT94qcIXzhuruvrJJrItjR9SGMAaxuIeYfMHss)
+[Link](https://wikimon.net/images/e/ee/Youkomon_New_Century.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -6952,86 +7105,6 @@ MadLeomon ranges between levels 5-8. To upscale a MadLeomon perform the followin
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
-\page
-
-{{monster,frame
-## Meicoomon
-*C-Rank, Standard, Small Free, Beast/Neutral, Prof +4*
-
-**Level:** 5 (10XP)
-___
-**Armor Class** :: 19 
-**Hit Points**  :: 70 (d12) 
-**Chakra Points**  :: 32 (d6)  
-**Speed**       :: 35ft. **Initiative** +6
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|20 (+5)|14 (+2)|10 (+0)|14 (+2)|12 (+1)|
-___
-**Saving Throws** :: Str +2, *Dex +9*, Con +4, Int +2, *Wis +6*, *Cha +5*
-**Skills** ::  Acrobatics +9, Perception +6, Martial Arts +9     
-**Senses**               :: passive Perception 16
-___
-***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
-:
-***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
-:
-***Berserker I (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add 1/3 of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
-
-Additionally, they gain resistance to non-chakra enhanced bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
-### Jutsu  
-
-***Taijutsu*** +10 to hit, (**Taijutsu save DC 17**) 
-
-D-Rank (Cost 5): Iron Strike, Noble Impact, Multipoint Strike
-
-C-Rank (Cost 9): Afterglow, Crescent Moon Beheading
-
-### Attacks
-***Multiattack*** This creature can make three *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d4+6 Slashing damage.
-
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Salamon*** 
-### Evolves Into
-- ***Antylamon***
-- ***Meicrackmon***
-- ***Meicrackmon VM***
-
- }}
- 
-{{monster,frame
-### Alternative Jutsu List
-Meicoomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Bukijutsu with the Slashing Weapon Component.*
-- *Any Taijutsu.*
-  }}
-
-\column
-
-## Meicoomon
-A newly discovered Digimon that is quite unique in that it has been quite difficult to identify its type. It bears a striking resemblance to the household cat, yet it is larger. Despite its cute appearance, it possesses extremely sharp claws and a temper that makes it quite threatening as an adversary.
-## Scaling Enemy
-Meicoomon ranges between levels 5-8. To upscale a Meicoomon perform the following steps at each level.
-
-- **Level 6+,** Increase the Meicoomon's Hit Points by 14 & Chakra Points by 6 for every level.
-- **Level 7.** The Meicoomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
-
-![Meicoomon](https://64.media.tumblr.com/d4f7e7c57891d02fe21f660c7c1da14b/tumblr_inline_pcmoydG84K1rdqux3_400.jpg) {position:absolute,bottom:110px,left:340px,width:500px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:-10px,left:150px,margin-bottom:-30px
-##### Meicoomon
-[Link](https://64.media.tumblr.com/d4f7e7c57891d02fe21f660c7c1da14b/tumblr_inline_pcmoydG84K1rdqux3_400.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part II - CHAMPION}}
 
 
 \page
@@ -7192,11 +7265,11 @@ Mojyamon ranges between levels 5-8. To upscale a Mojyamon perform the following 
 - **Level 6+,** Increase the Mojyamon's Hit Points by 14 & Chakra Points by 9 for every level.
 - **Level 7.** The Mojyamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Mojyamon](https://i.pinimg.com/564x/59/25/b5/5925b5f2d5ff637ce5225329c502350d.jpg) {position:absolute,bottom:190px,left:390px,width:430px,mix-blend-mode:multiply}
+![Mojyamon](https://wikimon.net/images/1/1b/Mojyamon_New_Century.png) {position:absolute,bottom:190px,left:400px,width:450px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:490px,left:40px,margin-bottom:-30px
 ##### Mojyamon
-[Link](https://i.pinimg.com/564x/59/25/b5/5925b5f2d5ff637ce5225329c502350d.jpg)
+[Link](https://wikimon.net/images/1/1b/Mojyamon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -7268,11 +7341,11 @@ Nanimon ranges between levels 5-8. To upscale a Nanimon perform the following st
 - **Level 6+,** Increase the Nanimon's Hit Points by 16 & Chakra Points by 8 for every level.
 - **Level 7.** The Nanimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Nanimon](https://i.pinimg.com/564x/d4/34/40/d434406cbad66c18193124c89d189457.jpg) {position:absolute,bottom:200px,left:420px,width:380px,mix-blend-mode:multiply}
+![Nanimon](https://wikimon.net/images/b/b8/Nanimon_New_Century.png) {position:absolute,bottom:200px,left:420px,width:380px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:30px,left:40px,margin-bottom:-30px
 ##### Nanimon
-[Link](https://i.pinimg.com/564x/d4/34/40/d434406cbad66c18193124c89d189457.jpg)
+[Link](https://wikimon.net/images/b/b8/Nanimon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -8080,11 +8153,11 @@ MoriShellmon ranges between levels 5-8. To upscale a MoriShellmon perform the fo
 - **Level 6+,** Increase the MoriShellmon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Shellmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![MoriShellmon](https://wikimon.net/images/e/ed/Morishellmon.jpg) {position:absolute,bottom:160px,left:400px,width:420px,mix-blend-mode:multiply}
+![MoriShellmon](https://i.pinimg.com/originals/d2/04/71/d20471c795747eaf228f3c945a379cd5.jpg) {position:absolute,bottom:160px,left:400px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:80px,left:160px,margin-bottom:-30px
 ##### MoriShellmon
-[Link](https://wikimon.net/images/e/ed/Morishellmon.jpg)
+[Link](https://i.pinimg.com/originals/d2/04/71/d20471c795747eaf228f3c945a379cd5.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -8164,11 +8237,11 @@ Starmon ranges between levels 5-8. To upscale a Starmon perform the following st
 - **Level 6+,** Increase the Starmon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Starmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Starmon](https://i.pinimg.com/564x/b9/e6/f4/b9e6f4a36f22a55443b8b3b56f4cf174.jpg) {position:absolute,bottom:70px,left:360px,width:500px,mix-blend-mode:multiply}
+![Starmon](https://i.pinimg.com/originals/d6/a9/88/d6a98802162cf6103e0f4d9f415459dd.jpg) {position:absolute,bottom:70px,left:390px,width:450px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:340px,left:260px,margin-bottom:-30px
+{{artist,position:relative,top:120px,left:260px,margin-bottom:-30px
 ##### Starmon
-[Link](https://i.pinimg.com/564x/b9/e6/f4/b9e6f4a36f22a55443b8b3b56f4cf174.jpg)
+[Link](https://i.pinimg.com/originals/d6/a9/88/d6a98802162cf6103e0f4d9f415459dd.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -8244,11 +8317,11 @@ Stingmon ranges between levels 5-8. To upscale a Stingmon perform the following 
 - **Level 6+,** Increase the Stingmon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Stingmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Stingmon](https://i.pinimg.com/564x/87/da/14/87da14a2ab3bc9c1f8f3f8722cc993e6.jpg) {position:absolute,bottom:160px,left:380px,width:480px,mix-blend-mode:multiply}
+![Stingmon](https://wikimon.net/images/4/4c/Stingmon_new_century.png) {position:absolute,bottom:160px,left:390px,width:430px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:120px,left:260px,margin-bottom:-30px
 ##### Stingmon
-[Link](https://i.pinimg.com/564x/87/da/14/87da14a2ab3bc9c1f8f3f8722cc993e6.jpg)
+[Link](https://wikimon.net/images/4/4c/Stingmon_new_century.png)
 }}
 
 {{pageNumber,auto}}
@@ -8321,11 +8394,11 @@ Strikedramon ranges between levels 5-8. To upscale a Strikedramon perform the fo
 - **Level 6+,** Increase the Strikedramon's Hit Points by 15 & Chakra Points by 7 for every level.
 - **Level 7.** The Strikedramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Strikedramon](https://i.pinimg.com/564x/31/ff/73/31ff73f20a729c0e719ea0d91cce4e27.jpg) {position:absolute,bottom:110px,left:380px,width:480px,mix-blend-mode:multiply}
+![Strikedramon](https://wikimon.net/images/4/42/Strikedramon_new_century.jpg) {position:absolute,bottom:110px,left:400px,width:410px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:450px,left:80px,margin-bottom:-30px
 ##### Strikedramon
-[Link](https://i.pinimg.com/564x/31/ff/73/31ff73f20a729c0e719ea0d91cce4e27.jpg)
+[Link](https://wikimon.net/images/4/42/Strikedramon_new_century.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -8485,7 +8558,7 @@ Tankmon ranges between levels 5-8. To upscale a Tankmon perform the following st
 - **Level 6+,** Increase the Tankmon's Hit Points by 11 & Chakra Points by 9 for every level.
 - **Level 7.** The Tankmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Tankmon](https://i.pinimg.com/564x/86/9a/ac/869aacffe9e8f629be2734b160f343b9.jpg) {position:absolute,bottom:120px,left:355px,width:500px,mix-blend-mode:multiply}
+![Tankmon](https://i.pinimg.com/564x/86/9a/ac/869aacffe9e8f629be2734b160f343b9.jpg) {position:absolute,bottom:220px,left:390px,width:440px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:350px,left:10px,margin-bottom:-30px
 ##### Tankmon
@@ -8644,11 +8717,11 @@ Tuskmon ranges between levels 5-8. To upscale a Tuskmon perform the following st
 - **Level 6+,** Increase the Tuskmon's Hit Points by 16 & Chakra Points by 8 for every level.
 - **Level 7.** The Tuskmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Tuskmon](https://i.pinimg.com/564x/7c/e4/bd/7ce4bdec8e2febe78db5198cfbe31f0d.jpg) {position:absolute,bottom:170px,left:420px,width:400px,mix-blend-mode:multiply}
+![Tuskmon](https://wikimon.net/images/d/d0/Tuskmon.gif) {position:absolute,bottom:230px,left:400px,width:410px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:0px,left:30px,margin-bottom:-30px
 ##### Tuskmon
-[Link](https://i.pinimg.com/564x/7c/e4/bd/7ce4bdec8e2febe78db5198cfbe31f0d.jpg)
+[Link](https://wikimon.net/images/d/d0/Tuskmon.gif)
 }}
 
 {{pageNumber,auto}}
@@ -8728,11 +8801,11 @@ Tyrannomon ranges between levels 5-8. To upscale a Tyrannomon perform the follow
 - **Level 6+,** Increase the Tyrannomon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Tyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Tyrannomon](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg) {position:absolute,bottom:160px,left:310px,width:600px,mix-blend-mode:multiply}
+![Tyrannomon](https://wikimon.net/images/a/a8/Tyranomon_New_Century.png) {position:absolute,bottom:160px,left:400px,width:430px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:40px,left:250px,margin-bottom:-30px
 ##### Tyrannomon
-[Link](https://i.pinimg.com/564x/eb/07/34/eb0734cc91659a09c535476a1fab92a1.jpg)
+[Link](https://wikimon.net/images/a/a8/Tyranomon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -9069,11 +9142,11 @@ Veedramon ranges between levels 5-8. To upscale a Veedramon perform the followin
 - **Level 6+,** Increase the Veedramon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Veedramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Veedramon](https://i.pinimg.com/564x/f0/e1/eb/f0e1eb222f09296dc4b2e25b36bcbc0e.jpg) {position:absolute,bottom:190px,left:390px,width:450px,mix-blend-mode:multiply}
+![Veedramon](https://wikimon.net/images/8/8b/V-dramon_New_Century.jpg) {position:absolute,bottom:190px,left:400px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:10px,left:60px,margin-bottom:-30px
 ##### Veedramon
-[Link](https://i.pinimg.com/564x/f0/e1/eb/f0e1eb222f09296dc4b2e25b36bcbc0e.jpg)
+[Link](https://wikimon.net/images/8/8b/V-dramon_New_Century.jpg)
 }}
 
 {{pageNumber,auto}}
@@ -9152,7 +9225,7 @@ Vegiemon ranges between levels 5-8. To upscale a Vegiemon perform the following 
 - **Level 6+,** Increase the Vegiemon's Hit Points by 10 & Chakra Points by 5 for every level.
 - **Level 7.** The Vegiemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Vegiemon](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg) {position:absolute,bottom:70px,left:360px,width:450px,mix-blend-mode:multiply}
+![Vegiemon](https://i.pinimg.com/564x/42/90/3c/42903cdcc560f66342e1f4cfeabf7847.jpg) {position:absolute,bottom:170px,left:390px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:10px,left:30px,margin-bottom:-30px
 ##### Vegiemon
@@ -9408,11 +9481,11 @@ Vilemon ranges between levels 5-8. To upscale a Vilemon perform the following st
 - **Level 6+,** Increase the Vilemon's Hit Points by 8 & Chakra Points by 6 for every level.
 - **Level 7.** The Vilemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Vilemon](https://i.pinimg.com/564x/c0/b3/22/c0b322a7e4b8da9ac157947901c62960.jpg) {position:absolute,bottom:270px,left:370px,width:450px,mix-blend-mode:multiply}
+![Vilemon](https://wikimon.net/images/6/67/Evilmon_New_Century.png) {position:absolute,bottom:270px,left:410px,width:410px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:380px,left:60px,margin-bottom:-30px
+{{artist,position:relative,top:390px,left:90px,margin-bottom:-30px
 ##### Vilemon
-[Link](https://i.pinimg.com/564x/c0/b3/22/c0b322a7e4b8da9ac157947901c62960.jpg)
+[Link](https://wikimon.net/images/6/67/Evilmon_New_Century.png)
 }}
 
 {{pageNumber,auto}}
@@ -9578,11 +9651,11 @@ Wizardmon ranges between levels 5-8. To upscale a Sorcerimon perform the followi
 - **Level 6+,** Increase the Wizardmon's Hit Points by 8 & Chakra Points by 9 for every level.
 - **Level 7.** The Wizardmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Wizardmon](https://i.pinimg.com/564x/2b/01/c2/2b01c285be36fa4f821e36985f9dbe1b.jpg) {position:absolute,bottom:70px,left:270px,width:540px,mix-blend-mode:multiply}
+![Wizardmon](https://wikimon.net/images/d/d7/Wizarmon.png) {position:absolute,bottom:70px,left:320px,width:520px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:70px,left:260px,margin-bottom:-30px
 ##### Wizardmon
-[Link](https://i.pinimg.com/564x/2b/01/c2/2b01c285be36fa4f821e36985f9dbe1b.jpg)
+[Link](https://wikimon.net/images/d/d7/Wizarmon.png)
 }}
 
 {{pageNumber,auto}}
