@@ -1575,7 +1575,7 @@ BlackGuilmon may learn **3 D Rank** jutsu that meet the following requirements:
  }}
 \column
 ## BlackGuilmon
-BlackGuilmon is a youthful dinosaur that has extreme combat potential. Despite acting quite childish, if threatened, it reveals its nature as a bloodthirsty beast. The marking on its abdomen is a symbol representing its inherent potential to either become a powerful threat to, or protector of, the world.
+A Digimon with a ferocious personality characteristic of carnivorous beasts. It is at the same level as Guilmon in terms of parameters. The wild nature of a Virus attribute Digimon shows more strongly in it compared to Guilmon.
 ## Scaling Enemy
 BlackGuilmon ranges between levels 1-4. To upscale a BlackGuilmon perform the following steps at each level.
 - **Level 2+,** Increase the BlackGuilmon's Hit Points by 12 & Chakra Points by 6 for every level.
@@ -6120,6 +6120,86 @@ Growlmon ranges between levels 5-8. To upscale a Growlmon perform the following 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
+\page
+
+{{monster,frame
+## BlackGrowlmon
+*C-Rank, Standard, Large Virus, Dark Dragon/Fire, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 75 (d12) 
+**Chakra Points**  :: 37 (d6)  
+**Speed**       :: 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|16 (+3)|16 (+3)|16 (+3)|6 (-2)|8 (-1)|
+___
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +5, *Int +7*, Wis +0, Cha +1
+**Skills** ::  Athletics +8, Acrobatics +7. Chakra Control +7
+**Senses**               :: passive Perception 8
+___
+***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.   
+:
+***Blood Fury II (Unique)*** When this Digimon is bloodied (below 50% of their maximum HP), they become enraged, gaining 10ft. of movement speed and +3 to all attack rolls but suffering a -2 AC penalty.
+:
+***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack.
+
+Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
+
+### Jutsu  
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Fireball                        
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**)
+
+D-Rank (Cost 5): BOF: Unknowing, Devils Gambit
+
+C-Rank (Cost 9): BOF: Undulation, Falling Blade
+
+### Attacks
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Slashing damage.
+
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Guilmon*** 
+### Evolves Into
+- ***BlackWarGrowlmon***
+- ***SkullGreymon***
+- ***WarGrowlmon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+BlackGrowlmon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword.*
+- *Bukijutsu with the Slashing Weapon Component.*
+  }}
+## BlackGrowlmon
+Unlike a Growmon raised by a Tamer, it can roughly be described as having gone feral. Black Growmon's roar is identical to Growmon's, having the power to shake the solid earth, and before battle it raises its voice to an offensive roar to intimidate the opponent.
+## Scaling Enemy
+BlackGrowlmon ranges between levels 5-8. To upscale a BlackGrowlmon perform the following steps at each level.
+
+- **Level 6+,** Increase the BlackGrowlmon's Hit Points by 15 & Chakra Points by 7 for every level.
+- **Level 7.** The BlackGrowlmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![BlackGrowlmon](https://wikimon.net/images/8/8e/Blackgrowmon_new_century.png) {position:absolute,bottom:40px,left:380px,width:480px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:190px,margin-bottom:-30px
+##### BlackGrowlmon
+[Link](https://wikimon.net/images/8/8e/Blackgrowmon_new_century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 
 {{monster,frame
