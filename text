@@ -7594,7 +7594,6 @@ Nanimon ranges between levels 5-8. To upscale a Nanimon perform the following st
 
 \page
 
-
 {{monster,frame
 ## Numemon
 *C-Rank, Standard, Small Virus, Mollusk/Earth, Prof +4*
@@ -7602,39 +7601,36 @@ Nanimon ranges between levels 5-8. To upscale a Nanimon perform the following st
 **Level:** 5 (10XP)
 ___
 **Armor Class** :: 17 
-**Hit Points**  :: 85 (d12) 
-**Chakra Points**  :: 47 (d6)  
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
 **Speed**       :: 35ft. **Initiative** +6
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|12 (+1)|14 (+2)|20 (+5)|12 (+1)|14 (+2)|8 (-1)|
+|14 (+2)|14 (+2)|14 (+2)|14 (+2)|14 (+2)|10 (+0)|
 ___
-**Saving Throws** :: Str +3, *Dex +6*, *Con +9*, Int +3, *Wis +6*, Cha +1
-**Skills** ::  Nature +5, Survival +6, Intimidation +3         
-**Damage Immunity** :: Poison             
+**Saving Throws** :: Str +4, Dex +4, *Con +6*, Int +4, *Wis +6*, *Cha +4*
+**Skills** ::  Crafting +6, Insight +6, Survival +6         
 **Senses**               :: passive Perception 12
 ___
-***Slime I (Unique)*** All squares within 10-Feet of this creature are considered difficult terrain.
+***Slime I (Unique)*** All squares within 5-Feet of this creature are considered difficult terrain.
 :
-***Poison Resistant II (Unique)*** This creature is immune to *Poison* damage.
+***Shitty Condition (Unique)*** This creature deals *Poop* points instead of damage. Every 15 Poop points is automatically converted to a round of the *Dazed* condition. 
 :
-***Dangerous Aura II (Unique)*** Any creature ends its turn within 10ft of this Digimon takes this creature’s Proficiency bonus in *Poison* damage.
+***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature if they can target other non-friendly creatures.
 
 ### Jutsu  
 
-***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**) 
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
 
-D-Rank (Cost 5): Acid Armor, Acid String, Acid Whips
+D-Rank (Cost 5): Acid Armor, Corrupt Missile, Poisonous Blast
 
-C-Rank (Cost 9): Acidic Blood, Poison Mist Technique
+C-Rank (Cost 9): Stinking Cloud, Venomous Haze
 
 
 ### Attacks
-***Multiattack*** This creature can make two *Tongue Lash* attacks.      
-**Tongue Lash** *Melee Weapon Attack* +7 to hit, reach 10ft., one target. *Hit.* 1d6+3 Poison damage. 
-
-On hit, apply the *Grappled* condition. This creature can only *Grapple* one creature at a time through this effect.
+***Multiattack*** This creature can make two *Poop Throw* attacks.      
+**Poop Throw** *Ranged Weapon Attack* +7 to hit, range 10/60ft., one target. *Hit.* 1d8+3 *Poop* points. 
 
  }}
 
@@ -7667,7 +7663,7 @@ A Mollusk Digimon that, while slug-like in nature, is better known for its assoc
 ## Scaling Enemy
 Numemon ranges between levels 5-8. To upscale a Numemon perform the following steps at each level.
 
-- **Level 6+,** Increase the Numemon's Hit Points by 17 & Chakra Points by 9 for every level.
+- **Level 6+,** Increase the Numemon's Hit Points by 12 & Chakra Points by 7 for every level.
 - **Level 7.** The Numemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Numemon](https://i.pinimg.com/564x/74/62/06/7462063cbd157002e87f90a141c0d09c.jpg) {position:absolute,bottom:90px,left:390px,width:430px,mix-blend-mode:multiply}
@@ -7681,6 +7677,171 @@ Numemon ranges between levels 5-8. To upscale a Numemon perform the following st
 {{footnote Part II - CHAMPION}}
 
 \page
+
+{{monster,frame
+## Geremon
+*C-Rank, Standard, Medium Virus, Mollusk/Earth, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 
+**Hit Points**  :: 70 (d10) 
+**Chakra Points**  :: 48 (d8)  
+**Speed**       :: 35ft. **Initiative** +6
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|18 (+4)|14 (+2)|10 (+0)|8 (-1) |
+___
+**Saving Throws** :: Str +7, Dex +4, *Con +8*, Int +4, *Wis +4*, Cha +1
+**Skills** ::  Athletics +7, Crafting +6, Survival +4         
+**Senses**               :: passive Perception 10
+___
+***Slime I (Unique)*** All squares within 5-Feet of this creature are considered difficult terrain.
+:
+***Shitty Condition (Unique)*** This creature deals *Poop* points instead of damage. Every 15 Poop points is automatically converted to a stack of the *Fear* condition. 
+:
+***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
+
+### Jutsu  
+
+***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
+
+D-Rank (Cost 5): Acid Armor, Corrupt Missile, Poisonous Blast
+
+C-Rank (Cost 9): Stinking Cloud, Venomous Haze
+
+
+### Attacks
+***Multiattack*** This creature can make two *Poop Throw* attacks.      
+**Poop Throw** *Ranged Weapon Attack* +8 to hit, range 10/60ft., one target. *Hit.* 1d8+4 *Poop* points. 
+
+ }}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Gabumon***
+- ***Armadillomon***
+
+### Evolves Into
+- ***BlackKingNumemon***
+- ***Etemon***
+- ***Monzaemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+Geremon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu that deal Acid damage.*
+- *Ninjutsu that deal Poison damage.*
+- *Ninjutsu that inflict the Envenomed condition.*
+  }}
+  
+\column
+  
+## Geremon
+A Mollusk Digimon belonging to the same species as Numemon. Although its offensive power is low, it makes up for that with its ferocity, which is such that it will attack no matter who the opponent is. The opponent would then turn the tables on it, as expected, but its obstinacy leads it to immediately forget such instances and continue to endlessly start fights with tough opponents.
+## Scaling Enemy
+Geremon ranges between levels 5-8. To upscale a Geremon perform the following steps at each level.
+
+- **Level 6+,** Increase the Geremon's Hit Points by 14 & Chakra Points by 9 for every level.
+- **Level 7.** The Geremon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Geremon](https://i.pinimg.com/originals/0a/be/47/0abe478ad0d94e08d5b4a0eb63db6f1f.jpg) {position:absolute,bottom:90px,left:390px,width:430px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:120px,left:260px,margin-bottom:-30px
+##### Geremon
+[Link](https://i.pinimg.com/originals/0a/be/47/0abe478ad0d94e08d5b4a0eb63db6f1f.jpghttps://i.pinimg.com/564x/74/62/06/7462063cbd157002e87f90a141c0d09c.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+\page
+
+{{monster,frame
+## ShellNumemon
+*C-Rank, Standard, Small Virus, Crustacean/Water, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 60 (d10) 
+**Chakra Points**  :: 38 (d8)  
+**Speed**       :: 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|10 (+0)|14 (+2)|16 (+3)|12 (+1)|10 (+0)|
+___
+**Saving Throws** :: *Str +8*, Dex +2, *Con +6*, *Int +7*, Wis +3, Cha +2
+**Skills** ::  Medicine +5, Crafting +7, Survival +6         
+**Senses**               :: passive Perception 11
+___
+***Slime I (Unique)*** All squares within 5-Feet of this creature are considered difficult terrain.
+:
+***Shitty Condition (Unique)*** This creature deals *Poop* points instead of damage. Every 15 Poop points is automatically converted to a stack of the *Slowed* condition. 
+:
+***Alternative Defence (Unique)*** This Digimon uses its Strength Modifier instead of Dexterity for AC calculations.
+
+### Jutsu  
+
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
+
+D-Rank (Cost 5): Acid Armor, Corrupt Missile, Poisonous Blast
+
+C-Rank (Cost 9): Stinking Cloud, Venomous Haze
+### Attacks
+***Multiattack*** This creature can make two *Poop Throw* attacks.      
+**Poop Throw** *Ranged Weapon Attack* +9 to hit, range 10/60ft., one target. *Hit.* 1d8+5 *Poop* points. 
+
+ }}
+
+
+{{monster,frame
+
+### Evolves From
+- ***Syakomon***
+- ***Armadillomon***
+
+### Evolves Into
+- ***BlackKingNumemon***
+- ***Etemon***
+- ***Monzaemon***
+
+ }}
+ 
+{{monster,frame
+### Alternative Jutsu List
+ShellNumemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Ninjutsu that deal Acid damage.*
+- *Ninjutsu that deal Poison damage.*
+- *Ninjutsu that inflict the Envenomed condition.*
+  }}
+  
+\column
+  
+## ShellNumemon
+A Crustacean Digimon, it was a Numemon that made use of its intelligence and found a shell to cover itself in order to protect its body. As a result, while it is slightly more intelligent than Numemon, it in turn grew a cowardly personality, and will retreat into its shell in shock at even the slightest disturbance. Its defense is extremely high while it is holed up in its shell, remaining firm even when it is kicked or stepped on.
+## Scaling Enemy
+ShellNumemon ranges between levels 5-8. To upscale a ShellNumemon perform the following steps at each level.
+
+- **Level 6+,** Increase the ShellNumemon's Hit Points by 12 & Chakra Points by 7 for every level.
+- **Level 7.** The ShellNumemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![ShellNumemon](https://wikimon.net/images/b/ba/KaratukiNumemon_Linkz.png) {position:absolute,bottom:90px,left:390px,width:430px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:120px,left:40px,margin-bottom:-30px
+##### ShellNumemon
+[Link](https://wikimon.net/images/b/ba/KaratukiNumemon_Linkz.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
+\page
+
 {{monster,frame
 ## Octomon
 *C-Rank, Standard, Medium Virus, Mollusk/Water, Prof +4*
@@ -9496,7 +9657,7 @@ ___
 :
 ***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
 :
-***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature.
+***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature if they can target other non-friendly creatures.
 
 ### Jutsu  
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
@@ -9579,7 +9740,7 @@ ___
 :
 ***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
 :
-***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature.
+***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature if they can target other non-friendly creatures.
 
 ### Jutsu  
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
@@ -9655,14 +9816,16 @@ ___
 |16 (+3)|16 (+3)|18 (+4)|12 (+1)|12 (+1)|6 (-2) |
 ___ 
 **Saving Throws** :: Str +5, *Dex +7*, *Con +8*, *Int +5*, Wis +3, Cha +0
-**Skills** ::  Athletics +7, Martial Arts +7, Nature +5          
+**Skills** ::  Athletics +7, Martial Arts +7, Nature +5  
+**Damage Resistance** :: Cold        
+**Damage Vulnerablity** :: Fire 
 **Senses**               :: passive Perception 11
 ___
 ***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
 :
-***Dirty Tactics I (Unique)*** Dirty Tactics I.	When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll.
+***Dirty Tactics II (Unique)*** When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +5 to the attack roll.
 :
-***Noxious Aura II (Unique)*** All creatures within 10-feet of this Digimon have disadvantage when targeting this creature.
+***Plant Power I (Unique)*** This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast.
 
 ### Jutsu  
 ***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**) 
@@ -9678,7 +9841,7 @@ C-Rank (Cost 9): Break Spiral
 D-Rank (Cost 5): Chain Pull, Chained Embrace
 ### Attacks
 ***Multiattack*** This creature can make two *Lash* attacks.      
-**Lash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage. 
+**Wine Smash** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage. 
 
 On hit, apply the *Grappled* condition. This creature can only *Grapple* one creature at a time through this effect.
 
@@ -18770,8 +18933,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Natural Armor II.  | This creature adds an additional +3 to AC calculation. |
 | Natural Armor III.  | This creature adds an additional +4 to AC calculation. |
 | Natural Armor IV.  | This creature adds an additional +5 to AC calculation. |
-| Noxious Aura I. | All creatures within 5-feet of this Digimon have disadvantage when targeting this creature. |
-| Noxious Aura II. | All creatures within 10-feet of this Digimon have disadvantage when targeting this creature. |
+| Noxious Aura I. | All creatures within 5-feet of this Digimon have disadvantage when targeting this creature if they can target other non-friendly creatures. |
+| Noxious Aura II. | All creatures within 10-feet of this Digimon have disadvantage when targeting this creature if they can target other non-friendly creatures. |
 | Noxious Aura III. | All creatures within 15-feet of this Digimon have disadvantage when targeting this creature. |
 | Oppressive Presence I. | Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear condition. |
 | Oppressive Presence II. | Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions. |
@@ -18847,6 +19010,7 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Savage Flurry I. | This Digimon gains an additional attack as part of the Multiattack feature. |
 | Savage Flurry II. | This Digimon gains additional two attacks as part of the Multiattack feature. |
 | Savage Flurry III. | This Digimon gains additional three attacks as part of the Multiattack feature. |
+| Shitty Condition | This creature deals Poop points instead of damage. Every 10 Poop points is automatically converted to a (choose) condition. |
 | Self-Destruct | Once per rest, all creatures within 20-feet of this creature must make a Dexterity Saving Throw vs this creature’s highest save DC. On a failure, they take Xd10 fire damage (where X = Constitution Modifier). On a success, they take half this damage. This Digimon is dead, leaves no traces and doesn't award any XP. |
 | Sharp Weapons I. | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the Bleeding condition. |
 | Sharp Weapons II. | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the Bleeding condition. |
