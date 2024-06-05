@@ -3049,20 +3049,20 @@ Airdramon ranges between levels 5-8. To upscale a Airdramon perform the followin
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 
+**Armor Class** :: 17 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|12 (+1)|16 (+3)|16 (+3)|16 (+3)|10 (+0)|
+|14 (+2)|14 (+2)|16 (+3)|10 (+0)|16 (+3)|10 (+0)|
 ___
-**Saving Throws** :: Str +2, Dex +3, Con +5, *Int +7*, *Wis +7*, *Cha +4*
-**Skills** ::  Chakra Control +7, History +7, Insight +7   
+**Saving Throws** :: Str +4, Dex +4, Con +5, *Int +4*, *Wis +7*, *Cha +4*
+**Skills** ::  Chakra Control +7, History +4, Insight +7   
 **Senses**               :: passive Perception 13
 ___
-***Alternative Defence (Unique)*** This creature uses its Wisdom Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
 :
@@ -3079,12 +3079,12 @@ C-Rank (Cost 9): Rasengan
 D-Rank (Cost 5): Compelled Duel                                 
 
 C-Rank (Cost 9): Battle Sense  
-***Bukijutsu*** +6 to hit, (**Bukijutsu save DC 13**) 
+***Bukijutsu*** +7 to hit, (**Bukijutsu save DC 14**) 
 
 D-Rank (Cost 5): Monkey Kings Fang                                 
 ### Attacks
 ***Multiattack*** This creature can make two *Angel Rod* attacks.    
-**Angel Rod** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
+**Angel Rod** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+3 Bludgeoning damage.
 
 
  }}
@@ -3107,8 +3107,6 @@ Angemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following re
 }}
   
 
-
-\column
 ## Angemon
 With six shining wings and a body clad in pure white cloth, this Digimon resembles that of a traditional angel. Its strong sense of justice means that when it sees evil, it will not relent until that evil is completely annihilated. It is bitter rivals with Devimon who is said to have originally belonged to the same species. 
 
@@ -3119,7 +3117,7 @@ Angemon ranges between levels 5-8. To upscale a Angemon perform the following st
 - **Level 7.** The Angemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
 
-![Angemon](https://i.pinimg.com/564x/db/2f/e2/db2fe227d4206bbece4f11d445f21758.jpg) {position:absolute,bottom:140px,left:320px,width:550px,mix-blend-mode:multiply}
+![Angemon](https://i.pinimg.com/564x/db/2f/e2/db2fe227d4206bbece4f11d445f21758.jpg) {position:absolute,bottom:40px,left:320px,width:550px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:430px,left:190px,margin-bottom:-30px
 ##### Angemon
@@ -3135,24 +3133,24 @@ Angemon ranges between levels 5-8. To upscale a Angemon perform the following st
 ## Pidmon
 *C-Rank, Standard, Medium Vaccine, Angel/Fire, Prof +4*
 
-**Armor Class** :: 18 
+**Armor Class** :: 17 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|16 (+3)|16 (+3)|16 (+3)|12 (+1)|10 (+0)|
+|14 (+2)|14 (+2)|16 (+3)|10 (+0)|16 (+3)|10 (+0)|
 ___
-**Saving Throws** :: Str +2, Dex +5, Con +5, *Int +7*, *Wis +5*, *Cha +4*
-**Skills** ::  Chakra Control +7, History +7, Insight +7   
-**Senses**               :: passive Perception 11
+**Saving Throws** :: Str +4, Dex +4, Con +5, *Int +4*, *Wis +7*, *Cha +4*
+**Skills** ::  Chakra Control +7, History +4, Insight +7   
+**Senses**               :: passive Perception 13
 ___
-***Potential II (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +2 to all attack rolls.
+***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
 :
-***Reassuring Presence I (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear* condition.
+***Reassuring Presence II (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 
 ### Jutsu  
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
@@ -3167,7 +3165,7 @@ D-Rank (Cost 5): BOF: Unknowing, Dragon Fly Dash
 C-Rank (Cost 9): Monkey Kings Arrogance  
 ### Attacks
 ***Multiattack*** This creature can make two *Angel Rod* attacks.    
-**Angel Rod** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+4 Bludgeoning damage.
+**Angel Rod** *Melee Weapon Attack* +8 to hit, reach 10ft., one target. *Hit.* 1d8+3 Bludgeoning damage.
 }}
 
 {{monster,frame
@@ -4275,22 +4273,22 @@ Devidramon ranges between levels 5-8. To upscale a Devidramon perform the follow
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 
+**Armor Class** :: 17 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|12 (+1)|16 (+3)|16 (+3)|10 (+0)|16 (+3)|
+|14 (+2)|14 (+2)|16 (+3)|10 (+0)|10 (+0)|16 (+3)|
 ___
-**Saving Throws** :: Str +2, Dex +3,*Con +7*, *Int +7*, Wis +2, *Cha +7*
-**Skills** ::  Chakra Control +7, Intimidation +7, Deception +7  
+**Saving Throws** :: Str +4, Dex +4, Con +5, *Int +4*, *Wis +4*, *Cha +7*
+**Skills** ::  Chakra Control +7, Intimidation  +7, Deception  +7   
 **Senses**               :: passive Perception 10
 ___
-***Alternative Defence I (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Charisma Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
-***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
 ***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
 
@@ -4308,7 +4306,7 @@ C-Rank (Cost 9): Corruption: Cruelty
 
 ### Attacks
 ***Multiattack*** This creature can make two *Dark Claw* attacks.      
-**Dark Claw** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+2 Necrotic damage.
+**Dark Claw** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Necrotic damage.
 }}
 
 {{monster,frame
@@ -4325,7 +4323,7 @@ C-Rank (Cost 9): Corruption: Cruelty
 ### Alternative Jutsu List
 Devimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu that deals Necrotic Damage*
-- *All Genjutsu*
+- *Genjutsu that deals no damage*
 }}
 
 \column
@@ -4338,7 +4336,7 @@ Devimon ranges between levels 5-8. To upscale a Devimon perform the following st
 - **Level 6+,** Increase the Devimon's Hit Points by 11 & Chakra Points by 9 for every level.
 - **Level 7.** The Devimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Devimon](https://i.pinimg.com/564x/77/fb/b6/77fbb6c270370b1076c54128e8359fe5.jpg) {position:absolute,bottom:100px,left:400px,width:430px,mix-blend-mode:multiply}
+![Devimon](https://i.pinimg.com/564x/77/fb/b6/77fbb6c270370b1076c54128e8359fe5.jpg) {position:absolute,bottom:10px,left:400px,width:430px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:230px,left:50px,margin-bottom:-30px
 ##### Devimon
@@ -4356,22 +4354,22 @@ Devimon ranges between levels 5-8. To upscale a Devimon perform the following st
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 
+**Armor Class** :: 17 
 **Hit Points**  :: 55 (d8) 
 **Chakra Points**  :: 49 (d10)  
-**Speed**       :: 25ft., Fly 30ft. **Initiative** +3
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|12 (+1)|16 (+3)|16 (+3)|10 (+0)|16 (+3)|
+|14 (+2)|14 (+2)|16 (+3)|10 (+0)|10 (+0)|16 (+3)|
 ___
-**Saving Throws** :: Str +2, Dex +3,*Con +7*, *Int +7*, Wis +2, *Cha +7*
-**Skills** ::  Chakra Control +7, Intimidation +7, Deception +7  
+**Saving Throws** :: Str +4, Dex +4, Con +5, *Int +4*, *Wis +4*, *Cha +7*
+**Skills** ::  Chakra Control +7, Intimidation  +7, Deception  +7   
 **Senses**               :: passive Perception 10
 ___
-***Alternative Defence I (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Charisma Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
-***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
 ***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
 
@@ -4389,7 +4387,7 @@ C-Rank (Cost 9): Corruption: Baleful Inceptions
 
 ### Attacks
 ***Multiattack*** This creature can make two *Dark Claw* attacks.      
-**Dark Claw** *Melee Weapon Attack* +6 to hit, reach 5ft., one target. *Hit.* 1d8+2 Necrotic damage.
+**Dark Claw** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+3 Necrotic damage.
 }}
 
 {{monster,frame
@@ -4406,7 +4404,7 @@ C-Rank (Cost 9): Corruption: Baleful Inceptions
 ### Alternative Jutsu List
 IceDevimon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Water Release Keyword*
-- *All Genjutsu*
+- *Genjutsu that deals no damage*
 }}
 
 \column
@@ -13324,20 +13322,20 @@ Machgaogamon ranges between levels 9-12. To upscale a Machgaogamon perform the f
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 22  
+**Armor Class** :: 20  
 **Hit Points**  :: 126 (d10) 
 **Chakra Points**  :: 75 (d8) 
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|12 (+1)|16 (+3)|18 (+4)|20 (+5)|12 (+1)|
+|14 (+2)|16 (+3)|16 (+3)|10 (+0)|20 (+5)|12 (+1)|
 ___
-**Saving Throws** :: Str +2, Dex +3, Con +5, *Int +9*, *Wis +10*, *Cha +6*
-**Skills** ::  Chakra Control+8 Medicine+10 Persuasion+6 Ninshou+9
+**Saving Throws** :: Str +4, Dex +5, Con +5, *Int +5*, *Wis +10*, *Cha +6*
+**Skills** ::  Chakra Control+8 History+5 Persuasion+6 Insight+10
 **Senses**               :: passive Perception 15
 ___
-***Alternative Defence (Unique)*** This creature uses its Wisdom Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Potential III (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +3 to all attack rolls.
 :
@@ -13345,15 +13343,20 @@ ___
 :
 ***Evil Fighter II (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls.
 ### Jutsu     
-***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
 
-C-Rank (Cost 9): Lightning Fang, Tearing Gale Palm, Vaccum Shield
+B-Rank (Cost 14): SA: Banishing Seal  
+***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**) 
 
-B-Rank (Cost 14): False Darkness, Strike Armor
+C-Rank (Cost 9): Thought Shield, Zone of Truth
 
+B-Rank (Cost 14): Bless  
+***Bukijutsu*** +10 to hit, (**Bukijutsu save DC 16**) 
+
+C-Rank (Cost 9): Afterglow
 ### Attacks  
 ***Multiattack*** This creature can make two *Holy Blade* attacks.            
-**Holy Blade** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Lightning damage. 
+**Holy Blade** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+5 Slashing damage. 
 
  }}
 
@@ -13371,9 +13374,8 @@ B-Rank (Cost 14): False Darkness, Strike Armor
 {{monster,frame
 ### Alternative Jutsu List
 MagnaAngemon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Lightning Release Keyword*
-- *Ninjutsu with the Wind Release Keyword*
-- *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.*
+- *Ninjutsu with the Fuinjutsu Keyword*
+- *Genjutsu that does not target hostile creatures or deal damage*
   }}
 ## MagnaAngemon
 An Angel Digimon that serves as a judge, jury and executioner for those who would do wrong in this world. While it has kindness in its heart, this is often overpowered by its unwavering sense of justice.     
@@ -13385,7 +13387,7 @@ MagnaAngemon ranges between levels 9-12. To upscale a MagnaAngemon perform the f
 
 ![MagnaAngemon](https://i.pinimg.com/564x/9c/f9/24/9cf924b738018a147ec2141d71164795.jpg) {position:absolute,bottom:30px,left:405px,width:400px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:330px,left:190px,margin-bottom:-30px
+{{artist,position:relative,top:380px,left:190px,margin-bottom:-30px
 ##### MagnaAngemon
 [Link](https://i.pinimg.com/564x/9c/f9/24/9cf924b738018a147ec2141d71164795.jpg)
 }}
@@ -15017,6 +15019,86 @@ Myotismon ranges between levels 9-12. To upscale a Myotismon perform the followi
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
 
+\page
+
+{{monster,frame
+## NeoDevimon
+*B-Rank, Standard, Medium Virus, Demon/Dark, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 20  
+**Hit Points**  :: 126 (d10) 
+**Chakra Points**  :: 75 (d8) 
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|16 (+3)|16 (+3)|10 (+0)|12 (+1)|20 (+5)|
+___
+**Saving Throws** :: Str +4, Dex +5, Con +5, *Int +5*, *Wis +6*, *Cha +10*
+**Skills** ::  Chakra Control +8, Deception +10, Intimidation +10, Illusions +6
+**Senses**               :: passive Perception 11
+___
+***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
+:
+***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+:
+***Oppressive Presence III (Unique)*** Hostile creatures within 20ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
+:
+***Murderer II (Unique)*** This creature gains +5 to attack and damage rolls against any Human or Humanoid creature.
+### Jutsu     
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
+
+C-Rank (Cost 9): Acidic Blood, Encoraching Entrophy
+
+B-Rank (Cost 14): Acidic Blade  
+***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**) 
+
+C-Rank (Cost 9): Curroption: Hatred
+
+B-Rank (Cost 14): Unmistakable Fear
+### Attacks  
+***Multiattack*** This creature can make two *Dark Claw* attacks.            
+**Dark Claw** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+5 Slashing damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Devimon***
+- ***IceDevimon***
+
+### Evolves Into
+- ***Deamon***
+- ***DoneDevimon***
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+NeoDevimon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu that deals Necrotic or Poison damage*
+- *Genjutsu that does not target hostile creatures or deal damage*
+  }}
+  
+## NeoDevimon
+An evolved form of Devimon that was enhanced by someone. It is an Artificial Digimon that was artificially strengthened and completely controlled, even as far as its own will. The mask which covers its face suppresses Neo Devimon's own power, and it is said that it is worn in order to control its will.     
+## Scaling Enemy
+NeoDevimon ranges between levels 9-12. To upscale a NeoDevimon perform the following steps at each level.
+
+- **Level 10.** The NeoDevimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the NeoDevimon's Hit Points by 14 & Chakra Points by 8 for every level.
+
+![NeoDevimon](https://i.pinimg.com/originals/83/ce/10/83ce1005615c82d0008746e341909d60.jpg) {position:absolute,bottom:50px,left:370px,width:480px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:180px,left:10px,margin-bottom:-30px
+##### NeoDevimon
+[Link](https://i.pinimg.com/originals/83/ce/10/83ce1005615c82d0008746e341909d60.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
 \page
 {{monster,frame
 ## Okuwamon
