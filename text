@@ -7252,7 +7252,6 @@ Lavorvomon ranges between levels 5-8. To upscale a Lavorvomon perform the follow
 
 \page
 
-
 {{monster,frame
 ## Leomon
 *C-Rank, Standard, Medium Vaccine, Beast/Earth, Prof +4*
@@ -7279,14 +7278,16 @@ ___
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 ### Jutsu  
 
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
 
-D-Rank (Cost 5): Blazing Hands   
+D-Rank (Cost 5): Rushing Lion
+
+C-Rank (Cost 9): Beast  
 ***Bukijutsu*** +9 to hit, (**Genjutsu save DC 16**) 
 
 D-Rank (Cost 5): 1-Strike Slash,  Weapon Deflect
 
-C-Rank (Cost 9): Heaven Cutter, Shockwave Slash
+C-Rank (Cost 9): Heaven Cutter
 
 ### Attacks
 ***Multiattack*** This creature can make two *Beast Sword* attacks.      
@@ -7337,8 +7338,6 @@ Leomon ranges between levels 5-8. To upscale a Leomon perform the following step
 {{footnote Part II - CHAMPION}}
 
 \page
-
-
 {{monster,frame
 ## MadLeomon
 *C-Rank, Standard, Medium Vaccine, Beast/Earth, Prof +4*
@@ -7364,15 +7363,16 @@ ___
 :
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 ### Jutsu  
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
 
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+D-Rank (Cost 5): Rushing Lion
 
-D-Rank (Cost 5): Blazing Hands   
+C-Rank (Cost 9): Beast   
 ***Bukijutsu*** +9 to hit, (**Genjutsu save DC 16**) 
 
-D-Rank (Cost 5): 1-Strike Slash,  BOB: Fanh
+D-Rank (Cost 5): 1-Strike Slash,  BOB: Fang
 
-C-Rank (Cost 9): BOB: Devour, Front Beheading
+C-Rank (Cost 9): BOB: Devour
 
 ### Attacks
 ***Multiattack*** This creature can make two *Beast Sword* attacks.      
@@ -8022,14 +8022,14 @@ ___
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 
 ### Jutsu 
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+***Taijutsu*** +9 to hit, (**Ninjutsu save DC 16**)
 
-D-Rank (Cost 5): Blazing Hands 
+C-Rank (Cost 9): Beast  
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
-D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+D-Rank (Cost 5): 2-Cross Strike, BOE: Smash, BOB: Fang
 
-C-Rank (Cost 9): BOB: Devour, Earth Breaker
+C-Rank (Cost 9): Earth Breaker
 ### Attacks
 ***Multiattack*** This creature can make two *Bone Club* attacks.      
 **Bone Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
@@ -8054,7 +8054,7 @@ C-Rank (Cost 9): BOB: Devour, Earth Breaker
 {{monster,frame
 ### Alternative Jutsu List
 Ogremon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword*
+- *Any Taijutsu*
 - *Bukijutsu with the Bludgeoning Weapon Component*
   }}
 \column
@@ -8104,14 +8104,14 @@ ___
 ***Haymaker II (Unique)*** This Digimon gains a +2 to their Critical Threat Range on all weapon and jutsu attack rolls.
 
 ### Jutsu  
-***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**)
 
-D-Rank (Cost 5): Water Palm Blade  
+C-Rank (Cost 9): Beast  
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
-D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
+D-Rank (Cost 5): 2-Cross Strike, BOW: Surface, BOB: Fang
 
-C-Rank (Cost 9): BOW: Wheel, Earth Breaker
+C-Rank (Cost 9): Earth Breaker
 ### Attacks
 ***Multiattack*** This creature can make two *Bone Club* attacks.      
 **Ice Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
@@ -8135,7 +8135,7 @@ C-Rank (Cost 9): BOW: Wheel, Earth Breaker
 {{monster,frame
 ### Alternative Jutsu List
 Hyougamon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Water Release Keyword*
+- *Any Taijutsu*
 - *Bukijutsu with the Bludgeoning Weapon Component*
   }}
 \column
@@ -8187,11 +8187,14 @@ ___
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 12**)
 
 D-Rank (Cost 5): Lightning Ball  
+***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
+
+C-Rank (Cost 9): Beast  
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
 D-Rank (Cost 5): 2-Cross Strike, BOE: Smash
 
-C-Rank (Cost 9): BOW: Claws, Earth Breaker
+C-Rank (Cost 9): BOW: Claws
 ### Attacks
 ***Multiattack*** This creature can make two *Bone Club* attacks.      
 **Bone Club** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
@@ -8676,9 +8679,9 @@ D-Rank (Cost 5): Compelled Duel, Hypnosis
 C-Rank (Cost 9): Thought Shield    
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
-D-Rank (Cost 5): Kunai Assault
+D-Rank (Cost 5): Iron Strike
 
-C-Rank (Cost 9): Tankuki's Trickery
+C-Rank (Cost 9): Leaf Sky Breaker
 ### Attacks
 ***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
 **Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+5 Bludgeoning damage.
@@ -12463,7 +12466,7 @@ ___
 C-Rank (Cost 9): WR: Wind Friction Shatter       
 ***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**)          
 
-C-Rank (Cost 9): 10 Count, Break Spiral
+C-Rank (Cost 9): 10 Count, Beast
 
 B-Rank (Cost 14): Cherry Blossom Impact, King's Fist
 
@@ -14859,7 +14862,82 @@ Monzaemon ranges between levels 9-12. To upscale a Monzaemon perform the followi
 
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+\page
 
+{{monster,frame
+## WaruMonzaemon
+*B-Rank, Standard, Large Vaccine, Puppet/Free, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 168 (d10) 
+**Chakra Points**  :: 84 (d8)  
+**Speed**       :: 40ft.   **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|14 (+2)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|20 (+5)|
+___
+**Saving Throws** :: *Str +7*, Dex +4, Con +6, Int +2, *Wis +7*, *Cha +10*
+**Skills** ::  Athletics +7, Persuasion +10, Deception +10, Performance +10
+**Senses**               :: passive Perception 12
+___
+***Corrupting Effect III (Unique)*** When this Digimon casts a jutsu that requires a Intelligence saving throw, if a creature fails by 5 or more, they gain 2 stacks of the *Fear* condition.
+:
+***Durable II (Unique)*** This creature has its Hit Points increased by 25%.
+:
+***Efficient Mind III (Unique)*** All Genjutsu have their costs reduced by 3 Chakra Point.
+:
+***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
+### Jutsu   
+***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**)        
+
+C-Rank (Cost 6): Alienation, False Visions, Song of Pain 
+
+B-Rank (Cost 11): Memory Domination, Slow
+ 
+### Attacks      
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
+**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d10+4 Bludgeoning damage. 
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***BlackGarurumon***
+- ***Kyubimon***
+- ***Mojyamon***
+- ***Numemon***
+
+
+### Evolves Into
+- ***Minervamon***
+- ***ShinMonzaemon***
+
+ }}
+{{monster,frame
+### Alternative Jutsu List
+WaruMonzaemon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements:  
+- *Any Genjutsu.*
+  }}
+## WaruMonzaemon
+Similar to Monzaemon, its true form is unclear, but the peeking out of its strange, shining eyes from within is eerie. Its personality is the epitome of wickedness, and it is malicious and treacherous. Its left arm is equipped with the character "Evil" and the powerful "Bear Claw" of a grizzly bear.
+## Scaling Enemy
+WaruMonzaemon ranges between levels 9-12. To upscale a WaruMonzaemon perform the following steps at each level.
+
+- **Level 10.** The Monzaemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Monzaemon's Hit Points by 18 & Chakra Points by 9 for every level.
+
+![WaruMonzaemon](https://wikimon.net/images/f/ff/WaruMonzaemon_New_Century.png) {position:absolute,bottom:150px,left:360px,width:480px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:30px,left:50px,margin-bottom:-30px
+##### WaruMonzaemon
+[Link](https://wikimon.net/images/f/ff/WaruMonzaemon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
 \page
 
 {{monster,frame
@@ -15365,11 +15443,12 @@ ___
 ***Alternative Focus (Unique)*** When this Digimon would deal *fire* damage, it can instead choose to deal *cold* damage.
 ### Jutsu 
           
-***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 15**)          
+***Ninjutsu*** +9 to hit, (**Ninjutsu save DC 15**)                       
 
-C-Rank (Cost 9): Great Fireball               
+B-Rank (Cost 14): Pyronado    
+***Taijutsu*** +13 to hit, (**Taijutsu save DC 18**)          
 
-B-Rank (Cost 14): Pyronado             
+C-Rank (Cost 9): Beast  
 ***Bukijutsu*** +13 to hit, (**Bukijutsu save DC 18**)          
 
 C-Rank (Cost 9): Heaven Cutter, Shockwave Slash
