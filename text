@@ -5651,19 +5651,17 @@ ___
 :
 ***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
 
-### Jutsu  
-***Ninjutsu*** +6 to hit, (**Ninjutsu save DC 13**)
-
-D-Rank (Cost 5): Healing Aura                     
+### Jutsu                     
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
 
-D-Rank (Cost 5): Hypnosis                   
+D-Rank (Cost 5): Hypnosis      
+
+C-Rank (Cost 9): Cat Nap 
 ***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
-D-Rank (Cost 5): Multipoint Strike 
+D-Rank (Cost 5): Multipoint Strike, FS: Cross Cut
 
-C-Rank (Cost 9): Afterglow, Crescent Moon Beheading        
-
+C-Rank (Cost 9): Front Beheading        
 ### Attacks
 ***Multiattack*** This creature can make three *Slash* attacks.      
 **Slash** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d4+4 Slashing damage.
@@ -5688,9 +5686,9 @@ C-Rank (Cost 9): Afterglow, Crescent Moon Beheading
 BlackGatomon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
 - *Bukijutsu with the Slashing Weapon Component*
 - *Genjutsu with the Visual Component*
-- *Ninjutsu with the Medical Keyword that does not target hostile creatures or deal damage.* 
   }}
   
+\column
 ## BlackGatomon
 A virus type variant of Gatomon that has a pitch black fur coat. BlackGatomon is both malicious and prideful; not above bullying weaker Digimon just to feel a sense of power. This mutation of Gatomon is quite rare, leading to a low population.
 ## Scaling Enemy
@@ -5708,7 +5706,87 @@ BlackGatomon ranges between levels 5-8. To upscale a BlackGatomon perform the fo
 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
+\page
 
+{{monster,frame
+## Mikemon
+*C-Rank, Standard, Small Vaccine, Holy Beast/Light, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 18 
+**Hit Points**  :: 50 (d8) 
+**Chakra Points**  :: 44 (d10)  
+**Speed**       :: 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|8 (-1) |16 (+3)|14 (+2)|14 (+2)|16 (+3)|12 (+1)|
+___
+**Saving Throws** :: Str +1, *Dex +7*, Con +4, Int +4, *Wis +7*, *Cha +5*
+**Skills** ::  Acrobatics +8, Stealth +8, Medicine +7  
+**Senses**               :: passive Perception 13
+___
+***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
+:
+***Lucky Guard II (Unique)*** Attacks againsts this creature have their critical threat range reduced by -2.
+:
+***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+
+### Jutsu  
+***Taijutsu*** +8 to hit, (**Taijutsu save DC 15**)
+
+D-Rank (Cost 5): Bestial Fury Kick, Dampsey Roll                 
+
+C-Rank (Cost 9): 10-Count  
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): Multipoint Strike 
+
+C-Rank (Cost 9): Front Beheading  
+### Attacks
+***Multiattack*** This creature can make three *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d4+3 Slashing damage.
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Salamon***
+### Evolves Into
+- ***Angewomon***
+- ***Lilamon***
+- ***Pandamon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Mikemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Any Taijutsu*
+- *Bukijutsu with the Slashing Weapon Component*
+- *Genjutsu with the Visual Component*
+}}
+  
+\column
+
+## Mikemon
+As it is a very intelligent Digimon, it is usually calm and docile, but when it comes to battle it makes sport of the enemy with its nimble movements, and fights using its specialty martial arts.
+## Scaling Enemy
+Mikemon ranges between levels 5-8. To upscale a Mikemon perform the following steps at each level.
+
+- **Level 6+,** Increase the Mikemon's Hit Points by 10 & Chakra Points by 8 for every level.
+- **Level 7.** The Mikemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Mikemon](https://pbs.twimg.com/media/FH0E6WmWQAIWffe.png) {position:absolute,bottom:130px,left:380px,width:530px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:70px,left:100px,margin-bottom:-30px
+##### Mikemon
+[Link](https://pbs.twimg.com/media/FH0E6WmWQAIWffe.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 
 {{monster,frame
@@ -10645,20 +10723,20 @@ Andromon ranges between levels 9-12. To upscale a Andromon perform the following
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 22 
+**Armor Class** :: 20 
 **Hit Points**  :: 108 (d8) 
 **Chakra Points**  :: 85 (d10)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +4
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|14 (+2)|16 (+3)|16 (+3)|20 (+5)|12 (+1)|
+|10 (+0)|16 (+3)|16 (+3)|10 (+0)|22 (+6)|12 (+1)|
 ___
-**Saving Throws** :: Str +2, *Dex +7*, Con +5, Int +5, *Wis +10*, *Cha+6*
-**Skills** ::  History +11, Ninshou +11, Chakra Control +9, Investigation +11   
-**Senses**               :: passive Perception 12
+**Saving Throws** :: Str +2, Dex +5, Con +5, *Int +5*, *Wis +11*, *Cha +6*
+**Skills** ::  History +5, Medicine +11, Chakra Control +8, Insight +11   
+**Senses**               :: passive Perception 16
 ___
-***Alternative Defense (Unique)*** This creature uses its Wisdom Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Whisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Holy Ring III (Unique)*** As a bonus action, this Digimon may target a creature within 30ft of it. This creature recovers 3d10 health points. This feature can be used a number of times equal to its proficiency bonus per rest.
 :
@@ -10668,19 +10746,19 @@ ___
 
 ### Jutsu   
 
-***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**)
+***Ninjutsu*** +13 to hit, (**Ninjutsu save DC 19**)
 
 C-Rank (Cost 9): Aura of Life, Medical Aura
 
 B-Rank (Cost 14): Lightning Spear           
-***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**)
+***Genjutsu*** +13 to hit, (**Genjutsu save DC 19**)
 
 C-Rank (Cost 9): Cat Nap
 
 B-Rank (Cost 14): Slow
 ### Attacks
 ***Multiattack*** This creature can make two *Unarmed Strike* attacks.      
-**Unarmed Strike** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d10+4 Bludgeoning damage.        
+**Unarmed Strike** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+5 Bludgeoning damage.        
  }}
  
 
@@ -12909,43 +12987,43 @@ Kyukimon ranges between levels 9-12. To upscale a Kyukimon perform the following
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 22 
+**Armor Class** :: 20 
 **Hit Points**  :: 108 (d8) 
 **Chakra Points**  :: 85 (d10)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|12 (+1)|16 (+3)|18 (+4)|12 (+1)|20 (+5)|
+|10 (+0)|16 (+3)|16 (+3)|10 (+0)|12 (+1)|22 (+6)|
 ___
-**Saving Throws** :: Str +2, Dex +3, Con +5, *Int +9*, *Wis +6* *Cha +10*
-**Skills** :: Illusions+10 Intimidation+10 Deception+10 Ninshou +9
+**Saving Throws** :: Str +2, Dex +5, Con +5, *Int +5*, *Wis +6* *Cha +11*
+**Skills** :: Deception +11, Intimidation +11, Persuasion +11, Performance +11
 **Senses**               :: passive Perception 11
 ___
-***Alternative Defense (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity.
+***Alternative Offense II (Unique)*** This Digimon uses its Charisma Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
 :
 ***Inflicting II (Unique)*** When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Charmed* condition.
 :
-***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
+***Oppressive Presence III (Unique)*** Hostile creatures within 20ft of this Digimon have disadvantage on any saving throw that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 
 ### Jutsu  
          
-***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
+***Ninjutsu*** +13 to hit, (**Ninjutsu save DC 19**) 
 
-C-Rank (Cost 9): Grim Blade, Grim Legion 
+C-Rank (Cost 9): Poison Weapon 
 
-B-Rank (Cost 14): Grim Calling    
-***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**) 
+B-Rank (Cost 14): Contagion    
+***Genjutsu*** +13 to hit, (**Genjutsu save DC 19**) 
 
-C-Rank (Cost 9): Cajolery of Glamour   
+C-Rank (Cost 9): Cajolery of Glamour, Illusory Misdirection   
 
 B-Rank (Cost 14): Command of the Found
 
 ### Attacks    
 ***Multiattack*** This creature can make two *Dark Claw* attacks.        
-**Dark Claw** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d10+3 Necrotic damage. 
+**Dark Claw** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+5 Slashing damage. 
 
  }}
 
@@ -12967,7 +13045,7 @@ B-Rank (Cost 14): Command of the Found
 {{monster,frame
 ### Alternative Jutsu List
 LadyDevimon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu that deals Necrotic damage.*
+- *Ninjutsu that deals Necrotic or Poison damage.*
 - *Any Genjutsu.*
   }}
 ## LadyDevimon
@@ -13296,6 +13374,9 @@ Machgaogamon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet 
 - *Ninjutsu with the Wind Release Keyword*
 - *Any Taijutsu*
   }}
+  
+\column
+  
 ## Machgaogamon
 A Machine Digimon whose massive jetpack enables it to travel at absurd speeds. While it is not the strongest flier, its swift movements enable success in 'hit-and-run' type combat.    
 ## Scaling Enemy
@@ -13376,6 +13457,7 @@ C-Rank (Cost 9): Afterglow
 MagnaAngemon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Fuinjutsu Keyword*
 - *Genjutsu that does not target hostile creatures or deal damage*
+- *Bukijutsu that deals Slashing damage*
   }}
 ## MagnaAngemon
 An Angel Digimon that serves as a judge, jury and executioner for those who would do wrong in this world. While it has kindness in its heart, this is often overpowered by its unwavering sense of justice.     
@@ -15040,7 +15122,7 @@ ___
 **Skills** ::  Chakra Control +8, Deception +10, Intimidation +10, Illusions +6
 **Senses**               :: passive Perception 11
 ___
-***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
+***Alternative Offense II (Unique)*** This Digimon uses its Charisma Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
 ***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
 :
