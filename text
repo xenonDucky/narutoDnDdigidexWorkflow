@@ -3801,20 +3801,20 @@ ___
 ***Cunning Action I (Unique)*** This Digimon may use their bonus action to take the Disengage action.
 
 ### Jutsu  
-***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 13**)
+***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**)
 
 D-Rank (Cost 5): Ash Cloud, Blazing Ember, Hellfire Rejection  
 
 C-Rank (Cost 9): SA: Darkness, Living Weapon, Heated Sight    
-***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+***Bukijutsu*** +9 to hit, (**Bukijutsu save DC 16**) 
 
 D-Rank (Cost 5): 3-Point Pierce, BOF: Unknowing 
 
 C-Rank (Cost 9): BOF: Undulation, Crescent Moon Penetration        
 
 ### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Trident** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Piercing damage.
+***Multiattack*** This creature can make two *Trident* attacks.      
+**Trident** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d8+4 Piercing damage.
 
  }}
 
@@ -3822,10 +3822,9 @@ C-Rank (Cost 9): BOF: Undulation, Crescent Moon Penetration
 ### Evolves From
 - ***Impmon*** 
 - ***SoundBirdmon***
-- ***Phascomon***
 ### Evolves Into
 - ***Mephistomon***
-- ***SkullSatamon***
+- ***Phascomon***
 - ***NeoDevimon***
 }}
 
@@ -15662,11 +15661,93 @@ Phantomon ranges between levels 9-12. To upscale a Phantomon perform the followi
 
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+\page
+{{monster,frame
+## Phelesmon
+*B-Rank, Standard, Medium Virus, Devil/Fire, Prof +5*
 
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 19 
+**Hit Points**  :: 108 (d8) 
+**Chakra Points**  :: 94 (d10)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|16 (+3)|16 (+3)|10 (+0)|16 (+3)|
+___
+**Saving Throws** :: *Str +8*, *Dex +7*, Con +5, Int +5, Wis +2, *Cha +8*
+**Skills** ::  Persuasion+8 Perception+5 Deception+8 Performance+8   
+**Senses**               :: passive Perception 15
+___
+***Basilisk (Unique)*** When a creature is Incapacitated by this Digimon, it instead Petrifies it.
+:
+***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
+:
+***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+
+### Jutsu  
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**)
+
+C-Rank (Cost 9): SA: Darkness, Burning Gaze, Heated Sight    
+
+B-Rank (Cost 14): SA: Banishing Seal  
+***Genjutsu*** +10 to hit, (**Genjutsu save DC 16**) 
+
+B-Rank (Cost 14): Tree Binding Death, Cursed Tounge Seal, Memory Domination  
+***Bukijutsu*** +10 to hit, (**Bukijutsu save DC 16**) 
+
+C-Rank (Cost 9): BOF: Undulation, Crescent Moon Penetration  
+
+B-Rank (Cost 14): 1-Strike Piercing Blow  
+
+### Attacks
+***Multiattack*** This creature can make two *Trident* attacks.      
+**Trident** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Piercing damage.
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***Boogiemon*** 
+- ***Devimon***
+### Evolves Into
+- ***Pharaohmon***
+- ***Barbamon***
+}}
+
+{{monster,frame
+### Alternative Jutsu List
+Phelesmon may learn **5 D Rank** and **5 C Rank** jutsu that meet the following requirements: 
+- *Bukijutsu with the Piercing Weapon Component*
+- *Genjutsu with that inflict incapacitated*
+- *Ninjutsu with the Fire Release Keyword* 
+}}
+  
+
+## Phelesmon
+A Fallen Angel Digimon shaped like an aristocrat. In exchange for granting someone their desires, it is said that it will snatch away their soul. It is said that it is a Boogiemon that advanced and evolved, but the details are still uncertain.
+
+## Scaling Enemy
+Phelesmon ranges between levels 5-8. To upscale a Phelesmon perform the following steps at each level.
+
+- **Level 6+,** Increase the Phelesmon's Hit Points by 12 & Chakra Points by 10 for every level.
+- **Level 7.** The Phelesmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+![Phelesmon](https://i.pinimg.com/originals/f2/91/d4/f291d44d5065305c7ce6827642e40088.jpg) {position:absolute,bottom:70px,left:360px,width:540px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:80px,left:60px,margin-bottom:-30px
+##### Phelesmon
+[Link](https://i.pinimg.com/originals/f2/91/d4/f291d44d5065305c7ce6827642e40088.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 {{monster,frame
 ## Piximon
-*B-Rank, Standard, Tiny Data, Fairy/Light, Prof +5*
+*B-Rank, Standard, Small Data, Fairy/Light, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -16458,7 +16539,7 @@ SkullSatamon ranges between levels 9-12. To upscale a SkullSatamon perform the f
 
 ![SkullSatamon](https://wikimon.net/images/2/22/Skullsatamon_new_century.png) {position:absolute,bottom:70px,left:410px,width:400px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:210px,left:20px,margin-bottom:-30px
+{{artist,position:relative,top:110px,left:20px,margin-bottom:-30px
 ##### SkullSatamon
 [Link](https://wikimon.net/images/2/22/Skullsatamon_new_century.png)
 }}
