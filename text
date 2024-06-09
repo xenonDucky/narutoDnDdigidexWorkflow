@@ -286,7 +286,7 @@ This list enables users to choose a number of jutsu from a list of set requireme
 
 {{toc,wide
 # Table Of Contents
-### [Part V: Perfect](#p185) {{width:130px}} 185
+### [Part V: Ultra](#p185) {{width:130px}} 185
 #### [Agumon (Bond of Bravery)](#p186) {{width:79px}}  186
 #### [Beelzemon (Blast Mode)](#p187) {{width:99px}}  187
 #### [Gabumon (Bond of Friendship)](#p188) {{width:49px}}  188
@@ -324,14 +324,14 @@ ___
 
 {{monster,frame
 ## Agumon
-*D-Rank, Standard, Small Vaccine, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Dragons Roar/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 13 
+**Armor Class** :: 13 **DR**  2 (All) 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +2
+**Speed**       :: 30ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -396,14 +396,14 @@ Agumon ranges between levels 1-4. To upscale a Agumon perform the following step
 
 {{monster,frame
 ## BlackAgumon
-*D-Rank, Standard, Small Virus, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Dragons Roar/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 13 
+**Armor Class** :: 13 **DR**  2 (All) 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +2
+**Speed**       :: 30ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -468,14 +468,14 @@ BlackAgumon ranges between levels 1-4. To upscale a BlackAgumon perform the foll
 
 {{monster,frame
 ## SnowAgumon
-*D-Rank, Standard, Small Vaccine, Reptile/Water, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Deep Savers/Water, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  1 (All) 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -540,14 +540,14 @@ SnowAgumon ranges between levels 1-4. To upscale a SnowAgumon perform the follow
 
 {{monster,frame
 ## BushiAgumon
-*D-Rank, Standard, Small Vaccine, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Dragons Roar/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -605,14 +605,14 @@ BushiAgumon ranges between levels 1-4. To upscale a BushiAgumon perform the foll
 
 {{monster,frame
 ## Armadillomon
-*D-Rank, Standard, Small Free, Mammal/Earth, Prof +3*
+*D-Rank, Standard, Small Free, Beast/Nature Spirits/Earth, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 17 
+**Armor Class** :: 17 **DR**  2 (All) 
 **Hit Points**  :: 12 (d10) 
 **Chakra Points**  :: 8 (d6)  
-**Speed**       :: 15ft., Burrow 20ft. **Initiative** +1
+**Speed**       :: 15ft., Burrow 20ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -683,14 +683,14 @@ Armadillomon ranges between levels 1-4. To upscale a Armadillomon perform the fo
 
 {{monster,frame
 ## Biyomon
-*D-Rank, Standard, Small Vaccine, Bird/Wind, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Wind Guardians/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -750,14 +750,14 @@ Biyomon ranges between levels 1-4. To upscale a Biyomon perform the following st
 
 {{monster,frame
 ## DemiDevimon
-*D-Rank, Standard, Small Virus, Devil/Dark, Prof +3*
+*D-Rank, Standard, Small Virus, Demon/Nightmare Soldiers/Dark, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15
 **Hit Points**  :: 8 (d8) 
 **Chakra Points**  :: 8 (d8)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -823,14 +823,14 @@ DemiDevimon ranges between levels 1-4. To upscale the DemiDevimon perform the fo
 
 {{monster,frame
 ## Gabumon
-*D-Rank, Standard, Small Data, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Nature Spirits/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  2 (All)
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -867,8 +867,7 @@ D-Rank (Cost 5): 2-Point Penetrate
 ### Alternative Jutsu List
 Gabumon may learn **3 D Rank** jutsu that meet the following requirements:
 - *Ninjutsu with the Fire Release Keyword*
-- *Bukijutsu with the Piercing Weapon Component*   
-- *Bukijutsu with the Slashing Weapon Component* 
+- *Bukijutsu with the Slashing or Piercing Weapon Component*   
  }}
 \column
 ## Gabumon
@@ -893,14 +892,14 @@ Gabumon ranges between levels 1-4. To upscale a Gabumon perform the following st
 
 {{monster,frame
 ## BlackGabumon
-*D-Rank, Standard, Small Data, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Nightmare Soldiers/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  2 (All)
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -937,8 +936,7 @@ D-Rank (Cost 5): 2-Point Penetrate, 1-Strike Slash
 ### Alternative Jutsu List
 Gabumon may learn **3 D Rank** jutsu that meet the following requirements:
 - *Ninjutsu with the Fire Release Keyword*
-- *Bukijutsu with the Piercing Weapon Component*   
-- *Bukijutsu with the Slashing Weapon Component* 
+- *Bukijutsu with the Slashing or Piercing Weapon Component*   
  }}
 \column
 ## BlackGabumon
@@ -963,14 +961,14 @@ BlackGabumon ranges between levels 1-4. To upscale a BlackGabumon perform the fo
 
 {{monster,frame
 ## Psychemon
-*D-Rank, Standard, Small Data, Reptile/Dark, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Nature Spirits/Dark, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  1 (All)
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1005,9 +1003,8 @@ D-Rank (Cost 5): 2-Point Penetrate
 {{monster,frame
 ### Alternative Jutsu List
 Psychemon may learn **3 D Rank** jutsu that meet the following requirements:
-- *Any Genjutsu*
-- *Bukijutsu with the Piercing Weapon Component*   
-- *Bukijutsu with the Slashing Weapon Component* 
+- *Genjutsu with the Visual Keyword*
+- *Bukijutsu with the Piercing or Slashing Weapon Component* 
  }}
 \column
 ## Psychemon
@@ -1031,14 +1028,14 @@ Psychemon ranges between levels 1-4. To upscale a Psychemon perform the followin
 \page
 {{monster,frame
 ## Gazimon
-*D-Rank, Standard, Small Visur, Beast/Dark, Prof +3*
+*D-Rank, Standard, Small Visur, Beast/Nightmare Soldiers/Dark, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15 **DR**  1 (All)
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft., Burrow 10ft. **Initiative** +4
+**Speed**       :: 30ft., Burrow 10ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1055,10 +1052,10 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
 
-D-Rank (Cost 5): Acid String, Headhunter Technique    
+D-Rank (Cost 5): Acid String    
 ***Bukijutsu*** +5 to hit, (**Bukijutsu save DC 13**)
 
-D-Rank (Cost 5): 1-Strike Slash
+D-Rank (Cost 5): 1-Strike Slash, Crippling Strike
 
 ### Attacks
 ***Slash*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Slashing damage. 
@@ -1077,7 +1074,6 @@ D-Rank (Cost 5): 1-Strike Slash
 ### Alternative Jutsu List
 Gazimon may learn **3 D Rank** jutsu that meet the following requirements:
 - *Ninjutsu with the Medical Release Keyword that deals Acid damage*
-- *Ninjutsu with the Earth Release Keyword that has to do with burrowing*
 - *Bukijutsu with the Slashing Weapon Component*   
  }}
 \column
@@ -1102,14 +1098,14 @@ Gazimon ranges between levels 1-4. To upscale a Gazimon perform the following st
 \page
 {{monster,frame
 ## Ghostmon
-*D-Rank, Standard, Small Data, Ghost/Fire, Prof +3*
+*D-Rank, Standard, Small Data, Undead/Nightmare Soldiers/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1170,14 +1166,14 @@ Ghostmon ranges between levels 1-4. To upscale a Ghostmon perform the following 
 
 {{monster,frame
 ## Goblimon
-*D-Rank, Standard, Small Virus, Goblin/Earth, Prof +3*
+*D-Rank, Standard, Small Virus, Humanoid/Nature Spirits/Earth, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15 **DR**  3 (All)
 **Hit Points**  :: 13 (d10) 
 **Chakra Points**  :: 9 (d6)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1237,14 +1233,14 @@ Goblimon ranges between levels 1-4. To upscale a Goblimon perform the following 
 
 {{monster,frame
 ## SnowGoblimon
-*D-Rank, Standard, Small Virus, Goblin/Water, Prof +3*
+*D-Rank, Standard, Small Virus, Humanoid/Deep Savers/Water, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15 **DR**  3 (All)
 **Hit Points**  :: 13 (d10) 
 **Chakra Points**  :: 9 (d6)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1305,14 +1301,14 @@ SnowGoblimon ranges between levels 1-4. To upscale a SnowGoblimon perform the fo
 
 {{monster,frame
 ## Shamamon
-*D-Rank, Standard, Small Virus, Goblin/Earth, Prof +3*
+*D-Rank, Standard, Small Virus, Humanoid/Nature Spirits/Earth, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
+**Armor Class** :: 15 **DR**  2 (All)
 **Hit Points**  :: 12 (d10) 
 **Chakra Points**  :: 8 (d6)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1371,14 +1367,14 @@ Shamamon ranges between levels 1-4. To upscale a Shamamon perform the following 
 
 {{monster,frame
 ## Gomamon
-*D-Rank, Standard, Small Vaccine, Sea Beast/Water, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Deep Savers/Water, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  2 (All)
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 15ft., Swim 20ft. **Initiative** +3
+**Speed**       :: 15ft., Swim 20ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1447,14 +1443,14 @@ Gomamon ranges between levels 1-4. To upscale a Gomamon perform the following st
 
 {{monster,frame
 ## Guilmon
-*D-Rank, Standard, Small Virus, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Dragons Roar/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  3 (All)
 **Hit Points**  :: 12 (d10) 
 **Chakra Points**  :: 8 (d6)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1521,14 +1517,14 @@ Guilmon ranges between levels 1-4.   To upscale a Guilmon perform the   followin
 
 {{monster,frame
 ## BlackGuilmon
-*D-Rank, Standard, Small Virus, Reptile/Fire, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Nightmare Soldiers/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 14 
+**Armor Class** :: 14 **DR**  3 (All)
 **Hit Points**  :: 12 (d10) 
 **Chakra Points**  :: 8 (d6)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1594,14 +1590,14 @@ BlackGuilmon ranges between levels 1-4. To upscale a BlackGuilmon perform the fo
 
 {{monster,frame
 ## Jellymon
-*D-Rank, Standard, Small Data, Mollusk/Lightning, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Deep Savers/Lightning, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 8 (d8) 
 **Chakra Points**  :: 8 (d8)  
-**Speed**       :: Fly 25ft., Swim 20ft. **Initiative** +4
+**Speed**       :: Fly 25ft., Swim 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1664,18 +1660,18 @@ Jellymon ranges between levels 1-4. To upscale a Jellymon perform the following 
 
 {{monster,frame
 ## Hawkmon
-*D-Rank, Standard, Small Free, Bird/Wind, Prof +3*
+*D-Rank, Standard, Small Free, Beast/Wind Guardians/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 16 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +5
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|16 (+3)|12 (+1)|12 (+1)|14 (+2)|10 (+0)|
+|8 (-1) |16 (+3)|12 (+1)|12 (+1)|14 (+2)|10 (+0)|
 ___
 **Saving Throws** :: Str +0, *Dex +6*, Con +2, *Int +4*, *Wis +5*, Cha +1
 **Skills** ::  Insight +5, Perception +5    
@@ -1713,8 +1709,7 @@ D-Rank (Cost 5): BOW: Cutter, Weapon Deflect
 ### Alternative Jutsu List
 Hawkmon may learn **3 D Rank** jutsu that meet the following requirements: 
 - *Ninjutsu with the Wind Release Keyword*
-- *Bukijutsu with the Slashing Weapon Component*
-- *Bukijutsu with the Piercing Weapon Component*   
+- *Bukijutsu with the Slashing or Piercing Weapon Component*
  }}
 \column
 ## Hawkmon
@@ -1738,18 +1733,18 @@ Hawkmon ranges between levels 1-4. To upscale a Hawkmon perform the following st
 \page
 {{monster,frame
 ## Impmon
-*D-Rank, Standard, Small Virus, Evil/Dark, Prof +3*
+*D-Rank, Standard, Small Virus, Evil/Nightmare Soldiers/Dark, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|14 (+2)|12 (+1)|16 (+3)|12 (+1)|10 (+0)|
+|8 (-1) |14 (+2)|12 (+1)|16 (+3)|12 (+1)|10 (+0)|
 ___
 **Saving Throws** :: Str +0, *Dex +5*, Con +2, *Int +6*, Wis +2, *Cha +3*
 **Skills** ::  Ninshou +6, Chakra Control +4            
@@ -1807,14 +1802,14 @@ Impmon ranges between levels 1-4. To upscale a Impmon perform the following step
 
 {{monster,frame
 ## Palmon
-*D-Rank, Standard, Small Data, Plant/Grass, Prof +3*
+*D-Rank, Standard, Small Data, Plant/Jungle Troopers/Plant, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 14 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 25ft. **Initiative** +3
+**Speed**       :: 25ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1876,14 +1871,14 @@ Palmon ranges between levels 1-4. To upscale a Palmon perform the following step
 
 {{monster,frame
 ## Alraumon
-*D-Rank, Standard, Small Data, Plant/Grass, Prof +3*
+*D-Rank, Standard, Small Data, Plant/Jungle Troopers/Plant, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 14 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 25ft. **Initiative** +3
+**Speed**       :: 25ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -1945,14 +1940,14 @@ Alraumon ranges between levels 1-4. To upscale a Alraumon perform the following 
 
 {{monster,frame
 ## Patamon
-*D-Rank, Standard, Small Data, Mammal/Wind, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Virus Busters/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 6 (d6) 
 **Chakra Points**  :: 10 (d10)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2018,14 +2013,14 @@ Patamon ranges between levels 1-4. To upscale a Patamon perform the following st
 
 {{monster,frame
 ## Tsukaimon
-*D-Rank, Standard, Small Virus, Mammal/Dark, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Nightmare Soldiers/Virus, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 6 (d6) 
 **Chakra Points**  :: 10 (d10)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2090,14 +2085,14 @@ Tsukaimon ranges between levels 1-4. To upscale a Tsukaimon perform the followin
 
 {{monster,frame
 ## Phascomon
-*D-Rank, Standard, Small Virus, Mammal/Dark, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Nightmare Soldiers/Dark, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 12 
+**Armor Class** :: 12 **DR**  1 (All)
 **Hit Points**  :: 12 (d10) 
 **Chakra Points**  :: 8 (d6)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +1
+**Speed**       :: 15ft., Fly 20ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2157,14 +2152,14 @@ Phascomon ranges between levels 1-4. To upscale a Phascomon perform the followin
 
 {{monster,frame
 ## Renamon
-*D-Rank, Standard, Medium Data, Animal/Plant, Prof +3*
+*D-Rank, Standard, Medium Data, Beats/Nature Spirits/Free, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft. **Initiative** +4
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2205,7 +2200,7 @@ D-Rank (Cost 5): Bestial Fury Kick, High Monk
 
 ### Alternative Jutsu List
 Renamon may learn **6 D Rank** jutsu that meet the following requirements:
-- *Jutsu that inceease movement speed.*
+- *Ninjutsu that don't deal damage*
 - *Any Taijutsu* 
  }}
  
@@ -2233,18 +2228,18 @@ Renamon ranges between levels 1-4. To upscale a Renamon perform the following st
 
 {{monster,frame
 ## Salamon
-*D-Rank, Standard, Small Vaccine, Mammal/Light, Prof +3*
+*D-Rank, Standard, Small Vaccine, Beast/Virus Busters/Light, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 14 
 **Hit Points**  :: 7 (d6) 
 **Chakra Points**  :: 11 (d10)  
-**Speed**       :: 30ft. **Initiative** +3
+**Speed**       :: 30ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|12 (+1)|12 (+1)|12 (+1)|14 (+2)|14 (+2)|
+|8 (-1) |12 (+1)|12 (+1)|12 (+1)|14 (+2)|14 (+2)|
 ___
 **Saving Throws** :: Str +0, Dex +2, Con +2, *Int +4*, *Wis +5*, *Cha +5*
 **Skills** ::  Chakra Control +4, Persuasion +5    
@@ -2307,14 +2302,14 @@ Salamon ranges between levels 1-4. To upscale a Salamon perform the following st
 
 {{monster,frame
 ## Soundbirdmon
-*D-Rank, Standard, Small Virus, Bird/Wind, Prof +3*
+*D-Rank, Standard, Small Virus, Beast/Nightmare Soldiers/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 16 
 **Hit Points**  :: 6 (d6) 
 **Chakra Points**  :: 10 (d10)  
-**Speed**       :: Fly 40ft. **Initiative** +5
+**Speed**       :: Fly 40ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2375,14 +2370,14 @@ Soundbirdmon ranges between levels 1-4. To upscale a Soundbirdmon perform the fo
 
 {{monster,frame
 ## Syakomon
-*D-Rank, Standard, Small Virus, Crustacean/Water, Prof +3*
+*D-Rank, Standard, Small Virus, Ooze/Deep Savers/Water, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 17 
+**Armor Class** :: 17 **DR**  4 (All)
 **Hit Points**  :: 8 (d8) 
 **Chakra Points**  :: 8 (d8)  
-**Speed**       :: 15ft., Swim 20ft. **Initiative** +1
+**Speed**       :: 15ft., Swim 20ft.
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2447,18 +2442,18 @@ Syakomon ranges between levels 1-4. To upscale a Syakomon perform the following 
 
 {{monster,frame
 ## Tentomon
-*D-Rank, Standard, Small Vaccine, Insect/Plant, Prof +3*
+*D-Rank, Standard, Small Vaccine, Vermin/Jungle Troopers/Lightning, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 15 
 **Hit Points**  :: 7 (d6) 
 **Chakra Points**  :: 11 (d10)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|8 (-1)|14 (+2)|12 (+1)|16 (+3)|12 (+1)|10 (+0)|
+|8 (-1) |14 (+2)|12 (+1)|16 (+3)|12 (+1)|10 (+0)|
 ___
 **Saving Throws** :: Str +0, *Dex +5*, *Con +4*, *Int +6*, Wis +2, Cha +1
 **Skills** ::  Investigation +6, Nature +6       
@@ -2524,14 +2519,14 @@ Tentomon ranges between levels 1-4. To upscale a Tentomon perform the following 
 
 {{monster,frame
 ## Terriermon
-*D-Rank, Standard, Small Data, Beast/Wind, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Nature Spirits/Wind, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 16 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft. **Initiative** +6
+**Speed**       :: 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2593,14 +2588,14 @@ Terriermon ranges between levels 1-4. To upscale a Terriermon perform the follow
 
 {{monster,frame
 ## Lopmon
-*D-Rank, Standard, Small Data, Beast/Water, Prof +3*
+*D-Rank, Standard, Small Data, Beast/Nature Spirits/Water, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 16 
 **Hit Points**  :: 9 (d8) 
 **Chakra Points**  :: 9 (d8)  
-**Speed**       :: 30ft. **Initiative** +6
+**Speed**       :: 30ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2662,18 +2657,18 @@ Lopmon ranges between levels 1-4. To upscale a Lopmon perform the following step
 
 {{monster,frame
 ## Veemon
-*D-Rank, Standard, Small Free, Dragon/Neutral, Prof +3*
+*D-Rank, Standard, Small Free, Ryu/Dragons Roar/Neutral, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15 
-**Hit Points**  :: 14 (d12) 
-**Chakra Points**  :: 6 (d4)  
-**Speed**       :: 30ft. **Initiative** +5
+**Armor Class** :: 15 **DR**  3 (All)
+**Hit Points**  :: 12 (d10) 
+**Chakra Points**  :: 8 (d6)  
+**Speed**       :: 30ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|14 (+2)|14 (+2)|8 (-1)|10 (+0)|10 (+0)|
+|16 (+3)|14 (+2)|14 (+2)|8 (-1) |10 (+0)|10 (+0)|
 ___
 **Saving Throws** :: *Str +6*, *Dex +5*, *Con +5*, Int +0, Wis +1, Cha +1
 **Skills** ::  Athletics +6, Acrobatics +5                   
@@ -2709,8 +2704,8 @@ D-Rank (Cost 5): Dynamic Entry, Bolting Blossom
 {{monster,frame
 ### Alternative Jutsu List
 Veemon may learn **3 D Rank** jutsu that meet the following requirements:
+- *Ninjutsu that doesn't deal damage*
 - *Any Taijutsu*
-- *Jutsu that inceease movement speed.*
   }}
   
  
@@ -2720,7 +2715,7 @@ Veemon is the heir to an ancient, powerful species. Its child-like nature means 
 ## Scaling Enemy
 Veemon ranges between levels 1-4. To upscale a Veemon perform the following steps at each level.
 
-- **Level 2+,** Increase the Veemon's Hit Points by 14 & Chakra Points by 5 for every level.
+- **Level 2+,** Increase the Veemon's Hit Points by 12 & Chakra Points by 6 for every level.
 - **Level 4.** The Veemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving  Throws, Save DC's, AC and to hit bonuses by +1.
 
 ![Veemon](https://i.pinimg.com/564x/be/75/a8/be75a86cdb05032a9017a2d4aa570486.jpg) {position:absolute,bottom:300px,left:420px,width:390px,mix-blend-mode:multiply}
@@ -2738,11 +2733,11 @@ Veemon ranges between levels 1-4. To upscale a Veemon perform the following step
 
 {{monster,frame
 ## Vorvomon
-*D-Rank, Standard, Small Virus, Dragon/Earth, Prof +3*
+*D-Rank, Standard, Small Virus, Construct/Winged Guardians/Fire, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 15    **DR**  5 (All) 
+**Armor Class** :: 15 **DR**  7 (All) 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
 **Speed**       :: 15ft., Fly 20ft. **Initiative** +2
@@ -2763,7 +2758,7 @@ ___
             
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)             
 
-D-Rank (Cost 5): Ash Cloud, Flame Bolt, Rock Shuriken
+D-Rank (Cost 5): Ash Cloud, Flame Bolt, LR: Lava Rock
 
 ### Attacks
 ***Bite*** *Melee Weapon Attack* +5 to hit, reach 5ft., one target. *Hit.* 1d8+2 Piercing damage. 
@@ -2784,6 +2779,7 @@ D-Rank (Cost 5): Ash Cloud, Flame Bolt, Rock Shuriken
 Vorvomon may learn **3 D Rank** jutsu that meet the following requirements:
 - *Ninjutsu with the Fire Release Keyword*
 - *Ninjutsu with the Earth Release Keyword*
+- *Hijutsu with the Lava Release Keyword*
   }}
 \column
 ## Vorvomon
@@ -2808,14 +2804,14 @@ Vorvomon ranges between levels 1-4. To upscale a Vorvomon perform the following 
 
 {{monster,frame
 ## Jazamon
-*D-Rank, Standard, Small Data, Dragon/Metal, Prof +3*
+*D-Rank, Standard, Small Data, Construct/Metal Empire/Metal, Prof +3*
 
 **Level:** 1 (10XP)
 ___
-**Armor Class** :: 17    **DR**  5 (All)
+**Armor Class** :: 17    **DR**  7 (All)
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 15ft., Fly 20ft. **Initiative** +4
+**Speed**       :: 15ft., Fly 20ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2854,8 +2850,8 @@ D-Rank (Cost 5): FS: Cross Cut, FS: Straight Line
 {{monster,frame
 ### Alternative Jutsu List
 Jazamon may learn **3 D Rank** jutsu that meet the following requirements:
-- *Ninjutsu with the Fire Release Keyword*
-- *Ninjutsu with the Earth Release Keyword*
+- *Any Taijutsu*
+- *Bukijutsu with the Slashing Weapon Component*
   }}
 \column
 ## Jazamon
@@ -2880,14 +2876,14 @@ Jazamon ranges between levels 1-4. To upscale a Jazamon perform the following st
 
 {{monster,frame
 ## Wormmon
-*D-Rank, Standard, Small Free, Insect/Plant, Prof +3*
+*D-Rank, Standard, Small Free, Vermin/Jungle Troopers/Plant, Prof +3*
 
 **Level:** 1 (10XP)
 ___
 **Armor Class** :: 13 
 **Hit Points**  :: 10 (d8) 
 **Chakra Points**  :: 10 (d8)  
-**Speed**       :: 15ft., Climb 20ft. **Initiative** +3
+**Speed**       :: 15ft., Climb 20ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -2904,24 +2900,19 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +5 to hit, (**Ninjutsu save DC 13**)   
 
-D-Rank (Cost 5): Acid Whips  
-:
-***Bukijutsu*** +3 to hit, (**Bukijutsu save DC 11**)   
-
-D-Rank (Cost 5): Iron Web Deflection, Wire Trap 
+D-Rank (Cost 5): Web Bind, Web Throw, Spider Web Unrolling  
 
 ### Attacks
 ***Bash*** *Melee Weapon Attack* +3 to hit, reach 5ft., one target. *Hit.* 1d8 Bludgeoning damage.
 :
 ***Webbing*** *Ranged Weapon Attack* +3 to hit, reach 30ft., one target. *Hit.* Target is grappled by webbing.
 
-As an action, the restrained creature can make a Strength check vs this summons Save DC, freeing themselves on a success. The webbing can also be attack and destroyed. (AC 10, 5 HP, Vulnerability to fire damage; Immune to Bludgeoning, poison, and psychic damage.)
+As an action, the restrained creature can make a Strength check vs this summons Save DC, freeing themselves on a success. The webbing can also be attacked and destroyed. (AC 10, 5 HP, Vulnerability to fire damage; Immune to Bludgeoning, poison, and psychic damage.)
 
  }}
 
 {{monster,frame
 ### Evolves Into
-- ***Devimon***
 - ***Dokugumon***
 - ***Kuwagamon***
 - ***Stingmon***
@@ -2930,8 +2921,8 @@ As an action, the restrained creature can make a Strength check vs this summons 
 {{monster,frame
 ### Alternative Jutsu List
 Wormmon may learn **3 D Rank** jutsu that meet the following requirements: 
-- *Bukijutsu with battle wire.*
-- *Ninjutsu that restricts or reduced movement.*
+- *Tsuchigumo Hijutsu that doesn't requre a web weapon*
+- *Bukijutsu with Battle Wire weapon requirement*
   }}
   
  
@@ -7938,7 +7929,7 @@ ___
 ___
 ***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
 :
-***Mind Master (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration.
+***Mind Master I (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration.
 :
 ***Regeneration I (Unique)*** At the start of this creatures turn, it recovers 1d4 + Constitution Modifier HP. It can only gain the benefit of this feature if it is above 0hp and in combat.
 
@@ -12047,7 +12038,7 @@ ___
 :
 ***Relentless III (Unique)*** This creature is immune to the Stunned, Restrained and Weakened conditions.
 :
-***Mind Master (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration.
+***Mind Master I (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration.
 ### Jutsu  
 
 
@@ -15686,6 +15677,8 @@ ___
 ***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
 :
 ***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
+:
+***Mind Master II (Unique)*** Genjutsu that this Digimon casts do not require chakra to maintain concentration. Additionally, it can focus on any number of jutsus at once.
 
 ### Jutsu  
 ***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**)
@@ -18262,7 +18255,7 @@ WarGreymon ranges between levels 13-16. To upscale a WarGreymon perform the foll
 {{frontCover}}
 
 
-# Perfect
+# Ultra
 ___
 
 ![background image](https://i.pinimg.com/564x/21/e8/f0/21e8f02a0bded11cc59c2586ba8b94f3.jpg){position:absolute,bottom:-190px,left:0px,height:118%}
@@ -19011,14 +19004,14 @@ As such, on level up, they gain Health Points equal to the maximum of their Heal
 
 {{monster,frame
 ## Custom Digimon
-*<(Max Jutsu)>-Rank, Standard, Size Attribute, Type/Element, Prof*
+*<(Max Jutsu)>-Rank, Standard, Size Attribute, Type/Family/Element, Prof +<(Prof)>*
 
 **Level:** <(4*(N-1)+1)> (10XP)
 ___
-**Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))>
+**Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))> **DR**  <(Str Mod)> (All)
 **Hit Points**  :: <(X+(Con Mod)+(HP Bonus Per Level))* Level> (dX) 
 **Chakra Points**  :: <(Y/2+(Con Mod)+1)*(Level-1)+(Y+(Con Mod))> (dY)  
-**Speed**       :: <(Movement Speed)> **Initiative** +<(Dex Mod+2)>
+**Speed**       :: <(Movement Speed)> **Initiative** +<(Dex Mod+(Prof/2))>
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -19026,7 +19019,7 @@ ___
 ___
 **Saving Throws** :: *Str +<(Str Mod)+Prof>*, Dex +<(Dex Mod)+Prof/2>, *Con +0*, Int +0, *Wis +0*, Cha +0 
 **Skills** ::      Choose <(N+1)> skills and add mod+prof to them
-**Senses**               :: passive Perception <(10+Wis Mod)>
+**Senses**               :: passive Perception <(10 + Wis Mod)>
 ___
 (Pick out <(Number of Traits)> Traits)    
 ***Trait Name (Unique)*** Trait Description.  
@@ -19060,13 +19053,13 @@ A-Rank (Cost 20): Jutsu 4
 {{monster,frame
  ### Alternative Jutsu List
 Digimon may learn jutsu that meet the following requirements: 
+(Pick out <(Number of Traits)> Keywords)
 - *Ninjutsu with the (choose) Release Keyword*
 - *Bukijutsu with the (choose) Weapon Component*  
  }}
 
 
 
-\column
 ## Custom Digimon
 This is a part of the official digimon wiki decription of the Digimon.
 
@@ -19076,7 +19069,7 @@ Digimon ranges between levels <(Level Range)>. To upscale the Digimon perform th
 - **Level <(4*(N-1)+2)>.** The Digimon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level <(4*(N-1)+2)>+,** Increase the Digimon's Hit Points by <(X+(Con Mod)+(HP Bonus Per Level))> & Chakra Points by <(Y/2+(Con Mod)+1) for every level.
 :
-![Digiegg](https://wikimon.net/images/3/3d/Digitama.jpg) {position:absolute,bottom:250px,left:410px,width:390px,mix-blend-mode:multiply}
+![Digiegg](https://wikimon.net/images/3/3d/Digitama.jpg) {position:absolute,bottom:150px,left:410px,width:390px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:400px,left:220px,margin-bottom:-30px
 ##### Digiegg
@@ -19246,7 +19239,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Martial Expert III. | This Digimon gains an additional +3 to all melee attack and damage rolls. Additionally, melee attacks from this creature cannot be made at disadvantage. |
 | Merciless | This Digimon’s critical hits deal triple the damage instead. |
 | Mole Senses  | This creature gains Tremor Sense 30ft. |
-| Mind Master | Genjutsu that this Digimon casts do not require chakra to maintain concentration. |
+| Mind Master I. | Genjutsu that this Digimon casts do not require chakra to maintain concentration. |
+| Mind Master II. | Genjutsu that this Digimon casts do not require chakra to maintain concentration. Additionally, it can focus on any number of jutsus at once. |
 | Murderer I.  | This creature gains +2 to attack and damage rolls against any Human or Humanoid creature. |
 | Murderer II.  | This creature gains +5 to attack and damage rolls against any Human or Humanoid creature. |
 | Mystic Protection I. | This Digimon gains advantage on any saving throw to prevent or to end Elemental conditions. |
@@ -19270,8 +19264,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Phoenix Feathers I. | If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 1 HP. This feature can only activated once per rest. |
 | Phoenix Feathers II. | If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 10% of its HP. This feature can only activated once per rest. |
 | Phoenix Feathers III. | If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 25% of its HP. This feature can only activated once per rest. |
-| Plant Power I. | This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast. |
-| Plant Power II. | This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold or Earth damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast. |
 }}
 
 {{pageNumber,auto}}
@@ -19283,6 +19275,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Plant Power I. | This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast. |
+| Plant Power II. | This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold or Earth damage, until the end of this Digimon’s next turn, they deal an additional damage die for the first jutsu that they cast. |
 | Plant Power III. | This Digimon gains resistance to Cold damage, but vulnerability to Fire damage. When hit by a jutsu that deals Cold or Earth damage, until the end of this Digimon’s next turn, they deal an additional two damage die for the first jutsu that they cast. |
 | Potential I. |  When this Digimon is above 50% Health Points, they gain an additional +1 to all attack rolls.  |
 | Potential II.  | When this Digimon is above 50% Health Points, they gain an additional +2 to all attack rolls. |
@@ -19316,9 +19310,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Rivalry | As a Bonus Action this Digimon can mark a single Hostile Creature as their Rival. While a creature is marked as this creature’s Rival, this creature gains +X to all attack rolls to hit their Rival, however suffer a -X penalty to all attack rolls to hit any other target. They can use this feature a number of times equal to their Proficiency Bonus per rest. |
 | Rooted I.  | This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  |
 | Rooted II. | This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. |
-| Rooted III. | This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 10ft. |
-| Sacrificial Aura I. | All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one. |
-| Sacrificial Aura II. | All hostile creatures within 15-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 }}
 
 {{pageNumber,auto}}
@@ -19330,6 +19321,9 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Rooted III. | This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 10ft. |
+| Sacrificial Aura I. | All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one. |
+| Sacrificial Aura II. | All hostile creatures within 15-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 | Sacrificial Aura III. | All hostile creatures within 20-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 | Savage Flurry I. | This Digimon gains an additional attack as part of the Multiattack feature. |
 | Savage Flurry II. | This Digimon gains additional two attacks as part of the Multiattack feature. |
@@ -19359,10 +19353,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Tactician II. | This creature gains the ability to use the Help action as a bonus action and from a range of 20-feet. |
 | Tanky Resilience I.  | This Digimon gains 5 Damage Reduction to all sources. |
 | Tanky Resilience II.  | This Digimon gains 10 Damage Reduction to all sources. |
-| Tanky Resilience III.  | This Digimon gains 15 Damage Reduction to all sources. |
-| Unique Body I. | This Digimon gains resistances to non-chakra Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) and (choose another) damage. |
-| Unique Body II. |  This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) damage. |
-| Unique Body III. | This Digimon gains immunity to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) and (choose another) damage. |
 }}
 
 {{pageNumber,auto}}
@@ -19374,6 +19364,10 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Tanky Resilience III.  | This Digimon gains 15 Damage Reduction to all sources. |
+| Unique Body I. | This Digimon gains resistances to non-chakra Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) and (choose another) damage. |
+| Unique Body II. |  This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) damage. |
+| Unique Body III. | This Digimon gains immunity to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) and (choose another) damage. |
 | Vampirism I. | Once per turn, when this creature deals necrotic damage to a single creature, they recover half of the total damage dealt. |
 | Vampirism II. | Once per turn, when this creature deals necrotic damage, they recover half of the total damage dealt. |
 | Vampirism III. | When this creature deals necrotic damage, they recover half of the total damage dealt. |
