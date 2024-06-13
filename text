@@ -3855,7 +3855,7 @@ Boogiemon ranges between levels 5-8. To upscale a Boogiemon perform the followin
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 16 **DR**  3 (All)
+**Armor Class** :: 17 **DR**  3 (All)
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8)  
 **Speed**       :: 55ft. **Initiative** +4
@@ -3933,7 +3933,7 @@ Centarumon ranges between levels 5-8. To upscale a Centarumon perform the follow
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 **DR**  4 (All)
+**Armor Class** :: 17 **DR**  4 (All)
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8) 
 **Speed**       :: 35ft. **Initiative** +1
@@ -4019,7 +4019,7 @@ Clockmon ranges between levels 5-8. To upscale a Clockmon perform the following 
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 **DR**  4 (All)
+**Armor Class** :: 19 **DR**  4 (All)
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8)  
 **Speed**       :: 25ft., Fly 30ft. **Initiative** +3
@@ -4096,7 +4096,7 @@ Coredramon (Blue) ranges between levels 5-8. To upscale a Coredramon (Blue) perf
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 **DR**  4 (All)
+**Armor Class** :: 19 **DR**  4 (All)
 **Hit Points**  :: 70 (d10) 
 **Chakra Points**  :: 48 (d8)  
 **Speed**       :: 25ft., Fly 30ft. **Initiative** +3
@@ -4173,7 +4173,7 @@ Coredramon (Green) ranges between levels 5-8. To upscale a Coredramon (Green) pe
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 16 **DR**  4 (All)
+**Armor Class** :: 17 **DR**  4 (All)
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8) 
 **Speed**       :: 25ft., Fly 30ft. **Initiative** +4
@@ -4726,7 +4726,7 @@ NiseDrimogemon ranges between levels 5-8. To upscale a NiseDrimogemon perform th
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 19 **DR**  5 (All)
+**Armor Class** :: 18 **DR**  5 (All)
 **Hit Points**  :: 75 (d12) 
 **Chakra Points**  :: 37 (d6)  
 **Speed**       :: 35ft., Fly 30ft. **Initiative** +7
@@ -5123,6 +5123,87 @@ Gargomon ranges between levels 5-8. To upscale a Gargomon perform the following 
 {{pageNumber,auto}}
 {{footnote Part II - CHAMPION}}
 
+\page
+
+{{monster,frame
+## Gargoylemon
+*C-Rank, Standard, Medium Virus, Celestial/Virus Busters/Dark, Prof +4*
+
+**Level:** 5 (10XP)
+___
+**Armor Class** :: 17 **DR**  4 (All)
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8) 
+**Speed**       :: 25ft., Fly 30ft. **Initiative** +4
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|14 (+2)|16 (+3)|8 (-1) |16 (+3)|10 (+0)|
+___
+**Saving Throws** :: *Str +7*, Dex +4, *Con +7*, Int +1, *Wis +7*, Cha +2
+**Skills** ::  Athletics +7, Survival +7, Stealth +6         
+**Senses**               :: passive Perception 13
+___
+***Blood Fury II (Unique)*** When this Digimon below 50% of their maximum HP, they become enraged, gaining 10ft. of movement speed and +3 to all attack rolls but suffering a -2 AC penalty.
+:
+***Sharp Weapons II (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon's highest jutsu Save DC. On a failure, they gain 2 stacks of the *Bleeding* condition.
+:
+***Reassuring  Presence I (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear* condition. 
+
+### Jutsu  
+***Genjutsu*** +8 to hit, (**Genjutsu save DC 15**)
+
+D-Rank (Cost 5): Cause Fear, Painful Vision                   
+***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
+
+D-Rank (Cost 5): 1-Strike Slash
+
+C-Rank (Cost 9): Crescent Moon Beheading, Heaven Cutter
+
+### Attacks
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +8 to hit, reach 5ft., one target. *Hit.* 1d8+4 Slashing damage.
+
+ }}
+
+
+{{monster,frame
+### Evolves From
+- ***Impmon*** 
+### Evolves Into
+- ***Cyberdramon***
+- ***Gigadramon***
+- ***Mephistomon***
+
+ }}
+
+\column
+{{monster,frame
+### Alternative Jutsu List
+Gargoylemon may learn **3 D Rank** and **2 C Rank** jutsu that meet the following requirements: 
+- *Genjutsu that doesn't deal damage*
+- *Bukijutsu with the Slashing Weapon Component*
+  }}
+  
+ ## Gargoylemon
+Originally, it was a Devil-type Digimon, but its power was suppressed using restraints, and it is occasionally employed as a familiar for Angel Digimon. It is said that once it is freed from those restraints, it will exhibit tremendous power.
+## Scaling Enemy
+Gargoylemon ranges between levels 5-8. To upscale a Gargoylemon perform the following steps at each level.
+
+- **Level 6+,** Increase the Gargoylemon's Hit Points by 13 & Chakra Points by 8 for every level.
+- **Level 7.** The Gargoylemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
+
+
+
+![Gargoylemon](https://wikimon.net/images/c/cc/GargomonDMO.png) {position:absolute,bottom:40px,left:380px,width:490px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:30px,left:150px,margin-bottom:-30px
+##### Gargoylemon
+[Link](https://wikimon.net/images/c/cc/GargomonDMO.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part II - CHAMPION}}
 \page
 
 {{monster,frame
@@ -9458,7 +9539,7 @@ ___
 **Skills** ::  Athletics +7, Chakra Control +7, Martial Arts +7
 **Senses**               :: passive Perception 10
 ___
-***Gekirin II (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 3 chakra. When they do so, the jutsu deals an additional three damage dice. 
+***Gekirin I (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 2 chakra. When they do so, the jutsu deals an additional three damage dice. 
 :
 ***Strong Willed I (Unique)*** This Digimon gains proficiency in Wisdom Saving Throws and Charisma Saving Throws.
 :
@@ -10050,9 +10131,9 @@ ___
 **Skills** ::  Ninshou +9, Investigation +9, Chakra Control +6               
 **Senses**               :: passive Perception 13
 ___
-***Elemental Versatility I (Unique)*** This creature gains access to an additional Nature Release.
+***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
 :
-***Enduring II (Unique)*** This Digimon gains 50% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
+***Enduring I (Unique)*** This Digimon gains 40% of its maximum chakra as temporary chakra upon transformation or battle start. This feature can only be activated once per rest.
 :
 ***Knowledgeable II (Unique)*** This jutsu gains access to additional 5 jutsu compared to other Digimon at the same stage.
 
@@ -10061,7 +10142,7 @@ ___
 
 D-Rank (Cost 5): ED: Thirst, Sensing Water Sphere, Rising Rock Technique, Water Blending, Healing Aura
     
-C-Rank (Cost 9): CD: Spill, Heavenly Mirror of Pain, Hiding in Mist, Water Trumpet, Aura of Purity
+C-Rank (Cost 9): CD: Spill, Heavenly Mirror of Pain, Hiding in Mist, Frozen Capturing Field, Aura of Purity
 ### Attacks
 ***Multiattack*** This creature can make two *Staff* attacks.      
 **Staff** *Melee Weapon Attack* +6 to hit, reach 10ft., one target. *Hit.* 1d8+2 Bludgeoning damage.
@@ -10084,8 +10165,10 @@ C-Rank (Cost 9): CD: Spill, Heavenly Mirror of Pain, Hiding in Mist, Water Trump
 ### Alternative Jutsu List
 Sorcerimon may learn **3 D Rank**, **2 C Rank** and **5** other jutsu that meet the following requirements: 
 - *Ninjutsu with the Water Release Keyword.*
-- *Ninjutsu with the Medical Keyword that can aid an ally.*
+- *Ninjutsu with the Wind Release Keyword.*
 - *Ninjutsu with the Earth Release Keyword.*
+- *Hijutsu with the Ice Release in its name.*
+- *Ninjutsu with the Medical Keyword that can aid an ally.*
   }}
   
 \column
@@ -18978,7 +19061,7 @@ As such, on level up, they gain Health Points equal to the maximum of their Heal
 
 **Level:** <(4*(N-1)+1)> (10XP)
 ___
-**Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))> **DR**  <(Str Mod)> (All)
+**Armor Class** :: 10+<(Prof+(Dex Mod)+(AC Bonus))> **DR**  <(Str Mod)+(AC Bonus)> (All)
 **Hit Points**  :: <(X+(Con Mod)+(HP Bonus Per Level))* Level> (dX) 
 **Chakra Points**  :: <(Y/2+(Con Mod)+1)*(Level-1)+(Y+(Con Mod))> (dY)  
 **Speed**       :: <(Movement Speed)> **Initiative** +<(Dex Mod+(Prof/2))>
