@@ -12190,7 +12190,7 @@ B-Rank (Cost 14): Divine Mountain Wind, Fire Wall
 
 ### Attacks    
 ***Multiattack*** This creature can make two *Slash* attacks.        
-**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 3d10+5 Slashing damage. 
+**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 3d10+7 Slashing damage. 
 
  }}
 
@@ -12234,7 +12234,7 @@ Garudamon ranges between levels 9-12. To upscale a Garudamon perform the followi
 
 {{monster,frame
 ## Giromon
-*B-Rank, Standard, Small Vaccine, Machine/Lightning, Prof +5*
+*B-Rank, Standard, Small Vaccine, Machine/Neutral, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -12272,7 +12272,7 @@ B-Rank (Cost 14): Ichimonji, Suicide Bombing
 
 ### Attacks    
 ***Multiattack*** This creature can make four *Chainsaw Slash* or *Small Grenade* attacks.        
-**Chainsaw Slash** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 2d4+8 Slashing damage.         
+**Chainsaw Slash** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage.         
 **Small Grenade** *Ranged Weapon Attack* +13 to hit, range 30/60ft., one target. *Hit.* 2d4+8 Fire damage. 
 
  }}
@@ -12280,7 +12280,7 @@ B-Rank (Cost 14): Ichimonji, Suicide Bombing
 {{monster,frame
 
 ### Evolves From
-- ***Drimogemon***
+- ***Thundermon***
 
 ### Evolves Into
 - ***HiAndromon***
@@ -12291,8 +12291,8 @@ B-Rank (Cost 14): Ichimonji, Suicide Bombing
 {{monster,frame
 ### Alternative Jutsu List
 Giromon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Bukijutsu that requires a thrown weapon.*
-- *Bukijutsu with the Slashing Weapon Component.*
+- *Bukijutsu with Paper bombs requirement*
+- *Bukijutsu with the Slashing Weapon Component*
   }}
 ## Giromon
 A Machine Digimon that cannot actually walk, but seems to float at a constant few feet above the ground level. It is highly territorial and will often seek to repel intruding Digimon. Giromon will use its unique bombs and chainsaw in combat but, if pressed into a corner, it will try to annihilate the intruder by blowing itself up.
@@ -12302,11 +12302,90 @@ Giromon ranges between levels 9-12. To upscale a Giromon perform the following s
 - **Level 10.** The Giromon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level 10+,** Increase the Giromon's Hit Points by 16 & Chakra Points by 10 for every level.
 
-![Giromon](https://i.pinimg.com/564x/42/6d/7e/426d7e0170ec94eefb1259d4a3f636e0.jpg) {position:absolute,bottom:180px,left:390px,width:420px,mix-blend-mode:multiply}
+![Giromon](https://wikimon.net/images/5/51/Giromon_New_Century.png) {position:absolute,bottom:20px,left:410px,width:390px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:90px,left:260px,margin-bottom:-30px
+{{artist,position:relative,top:240px,left:260px,margin-bottom:-30px
 ##### Giromon
-[Link](https://i.pinimg.com/564x/42/6d/7e/426d7e0170ec94eefb1259d4a3f636e0.jpg)
+[Link](https://wikimon.net/images/5/51/Giromon_New_Century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## Tekkamon
+*B-Rank, Standard, Small Virus, Machine/Lightning, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 22   
+**Hit Points**  :: 144 (d10) 
+**Chakra Points**  :: 93 (d8)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +7
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|12 (+1)|20 (+5)|20 (+5)|12 (+1)|12 (+1)|12 (+1)|
+___
+**Saving Throws** :: *Str +6*, *Dex +10*, *Con +10*, Int +3, Wis +3,Cha +3
+**Skills** ::  Athletics+6, Acrobatics+10,Martial Arts+10,Perception +6 
+**Senses**               :: passive Perception 16
+___
+***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+:
+***Savage Flurry II (Unique)*** This Digimon gains additional two attacks as part of the Multiattack feature.
+:
+***Enhanced Weaponry III (Unique)*** When this Digimon deals damage with a weapon attack, they deal an additional 3d6 *Lightning* damage.
+:
+***Self-Destruct (Unique)*** Once per rest, all creatures within 20-feet of this creature must make a Dexterity Saving Throw vs this creature’s highest save DC. 
+
+On a failure, they take Xd10 fire damage (where X = Constitution Modifier). On a success, they take half this damage. This Digimon is dead, leaves no traces and doesn't award any XP.
+### Jutsu  
+          
+***Bukijutsu*** +12 to hit, (**Bukijutsu save DC 18**) 
+
+C-Rank (Cost 9): BOT: Swarm, Dancing Blade Risk, Heaven Cutter
+
+B-Rank (Cost 14): BOT: Kami, Suicide Bombing
+
+### Attacks    
+***Multiattack*** This creature can make four *Sword* attacks.        
+**Sword** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing  + 3d6 Lightning damage.         
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Thundermon***
+
+### Evolves Into
+- ***HiAndromon***
+- ***PrinceMamemon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Tekkamon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Bukijutsu with Paper bombs requirement*
+- *Bukijutsu with the Slashing Weapon Component*
+  }}
+## Tekkamon
+A Digimon said to have been created by an evil hacker to destroy programs, in opposition to the "Net Keeper" Giromon. It wears a mask made of iron, and glares at its enemies with sharp eyes.
+## Scaling Enemy
+Tekkamon ranges between levels 9-12. To upscale a Tekkamon perform the following steps at each level.
+
+- **Level 10.** The Tekkamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Tekkamon's Hit Points by 16 & Chakra Points by 10 for every level.
+
+![Tekkamon](https://wikimon.net/images/9/9d/Tekkamon.jpg) {position:absolute,bottom:180px,left:390px,width:450px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:100px,left:260px,margin-bottom:-30px
+##### Tekkamon
+[Link](https://wikimon.net/images/9/9d/Tekkamon.jpg)
 }}
 
 {{pageNumber,auto}}
