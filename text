@@ -13914,7 +13914,7 @@ ___
 ___
 ***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
 :
-***Powerful Lightning II (Unique)*** All jutsu with the Lightning Release keyword deal an additional two damage die. 
+***Efficient Lightning III (Unique)*** All Ninjutsu with the Lightnign Release keyword have their costs reduced by 3 Chakra Points.
 :
 ***Aquatic (Unique)*** This Digimon can breathe water and air. If this digimon has their Swimming Speed higher than Waliking Speed. Replace all of their Walking Speed with Flying Speed.
 :
@@ -13922,22 +13922,23 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
 
-C-Rank (Cost 9): Raging Tide, Lightning Rope, Wall of Water
+C-Rank (Cost 9): Roar of Atlantis, Wall of Water, 
 
-B-Rank (Cost 14): Explosive Colliding Shockwave, Lightning Spear    
+(Cost 6) Lightning Current
 
+B-Rank (Cost 11): Storm Wave, Lightning Spear    
 ### Attacks
 ***Multiattack*** This creature can make two *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Slashing damage. 
+**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Piercing damage. 
 
  }}
 
 {{monster,frame
 ### Alternative Jutsu List
-WarGrowlmon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Lightning Release Keyword.*
-- *Ninjutsu with the Water Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
+MegaSeadramon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Lightning Release Keyword*
+- *Ninjutsu with the Water Release Keyword*
+- *Ranton Hijutsu that doesn't have Laser Style Keyword*
   }}
 
 {{monster,frame
@@ -13961,11 +13962,93 @@ MegaSeadramon ranges between levels 9-12. To upscale a MegaSeadramon perform the
 - **Level 10.** The MegaSeadramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level 10+,** Increase the MegaSeadramon's Hit Points by 15 & Chakra Points by 9 for every level.
 
-![MegaSeadramon](https://i.pinimg.com/564x/7e/8b/b8/7e8bb8eb2d30ab13814678096cb2e181.jpg) {position:absolute,bottom:50px,left:395px,width:420px,mix-blend-mode:multiply}
+![MegaSeadramon](https://wikimon.net/images/e/e1/Mega_Seadramon_New_Century.png) {position:absolute,bottom:50px,left:395px,width:420px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:70px,left:0px,margin-bottom:-30px
+{{artist,position:relative,top:170px,left:0px,margin-bottom:-30px
 ##### MegaSeadramon
-[Link](https://i.pinimg.com/564x/7e/8b/b8/7e8bb8eb2d30ab13814678096cb2e181.jpg)
+[Link](https://wikimon.net/images/e/e1/Mega_Seadramon_New_Century.png)
+}}
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## WaruSeadramon
+*B-Rank, Standard, Large Data, Ryu/Deep Savers/Lightning, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 23 **DR**  2 (All)
+**Hit Points**  :: 135 (d10) 
+**Chakra Points**  :: 84 (d8)  
+**Speed**       :: Fly 30ft., Swim 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|16 (+3)|18 (+4)|20 (+5)|14 (+2)|10 (+0)|
+___
+**Saving Throws** :: Str +2, *Dex +8*, *Con +9*, *Int +10*, Wis +4 Cha +2
+**Skills** ::  Acrobatics +8, Ninshou +10, Nature +10, Perception +7  
+**Senses**               :: passive Perception 17
+___
+***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
+:
+***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+:
+***Aquatic (Unique)*** This Digimon can breathe water and air. If this digimon has their Swimming Speed higher than Waliking Speed. Replace all of their Walking Speed with Flying Speed.
+:
+***Mystical Scale II (Unique)*** This Digimon gains advantage on any saving throw to prevent or to end *Physical* conditions. Additionally, this Digimon cannot take damage from any *Physical* condition.
+### Jutsu  
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
+
+C-Rank (Cost 9): Lightning Current, Poison Mist Technique
+
+B-Rank (Cost 14): Black Lightning, Storm Wave   
+***Bukijutsu*** +10 to hit, (**Bukijutsu save DC 16**) 
+
+C-Rank (Cost 9): Crescent Moon Penetration
+
+### Attacks
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Piercing damage. 
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+WaruSeadramon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ranton Hijutsu that doesn't have Laser Style Keyword*
+- *Ninjutsu with the Lightning Release Keyword.*
+- *Ninjutsu that deal Poison damage.*
+  }}
+
+{{monster,frame
+
+### Evolves From
+- ***Airdramon***
+- ***Coredramon (Green)***
+
+### Evolves Into
+- ***Leviamon***
+- ***MetalSeadramon***
+
+ }}
+ 
+
+## WaruSeadramon
+A Seadramon-species Digimon that evolved ‌in wickedness. It is able to control the powers of darkness with the blade-like horn on its head. Its personality has become even more sly, and its tenacity in chasing its prey exceeds that of Mega Seadramon.
+## Scaling Enemy
+WaruSeadramon ranges between levels 9-12. To upscale a WaruSeadramon perform the following steps at each level.
+
+- **Level 10.** The WaruSeadramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the WaruSeadramon's Hit Points by 15 & Chakra Points by 9 for every level.
+
+![WaruSeadramon](https://i.pinimg.com/originals/7b/88/48/7b8848c45e5dbef9a494675289265261.jpg) {position:absolute,bottom:50px,left:330px,width:540px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:370px,left:10px,margin-bottom:-30px
+##### WaruSeadramon
+[Link](https://i.pinimg.com/originals/7b/88/48/7b8848c45e5dbef9a494675289265261.jpg)
 }}
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
