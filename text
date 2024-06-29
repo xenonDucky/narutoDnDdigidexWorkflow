@@ -13496,8 +13496,8 @@ ___
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |20 (+5)|16 (+3)|18 (+4)|8 (-1) |14 (+2)|12 (+1)|
 ___
-**Saving Throws** :: *Str +10*, *Dex +8*, Con +6, Int +1, *Wis +7*, Cha +3
-**Skills** ::  Athletics +10 Perception +7 Martial Arts +10 Acrobatics +8
+**Saving Throws** :: *Str +10*, *Dex +8*, Con +6, Int +1, *Wis +7*, Cha +2
+**Skills** ::  Athletics+10 Perception+7 Martial Arts+10 Acrobatics+8
 **Damage Resistance** :: Bludgeoning, Slashing, Piercing    
 **Damage Vulnerbility** :: Lightning  
 **Senses**               :: passive Perception 17
@@ -13563,6 +13563,177 @@ Mamemon ranges between levels 9-12. To upscale a Mamemon perform the following s
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
 
+\page
+
+{{monster,frame
+## BigMamemon
+*B-Rank, Standard, Huge Data, Mutant/Metal Empire/Natural, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 23 **DR**  7 (All)
+**Hit Points**  :: 171 (d12) 
+**Chakra Points**  :: 101 (d6)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|12 (+1)|22 (+6)|8 (-1) |14 (+2)|12 (+1)|
+___
+**Saving Throws** :: *Str +10*, Dex +3, *Con +11*, Int +1, *Wis +7*, Cha +2
+**Skills** ::  Athletics+10 Perception+7 Martial Arts+10 Persuasion+5
+**Damage Resistance** :: Bludgeoning, Slashing, Piercing    
+**Damage Vulnerbility** :: Lightning  
+**Senses**               :: passive Perception 17
+___
+***Alternative Defence II (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
+:
+***Unique Body II (Unique)*** This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to *Lightning* damage.
+:
+***Tactician II (Unique)*** This creature gains the ability to use the Help action as a bonus action and from a range of 20-feet.
+:
+***Self-Destruct (Unique)*** Once per rest, all creatures within 20-feet of this creature must make a Dexterity Saving Throw vs this creature’s highest save DC. 
+
+On a failure, they take Xd10 fire damage (where X = Constitution Modifier). On a success, they take half this damage. This Digimon is dead, leaves no traces and doesn't award any XP.
+### Jutsu         
+***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**)     
+
+D-Rank (Cost 5): Fury    
+
+C-Rank (Cost 9): Fist Slam, Flight of the Cherubibi
+
+B-Rank (Cost 14): Piston Fist, Landmine Fist
+
+### Attacks  
+***Multiattack*** This creature can make two *Unarmed Strike* attacks.         
+**Unarmed Strike** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Bludgeoning damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Gargomon***
+- ***Starmon***
+- ***Sunflowmon***
+
+### Evolves Into
+- ***KingChessmon***
+- ***PrinceMamemon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+BigMamemon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Bakuton Hijutsu that doesn't have Artistic Style keyword*
+- *Any Taijutsu*
+  }}
+## BigMamemon
+A Mutation Digimon which exists as the boss of Mamemon, which hold the alias of "Smiley Bomber". As a matter of fact, it's suggested that it is an aggregation of Mamemon. Its personality is extremely gentle, and it hates conflict and battle. It is always playing with its Mamemon followers.
+## Scaling Enemy
+BigMamemon ranges between levels 9-12. To upscale a BigMamemon perform the following steps at each level.
+
+- **Level 10.** The BigMamemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the BigMamemon's Hit Points by 19 & Chakra Points by 11 for every level.
+
+![BigMamemon](https://wikimon.net/images/6/6a/Bigmamemon_new_century.png) {position:absolute,bottom:80px,left:390px,width:420px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:90px,left:260px,margin-bottom:-30px
+##### BigMamemon
+[Link](https://wikimon.net/images/6/6a/Bigmamemon_new_century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+\page
+
+{{monster,frame
+## MetalMamemon
+*B-Rank, Standard, Small Data, Construct/Metal Empire/Natural, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 20 **DR**  7 (All)
+**Hit Points**  :: 153 (d12) 
+**Chakra Points**  :: 74 (d6)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|20 (+5)|16 (+3)|18 (+4)|8 (-1) |14 (+2)|12 (+1)|
+___
+**Saving Throws** :: *Str +10*, *Dex +8*, Con +6, Int +1, *Wis +7*, Cha +3
+**Skills** ::  Athletics +10 Perception +7 Martial Arts +10 Acrobatics +8
+**Damage Resistance** :: Bludgeoning, Slashing, Piercing    
+**Damage Vulnerbility** :: Lightning  
+**Senses**               :: passive Perception 17
+___
+***Alternative Offense II (Unique)*** This Digimon uses its Strength Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
+:
+***Unique Body II (Unique)*** This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to *Lightning* damage.
+:
+***Lucky Guard II (Unique)*** Attacks againsts this creature have their critical threat range reduced by -2.
+:
+***Self-Destruct (Unique)*** Once per rest, all creatures within 20-feet of this creature must make a Dexterity Saving Throw vs this creature’s highest save DC. 
+
+On a failure, they take Xd10 fire damage (where X = Constitution Modifier). On a success, they take half this damage. This Digimon is dead, leaves no traces and doesn't award any XP.
+### Jutsu   
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**)     
+
+C-Rank (Cost 9): CC: Overdrive, 
+
+B-Rank (Cost 14): Warp Beam Reflection  
+***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**)     
+
+C-Rank (Cost 9): Hellfire Jets
+
+B-Rank (Cost 14): Jet Propulsion Barrage  
+***Bukijutsu*** +12 to hit, (**Bukijutsu save DC 18**)     
+
+C-Rank (Cost 9): Bolting Sakura
+### Attacks  
+***Multiattack*** This creature can make two *Slash* attacks.         
+**Slash** *Melee Weapon Attack* +12 to hit, reach 5ft., one target. *Hit.* 1d10+7 Slashing damage. 
+
+ }}
+ 
+ {{monster,frame
+### Alternative Jutsu List
+MetalMamemon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Any Jugo Hijutsu*
+- *Bukijutsu with the Slashing Weapon component*
+  }}
+
+{{monster,frame
+
+### Evolves From
+- ***Gargomon***
+- ***Starmon***
+- ***Sunflowmon***
+
+### Evolves Into
+- ***PrinceMamemon***
+
+ }}
+  
+## MetalMamemon
+A Cyborg Digimon that evolved further in strength than Mamemon, who holds the alias of "Smiley Bomber". As usual, if one is deceived by its cute appearance, they will have a terrible experience. Nine-tenths of its body is mechanized.
+## Scaling Enemy
+MetalMamemon ranges between levels 9-12. To upscale a MetalMamemon perform the following steps at each level.
+
+- **Level 10.** The MetalMamemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the MetalMamemon's Hit Points by 17 & Chakra Points by 8 for every level.
+
+![MetalMamemon](https://wikimon.net/images/b/b2/Metalmamemon_new_century.png) {position:absolute,bottom:10px,left:400px,width:410px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:20px,left:20px,margin-bottom:-30px
+##### MetalMamemon
+[Link](https://wikimon.net/images/b/b2/Metalmamemon_new_century.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
 \page
 
 {{monster,frame
