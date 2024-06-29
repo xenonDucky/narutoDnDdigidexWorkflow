@@ -8852,14 +8852,14 @@ Sunflowmon ranges between levels 5-8. To upscale a Sunflowmon perform the follow
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 **DR**  4 (All)
-**Hit Points**  :: 55 (d8) 
-**Chakra Points**  :: 49 (d10)  
+**Armor Class** :: 18 **DR**  14 (All)
+**Hit Points**  :: 65 (d10) 
+**Chakra Points**  :: 43 (d8)  
 **Speed**       :: 35ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|16 (+3)|10 (+0)|16 (+3)|16 (+3)|14 (+2)|8 (-1)|
+|16 (+3)|10 (+0)|16 (+3)|16 (+3)|14 (+2)|8 (-1) |
 ___
 **Saving Throws** :: *Str +7*, Dex +2, Con +5, *Int +7*, *Wis +6*, Cha +1
 **Skills** ::  Investigation +7, Perception +6, Chakra Control +7       
@@ -8867,7 +8867,7 @@ ___
 ___
 ***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
 :
-***Ranged Specialist II (Unique)*** This Digimon gains an additional +2 to all ranged attack and damage rolls. This has **not** already been added to the Stat Block.
+***Tanky Resilience II (Unique)*** This Digimon gains 10 Damage Reduction to all sources.
 :
 ***Alternative Weapon (Unique)*** This Digimon has a unique method of attacking that is stronger than other Digimon of similar stage.
 
@@ -8911,10 +8911,10 @@ A Machine Digimon that is known for its 'mercenary' ways as it will always choos
 ## Scaling Enemy
 Tankmon ranges between levels 5-8. To upscale a Tankmon perform the following steps at each level.
 
-- **Level 6+,** Increase the Tankmon's Hit Points by 11 & Chakra Points by 9 for every level.
+- **Level 6+,** Increase the Tankmon's Hit Points by 13 & Chakra Points by 8 for every level.
 - **Level 7.** The Tankmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Proficient Saving Throws, Save DC's, AC and to hit bonuses by +1.
 
-![Tankmon](https://wikimon.net/images/5/5e/Tankmon_New_Century.png) {position:absolute,bottom:120px,left:400px,width:420px,mix-blend-mode:multiply}
+![Tankmon](https://wikimon.net/images/5/5e/Tankmon_New_Century.png) {position:absolute,bottom:220px,left:400px,width:420px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:150px,left:10px,margin-bottom:-30px
 ##### Tankmon
@@ -9192,7 +9192,7 @@ ___
 
 D-Rank (Cost 5): Fireball
 
-C-Rank (Cost 9): Fire Dragon Bullet           
+C-Rank (Cost 9): Dragon Flame Bombs           
 ***Bukijutsu*** +8 to hit, (**Bukijutsu save DC 15**) 
 
 D-Rank (Cost 5): 1-Strike Slash, Crippling Strike
@@ -13651,6 +13651,175 @@ Mammothmon ranges between levels 9-12. To upscale a Mammothmon perform the follo
 {{footnote Part III - Ultimate}}
 
 \page
+{{monster,frame
+## MasterTyrannomon
+*B-Rank, Standard, Huge Virus, Ryu/Dragons Roar/Fire, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 21  **DR**  6 (All)
+**Hit Points**  :: 169 (d10) 
+**Chakra Points**  :: 93 (d8)  
+**Speed**       :: 40ft. **Initiative** +7
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|10 (+0)|18 (+4)|18 (+4)|12 (+1)|12 (+1)|
+___
+**Saving Throws** :: *Str +9*, Dex +2, *Con +9*, *Int +9*, *Wis +6*, *Cha +6*
+**Skills** :: Athletics +9, Perception +6, Ninshou +9, Nature +9  
+**Senses**               :: passive Perception 16
+___
+***Durable II (Unique)*** This creature has its Hit Points Maximum increased by 25%.
+:
+***Alternative Defence (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
+:
+***Overwhelming Fire III (Unique)*** *Fire* damage from this creature ignores DR and resistances. Additionlly, treat *Fire* damage immunity becomes resistance instead (not ignored by the previous ability).
+:
+***Strong Willed II (Unique)*** This Digimon gains proficiency and advantage in Wisdom and Charisma Saving Throws.
+### Jutsu         
+***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**)     
+
+C-Rank (Cost 9): Dragon Flame Bombs               
+
+B-Rank (Cost 14): Great Flame Bomb             
+***Taijutsu*** +11 to hit, (**Taijutsu save DC 17**)     
+
+C-Rank (Cost 9): Dragon Tail Foot   
+
+B-Rank (Cost 14): Leaf Earth Crush  
+***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**)     
+
+C-Rank (Cost 9): Heaven Cutter   
+### Attacks     
+**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Slashing damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Lavorvomon***
+- ***Tyrannomon***
+- ***Veedramon***
+
+### Evolves Into
+- ***Brakedramon***
+- ***RustTyrannomon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+MasterTyrannomon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Fire Release Keyword*
+- *Any Taijutsu*
+- *Bukijutsu with the Slashing Weapon Component*
+  }}
+## MasterTyrannomon
+A Dinosaur Digimon that evolved from a Tyranomon that overcame many fierce battles. The scars covering its body act as proof of the numerous battles it has survived. It takes on a master-like role, coaching its Tyranomon followers and raising them to become full-fledged warriors.
+## Scaling Enemy
+MasterTyrannomon ranges between levels 9-12. To upscale a MasterTyrannomon perform the following steps at each level.
+
+- **Level 10.** The MasterTyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the MasterTyrannomon's Hit Points by 19 & Chakra Points by 10 for every level.
+
+![MasterTyrannomon](https://i.pinimg.com/originals/ce/db/a8/cedba804465c15d64676fc33690223ed.jpg) {position:absolute,bottom:0px,left:360px,width:470px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:440px,left:-20px,margin-bottom:-30px
+##### MasterTyrannomon
+[Link](https://i.pinimg.com/originals/ce/db/a8/cedba804465c15d64676fc33690223ed.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
+{{monster,frame
+## MetalTyrannomon
+*B-Rank, Standard, Huge Virus, Construct/Metal Empire/Lightning, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 21  **DR**  16 (All)
+**Hit Points**  :: 162 (d12) 
+**Chakra Points**  :: 83 (d6)  
+**Speed**       :: 40ft. **Initiative** +2
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|10 (+0)|20 (+5)|20 (+5)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +9*, Dex +2, *Con +10*, *Int +10*, Wis +2 Cha +2
+**Skills** :: Athletics +9, Perception +5, Ninshou +10, Nature +10  
+**Damage Immunity** :: Poison
+**Damage Resistance** :: Bludgeoning, Piercing, Slashing, Necrotic
+**Damage Vulnerability** :: Lightning
+**Senses**               :: passive Perception 15
+___
+***Unique Body II (Unique)*** This Digimon gains resistances to *Bludgeoning*, *Slashing* and *Piercing* damage. However, it gains vulnerability to *Lightning* damage.
+:
+***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation.
+:
+***Tanky Resilience II (Unique)*** This Digimon gains 10 Damage Reduction to all sources.
+:
+***Poison Resistant III (Unique)*** This creature is immune to *Poison* damage and resistant to *Necrotic* damage.
+### Jutsu         
+***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**)     
+
+C-Rank (Cost 9): Laser Sight, Tri-Beam               
+
+B-Rank (Cost 14): Laser Dance             
+***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**)     
+
+C-Rank (Cost 9): Heaven Cutter    
+
+B-Rank (Cost 14): BOS: Overload
+
+### Attacks     
+**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Slashing damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Lavorvomon***
+- ***Tyrannomon***
+- ***Veedramon***
+
+### Evolves Into
+- ***Brakedramon***
+- ***RustTyrannomon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+MetalTyrannomon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Lightninh Release Keyword.*
+- *Ranton Hijutsu that doesn’t have Storm Style Keyword*
+- *Bukijutsu with the Slashing Weapon Component.*
+  }}
+## MetalTyrannomon
+A Machine Digimon that has remodeled its body in order to further enhance its power. MetalTyrannoman has removed the more docile elements of its personality. Its hard metal skin and integrated weapon systems make it a threat on the battlefield.
+## Scaling Enemy
+MetalTyrannomon ranges between levels 9-12. To upscale a MetalTyrannomon perform the following steps at each level.
+
+- **Level 10.** The MetalTyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the MetalTyrannomon's Hit Points by 18 & Chakra Points by 9 for every level.
+
+![MetalTyrannomon](https://i.pinimg.com/564x/dc/f5/60/dcf5606a471cfb9f37b21056944fcc25.jpg) {position:absolute,bottom:-40px,left:320px,width:580px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:90px,left:250px,margin-bottom:-30px
+##### MetalTyrannomon
+[Link](https://i.pinimg.com/564x/dc/f5/60/dcf5606a471cfb9f37b21056944fcc25.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+\page
 
 {{monster,frame
 ## Megadramon
@@ -13924,12 +14093,11 @@ ___
 
 C-Rank (Cost 9): Roar of Atlantis, Wall of Water, 
 
-(Cost 6) Lightning Current
+(Cost 6) Absorb Lightning
 
 B-Rank (Cost 11): Storm Wave, Lightning Spear    
 ### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Piercing damage. 
+**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 3d10+5 Piercing damage. 
 
  }}
 
@@ -14002,16 +14170,11 @@ ___
 ### Jutsu  
 ***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
 
-C-Rank (Cost 9): Lightning Current, Poison Mist Technique
+C-Rank (Cost 9): Lightning Current, Poison Mist Technique, Absorb Lightning
 
 B-Rank (Cost 14): Black Lightning, Storm Wave   
-***Bukijutsu*** +10 to hit, (**Bukijutsu save DC 16**) 
-
-C-Rank (Cost 9): Crescent Moon Penetration
-
 ### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 1d10+5 Piercing damage. 
+**Horn Attack** *Melee Weapon Attack* +10 to hit, reach 5ft., one target. *Hit.* 3d10+5 Piercing damage. 
 
  }}
 
@@ -14044,9 +14207,9 @@ WaruSeadramon ranges between levels 9-12. To upscale a WaruSeadramon perform the
 - **Level 10.** The WaruSeadramon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level 10+,** Increase the WaruSeadramon's Hit Points by 15 & Chakra Points by 9 for every level.
 
-![WaruSeadramon](https://i.pinimg.com/originals/7b/88/48/7b8848c45e5dbef9a494675289265261.jpg) {position:absolute,bottom:50px,left:330px,width:540px,mix-blend-mode:multiply}
+![WaruSeadramon](https://i.pinimg.com/originals/7b/88/48/7b8848c45e5dbef9a494675289265261.jpg) {position:absolute,bottom:150px,left:330px,width:540px,mix-blend-mode:multiply}
 
-{{artist,position:relative,top:370px,left:10px,margin-bottom:-30px
+{{artist,position:relative,top:410px,left:10px,margin-bottom:-30px
 ##### WaruSeadramon
 [Link](https://i.pinimg.com/originals/7b/88/48/7b8848c45e5dbef9a494675289265261.jpg)
 }}
@@ -14222,39 +14385,36 @@ Meicrackmon VM ranges between levels 9-12. To upscale a Meicrackmon VM perform t
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 22 **DR**  2 (All)
+**Armor Class** :: 19 **DR**  2 (All)
 **Hit Points**  :: 117 (d8) 
 **Chakra Points**  :: 94 (d10)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +2
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +4
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|10 (+0)|10 (+0)|18 (+4)|20 (+5)|10 (+0)|20 (+5)|
+|10 (+0)|14 (+2)|18 (+4)|10 (+0)|14 (+2)|22 (+6)|
 ___
-**Saving Throws** :: Str +2, Dex +2, *Con +9*, *Int +10*, Wis +2 *Cha +10*
-**Skills** ::  Illusions +10 Stealth +5, Ninshou +10, Chakra Control +9
-**Senses**               :: passive Perception 10
+**Saving Throws** :: Str +2, Dex +4, Con +6, *Int +5*, *Wis +7* *Cha +11*
+**Skills** ::  Illusions +7 Stealth +7, Deception +11, Medicine +7
+**Senses**               :: passive Perception 12
 ___
 ***Powerful Mind II (Unique)*** All Genjutsu deal two additional damage dice.
 :
-***Alternative Defense (Unique)*** This creature uses its Charisma Modifier for AC calculations instead of Dexterity. 
+***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Charisma saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Concussed* condition.
 :
 ***Alternative Focus (Unique)*** When this Digimon would deal *psychic* damage, it can instead choose to deal *necrotic* damage.
 :
-***Overwhelming Mind III (Unique)*** *Necrotic* damage from this creature ignores DR and resistances. Additionlly, treat *necrotic* damage immunity becomes resistance instead (not ignored by the previous ability).
+***Overwhelming Decay III (Unique)*** *Necrotic* damage from this creature ignores DR and resistances. Additionlly, treat *necrotic* damage immunity becomes resistance instead (not ignored by the previous ability).
 ### Jutsu         
-***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**)     
+***Genjutsu*** +13 to hit, (**Genjutsu save DC 19**)     
 
-C-Rank (Cost 9): Corrupt Wave, Encroaching Entropy               
-***Genjutsu*** +12 to hit, (**Genjutsu save DC 18**)     
+C-Rank (Cost 9): P: Dark Pulse!, P: Dark Daze, Sleep of the Deep
 
-C-Rank (Cost 9): Dark Pulse!
-
-B-Rank (Cost 14): Labyrinthine Howl, Psychic Blast            
+B-Rank (Cost 14): P: Crush!, P: Torment!            
 
 ### Attacks
-***Multiattack*** This creature can make two *Slash* attacks.      
-**Slash** *Melee Weapon Attack* +7 to hit, reach 5ft., one target. *Hit.* 1d10+2 Slashing damage. 
+***Multiattack*** This creature can make two *Unarmed Attack* attacks.      
+**Unarmed Attack** *Melee Weapon Attack* +9 to hit, reach 5ft., one target. *Hit.* 1d10+4 Bludgeoning damage. 
 
  }}
 
@@ -14272,8 +14432,8 @@ B-Rank (Cost 14): Labyrinthine Howl, Psychic Blast
 {{monster,frame
 ### Alternative Jutsu List
 Mephistomon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Any Genjutsu*
 - *Ninjutsu that deals Necrotic Damage*
+- *Any Genjutsu*
   }}
 ## Mephistomon
 A Fallen Angel Digimon that takes the shape of a bipedal, humanoid goat. Both intelligent and cruel, Mephistomon is often associated with demonic entities. Its unique control over darkness can make illusions that physically affect its foes.
@@ -14699,86 +14859,6 @@ DoruGreymon ranges between levels 9-12. To upscale a DoruGreymon perform the fol
 {{artist,position:relative,top:60px,left:290px,margin-bottom:-30px
 ##### DoruGreymon
 [Link](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg)
-}}
-
-{{pageNumber,auto}}
-{{footnote Part III - Ultimate}}
-
-\page
-{{monster,frame
-## MetalTyrannomon
-*B-Rank, Standard, Huge Virus, Construct/Metal Empire/Lightning, Prof +5*
-
-**Level:** 9 (10XP)
-___
-**Armor Class** :: 22  **DR**  16 (All)
-**Hit Points**  :: 162 (d12) 
-**Chakra Points**  :: 83 (d6)  
-**Speed**       :: 40ft. **Initiative** +2
-___
-|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|18 (+4)|10 (+0)|20 (+5)|20 (+5)|10 (+0)|10 (+0)|
-___
-**Saving Throws** :: *Str +9*, Dex +2, *Con +10*, *Int +10*, Wis +2 Cha +2
-**Skills** :: Athletics +9, Perception +5, Ninshou +10, Nature +10  
-**Senses**               :: passive Perception 15
-___
-***Always Ready II (Unique)*** This Digimon adds its full Proficiency Bonus to their Initiative roll. This Digimon may Digivolve into this evolution from a lower stage as a free action when intiative is rolled.
-:
-***Alternative Defence (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
-:
-***Natural Resilience III (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +2 to all attack rolls.
-:
-***Potential III (Unique)*** When this Digimon is above 50% Health Points, they gain an additional +3 to all attack rolls.
-### Jutsu         
-***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**)     
-
-C-Rank (Cost 9): Fire Dragon Bullet, Lightning Flash               
-
-B-Rank (Cost 14): Chained Lightning, Great Flame Bomb             
-***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**)     
-
-C-Rank (Cost 9): Heaven Cutter          
-
-### Attacks     
-**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Slashing damage. 
-
- }}
-
-{{monster,frame
-
-### Evolves From
-- ***Lavorvomon***
-- ***Tyrannomon***
-- ***Veedramon***
-
-### Evolves Into
-- ***Brakedramon***
-- ***RustTyrannomon***
-
- }}
-
-{{monster,frame
-### Alternative Jutsu List
-MetalTyrannomon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
-- *Ninjutsu with the Fire Release Keyword.*
-- *Ninjutsu with the Lightning Release Keyword.*
-- *Bukijutsu with the Slashing Weapon Component.*
-  }}
-## MetalTyrannomon
-A Machine Digimon that has remodeled its body in order to further enhance its power. MetalTyrannoman has removed the more docile elements of its personality. Its hard metal skin and integrated weapon systems make it a threat on the battlefield.
-## Scaling Enemy
-MetalTyrannomon ranges between levels 9-12. To upscale a MetalTyrannomon perform the following steps at each level.
-
-- **Level 10.** The MetalTyrannomon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the MetalTyrannomon's Hit Points by 18 & Chakra Points by 9 for every level.
-
-![MetalTyrannomon](https://wikimon.net/images/7/7d/Metaltyranomon2.jpg) {position:absolute,bottom:20px,left:350px,width:540px,mix-blend-mode:multiply}
-
-{{artist,position:relative,top:370px,left:50px,margin-bottom:-30px
-##### MetalTyrannomon
-[Link](https://wikimon.net/images/7/7d/Metaltyranomon2.jpg)
 }}
 
 {{pageNumber,auto}}
