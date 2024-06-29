@@ -15038,6 +15038,94 @@ DoruGreymon ranges between levels 9-12. To upscale a DoruGreymon perform the fol
 \page
 
 {{monster,frame
+## DexDoruGreymon
+*B-Rank, Standard, Huge Data, Undead/Nightmare Soldiers/Earth, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 22 **DR**  6 (All)
+**Hit Points**  :: 144 (d10) 
+**Chakra Points**  :: 93 (d8)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|18 (+4)|12 (+1)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
+___
+**Saving Throws** :: *Str +9*, Dex +3, *Con +9*, Int +6, *Wis +5*, Cha +2
+**Skills** ::  Athletics +9, Survival +5, Chakra Control +10, Perception +5 
+**Senses**               :: passive Perception 15
+___
+***Blood Fury III (Unique)*** When this Digimon is below 50% of their maximum HP, they become enraged, gaining 15ft. of movement speed and +4 to all attack rolls but suffering a -2 AC penalty.
+:
+***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
+:
+***Powerful Earth III (Unique)*** All Ninjutsu with the Earth Release keyword deal three additional damage dice.
+:
+***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack. 
+
+Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends.
+### Jutsu  
+
+
+***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
+
+C-Rank (Cost 9): Dragons Wrath
+
+B-Rank (Cost 14): Mauseleum Dumpling       
+***Bukijutsu*** +11 to hit, (**Bukijutsu save DC 17**) 
+
+C-Rank (Cost 9): Murderous Stabbing Link, Dancing Blade Risk  
+
+B-Rank (Cost 14): 1-Strike Piercing Blow 
+
+### Attacks    
+***Multiattack*** This creature can make two *Slash* attacks.      
+**Slash** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Slashing damage. 
+
+ }}
+\column
+{{monster,frame
+
+### Evolves From
+- ***Garurumon***
+- ***Strikedramon***
+
+### Evolves Into
+- ***Alphamon***
+- ***Dorugoramon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+DexDoruGreymon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Ninjutsu with the Earth Release Keyword*
+- *Ryu Hijutsu, with Earth nature relese for Blood of the Dragon*
+- *Taijutsu that has Dragon in its name*
+  }}
+## DexDoruGreymon
+A Digimon that possessed both the qualities of a Dragon and a Beast. It is a massive Digimon that possesses the qualities of a legendary Dragon that has hibernated for centuries. DoruGreymon's thick coat protects it against all minor attacks.  
+## Scaling Enemy
+DexDoruGreymon ranges between levels 9-12. To upscale a DexDoruGreymon perform the following steps at each level.
+
+- **Level 10.** The DexDoruGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the DexDoruGreymon's Hit Points by 16 & Chakra Points by 10 for every level.
+
+![DexDoruGreymon](https://wikimon.net/images/7/78/Death-X-Doruguremon_DM_Artbook_Ver._X.jpg) {position:absolute,bottom:-80px,left:270px,width:550px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:10px,left:10px,margin-bottom:-30px
+##### DexDoruGreymon
+[Link](https://i.pinimg.com/564x/eb/6b/60/eb6b6076afc8c2f687e2d72ade0b658d.jpg)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+
+\page
+
+{{monster,frame
 ## Meteormon
 *B-Rank, Standard, Large Data, Elemental/Nature Spirits/Earth, Prof +5*
 
