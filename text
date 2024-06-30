@@ -46,6 +46,14 @@ Each Digimon has a unique set list of jutsu assigned to it. However, if these ju
 This list enables users to choose a number of jutsu from a list of set requirements - similar to that of base game summons.
 
 \column
+### V0.5
+- Trait table added.
+- Traits rebalanced (still WIP).
+- Create a digimon template added.
+- Most Digimon are redesigned with new traits and jutsus.
+- New Digimon added (WIP).
+- More to come... 
+
 ### V0.4
 - **Ultimates Added**: Too many to count.
 - Table of Contents added.
@@ -77,87 +85,82 @@ This list enables users to choose a number of jutsu from a list of set requireme
 # Table Of Contents
 ### [Part I: Rookie](#p7) {{width:161px}} 7
 #### [Agumon](#p8) {{width:244px}}8 
-#### [Armadillomon](#p9) {{width:193px}}9 
-#### [Biyomon](#p10) {{width:231px}}10 
-#### [DemiDevimon](#p11) {{width:193px}}11 
-#### [Gabumon](#p12){{width:230px}}12 
-#### [Goblimon](#p13){{width:225px}}13 
-#### [Gomamon](#p14){{width:226px}}14
-#### [Guilmon](#p15){{width:234px}}15 
-#### [Hawkmon](#p16){{width:227px}}16
-#### [Impmon](#p17){{width:245px}}17 
-#### [Palmon](#p18){{width:244px}}18 
-#### [Patamon](#p19){{width:235px}}19 
-#### [Renamon](#p20){{width:232px}}20 
-#### [Salamon](#p21){{width:236px}}21 
-#### [Tentomon](#p22){{width:222px}}22 
-#### [Terriermon](#p23){{width:212px}}23 
-#### [Veemon](#p24){{width:243px}}24 
-#### [Vorvomon](#p25){{width:221px}}25 
-#### [Wormmon](#p26){{width:226px}}26 
+#### [Alraumon](#p30){{width:225px}}30 
+#### [Armadillomon](#p12) {{width:185px}}12 
+#### [Biyomon](#p13) {{width:231px}}13 
+#### [BlackAgumon](#p9) {{width:198px}}9 
+#### [BlackGabumon](#p16){{width:185px}}16 
+#### [BlackGuilmon](#p25){{width:189px}}25 
+#### [BushiAgumon](#p11) {{width:192px}}11 
+#### [DemiDevimon](#p14) {{width:193px}}14 
+#### [Gabumon](#p15){{width:230px}}15 
+#### [Gazimon](#p18){{width:235px}}18 
+#### [Ghostmon](#p19){{width:221px}}19 
+#### [Goblimon](#p20){{width:225px}}20 
+#### [Gomamon](#p23){{width:226px}}23
+#### [Guilmon](#p24){{width:234px}}24 
+#### [Jellymon](#p26){{width:232px}}26 
+#### [Hawkmon](#p27){{width:227px}}27
+#### [Impmon](#p28){{width:245px}}28 
+#### [Jazamon](#p43){{width:239px}}43 
+#### [Lopmon](#p40){{width:242px}}40 
+#### [Palmon](#p29){{width:244px}}29 
+#### [Psychemon](#p17){{width:217px}}17 
+#### [Patamon](#p31){{width:235px}}31 
+#### [Phascomon](#p33){{width:215px}}33 
+#### [Renamon](#p34){{width:232px}}34 
+#### [Salamon](#p35){{width:236px}}35
+#### [Shamamon](#p22) {{width:217px}}22 
+#### [SnowAgumon](#p10) {{width:194px}}10 
+#### [SnowGoblimon](#p21) {{width:181px}}21 
+#### [Soundbirdmon](#p36) {{width:185px}}36 
+#### [Syakomon](#p37) {{width:220px}}37 
+#### [Tentomon](#p38){{width:222px}}38 
+#### [Terriermon](#p39){{width:212px}}39 
+#### [Tsukaimon](#p32){{width:218px}}32 
+#### [Veemon](#p41){{width:243px}}41 
+#### [Vorvomon](#p42){{width:221px}}42 
+#### [Wormmon](#p44){{width:226px}}44 
 
-### [Part II: Champion](#p26){{width:121px}} 26
-#### [Airdramon](#p27){{width:214px}} 27 
-#### [Angemon](#p28){{width:227px}} 28 
-#### [Ankylomon](#p29) {{width:209px}}29 
-#### [Apemon](#p30) {{width:240px}}30 
-#### [Aquilamon](#p31){{width:213px}} 31 
-#### [Bakemon](#p32) {{width:229px}}32 
-#### [Birdramon](#p33) {{width:215px}}33 
-#### [BlackGarurumon](#p34){{width:162px}} 34 
-#### [BlackGatomon](#p35) {{width:180px}}35 
-#### [Centarumon](#p36) {{width:200px}}36 
-#### [Clockmon](#p37) {{width:217px}}37 
-#### [Coredramon (Blue)](#p38) {{width:147px}}38 
-#### [Coredramon (Green)](#p39) {{width:136px}}39 
-#### [Devidramon](#p40) {{width:204px}}40 
-#### [Devimon](#p41) {{width:231px}}41 
-#### [Diatrymon](#p42) {{width:214px}}42 
-#### [Dokugumon](#p43) {{width:204px}}43 
-#### [Drimogemon](#p44) {{width:200px}}44 
-#### [ExVeemon](#p45) {{width:220px}}45 
-#### [Flarerizamon](#p46) {{width:193px}}46 
-#### [Frigimon](#p47) {{width:228px}}47 
-#### [Gaogamon](#p48) {{width:216px}}48 
-#### [Gargomon](#p49) {{width:212px}} 49 
-#### [Garurumon](#p50) {{width:208px}}50 
-#### [Gatomon](#p51) {{width:226px}}51 
-#### [GeoGreymon](#p52) {{width:197px}}52 
-#### [Golemon](#p53) {{width:227px}}53 
-#### [Greymon](#p54) {{width:228px}}54 
-#### [Greymon (Virus)](#p55){{width:171px}} 55 
-#### [Growlmon](#p56){{width:220px}}56 
-#### [Icemon](#p57){{width:243px}} 57 
-#### [Ikkakumon](#p58){{width:212px}} 58 
-#### [Kabuterimon](#p59){{width:196px}} 59 
-#### [Kiwimon](#p60) {{width:227px}} 60 
-#### [Kokatorimon](#p61){{width:192px}} 61 
-#### [Kuwagamon](#p62) {{width:204px}}62 
-#### [Kyubimon](#p63){{width:221px}} 63 
-#### [Lavorvomon](#p64) {{width:200px}}64 
-#### [Leomon](#p65){{width:237px}} 65 
-#### [Meicoomon](#p66){{width:208px}} 66 
-#### [Meramon](#p67){{width:226px}} 67 
-#### [Mojyamon](#p68) {{width:218px}}68 
-#### [Nanimon](#p69) {{width:229px}}69
-#### [Numemon](#p70){{width:224px}} 70
-#### [Ogremon](#p71) {{width:226px}}71
-#### [Peckmon](#p72) {{width:230px}}72
-#### [Reppamon](#p73) {{width:223px}}73 
-#### [Sorcerimon](#p74) {{width:203px}} 74 
-#### [Starmon](#p75) {{width:232px}}75 
-#### [Stingmon](#p76) {{width:224px}}76 
-#### [Strikedramon](#p77){{width:190px}} 77 
-#### [Sunflowmon](#p78) {{width:196px}} 78 
-#### [Tankmon](#p79) {{width:222px}} 79 
-#### [Togemon](#p80) {{width:227px}}80 
-#### [Tuskmon](#p81) {{width:224px}} 81
-#### [Tyrannomon](#p82) {{width:194px}} 82 
-#### [Unimon](#p83) {{width:238px}}83 
-#### [Veedramon](#p84) {{width:212px}}84 
-#### [Vegiemon](#p85) {{width:224px}}85 
-
-
+### [Part II: Champion](#p45){{width:121px}} 45
+#### [Airdramon](#p46){{width:214px}} 46 
+#### [Akatorimon](#p93){{width:204px}} 93 
+#### [Angemon](#p47){{width:227px}} 47 
+#### [Ankylomon](#p49) {{width:209px}}49 
+#### [Apemon](#p50) {{width:240px}}50 
+#### [Aquilamon](#p51){{width:213px}} 51 
+#### [Bakemon](#p52) {{width:229px}}52 
+#### [Birdramon](#p54) {{width:215px}}54 
+#### [Boogiemon](#p56) {{width:211px}}56 
+#### [BlackGarurumon](#p76){{width:166px}}76 
+#### [BlackGatomon](#p78) {{width:180px}}78 
+#### [BlackGrowlmon](#p87) {{width:170px}}87 
+#### [Centarumon](#p57) {{width:200px}}57 
+#### [Clockmon](#p58) {{width:217px}}58 
+#### [Coredramon (Blue)](#p59) {{width:147px}}59 
+#### [Coredramon (Green)](#p60) {{width:136px}}60
+#### [DarkLizamon](#p70) {{width:193px}}70 
+#### [DarkTyrannomon](#p124) {{width:147px}} 124 
+#### [Devidramon](#p61) {{width:204px}}61 
+#### [Devimon](#p62) {{width:231px}}62 
+#### [Diatrymon](#p64) {{width:214px}}64 
+#### [Dokugumon](#p65) {{width:204px}}65 
+#### [Drimogemon](#p66) {{width:200px}}66 
+#### [ExVeemon](#p68) {{width:220px}}68 
+#### [FlameWizardmon](#p136) {{width:154px}} 136 
+#### [FlareLizamon](#p69) {{width:191px}}69 
+#### [Fugamon](#p109) {{width:220px}}109
+#### [Gaogamon](#p71) {{width:216px}}71 
+#### [Gargomon](#p72) {{width:212px}} 72 
+#### [Gargoylemon](#p73) {{width:188px}} 73 
+#### [Garurumon](#p74) {{width:208px}}74 
+#### [Gururumon](#p75) {{width:207px}}75 
+#### [Gatomon](#p77) {{width:226px}}77 
+#### [GeoGreymon](#p85) {{width:197px}}85 
+#### [Geremon](#p104){{width:221px}} 104
+#### [Gesomon](#p81) {{width:228px}}81 
+#### [Golemon](#p82) {{width:227px}}82 
+#### [Greymon](#p83) {{width:228px}}83 
 
 }}
 {{pageNumber,auto}}
@@ -167,87 +170,178 @@ This list enables users to choose a number of jutsu from a list of set requireme
 
 {{toc,wide
 # Part I: Table Of Contents
-#### [Vilemon](#p86) {{width:234px}}86 
-#### [Waspmon](#p87) {{width:229px}}87 
-#### [Wizardmon](#p88) {{width:208px}} 88 
-#### [Woodmon](#p89) {{width:218px}} 89 
-#### [Youkomon](#p90){{width:215px}} 90 
-### [Part III: Ultimate](#p91) {{width:116px}} 91
-#### [AeroVeedramon](#p92){{width:174px}} 92 
-#### [Andromon](#p93) {{width:212px}} 93
-#### [Angewomon](#p94) {{width:201px}} 94
-#### [Antylamon](#p95) {{width:208px}} 95
-#### [Arukenimon](#p96) {{width:199px}} 96
-#### [Baalmon](#p97) {{width:226px}} 97
-#### [BlackKingNumemon](#p98) {{width:136px}} 98
-#### [BlackWarGrowlmon](#p99){{width:139px}} 99
-#### [Blossomon](#p100) {{width:201px}} 100
-#### [BlueMeramon](#p101) {{width:178px}} 101
-#### [CannonBeemon](#p102) {{width:165px}} 102
-#### [Cherrymon](#p103) {{width:198px}} 103
-#### [Chirinmon](#p104) {{width:201px}} 104
-#### [Crowmon](#p105) {{width:212px}} 105
-#### [Crescemon](#p106) {{width:201px}} 106
-#### [Cyberdramon](#p107) {{width:181px}} 107
-#### [Deramon](#p108) {{width:216px}} 108
-#### [Digitamamon](#p109) {{width:183px}} 109 
-#### [Dinobeemon](#p110) {{width:190px}} 110
-#### [DoruGreymon](#p111) {{width:175px}} 111
-#### [Doumon](#p112) {{width:221px}} 112
-#### [Etemon](#p113) {{width:228px}} 113
-#### [Garudamon](#p114) {{width:196px}} 114
-#### [Gigadramon](#p115) {{width:190px}} 115
-#### [Giromon](#p116) {{width:217px}} 116
-#### [Gokuwmon](#p117) {{width:200px}} 117
-#### [Grademon](#p118) {{width:206px}} 118
-#### [GrapLeomon](#p119) {{width:188px}} 119
-#### [Groundramon](#p120) {{width:175px}} 120
-#### [HippoGryphonmon](#p121) {{width:141px}} 121
-#### [Infermon](#p122) {{width:213px}} 122
-#### [JewelBeemon](#p123) {{width:185px}} 123
-#### [Knightmon](#p124) {{width:197px}} 124
-#### [Kyukimon](#p125) {{width:207px}} 125
-#### [LadyDevimon](#p126) {{width:182px}} 126
-#### [Lavogaritamon](#p127) {{width:166px}}  127
-#### [Lilamon](#p128) {{width:222px}} 128
-#### [Lillymon](#p129) {{width:215px}} 129
-#### [Machgaogamon](#p130) {{width:163px}} 130
-#### [MagnaAngemon](#p131) {{width:163px}} 131
-#### [Mamemon](#p132) {{width:211px}} 132
-#### [Mammothmon](#p133) {{width:178px}} 133
-#### [Megadramon](#p134) {{width:186px}} 134
-#### [MegaKabuterimon](#p135) {{width:143px}} 135
-#### [MegaSeadramon](#p136) {{width:160px}} 136
-#### [Meicrackmon](#p137) {{width:181px}} 137
-#### [Meicrackmon VM](#p138) {{width:152px}} 138
-#### [Mephistomon](#p139) {{width:182px}} 139
-#### [MetalGreymon](#p140) {{width:169px}} 140
-#### [MetalGreymon (Virus)](#p141) {{width:111px}} 141
-#### [MetalTyrannomon](#p142) {{width:139px}} 142
-#### [Meteormon](#p143) {{width:196px}} 143
-#### [Monzaemon](#p144) {{width:194px}} 144
-#### [Mummymon](#p145) {{width:198px}} 145
-#### [Myotismon](#p146) {{width:200px}} 146
-#### [Okuwamon](#p147) {{width:200px}} 147
-#### [Paildramon](#p148) {{width:195px}} 148
-#### [Pandamon](#p149) {{width:207px}} 149
-#### [Panjyamon](#p150) {{width:202px}} 150
-#### [Parrotmon](#p151) {{width:200px}} 151
-#### [Phantomon](#p152) {{width:196px}} 152
-#### [Piximon](#p153) {{width:224px}} 153
-#### [Pumpkinmon](#p154) {{width:190px}} 154
-#### [Rapidmon](#p155) {{width:212px}} 155
-#### [RizeGreymon](#p156) {{width:184px}} 156
-#### [SaviorHuckmon](#p157) {{width:161px}} 157
-#### [Scorpiomon](#p158) {{width:194px}} 158
+
+#### [Greymon (Virus)](#p84){{width:171px}} 84 
+#### [Growlmon](#p86){{width:220px}}86 
+#### [Hyougamon](#p108) {{width:197px}}108
+#### [IceDevimon](#p63) {{width:208px}}63 
+#### [Icemon](#p88){{width:243px}} 88 
+#### [Ikkakumon](#p89){{width:212px}} 89 
+#### [Kabuterimon](#p90){{width:196px}} 90 
+#### [Kiwimon](#p91) {{width:227px}} 91 
+#### [Kokatorimon](#p92){{width:192px}} 92 
+#### [Kuwagamon](#p94) {{width:204px}}94 
+#### [Kyubimon](#p95){{width:221px}} 95 
+#### [Lavorvomon](#p97) {{width:200px}}97 
+#### [Leomon](#p98){{width:237px}} 98 
+#### [MadLeomon](#p99){{width:205px}} 99 
+#### [Meicoomon](#p80){{width:208px}} 80 
+#### [Meramon](#p100){{width:218px}} 100 
+#### [Mikemon](#p79) {{width:226px}}79 
+#### [Mojyamon](#p101) {{width:210px}}101 
+#### [MoriShellmon](#p114) {{width:176px}}114 
+#### [Nanimon](#p102) {{width:221px}}102
+#### [NiseDrimogemon](#p67) {{width:166px}}67 
+#### [Numemon](#p103){{width:216px}} 103
+#### [Octomon](#p106){{width:217px}} 106
+#### [Ogremon](#p107) {{width:216px}}107
+#### [Peckmon](#p110) {{width:220px}}110
+#### [Ponchomon](#p121) {{width:198px}}121 
+#### [Porcupamon](#p111) {{width:195px}}111
+#### [Pidmon](#p48){{width:241px}} 48 
+#### [RedVegiemon](#p130) {{width:187px}}130 
+#### [Reppamon](#p112) {{width:215px}}112 
+#### [Saberdramon](#p55) {{width:196px}}55 
+#### [Shellmon](#p113) {{width:215px}}113 
+#### [Geremon](#p105){{width:221px}} 105
+#### [ShimaUnimon](#p126) {{width:184px}}126
+#### [Sorcerimon](#p134) {{width:195px}} 134 
+#### [Soulmon](#p53) {{width:229px}}53 
+#### [Starmon](#p115) {{width:224px}}115 
+#### [Stingmon](#p116) {{width:216px}}116 
+#### [Strikedramon](#p117){{width:182px}} 117 
+#### [Sunflowmon](#p118) {{width:188px}} 118 
+#### [Tankmon](#p119) {{width:214px}} 119 
+#### [Togemon](#p120) {{width:219px}}120 
+#### [Tuchidarumon](#p139) {{width:171px}} 139 
+#### [Tuskmon](#p122) {{width:216px}} 122
+#### [Tyrannomon](#p123) {{width:186px}} 123 
+#### [Unimon](#p125) {{width:230px}}125
+#### [Veedramon](#p127) {{width:204px}}127 
+#### [Vegiemon](#p128) {{width:216px}}128 
+#### [Vilemon](#p131) {{width:226px}}131 
+#### [Waspmon](#p132) {{width:221px}}132 
+#### [Weedmon](#p129) {{width:218px}}129 
+#### [Witchmon](#p135) {{width:207px}} 135 
+#### [Wizardmon](#p133) {{width:200px}} 133 
+#### [Woodmon](#p137) {{width:210px}} 137 
+#### [Youkomon](#p96){{width:215px}} 96 
+#### [Yukidarumon](#p138) {{width:181px}} 138 
+
+### [Part III: Ultimate](#p140) {{width:106px}} 140
+#### [AeroVeedramon](#p141){{width:166px}} 141 
+#### [Andromon](#p142) {{width:204px}} 142
+#### [Angewomon](#p143) {{width:193px}} 143
+#### [Antylamon](#p144) {{width:200px}} 144
+#### [Arukenimon](#p145) {{width:191px}} 145
+#### [Baalmon](#p146) {{width:218px}} 146
+#### [BigMamemon](#p178) {{width:185px}} 178
+#### [BlackKingNumemon](#p147) {{width:128px}} 147
+#### [BlackWarGrowlmon](#p230){{width:131px}} 230
+#### [Blossomon](#p148) {{width:201px}} 148
+#### [BlueMeramon](#p149) {{width:178px}} 149
+#### [CannonBeemon](#p152) {{width:165px}} 150
+#### [Cherrymon](#p151) {{width:198px}} 151
+#### [Chirinmon](#p152) {{width:201px}} 152
+#### [Crowmon](#p153) {{width:212px}} 153
+#### [Crescemon](#p154) {{width:201px}} 154
+#### [Cyberdramon](#p155) {{width:181px}} 155
+#### [Deramon](#p156) {{width:216px}} 156
+#### [DexDoruGreymon](#p196) {{width:145px}} 196
+#### [Digitamamon](#p157) {{width:183px}} 157 
+#### [Dinobeemon](#p206) {{width:190px}} 206
+#### [DoruGreymon](#p195) {{width:175px}} 195
+#### [Doumon](#p223) {{width:221px}} 223
+#### [Etemon](#p158) {{width:228px}} 158
+
+}}
+{{pageNumber,auto}}
+{{footnote Table of Contents}}
+
+\page
+
+{{toc,wide
+# Table Of Contents
+
+#### [Feresmon](#p159) {{width:213px}} 159
+#### [Garudamon](#p160) {{width:196px}} 160
+#### [Gigadramon](#p184) {{width:190px}} 184
+#### [Giromon](#p161) {{width:217px}} 161
+#### [Gokuwmon](#p163) {{width:200px}} 163
+#### [Grademon](#p164) {{width:206px}} 164
+#### [GrapLeomon](#208) {{width:188px}} 208
+#### [Groundramon](#p165) {{width:175px}} 165
+#### [HippoGryphonmon](#p166) {{width:141px}} 166
+#### [Infermon](#p167) {{width:213px}} 167
+#### [JewelBeemon](#p168) {{width:185px}} 168
+#### [Knightmon](#p169) {{width:197px}} 169
+#### [Kyukimon](#p170) {{width:207px}} 170
+#### [LadyDevimon](#p171) {{width:182px}} 171
+#### [Lavogaritamon](#p172) {{width:166px}}  172
+#### [Lilamon](#p173) {{width:222px}} 173
+#### [Lillymon](#p174) {{width:215px}} 174
+#### [Machgaogamon](#p175) {{width:163px}} 175
+#### [MagnaAngemon](#p176) {{width:163px}} 176
+#### [Mamemon](#p177) {{width:211px}} 177
+#### [Mammothmon](#p180) {{width:178px}} 180
+#### [MasterTyrannomon](#p181) {{width:131px}} 181
+#### [Megadramon](#p183) {{width:186px}} 183
+#### [MegaKabuterimon](#p185) {{width:143px}} 185
+#### [MegaSeadramon](#p186) {{width:160px}} 186
+#### [Meicrackmon](#p188) {{width:181px}} 188
+#### [Meicrackmon VM](#p189) {{width:152px}} 189
+#### [Mephistomon](#p190) {{width:182px}} 190
+#### [MetalGreymon](#p191) {{width:169px}} 191
+#### [MetalGreymon (Virus)](#p192) {{width:111px}} 192
+#### [MetalMamemon](#p179) {{width:164px}} 179
+#### [MetalTyrannomon](#p182) {{width:139px}} 182
+#### [Meteormon](#p197) {{width:196px}} 197
+#### [Monzaemon](#p198) {{width:194px}} 198
+#### [Mummymon](#p201) {{width:198px}} 201
+#### [Myotismon](#p202) {{width:200px}} 202
+#### [NeoDevimon](#p203) {{width:188px}} 203
+#### [Okuwamon](#p204) {{width:200px}} 204
+#### [Paildramon](#p205) {{width:195px}} 205
+#### [Pandamon](#p200) {{width:207px}} 200
+#### [Panjyamon](#p207) {{width:202px}} 207
+#### [Parrotmon](#p209) {{width:200px}} 209
+#### [Phantomon](#p210) {{width:196px}} 210
+#### [Piximon](#p211) {{width:224px}} 211
+#### [Pumpkinmon](#p212) {{width:190px}} 212
+#### [Rapidmon](#p213) {{width:212px}} 213
+#### [RizeGreymon](#p194) {{width:184px}} 194
+#### [SaviorHuckmon](#p214) {{width:161px}} 214
+#### [Scorpiomon](#215) {{width:194px}} 215
 #### [ShadowWereGarurumon](#p159) {{width:97px}} 159
-#### [Shakkoumon](#p160) {{width:186px}} 160
-#### [Silphymon](#p161) {{width:205px}} 161
-#### [Sinduramon](#p162) {{width:192px}} 162
-#### [SkullGreymon](#p163) {{width:173px}} 163
-#### [SkullMeramon](#p164) {{width:170px}} 164
-#### [SkullSatamon](#p165) {{width:176px}} 165
+#### [Shakkoumon](#p216) {{width:186px}} 216
+#### [Silphymon](#p217) {{width:205px}} 217
+#### [Sinduramon](#p218) {{width:192px}} 218
+#### [SkullGreymon](#p193) {{width:173px}} 193
+#### [SkullMeramon](#p219) {{width:170px}} 219
+#### [SkullSatamon](#p220) {{width:176px}} 220
+#### [SuperStarmon](#p221) {{width:177px}} 221
+#### [Taomon](#p222) {{width:223px}} 222
+#### [Tekkamon](#p162) {{width:206px}} 162
+#### [Triceramon](#p224) {{width:194px}} 224
+#### [Vademon](#p225) {{width:216px}} 225
+#### [Volcamon](#p226) {{width:207px}} 226
+#### [WarGrowlmon](#p227) {{width:172px}} 227
+#### [WereGarurumon](#p229) {{width:157px}} 229
+#### [WaruMonzaemon](#p199) {{width:153px}} 199
+#### [WaruSeadramon](#p187) {{width:160px}} 187
+#### [Whamon](#p231) {{width:221px}} 231
+#### [Wingdramon](#p232) {{width:188px}} 232
+#### [Wisemon](#p233) {{width:219px}} 233
+#### [Zudomon](#p234) {{width:214px}} 234
 
+### [Part IV: Mega](#p235) {{width:145px}} 235
+#### [Beelzemon](#p236) {{width:203px}}  236
+#### [BlackWarGreymon](#p237) {{width:140px}}  237
+#### [Gallantmon](#p238) {{width:190px}}  238
+#### [HerculesKabuterimon](#p239) {{width:112px}}  239
+#### [MetalGarurumon](#p240) {{width:149px}}   240
+#### [Titamon](#p241) {{width:220px}}  241
+#### [WarGreymon](#p242) {{width:185px}}  242
 }}
 {{pageNumber,auto}}
 {{footnote Table of Contents}}
@@ -256,49 +350,22 @@ This list enables users to choose a number of jutsu from a list of set requireme
 
 {{toc,wide
 # Table Of Contents
-#### [SuperStarmon](#p166) {{width:177px}} 166
-#### [Taomon](#p167) {{width:223px}} 167
-#### [Triceramon](#p168) {{width:194px}} 168
-#### [Vademon](#p169) {{width:216px}} 169
-#### [Volcamon](#p170) {{width:207px}} 170
-#### [WarGrowlmon](#p171) {{width:172px}} 171
-#### [WereGarurumon](#p172) {{width:157px}} 172
-#### [Whamon](#p173) {{width:221px}} 173
-#### [Wingdramon](#p174) {{width:188px}} 174 
-#### [Wisemon](#p175) {{width:219px}} 175
-#### [Zudomon](#p176) {{width:214px}} 176
+### [Part V: Ultra](#p243) {{width:147px}} 243
+#### [Agumon (Bond of Bravery)](#p244) {{width:79px}}  244
+#### [Beelzemon (Blast Mode)](#p245) {{width:99px}}  245
+#### [Gabumon (Bond of Friendship)](#p246) {{width:49px}}  246
+#### [Gallantmon Crimson Mode](#p247) {{width:74px}}  247
+#### [HerculesKabuterimon X](#p248) {{width:98px}}  248
+#### [Omnimon](#p249) {{width:212px}}  249
+#### [Titamon (Underworld’s Call)](#p250) {{width:56px}} 250
 
 \column
 
-### [Part IV: Mega](#p177) {{width:145px}} 177
-#### [Beelzemon](#p178) {{width:203px}}  178
-#### [BlackWarGreymon](#p179) {{width:140px}}  179
-#### [Gallantmon](#p180) {{width:190px}}  180
-#### [HerculesKabuterimon](#p181) {{width:112px}}  181
-#### [MetalGarurumon](#p182) {{width:149px}}   182
-#### [Titamon](#p183) {{width:220px}}  183
-#### [WarGreymon](#p184) {{width:185px}}  184
-}}
-{{pageNumber,auto}}
-{{footnote Table of Contents}}
+### [Part VI: Extras](#p252) {{width:132px}}  252
+#### [Creating My Own Digimon](#p253) {{width:79px}}  253
+#### [Custom Digimon](#p253) {{width:158px}}  254
+#### [Trait List](#p255) {{width:210px}}  255
 
-\page
-
-{{toc,wide
-# Table Of Contents
-### [Part V: Ultra](#p185) {{width:130px}} 185
-#### [Agumon (Bond of Bravery)](#p186) {{width:79px}}  186
-#### [Beelzemon (Blast Mode)](#p187) {{width:99px}}  187
-#### [Gabumon (Bond of Friendship)](#p188) {{width:49px}}  188
-#### [Gallantmon Crimson Mode](#p189) {{width:74px}}  189
-#### [HerculesKabuterimon X](#p190) {{width:98px}}  190
-#### [Omnimon](#p191) {{width:212px}}  191
-#### [Titamon (Underworld’s Call)](#p192) {{width:56px}} 192
-
-\column
-
-### [Part VI: Extras](#p194) {{width:132px}}  194
-#### [Creating My Own Digimon](#p195) {{width:79px}}  195
 
 }}
 {{pageNumber,auto}}
@@ -19451,7 +19518,7 @@ ___
 \page
 
 
-## Creating My Own Digimon (WIP)
+## Creating My Own Digimon
 
 ### General Rules For Creation
 All Digimon listed in this compendium (with few exceptions) are built around the following guidelines:
