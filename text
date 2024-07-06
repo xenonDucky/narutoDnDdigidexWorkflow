@@ -834,7 +834,7 @@ ___
 **Skills** ::      Deception +5, Persuasion +5
 **Senses**               :: passive Perception 10
 ___   
-***Cruel I (Unique)*** Once per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus. 
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type. 
 :
 ***Vampirism I (Unique)*** Once per turn, when this creature deals necrotic damage to a single creature, they recover half of the total damage dealt. 
 
@@ -3121,7 +3121,7 @@ ___
 ___
 ***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 :
 ***Reassuring Presence II (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 
@@ -3201,7 +3201,7 @@ ___
 ___
 ***Alternative Offense II (Unique)*** This Digimon uses its Wisdom Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 :
 ***Reassuring Presence II (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 
@@ -4329,7 +4329,7 @@ ___
 :
 ***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
-***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 
 ### Jutsu  
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
@@ -4410,7 +4410,7 @@ ___
 :
 ***Oppressive Presence II (Unique)*** Hostile creatures within 10ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
-***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 
 ### Jutsu  
 ***Ninjutsu*** +8 to hit, (**Ninjutsu save DC 15**) 
@@ -4565,7 +4565,7 @@ ___
 :
 ***Inflicting Weapon II (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the *Envenomed* condition.
 :
-***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nature Spirits family or creatures of Beast type.
 
 ### Jutsu  
 ***Ninjutsu*** +7 to hit, (**Ninjutsu save DC 14**) 
@@ -8610,7 +8610,7 @@ ___
 :
 ***Reassuring Presence II (Unique)*** Allies within 10ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the Fear, Berserk or Charmed conditions.
 :
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 
 ### Jutsu  
 ***Genjutsu*** +7 to hit, (**Genjutsu save DC 14**)
@@ -8770,7 +8770,7 @@ ___
 :
 ***Reckless II (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +4 bonus until the start of its next turn.
 :
-***Evil Fighter II (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 
 ### Jutsu  
 ***Taijutsu*** +9 to hit, (**Taijutsu save DC 16**) 
@@ -8919,7 +8919,7 @@ Sunflowmon ranges between levels 5-8. To upscale a Sunflowmon perform the follow
 
 **Level:** 5 (10XP)
 ___
-**Armor Class** :: 18 **DR**  14 (All)
+**Armor Class** :: 15 **DR**  14 (All)
 **Hit Points**  :: 65 (d10) 
 **Chakra Points**  :: 43 (d8)  
 **Speed**       :: 35ft. **Initiative** +2
@@ -8932,7 +8932,7 @@ ___
 **Skills** ::  Investigation +7, Perception +6, Chakra Control +7       
 **Senses**               :: passive Perception 16
 ___
-***Natural Armor II (Unique)*** This creature adds an additional +3 to AC calculation. This is already added to its stat block.
+***Ironclad Defense	 (Unique)*** 	If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus.
 :
 ***Tanky Resilience II (Unique)*** This Digimon gains 10 Damage Reduction to all sources.
 :
@@ -9415,7 +9415,7 @@ ___
 **Skills** ::  Athletics +4, Ninshou +7, Perception +5         
 **Senses**               :: passive Perception 15
 ___
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls. 
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Humanoid type.
 :
 ***Charger II (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. Additionally, this creature cannot provoke attacks of opportunity through its movement.
 :
@@ -9501,7 +9501,7 @@ ___
 **Skills** ::  Athletics +4, Ninshou +7, Perception +5         
 **Senses**               :: passive Perception 15
 ___
-***Evil Fighter I (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls. 
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Humanoid type.
 :
 ***Charger II (Unique)*** If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. Additionally, this creature cannot provoke attacks of opportunity through its movement.
 :
@@ -9925,7 +9925,7 @@ ___
 **Skills** ::  Stealth +8, Sleight of Hand +8, Illusions +7
 **Senses**               :: passive Perception 10
 ___
-***Murderer I (Unique)*** This creature gains +2 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe I (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 :
 ***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
 :
@@ -10822,7 +10822,7 @@ ___
 :
 ***Reassuring Presence III (Unique)*** Allies within 20ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 :
-***Soothing Hand (Unique)*** When this Digimon restores HP to a creature, add double the Digimon's proficiency bonus to the total healing.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 
 ### Jutsu   
 
@@ -10980,7 +10980,7 @@ ___
 :
 ***Knowledgeable I (Unique)*** This jutsu gains access to additional 3 jutsu compared to other Digimon at the same stage.
 :
-***Murderer II (Unique)*** This creature gains +4 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nature Spirits family or creatures of Beast type.
 :
 ***Poison Resistant II (Unique)*** This creature is immune to *Poison* damage.
 
@@ -11059,7 +11059,7 @@ ___
 **Skills** ::  Ninshou +10, Investigation +10, Chakra Control +8, Stealth +9        
 **Senses**               :: passive Perception 11
 ___
-***Kamiuchi II (Unique)*** This Digimon gains +5 to attack and damage rolls to any creature that classifies as an *Undead* or *Ghost*.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nighmare Soldiers family or creatures of Undead.
 :
 ***Cunning Action II (Unique)*** This Digimon may use their bonus action to take the Disengage, Dash or Hide actions.
 :
@@ -11786,13 +11786,13 @@ ___
 **Skills** ::  Athletics +10, Chakra Control +9, Martial Arts +10, Intimidation +7        
 **Senses**               :: passive Perception 10
 ___
-***Gekirin II (Unique)*** This creature gains an additional 20ft of movement. This is already added to the stat block.
+***Greater Movement II (Unique)*** This creature gains an additional 20ft of movement. This is already added to the stat block.
 :
 ***Reckless III (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 3 chakra. When they do so, the jutsu deals an additional three damage dice.
 :
 ***Lone Wolf III (Unique)*** When this creature has no allied creature within 15-feet of it, they gain a +6 to all attack and damage rolls.
 :
-***Evil Fighter II (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 ### Jutsu  
          
 ***Taijutsu*** +12 to hit, (**Taijutsu save DC 18**) 
@@ -12182,13 +12182,13 @@ ___
 **Armor Class** :: 17 **DR**  7 (All)
 **Hit Points**  :: 162 (d12) 
 **Chakra Points**  :: 83 (d6)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +5
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +2
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|20 (+5)|16 (+3)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
+|20 (+5)|10 (+0)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
 ___
-**Saving Throws** :: *Str +10*, Dex +4, *Con +10*, *Int +9*, Wis +2, Cha +2
+**Saving Throws** :: *Str +10*, Dex +2, *Con +10*, *Int +9*, Wis +2, Cha +2
 **Skills** ::  Athletics +8, Perception +5, Ninshou +9, Martial Arts +8      
 **Damage Immunity** :: Fire 
 **Senses**               :: passive Perception 15
@@ -12197,7 +12197,7 @@ ___
 :
 ***Fire Resistant II (Unique)*** This creature is immune to *Fire* damage.
 :
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC.
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6.
 :
 ***Phoenix Feathers III (Unique)*** If this Digimon would be reduced to 0 HP, roll a d20. On a 10 or above, it is instead reduced to 25% of its HP. This feature can only activated once per rest.
 ### Jutsu  
@@ -12581,17 +12581,17 @@ ___
 **Armor Class** :: 22 **DR**  9 (All)
 **Hit Points**  :: 228 (d12) 
 **Chakra Points**  :: 92 (d6)  
-**Speed**       :: 30ft., Burrow 35ft. **Initiative** +2
+**Speed**       :: 30ft., Burrow 35ft. **Initiative** -1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|10 (+0)|22 (+6)|14 (+2)|12 (+1)|10 (+0)|
+|24 (+7)|4 (-3) |22 (+6)|14 (+2)|12 (+1)|10 (+0)|
 ___
-**Saving Throws** :: *Str +12*, Dex +2, *Con +11*, Int +4, *Wis +6*, Cha +2
+**Saving Throws** :: *Str +12*, Dex -1, *Con +11*, Int +4, *Wis +6*, Cha +2
 **Skills** ::  Athletics +12, Nature +7, Intimidation +5, Perception +6
 **Senses**               :: passive Perception 16
 ___
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. This is already added to the Stat Block.
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6. This is already added to the Stat Block.
 :
 ***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity. 
 :
@@ -12734,7 +12734,7 @@ HippoGryphonmon ranges between levels 9-12. To upscale a HippoGryphonmon perform
 \page
 {{monster,frame
 ## Infermon
-*B-Rank, Standard, Medium Free, Aberration/Nightmare Soldiers/Dark, Prof +5*
+*B-Rank, Standard, Medium Virus, Aberration/Nightmare Soldiers/Dark, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -12792,7 +12792,7 @@ Infermon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the 
 - *Bukijutsu that requires a Ranged weapon*
   }}
 ## Infermon
-A Free Digimon that has no clear unique data type yet is associated with the dark element. Its outer shell provides a unique, sturdy method of defense which, when combined with the gun embedded in its mouth, enables Infermon viable methods of attack and defense. Infermon is quite swift, but its unique biology restricts the directions that it can move in. 
+Its form is usually in an outstretched state, with its head and limbs extended, but it is also able to assume a cocoon form, with its limbs retracted into its body. When it goes into its cocoon form, its defensive power is raised such that every attack is deflected, but it can only go forward in a straight line, and the fact that it cannot modify its trajectory is a clear weakness.
 ## Scaling Enemy
 Infermon ranges between levels 9-12. To upscale a Infermon perform the following steps at each level.
 
@@ -13073,7 +13073,7 @@ ___
 ___
 ***Alternative Offense II (Unique)*** This Digimon uses its Charisma Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
 :
-***Cruel II (Unique)*** Twice per turn, when this creature deals damage to a single target, it deals additional damage equal to its Proficiency Bonus.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 :
 ***Inflicting II (Unique)*** When this Digimon casts a jutsu that requires a (choose) saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Charmed* condition.
 :
@@ -13491,7 +13491,7 @@ ___
 :
 ***Reassuring Presence III (Unique)*** Allies within 20ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 :
-***Evil Fighter II (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls.
+***Favoured Foe II (Unique)*** This Digimon gains +2 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 ### Jutsu     
 ***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
 
@@ -14638,7 +14638,7 @@ ___
 ___
 ***Powerful Mind II (Unique)*** All Genjutsu deal two additional damage dice.
 :
-***Corrupting Effect II (Unique)*** When this Digimon casts a jutsu that requires a Charisma saving throw, if a creature fails by 5 or more, they gain 1 stack of the *Concussed* condition.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 :
 ***Alternative Focus (Unique)*** When this Digimon would deal *psychic* damage, it can instead choose to deal *necrotic* damage.
 :
@@ -14695,11 +14695,11 @@ Mephistomon ranges between levels 9-12. To upscale a Mephistomon perform the fol
 
 {{monster,frame
 ## MetalGreymon
-*B-Rank, Standard, Huge Vaccine, Ryu/Dragon Empire/Fire, Prof +5*
+*B-Rank, Standard, Huge Vaccine, Construct/Metal Empire/Fire, Prof +5*
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 26 **DR**  6 (All)
+**Armor Class** :: 22 **DR**  6 (All)
 **Hit Points**  :: 144 (d10) 
 **Chakra Points**  :: 93 (d8)  
 **Speed**       :: 30ft., Fly 35ft. **Initiative** +3
@@ -14709,16 +14709,17 @@ ___
 |18 (+4)|12 (+1)|20 (+5)|18 (+4)|10 (+0)|10 (+0)|
 ___
 **Saving Throws** :: *Str +9*, Dex +3, *Con +10*, Int +6, Wis +2, *Cha +5*
-**Skills** ::  Athletics +9, Martial Arts +9, Chakra Control +10, Ninshou +9    
+**Skills** ::  Athletics +9, Martial Arts +9, Chakra Control +10, Ninshou +9  
+**Damage Resistance** :: Fire, Bludgeoning      
 **Senses**               :: passive Perception 10
 ___
-***Powerful Fire III (Unique)*** All Ninjutsu with the Fire Release keyword deal three additional damage dice.
+***Fire Resistant II (Unique)*** This creature is resistant to Fire damage and resistant to Bludgeoning damage..
 :
 ***Reckless III (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +2 bonus until the start of its next turn.
 :
 ***Alternative Defence (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
 :
-***Dramon Claws II (Unique)*** This Digimon gains +5 to attack and damage rolls to any creature that classifies as a Dragon, Dinosaur or Reptile.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Dragons Roar family or creatures of Ryu.
 ### Jutsu  
 ***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
 
@@ -14760,7 +14761,7 @@ MetalGreymon ranges between levels 9-12. To upscale a MetalGreymon perform the f
 - **Level 10.** The MetalGreymon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level 10+,** Increase the MetalGreymon's Hit Points by 16 & Chakra Points by 10 for every level.
 
-![MetalGreymon](https://i.pinimg.com/564x/d5/a6/c0/d5a6c02d0354387a345f580127f44812.jpg) {position:absolute,bottom:130px,left:360px,width:480px,mix-blend-mode:multiply}
+![MetalGreymon](https://i.pinimg.com/564x/d5/a6/c0/d5a6c02d0354387a345f580127f44812.jpg) {position:absolute,bottom:30px,left:360px,width:480px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:410px,left:100px,margin-bottom:-30px
 ##### MetalGreymon
@@ -14773,11 +14774,11 @@ MetalGreymon ranges between levels 9-12. To upscale a MetalGreymon perform the f
 
 {{monster,frame
 ## MetalGreymon (Virus)
-*B-Rank, Standard, Huge Virus, Ryu/Dragon Empire/Fire, Prof +5*
+*B-Rank, Standard, Huge Virus, Construct/Metal Empire/Fire, Prof +5*
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 26 **DR**  7 (All)
+**Armor Class** :: 22 **DR**  7 (All)
 **Hit Points**  :: 144 (d10) 
 **Chakra Points**  :: 93 (d8)  
 **Speed**       :: 40ft., Fly 35ft. **Initiative** +3
@@ -14796,7 +14797,7 @@ ___
 :
 ***Alternative Defence (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
 :
-***Dramon Claws II (Unique)*** This Digimon gains +5 to attack and damage rolls to any creature that classifies as a Dragon, Dinosaur or Reptile. 
+***Favoured Foe II (Unique)*** This Digimon gains +5 o attack and damage rolls to Digimon in the Dragons Roar family or creatures of Ryu.
 
 ### Jutsu  
 ***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
@@ -14857,30 +14858,30 @@ MetalGreymon (Virus) ranges between levels 9-12. To upscale a MetalGreymon (Viru
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 20 **DR**  9 (All)
+**Armor Class** :: 21 **DR**  9 (All)
 **Hit Points**  :: 180 (d12) 
 **Chakra Points**  :: 101 (d6)  
-**Speed**       :: 40ft. **Initiative** +4
+**Speed**       :: 40ft. **Initiative** +1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|24 (+7)|14 (+2)|24 (+7)|6 (-2) |8 (-1) |18 (+4)|
+|24 (+7)|8 (-1) |24 (+7)|18 (+4)|8 (-1) |8 (-1) |
 ___
-**Saving Throws** :: *Str +12*, Dex +4, *Con +12* Int +0, Wis +1, *Cha +9*
+**Saving Throws** :: *Str +12*, Dex +1, *Con +12* Int +6, Wis +1, *Cha +4*
 **Skills** ::  Athletics +12, Martial Arts +12, Chakra Control +11, Intimidation +9    
 **Senses**               :: passive Perception 10
 ___
 ***Alternative Defence (Unique)*** This creature uses its Constitution Modifier for AC calculations instead of Dexterity.
 :
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. This is already added to the Stat Block.
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6. This is already added to the Stat Block.
 :
-***Alternative Offense II (Unique)*** This Digimon uses its Strength Modifier for weapon attacks, Ninjustu DC and casting Ninjutsu.
+***Gekirin III (Unique)*** Once per short rest, this creature can enhance their damage-dealing jutsu by increasing its cost by 3 chakra. When they do so, the jutsu deals an additional three damage dice.
 :
 ***Berserker II (Unique)*** Once per rest, as a bonus action, this Digimon may enter an enraged state. They add half of their Proficiency Bonus (Rounded Up) as extra damage per melee weapon attack.
 
 Additionally, they gain resistance to bludgeoning damage. However, they must attack or take damage between the ends of their turns otherwise this state ends. 
 ### Jutsu  
-***Ninjutsu*** +14 to hit, (**Ninjutsu save DC 20**) 
+***Ninjutsu*** +11 to hit, (**Ninjutsu save DC 17**) 
 
 B-Rank (Cost 14): Absolute Deat Bombing         
 ***Bukijutsu*** +14 to hit, (**Bukijutsu save DC 20**) 
@@ -14935,7 +14936,7 @@ SkullGreymon ranges between levels 9-12. To upscale a SkullGreymon perform the f
 
 {{monster,frame
 ## RizeGreymon
-*B-Rank, Standard, Huge Vaccine, Ryu/Dragon Empire/Fire, Prof +5*
+*B-Rank, Standard, Large Vaccine, Ryu/Dragons Roar/Fire, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -15020,7 +15021,7 @@ RizeGreymon ranges between levels 9-12. To upscale a Paildramon perform the foll
 
 {{monster,frame
 ## DoruGreymon
-*B-Rank, Standard, Huge Data, Ryu/Dragon Empire/Earth, Prof +5*
+*B-Rank, Standard, Huge Data, Ryu/Dragons Roar/Earth, Prof +5*
 
 **Level:** 9 (10XP)
 ___
@@ -15695,7 +15696,7 @@ ___
 :
 ***Oppressive Presence III (Unique)*** Hostile creatures within 20ft of this Digimon have disadvantage on any saving throw that would inflict the Fear, Berserk or Charmed conditions.
 :
-***Murderer II (Unique)*** This creature gains +5 to attack and damage rolls against any Human or Humanoid creature.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Virus Busters family or creatures of Celestial type.
 ### Jutsu     
 ***Ninjutsu*** +12 to hit, (**Ninjutsu save DC 18**) 
 
@@ -15758,13 +15759,13 @@ ___
 **Armor Class** :: 22 **DR**  8 (All)
 **Hit Points**  :: 180 (d12) 
 **Chakra Points**  :: 101 (d6)  
-**Speed**       :: 30ft., Fly 35ft. **Initiative** +6
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +3
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|22 (+6)|18 (+4)|24 (+7)|8 (-1) |14 (+2)|8 (-1) |
+|22 (+6)|12 (+1)|24 (+7)|8 (-1) |14 (+2)|8 (-1) |
 ___
-**Saving Throws** :: *Str +11*, Dex +6, *Con +11*, Int +1, *Wis +7*, Cha +1
+**Saving Throws** :: *Str +11*, Dex +3, *Con +11*, Int +1, *Wis +7*, Cha +1
 **Skills** ::  Athletics +11 Survival +7 Martial Arts +11 Perception +7
 **Senses**               :: passive Perception 17
 ___
@@ -15774,7 +15775,7 @@ ___
 :
 ***Reckless III (Unique)*** At the start of its turn, this Digimon may gain advantage on all attack rolls it makes during that turn, but attack rolls made against it have a +2 bonus until the start of its next turn.
 :
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. This is already added to the Stat Block.
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6. This is already added to the Stat Block.
 ### Jutsu                  
 ***Bukijutsu*** +13 to hit, (**Bukijutsu save DC 19**)  
 
@@ -16741,7 +16742,7 @@ ___
 ___
 ***Alternative Defence (Unique)*** This Digimon uses its Wisdom Modifier instead of Dexterity for AC calculations.
 :
-***Potential III (Unique)*** When this Digimon is under 75% Health Points, they gain an additional +3 to all attack rolls.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 :
 ***Elemental Versatility II (Unique)*** This creature gains access to an additional 2 Nature Releases.
 :
@@ -17155,7 +17156,7 @@ ___
 :
 ***Reassuring Presence III (Unique)*** Allies within 20ft of this Digimon have advantage on any rolls to save against jutsu or features that would inflict the *Fear*, *Berserk* or *Charmed* conditions.
 :
-***Evil Fighter II (Unique)*** When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls.
+***Favoured Foe II (Unique)*** This Digimon gains +5 to attack and damage rolls to Digimon in the Nightmare Soldiers family or creatures of Fiend type.
 :
 ***Stubborn II (Unique)*** This Digimon gains a +4 to any jutsu or save that would force them to be moved unwillingly.
 
@@ -17953,24 +17954,24 @@ ShadowWereGarurumon ranges between levels 9-12. To upscale a ShadowWereGarurumon
 
 **Level:** 9 (10XP)
 ___
-**Armor Class** :: 21 **DR** 8 (All)
+**Armor Class** :: 24 **DR** 8 (All)
 **Hit Points**  :: 240 (d12) 
 **Chakra Points**  :: 101 (d6)  
-**Speed**       :: Fly 30ft., Swim 35ft. **Initiative** +1
+**Speed**       :: Fly 30ft., Swim 35ft. **Initiative** -1
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|22 (+6)|8 (-1) |24 (+7)|20 (+5)|10 (+0)|10 (+0)|
+|18 (+4)|4 (-3) |24 (+7)|20 (+5)|12 (+1)|10 (+0)|
 ___
-**Saving Throws** :: *Str +11*, Dex +1, *Con +11* *Int +10* Wis +2 Cha +2
-**Skills** ::  Athletics +11, Ninshou +10 Nature +10 Investigation +10
-**Senses**               :: passive Perception 10
+**Saving Throws** :: *Str +9*, Dex -1, *Con +12* *Int +10* Wis +3 Cha +2
+**Skills** ::  Athletics +9, Ninshou +10 Nature +10 Investigation +10
+**Senses**               :: passive Perception 11
 ___
 ***Aquatic (Unique)*** This Digimon can breathe water and air. If this digimon has their Swimming Speed higher than Waliking Speed. Replace all of their Walking Speed with Flying Speed.
 :
 ***Alternative Defence (Unique)*** This Digimon uses its Constitution Modifier instead of Dexterity for AC calculations.
 :
-***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but suffer a -3 penalty to AC.
+***Colossus (Unique)*** Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6.
 :
 ***Durable III (Unique)*** This creature has its Hit Points Maximum increased by 33%.
 ### Jutsu         
@@ -17981,7 +17982,7 @@ C-Rank (Cost 9): Raging Tide, Wall of Water, Water Trumpet
 B-Rank (Cost 14): Explosive Colliding Shockwave, Maelstorm            
 
 ### Attacks
-**Slam** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 5d10+8 Bludgeoning damage.     
+**Slam** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 5d10+6 Bludgeoning damage.     
 
  }}
 
@@ -19713,10 +19714,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Blood Fury I.  | When this Digimon is below 50% of their maximum HP, they become enraged, gaining 5ft. of movement speed and +2 to all attack rolls but suffering a -2 AC penalty. |
 | Blood Fury II.  | When this Digimon below 50% of their maximum HP, they become enraged, gaining 10ft. of movement speed and +3 to all attack rolls but suffering a -2 AC penalty. |
 | Blood Fury III.  | When this Digimon is below 50% of their maximum HP, they become enraged, gaining 15ft. of movement speed and +4 to all attack rolls but suffering a -2 AC penalty. |
-| Calm I. | This creature is resistant to any effect that would cause Fear. |
-| Calm II.  | This creature is resistant to any effect that would cause Charm, Fear or Berserk. |
-| Calm III.  | This creature is immune to any effect that would cause Charm, Fear or Berserk. |
-| Calm IV. | This Digimon is immune to all Mental conditions. |
 }}
 
 {{pageNumber,auto}}
@@ -19727,9 +19724,13 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Calm I. | This creature is resistant to any effect that would cause Fear. |
+| Calm II.  | This creature is resistant to any effect that would cause Charm, Fear or Berserk. |
+| Calm III.  | This creature is immune to any effect that would cause Charm, Fear or Berserk. |
+| Calm IV. | This Digimon is immune to all Mental conditions. |
 | Charger I. | If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. |
 | Charger II. | If this Digimon moves 20ft or more in a straight line before making a melee attack, they do so with advantage. If this attack hits, the target is knocked prone. Additionally, this creature cannot provoke attacks of opportunity through its movement. |
-| Colossus | Increases Strength by +4, Constitution by +2 weapon attacks by two damage die, but suffer a -3 penalty to AC. |
+| Colossus | Increases Strength by +4, Constitution by +2, weapon attacks by two damage die, but decreases Dexterity by -6. |
 | Condition Master I. | (choose) conditions that this creature inflicts last one round longer and have the DC to end the condition increased by +1. (elemental, physical, mental or sensory) |
 | Condition Master II. | (choose) conditions that this creature inflicts last two rounds longer and have the DC to end the condition increased by +2. |
 | Condition Master III. | (choose) conditions that this creature inflicts last three rounds longer and have the DC to end the condition increased by +3. |
@@ -19753,11 +19754,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Dirty Tactics I. | When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +2 to the attack roll. |
 | Dirty Tactics II. | When this Digimon attacks a creature and an allied creature is within 5-feet and directly opposite from the target, gain +5 to the attack roll. |
 | Dirty Tactics III. | When this creature is within 5-feet of an allied creature, both the allied creature and this Digimon gain +5 to all attack rolls. |
-| Durable I. | This creature has its Hit Points Maximum increased by 20%. |
-| Durable II. | This creature has its Hit Points Maximum increased by 25%. |
-| Durable III. | This creature has its Hit Points Maximum increased by 33%. |
-| Dramon Claws I. | This Digimon gains +2 to attack and damage rolls to any creature that classifies as a Dragon, Dinosaur or Reptile. |
-| Dramon Claws II. | This Digimon gains +5 to attack and damage rolls to any creature that classifies as a Dragon, Dinosaur or Reptile. |
 }}
 
 {{pageNumber,auto}}
@@ -19769,6 +19765,9 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Durable I. | This creature has its Hit Points Maximum increased by 20%. |
+| Durable II. | This creature has its Hit Points Maximum increased by 25%. |
+| Durable III. | This creature has its Hit Points Maximum increased by 33%. |
 | Efficient I. | All Ninjutsu with the (choose) Release keyword have their costs reduced by 1 Chakra Point. (or Mind for Genjutsu, Pugilist for Taijutsu, Warrior for Bukijutsu, Seals for Fuinjutsu) |
 | Efficient II. | All Ninjutsu with the (choose) Release keyword have their costs reduced by 2 Chakra Points. |
 | Efficient III. | All Ninjutsu with the (choose) Release keyword have their costs reduced by 3 Chakra Points. |
@@ -19779,8 +19778,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Enhanced Weaponry II. | When this Digimon deals damage with a weapon attack, they deal an additional 2d6 (choose) damage. |
 | Enhanced Weaponry III. | When this Digimon deals damage with a weapon attack, they deal an additional 3d6 (choose) damage. |
 | Evasion | This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save. |
-| Evil Fighter I. | When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +2 all damage rolls. |
-| Evil Fighter II. | When this Digimon makes against a creature of the Demon, Devil or Undead classification, they gain an additional +5 all damage rolls. |
+| Favoured Foe I. | This Digimon gains +2 to attack and damage rolls to Digimon in the (choose) family or creatures of (choose) type. |
+| Favoured Foe II. | This Digimon gains +5 to attack and damage rolls to Digimon in the (choose) family or creatures of (choose) type. |
 | Feint I. | Melee attacks against this creature suffer a -1 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may use its reaction to make a weapon attack against the triggering creature. |
 | Feint II. | Melee attacks against this creature suffer a -2 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may use its reaction to make a weapon attack against the triggering creature. |
 | Feint III. | Melee attacks against this creature suffer a -3 penalty to hit. Additionally, when a melee attack against this creature misses, this creature may make a weapon attack against the triggering creature. |
@@ -19801,7 +19800,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Inflicting Weapon I.  | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the (choose) condition.  |
 | Inflicting Weapon II.  | Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the (choose) condition.  |
 |Inflicting Weapon III.  | Whenever this Digimon lands a weapon attack roll or a creature hits it with a melee attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 2 stacks of the (choose) condition.  |
-| Ironclad Defense | If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus. |
 }}
 
 {{pageNumber,auto}}
@@ -19813,8 +19811,7 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
-| Kamiuchi I. | This Digimon gains +2 to attack and damage rolls to any creature that classifies as an Undead or Ghost. |
-| Kamiuchi II. | This Digimon gains +5 to attack and damage rolls to any creature that classifies as an Undead or Ghost. |
+| Ironclad Defense | If this Digimon is in the same space that they started their turn in, and has not moved, they gain +4 to their AC. If they move out of this space, either willingly or forcefully, they lose this bonus. |
 | Keen Eye I.  | This Digimon gains an additional +3 to Passive Perception and Passive Insight. |
 | Keen Eye II.  | This Digimon gains an additional +5 to Passive Perception and Passive Insight. Additionally, it can take the Search action as a Bonus Action. |
 | Knowledgeable I. |  This jutsu gains access to additional 3 jutsu compared to other Digimon at the same stage. |
@@ -19832,8 +19829,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Mole Senses  | This creature gains Tremor Sense 30ft. |
 | Mind Master I. | Jutsu this Digimon casts do not require chakra to maintain concentration. |
 | Mind Master II. | Jutsu this Digimon casts do not require chakra to maintain concentration. Additionally, it can focus on any number of jutsus at once. |
-| Murderer I.  | This creature gains +2 to attack and damage rolls against any Human or Humanoid creature. |
-| Murderer II.  | This creature gains +5 to attack and damage rolls against any Human or Humanoid creature. |
 | Mystic Protection I. | This Digimon gains advantage on any saving throw to prevent or to end Elemental conditions. |
 | Mystic Protection II. | This Digimon gains advantage on any saving throw to prevent or to end Elemental conditions. Additionally, this Digimon cannot take damage from any Elemental condition. |
 | Mystical Scale I. | This Digimon gains advantage on any saving throw to prevent or to end Physical conditions. |
@@ -19899,8 +19894,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Resistant II. | This creature is immune to (choose) damage. |
 | Resistant III. | This creature is immune to (choose) damage and resistant to (choose another) damage. |
 | Rivalry | As a Bonus Action this Digimon can mark a single Hostile Creature as their Rival. While a creature is marked as this creature’s Rival, this creature gains +X to all attack rolls to hit their Rival, however suffer a -X penalty to all attack rolls to hit any other target. They can use this feature a number of times equal to their Proficiency Bonus per rest. |
-| Rooted I.  | This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  |
-| Rooted II. | This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. |
 }}
 
 {{pageNumber,auto}}
@@ -19912,6 +19905,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Rooted I.  | This Digimon has advantage on all saves that would force them to move unwillingly, but has their movement speed reduced by 5ft.  |
+| Rooted II. | This Digimon has advantage on all saves that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 5ft. |
 | Rooted III. | This Digimon is immune to all effects that would force them to move unwillingly and cannot be knocked prone, but has their movement speed reduced by 10ft. |
 | Sacrificial Aura I. | All hostile creatures within 10-feet of this Digimon have disadvantage when targeting any creature except for this one. |
 | Sacrificial Aura II. | All hostile creatures within 15-feet of this Digimon have disadvantage when targeting any creature except for this one. |
@@ -19942,8 +19937,6 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 | Summoner III  |  You have 3 extra bonus actions you can use to for commanding summoned creatures. Additionally, you can focus on 2 extra jutsus that summon constructs. |
 | Tactician I. | This creature gains the ability to use the Help action as a bonus action and from a range of 10-feet. |
 | Tactician II. | This creature gains the ability to use the Help action as a bonus action and from a range of 20-feet. |
-| Tanky Resilience I.  | This Digimon gains 5 Damage Reduction to all sources. |
-| Tanky Resilience II.  | This Digimon gains 10 Damage Reduction to all sources. |
 }}
 
 {{pageNumber,auto}}
@@ -19955,6 +19948,8 @@ Additionally, Digimon have a limit on how many traits that they can possess base
 {{wide
 | Trait |Description|
 |:-------------:|:----------------:|
+| Tanky Resilience I.  | This Digimon gains 5 Damage Reduction to all sources. |
+| Tanky Resilience II.  | This Digimon gains 10 Damage Reduction to all sources. |
 | Tanky Resilience III.  | This Digimon gains 15 Damage Reduction to all sources. |
 | Unique Body I. | This Digimon gains resistances to non-chakra Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) and (choose another) damage. |
 | Unique Body II. |  This Digimon gains resistances to Bludgeoning, Slashing and Piercing damage. However, it gains vulnerability to (choose) damage. |
