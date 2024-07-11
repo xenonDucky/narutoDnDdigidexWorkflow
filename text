@@ -294,7 +294,7 @@ This list enables users to choose a number of jutsu from a list of set requireme
 #### [Mammothmon](#p183) {{width:178px}} 183
 #### [MarineDevimon](#p184) {{width:162px}} 184
 #### [MasterTyrannomon](#p185) {{width:131px}} 185
-#### [Megadramon](#p187) {{width:187px}} 187
+#### [Megadramon](#p187) {{width:186px}} 187
 #### [MegaKabuterimon](#p190) {{width:143px}} 190
 #### [MegaSeadramon](#p191) {{width:160px}} 191
 #### [Meicrackmon](#p193) {{width:181px}} 193
@@ -11130,6 +11130,82 @@ Arukenimon ranges between levels 9-12. To upscale a Arukenimon perform the follo
 \page
 
 {{monster,frame
+## Astamon
+*B-Rank, Standard, Medium Virus, Feind/Nightmare Soldiers/Dark, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 23 **DR**  2 (All)
+**Hit Points**  :: 135 (d12) 
+**Chakra Points**  :: 65 (d6)  
+**Speed**       :: 30ft., Fly 35ft. **Initiative** +8
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|10 (+0)|22 (+6)|14 (+2)|10 (+0)|12 (+1)|20 (+5)|
+___
+**Saving Throws** :: Str +2, *Dex +11*, Con +4, Int +2, *Wis +6*, *Cha +10*
+**Skills** ::  Acrobatics +11, Martial Arts +5, Intimidation +10. Slight Of Hand +11
+**Senses**               :: passive Perception 11
+___
+***Merciless (Unique)*** This Digimon’s critical hits deal triple the damage instead.
+:
+***Savage Flurry III (Unique)*** This Digimon gains additional three attacks as part of the Multiattack feature.
+:
+***Ranged Specialist III (Unique)*** This Digimon gains an additional +3 to all ranged weapon attack and damage rolls. Additionally, ranged attacks from this creature cannot be made at disadvantage.
+:
+***Sharp Weapons III (Unique)*** Whenever this Digimon lands a weapon attack roll, the target must make a Constitution Saving throw vs this Digimon’s highest jutsu Save DC. On a failure, they gain 1 stack of the Lacerated condition.
+
+### Jutsu  
+***Bukijutsu*** +13 to hit, (**Bukijutsu save DC 19**) 
+
+C-Rank (Cost 9): Multishot Bow Technique, Lethal Ammo Technique, FH: Cross
+
+B-Rank (Cost 14): Long Kiss, FH: Focus
+
+### Attacks
+***Multiattack*** This creature can make five *Oro Salmon* attacks.      
+**Oro Salmon** *Ranged Weapon Attack* +16 to hit, range 30/60ft., one target. *Hit.* 1d10+11 Piercing.
+
+ }}
+
+{{monster,frame
+### Evolves From
+- ***Frigimon*** 
+- ***Starmon*** 
+### Evolves Into
+- ***Dianamon***
+- ***Kentaurosmon***
+
+ }}
+
+{{monster,frame
+### Alternative Jutsu List
+Astamon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Fuma Hijutsu that doesn't have Thrown component*
+- *Bukijutsu with the Ranged component*
+  }}
+## Astamon
+It shows cruelty to its enemies and kindness to its friends, and because of that charisma it is expected to gain a considerable number of followers among Demon Digimon. 
+## Scaling Enemy
+Astamon ranges between levels 9-12. To upscale a Astamon perform the following steps at each level.
+
+- **Level 10.** The Astamon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Astamon's Hit Points by 15 & Chakra Points by 7 for every level.
+
+![Astamon](https://i.pinimg.com/originals/cd/38/12/cd3812a5a469bb3c4db23d6f6e353a8f.jpg) {position:absolute,bottom:40px,left:320px,width:560px,mix-blend-mode:multiply}
+
+{{artist,position:relative,top:370px,left:110px,margin-bottom:-30px
+##### Astamon
+[Link](https://i.pinimg.com/originals/cd/38/12/cd3812a5a469bb3c4db23d6f6e353a8f.jpg)
+}}
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
+
+\page
+
+{{monster,frame
 ## Baalmon
 *B-Rank, Standard, Medium Virus, Humanoid/Nightmare Soldiers/Dark, Prof +5*
 
@@ -11202,7 +11278,7 @@ Baalmon ranges between levels 9-12. To upscale a Baalmon perform the following s
 - **Level 10.** The Baalmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
 - **Level 10+,** Increase the Baalmon's Hit Points by 12 & Chakra Points by 9 for every level.
 
-![Baalmon](https://64.media.tumblr.com/a18ba51ba81f517eb85eef508995b777/15d32092af4a73ba-36/s540x810/021a7f8e89ba6f26f61c323c93d5163f723cca6b.png) {position:absolute,bottom:20px,left:380px,width:500px,mix-blend-mode:multiply}
+![Baalmon](https://64.media.tumblr.com/a18ba51ba81f517eb85eef508995b777/15d32092af4a73ba-36/s540x810/021a7f8e89ba6f26f61c323c93d5163f723cca6b.png) {position:absolute,bottom:20px,left:380px,width:470px,mix-blend-mode:multiply}
 
 {{artist,position:relative,top:420px,left:80px,margin-bottom:-30px
 ##### Baalmon
@@ -11784,7 +11860,7 @@ Crowmon ranges between levels 9-12. To upscale a Crowmon perform the following s
 ___
 **Armor Class** :: 23 **DR**  3 (All)
 **Hit Points**  :: 117 (d10) 
-**Chakra Points**  :: 66 (d8)  
+**Chakra Points**  :: 75 (d8)  
 **Speed**       :: 40ft. **Initiative** +8
 ___
 |  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
@@ -11817,7 +11893,7 @@ B-Rank (Cost 14): BOW: Flux, BOR: Downpour
 
 ### Attacks
 ***Multiattack*** This creature can make two *Nova Luna* attacks.      
-**Nova Luna** *Ranged Weapon Attack* +16 to hit, range 30/60ft., one target. *Hit.* 1d10+11 Slashing + 2d6 Cold damage.
+**Nova Luna** *Ranged Weapon Attack* +16 to hit, range 30/60ft., one target. *Hit.* 1d10+11 Piercing + 2d6 Cold damage.
 
  }}
 
@@ -11843,7 +11919,7 @@ A Demon Digimon that takes the form of a humanoid rabbit donned in armor. It is 
 Crescemon ranges between levels 9-12. To upscale a Crescemon perform the following steps at each level.
 
 - **Level 10.** The Crescemon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
-- **Level 10+,** Increase the Crescemon's Hit Points by 13 & Chakra Points by 7 for every level.
+- **Level 10+,** Increase the Crescemon's Hit Points by 13 & Chakra Points by 8 for every level.
 
 ![Crescemon](https://i.pinimg.com/564x/7a/e1/3b/7ae13b8adde68e1922b4795a51fc4a39.jpg) {position:absolute,bottom:40px,left:390px,width:420px,mix-blend-mode:multiply}
 
