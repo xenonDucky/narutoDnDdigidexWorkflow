@@ -11899,11 +11899,11 @@ B-Rank (Cost 14): BOW: Flux, BOR: Downpour
 
 {{monster,frame
 ### Evolves From
-- ***Frigimon*** 
-- ***Starmon*** 
+- ***Porcupimon*** 
+- ***Gargomon*** 
 ### Evolves Into
-- ***Dianamon***
-- ***Kentaurosmon***
+- ***Beezlemon***
+- ***Belphemon: SM***
 
  }}
 
@@ -13486,7 +13486,7 @@ ___
 :
 ***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
 :
-***Dangerous Aura III (Unique)*** Any creature that ends its turn within 10ft of this Digimon takes twice this creature’s Proficiency bonus in (choose) Damage.
+***Dangerous Aura III (Unique)*** Any creature that ends its turn within 10ft of this Digimon takes twice this creature’s Proficiency bonus in *Fire* Damage.
 :
 ***Ash Bringer (Unique)*** All creatures that ends their turn within 10ft of this Digimon must make a Wisdom Saving Throw vs this creature's highest Save DC. On a failure, they gain the *Blinded* condition until the end of their next turn.
 ### Jutsu     
@@ -13497,8 +13497,7 @@ C-Rank (Cost 9): Blazing Ash Pile, Calcite: Swift, Earth Clone
 B-Rank (Cost 14): Lava Chakra Mode, Scorching Steam Rock
 
 ### Attacks  
-***Multiattack*** This creature can make two *Bite* attacks.            
-**Bite** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 1d10+6 Piercing damage. 
+**Bite** *Melee Weapon Attack* +11 to hit, reach 5ft., one target. *Hit.* 3d10+6 Piercing damage. 
 
  }}
 
@@ -13706,6 +13705,85 @@ Lillymon ranges between levels 9-12. To upscale a Lillymon perform the following
 
 {{pageNumber,auto}}
 {{footnote Part III - Ultimate}}
+
+\page
+
+{{monster,frame
+## Jazarichmon
+*B-Rank, Standard, Large Data, Construct/Metal Empire/Neutral, Prof +5*
+
+**Level:** 9 (10XP)
+___
+**Armor Class** :: 27 **DR**  15 (All)
+**Hit Points**  :: 135 (d10) 
+**Chakra Points**  :: 84 (d8)  
+**Speed**       :: Fly 90ft. **Initiative** +8
+___
+|  STR  |  DEX  |  CON  |  INT  |  WIS  |  CHA  |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|16 (+3)|22 (+6)|18 (+4)|16 (+3)|8 (-1) |8 (-1) |
+___
+**Saving Throws** :: *Str +8*, *Dex +11*, *Con +9*, Int +5, Wis +1, Cha +1
+**Skills** ::  Acrobatics +11, Chakra Control +9, Perception +4, Ninshou +8
+**Senses**               :: passive Perception 14
+___
+***Tanky Resilience II (Unique)*** This Digimon gains 10 Damage Reduction to all sources.
+:
+***Natural Armor III (Unique)*** This creature adds an additional +4 to AC calculation. This is already added to its stat block.
+:
+***Quick Flyer III (Unique)*** Gains additional 45ft. of *Flying* Speed at the cost of 30ft. of Walking Speed.
+:
+***Evasion (Unique)*** This Digimon takes half damage on a failed Dexterity Save and no damage on a successful Dexterity Save.
+### Jutsu     
+***Ninjutsu*** +10 to hit, (**Ninjutsu save DC 16**) 
+
+C-Rank (Cost 9): Laser Sight, Tri-Beam  
+***Taijutsu*** +13 to hit, (**Taijutsu save DC 19**) 
+
+C-Rank (Cost 9): Rising Falcon
+
+B-Rank (Cost 14): Star Shower, Owl Drop
+### Attacks  
+**Bite** *Melee Weapon Attack* +13 to hit, reach 5ft., one target. *Hit.* 3d10+8 Piercing damage. 
+
+ }}
+
+{{monster,frame
+
+### Evolves From
+- ***Larvorvomon***
+
+### Evolves Into
+- ***Cannondramon***
+- ***Volcanicdramon***
+
+ }}
+\column
+
+{{monster,frame
+### Alternative Jutsu List
+Jazarichmon may learn **3 C Rank (Or Lower)** and **2 B Rank** jutsu that meet the following requirements: 
+- *Any Taijutsu*
+- *Any Ranton Hijutsu that doesn't have Storm Style Keyword*
+  }}
+## Jazarichmon
+It is considered to be top class in the Digital World when it comes to aerial combat matches, and is said to compare favorably with Wingdramon. Since it has legs, it can fly unhindered at sonic speeds even when doing low passes or flying in areas with many obstacles.   
+## Scaling Enemy
+Jazarichmon ranges between levels 9-12. To upscale a Jazarichmon perform the following steps at each level.
+
+- **Level 10.** The Jazarichmon's Proficiency (Prof) bonus increases by +1. This increases their Skills, Saving Throws, Save DC's, AC and to hit bonuses by +1.
+- **Level 10+,** Increase the Jazarichmon's Hit Points by 15 & Chakra Points by 9 for every level.
+
+![Jazarichmon](https://wikimon.net/images/7/7d/Jazarihhimon_Linkz.png) {position:absolute,bottom:60px,left:240px,width:560px,mix-blend-mode:multiply,transform:scaleX(-1)}
+
+{{artist,position:relative,top:130px,left:40px,margin-bottom:-30px
+##### Jazarichmon
+[Link](https://wikimon.net/images/7/7d/Jazarihhimon_Linkz.png)
+}}
+
+{{pageNumber,auto}}
+{{footnote Part III - Ultimate}}
+
 
 \page
 {{monster,frame
